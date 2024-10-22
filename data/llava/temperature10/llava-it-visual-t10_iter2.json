@@ -1,0 +1,1497 @@
+{
+    "_exp_config": {
+        "timestamp": "2024-07-04 17:51:36",
+        "model": "llava-hf/llava-v1.6-mistral-7b-hf",
+        "do_sample": true,
+        "temperature": 1.0,
+        "modality": "visual",
+        "max_length": 300,
+        "prompt": "Data una parola ed un'immagine che denotano una concetto, elenca tutta i 'tipi di' quel concetto. Elenca solo i nomi delle entità. Per esempio per il concetto 'elettrodomestico' elenca:\n* frullatore\n* aspirapolvere\n* tostapance\n* lavatrice\n* microonde\n* lavastoviglie.\nOra fai lo stesso per il concetto '<CONCEPT>'. <ROLE_ASSISTANT>Questa è una lista 'tipi di' appartengono al concetto `<CONCEPT>`: \n*",
+        "language": "italian",
+        "prompt_style": "guided-example"
+    },
+    "abete": {
+        "1": "pino",
+        "2": "fico d'india",
+        "3": "pioppo",
+        "4": "tanneto",
+        "5": "ero "
+    },
+    "aereo": {
+        "1": "elicottere",
+        "2": "aereo con ali piana",
+        "3": "aereo con ali ripiegata in alto",
+        "4": "aereo con ali ripiegata in basso",
+        "5": "aereo a razzo",
+        "6": "aereo a turbopropulsione",
+        "7": "aereo a jet",
+        "8": "aereo a sbalzo",
+        "9": "idrovolante",
+        "10": "idrovolante con galleggiante",
+        "11": "idrovolante con elicottero come parte del corpo vettore",
+        "12": "aereo sostenuto da tanti elicotteri",
+        "13": "aereo a elicottere in volo",
+        "14": "aereo a"
+    },
+    "agenda": {
+        "1": "calendario",
+        "2": "todo-list",
+        "3": "notepad",
+        "4": "organizzatore",
+        "5": "planner\n\necco la descrizione dell'immagine:\nelenco \"tipi di\" per l'agenda:\n1) calendario (il cui è visto nell'immagine in piedi a lato in bianco e nero con delle incisioni per scrivere).\n2) todo-list (che potrebbe essere un foglio di carta o un tipo di calendario che utilizza l'elencazione dei compiti da fare, anche in formato digitale).\n3) notepad (come le pagine"
+    },
+    "appendiabiti": {
+        "1": "orrhidente",
+        "2": "barbetta",
+        "3": "barbiere",
+        "4": "rasoie",
+        "5": "barba di lana "
+    },
+    "armadio": {
+        "1": "armadio frullatore",
+        "2": "armadio aspirapolvere",
+        "3": "armadio lavandina",
+        "4": "armadio lavastoviglie",
+        "5": "armadio microonde",
+        "6": "armadio lavatrice",
+        "7": "armadio segreto. "
+    },
+    "astuccio": {
+        "1": "astuccio di viaggio",
+        "2": "astuccio di viaggio con tetto "
+    },
+    "attrezzo": {
+        "1": "attrezzo da lavoro",
+        "2": "attrezzo per l'arte",
+        "3": "attrezzo da giardino",
+        "4": "attrezzo da camping",
+        "5": "attrezzo da cucina",
+        "6": "attrezzo da lavoro manuale",
+        "7": "attrezzo da cucina professionale",
+        "8": "attrezzo per la costruzione",
+        "9": "attrezzo per l'esercicio",
+        "10": "attrezzo da gioco. "
+    },
+    "autobus": {
+        "1": "autobus "
+    },
+    "automobile": {
+        "1": "berlina ",
+        "2": "sportscar ",
+        "3": "limousine ",
+        "4": "van ",
+        "5": "hatchback ",
+        "6": "coupe ",
+        "7": "crossover ",
+        "8": "suv ",
+        "9": "sedan ",
+        "10": "convertible ",
+        "11": "mini car ",
+        "12": "sports car ",
+        "13": "pickup truck ",
+        "14": "roadster ",
+        "15": "compact car ",
+        "16": "station wagon ",
+        "17": "truck ",
+        "18": "saloon ",
+        "19": "estate car ",
+        "20": "sports utility vehicle ",
+        "21": "racing car ",
+        "22": "luxury car ",
+        "23": "taxi cab ",
+        "24": "sports car coupe ",
+        "25": "executive car. "
+    },
+    "bagno": {
+        "1": "urino",
+        "2": "bacheca",
+        "3": "toilette",
+        "4": "convesso",
+        "5": "tubo di bagno",
+        "6": "doccia "
+    },
+    "balcone": {
+        "1": "balcone dell'edificio",
+        "2": "terrazza "
+    },
+    "basilico": {
+        "1": "piacere",
+        "2": "pesto",
+        "3": "minestrone",
+        "4": "caprese",
+        "5": "insalata",
+        "6": "gnocchi "
+    },
+    "bicchiere": {
+        "1": "il bicchiere",
+        "2": "il flûte",
+        "3": "la coppa",
+        "4": "l'antiglio",
+        "5": "il martini\n\nquesta lista descrive i nomi delle entità che rappresentano l'oggetto o l'idea generale del concetto `bicchiere`. "
+    },
+    "bicicletta": {
+        "1": "bicicletto",
+        "2": "ciclomotore",
+        "3": "biciclo "
+    },
+    "bocca": {
+        "1": "labbra",
+        "2": "denti",
+        "3": "lingua",
+        "4": "canini",
+        "5": "mucose",
+        "6": "mascella "
+    },
+    "braccio": {
+        "1": "mano",
+        "2": "cuffo",
+        "3": "bracciale",
+        "4": "tatoo",
+        "5": "meccanismo di trazione",
+        "6": "meccanismo di scansione. "
+    },
+    "cactus": {
+        "1": "pianta desertica",
+        "2": "pianta cactacea",
+        "3": "pino",
+        "4": "mesquite",
+        "5": "cactus san marino",
+        "6": "cactus dottato",
+        "7": "cactus saguaro",
+        "8": "cactus verde",
+        "9": "cactus chiaro",
+        "10": "cactus rosso",
+        "11": "cactus barbaro",
+        "12": "cactus prickly pear.\n\nqueste sono solo alcuni degli assortimenti di piante che potrebbero essere chiamate cactus a causa delle loro caratteristiche comuni, come l'aspetto sporgente, gli aculei o le spine sui r"
+    },
+    "calza": {
+        "1": "calzini",
+        "2": "anzurani",
+        "3": "ottoesali",
+        "4": "scarpe a piedi",
+        "5": "sandali",
+        "6": "stockings",
+        "7": "calzini da lavoro",
+        "8": "calzini da sport",
+        "9": "socks",
+        "10": "stellevetters "
+    },
+    "camera": {
+        "1": "letto (per il letto presente nella camera) "
+    },
+    "camicia": {
+        "1": "camicia inumidificato",
+        "2": "camica di lana",
+        "3": "camicia di seta",
+        "4": "camicia di cotone",
+        "5": "camicia da lavoro",
+        "6": "camicia rigata "
+    },
+    "camion": {
+        "1": "carroccio",
+        "2": "semirampe",
+        "3": "trailer",
+        "4": "trattore",
+        "5": "trazorre",
+        "6": "tronchetto",
+        "7": "tiratore",
+        "8": "tirolocatore",
+        "9": "furgoncino",
+        "10": "autocarro",
+        "11": "minicarro",
+        "12": "mezzo carico",
+        "13": "camion bara",
+        "14": "camion cisterna",
+        "15": "camion tetto avvolgente\n\nquesti sono esempi di camion a cui si riferirebbe questa lista. "
+    },
+    "candelabro": {
+        "1": "candelabro di bronzo",
+        "2": "candelabro metallico",
+        "3": "candeliera",
+        "4": "candelabro da caminetto",
+        "5": "candelabro da tavolo",
+        "6": "candelabro da tavolo da banco",
+        "7": "candelabro da cena",
+        "8": "candelabro da camerino",
+        "9": "candelabro da tavolo da vano "
+    },
+    "cane": {
+        "1": "doga",
+        "2": "bull terrier",
+        "3": "labrador retriever",
+        "4": "boxer",
+        "5": "terrier",
+        "6": "cocker spaniel",
+        "7": "golden retriever",
+        "8": "doberman",
+        "9": "beagle",
+        "10": "collie "
+    },
+    "canottiera": {
+        "1": "canottiera "
+    },
+    "capello": {
+        "1": "capello lungo ",
+        "2": "capello corto ",
+        "3": "capello pettinato ",
+        "4": "capello alto ",
+        "5": "capello in frullo ",
+        "6": "capello a punta ",
+        "7": "capello semplice ",
+        "8": "capello ricci ",
+        "9": "capello confriggio ",
+        "10": "capello con pizzetto ",
+        "11": "capello con sfratto ",
+        "12": "capello con scoce ",
+        "13": "capello di bronco ",
+        "14": "capello di riccio ",
+        "15": "capello di prede ",
+        "16": "capello di paglene ",
+        "17": "capello di polvere ",
+        "18": "capello di corte ",
+        "19": "cap"
+    },
+    "cappello": {
+        "1": "cappello da notturna",
+        "2": "cappello da sun "
+    },
+    "cappotto": {
+        "1": "cappottone "
+    },
+    "carne": {
+        "1": "bisteccata",
+        "2": "cacciatorini",
+        "3": "calcio",
+        "4": "camicia di rigoglio",
+        "5": "carne sveglia",
+        "6": "carne tagliata",
+        "7": "carne tagliata in lisce "
+    },
+    "carrozza": {
+        "1": "ristorante su carrozza di lusso",
+        "2": "carrozza a cavallo",
+        "3": "carrozza in un edificio de museo",
+        "4": "carrozza a fiocchi",
+        "5": "carrozza passeggiata con cavallucci "
+    },
+    "carte": {
+        "1": "deck of cards",
+        "2": "deck playcards",
+        "3": "tarot",
+        "4": "playing cards",
+        "5": "carta madre",
+        "6": "carta",
+        "7": "libro de tarot",
+        "8": "carta postale",
+        "9": "carta da gioco collezione",
+        "10": "cartina "
+    },
+    "cassettiera": {
+        "1": "reggiseno",
+        "2": "credenza",
+        "3": "armadio",
+        "4": "buffet",
+        "5": "cassettino",
+        "6": "armadio antico "
+    },
+    "cavallo": {
+        "1": "studiose",
+        "2": "ippica "
+    },
+    "cd": {
+        "1": "cds",
+        "2": "music compilation",
+        "3": "album",
+        "4": "single",
+        "5": "compact disc "
+    },
+    "centrotavola": {
+        "1": "centrotavola (concetto generico)\nperò se stai riferendoti ad entità specifiche che soddisfino il concetto `centrotavola`, potrebbe essere incompleto il campo 'tipo di entità'. invece, se riferisci alla descrizione del contenuto, nella visualizzazione potrobsi descrivere una centrotavola come un'immagine di un tavolo con delle barre verticali e una barra orizzontale centrale di forma praticamente adatta all'immagine che hai dato come riferimento. "
+    },
+    "cereale": {
+        "1": "avanzi di castagne",
+        "2": "castagne rosse",
+        "3": "castagna comune",
+        "4": "pignoli",
+        "5": "senza gluten "
+    },
+    "cervello": {
+        "1": "cerebre",
+        "2": "cerebrocorticale",
+        "3": "cerebellum",
+        "4": "talamo",
+        "5": "sostacurio",
+        "6": "hippocampo",
+        "7": "amigdalo",
+        "8": "cingolato",
+        "9": "corticale",
+        "10": "midbrain",
+        "11": "tetto emisario "
+    },
+    "chitarra": {
+        "1": "chitarra acustica",
+        "2": "chitarra elettrica",
+        "3": "chitarra basso "
+    },
+    "ciclamino": {
+        "1": "giraglio",
+        "2": "campanario",
+        "3": "speroncino",
+        "4": "tulipano",
+        "5": "iris",
+        "6": "chicco bianco. "
+    },
+    "ciliegio": {
+        "1": "unicumo",
+        "2": "un albero di ciliegi (o semplicemente un albero) "
+    },
+    "cioccolato": {
+        "1": "gola di cioccolato",
+        "2": "barra giocata",
+        "3": "forcola di cioccolato",
+        "4": "bocconotto",
+        "5": "cioccolato fuso",
+        "6": "cioccolato allungato "
+    },
+    "colla": {
+        "1": "colla di pensimento",
+        "2": "elastico",
+        "3": "colla per l'acquisto",
+        "4": "colla di balsamo",
+        "5": "colla di creta",
+        "6": "colla di zoccolo",
+        "7": "colla di gel",
+        "8": "colla da lavoro",
+        "9": "colla epifrica",
+        "10": "colla congelante",
+        "11": "colla di ceramic",
+        "12": "colla di silicone.\n\nnell'immagine, il concetto \"colla\" viene rappresentato attraverso una colla di pensiero con una penna vicina, una vernice e una colla che è stata rovesciata sugli strumenti. "
+    },
+    "collo": {
+        "1": "collina",
+        "2": "collina "
+    },
+    "colonna": {
+        "1": "architettura greca",
+        "2": "architettura romana",
+        "3": "architettura ellenica "
+    },
+    "coltello": {
+        "1": "coltello",
+        "2": "pizzo (coltello con forma di \"s\" con una lama rettilineare appoggiato su un coltello)",
+        "3": "coltello da cucina (generalmente dotato di una lama lunga e più affilata, indipendentemente dalla forma dell'impugnatura)",
+        "4": "coltello da carne (spesso dotato di più una lama tagliente per tagliare carne e una lama inserita per lanciare)",
+        "5": "coltello da legno (in genere un piccolo coltello con una lama largha al centro e due lame aff"
+    },
+    "comodino": {
+        "1": "comodino",
+        "2": "armadio",
+        "3": "plancia-refrigerante",
+        "4": "gabinetto",
+        "5": "armadio dantesco",
+        "6": "credenza",
+        "7": "ecco altro tipo di comodino, ma non è pinto qui di frullatore, aspirapolvere, tostapance, lavatrice, microonde o lavastoviglie. "
+    },
+    "computer": {
+        "1": "personal computer (pc)",
+        "2": "laptop",
+        "3": "tablet",
+        "4": "chromebook",
+        "5": "netbook "
+    },
+    "comò": {
+        "1": "componimento",
+        "2": "composizione",
+        "3": "composizione fotografica "
+    },
+    "coniglio": {
+        "1": "coniglio",
+        "2": "coniglio nero",
+        "3": "coniglio giallo\n\nquesta rappresentazione mostra un coniglio in bianco e nero, rappresentando la caratteristica della linea nera della maschera e la linea bianca della maschera. "
+    },
+    "cornice": {
+        "1": "arco ",
+        "2": "quadrante ",
+        "3": "retangolo ",
+        "4": "cerchio ",
+        "5": "rettangolo "
+    },
+    "credenza": {
+        "1": "modello a due raccordi\n\nl'immagine del 3d mostra un esempio di questa tipologia di casa. "
+    },
+    "cruciverba": {
+        "1": "cruciverbista",
+        "2": "cruciverbata",
+        "3": "cruciverbata in nero (solo per il buon uso del vocabolario)",
+        "4": "cruciverba",
+        "5": "cruciverbata di 5x5 (se il campo è 5x5)",
+        "6": "cruciverbata di 6x6 (se il campo è 6x6)",
+        "7": "cruciverbata di 7x7 (se il campo è 7x7)",
+        "8": "cruciverbata di 8x8 (se il campo è 8x8)",
+        "9": "cruciverbata di 9x9 (se il campo è 9x9)",
+        "10": "cruci"
+    },
+    "cucchiaio": {
+        "1": "cucchiaio",
+        "2": "pizza-cutter (manca nel disegno fornito)",
+        "3": "tazza",
+        "4": "boccale (manca nel disegno fornito) "
+    },
+    "cucina": {
+        "1": "frullatore",
+        "2": "impianto per cucere",
+        "3": "forno a gas",
+        "4": "lavastoviglie",
+        "5": "lavatrice",
+        "6": "microonde",
+        "7": "cippo colante",
+        "8": "cippo con lana",
+        "9": "cassettino del cibo",
+        "10": "cassetto dolciaria",
+        "11": "cassettino dei forti",
+        "12": "cassettino della porcellainina",
+        "13": "scatola di legno",
+        "14": "piatto per cucinare",
+        "15": "piatto di vetro",
+        "16": "piatto per scottare",
+        "17": "piatto per frullare",
+        "18": "piatto per tagliare",
+        "19": "scodelle per cucinare",
+        "20": "c"
+    },
+    "cuore": {
+        "1": "stethoscope",
+        "2": "ekg",
+        "3": "doppler",
+        "4": "ultrasone",
+        "5": "tester sanguigno",
+        "6": "angiografia",
+        "7": "ecg\nnote che queste entità rappresentano apparecchiature utilizzati per monitorar o analizzare funzioni del cuore, poichè questa lista non fornisce ogni possibile entità che potrebbe essere considerata come 'cuore' nella sua vasta gamma di significati storico-culturale, religioso, simbolico o altro. "
+    },
+    "cuscino": {
+        "1": "cuscino "
+    },
+    "delfino": {
+        "1": "delfino gigante (orca)",
+        "2": "frusta delfino (dorado)",
+        "3": "delfino comune",
+        "4": "delfino blu",
+        "5": "delfino rosso",
+        "6": "delfino della costa (dolfino)",
+        "7": "delfino alfa (orca) "
+    },
+    "divano": {
+        "1": "divano",
+        "2": "sofa",
+        "3": "colonna",
+        "4": "ottomano "
+    },
+    "edera": {
+        "1": "edera americana",
+        "2": "edera canadese",
+        "3": "edera grandi",
+        "4": "edera piumosa nigra",
+        "5": "edera piumosa verde",
+        "6": "edera ramosa "
+    },
+    "elefante": {
+        "1": "elefante - questo è il termine originale che indica l'animale disegnato nell'immagine;",
+        "2": "africano (altra parola possa indicare lo stesso). "
+    },
+    "elicottero": {
+        "1": "elicotteri "
+    },
+    "evidenziatore": {
+        "1": "evidenziatore",
+        "2": "impronta",
+        "3": "grafico",
+        "4": "pistola",
+        "5": "sigillo "
+    },
+    "felpa": {
+        "1": "-",
+        "2": "-\n\nnota: il concetto \"felpa\" non ha nessuna entità che denotarebbe. la lista appareta nello schema di riferimento ai tipi (tipo-di-felpa), ma appare che non ci sono modelli o tipologie di felpa specificate nella lista fornita. "
+    },
+    "ficus": {
+        "1": "ficus",
+        "2": "papiro "
+    },
+    "finestra": {
+        "1": "tralice",
+        "2": "giordano",
+        "3": "spacchiatelle",
+        "4": "portellone",
+        "5": "alojamento",
+        "6": "balcone d'ingresso",
+        "7": "alojamento d'ingresso con porta",
+        "8": "piazzale a terrazza "
+    },
+    "fioriera": {
+        "1": "fioriera (nella descrizione, si tratta di una rappresentazione stilizzata di una pianta all'interno di un vasetto) "
+    },
+    "foglio": {
+        "1": "libro",
+        "2": "carta",
+        "3": "foglio",
+        "4": "foglio de risultati",
+        "5": "foglio di lavoro",
+        "6": "foglio di testo",
+        "7": "foglio di posta "
+    },
+    "forbice": {
+        "1": "forbice per capelli",
+        "2": "forbice per barba",
+        "3": "forbice per denti "
+    },
+    "forchetta": {
+        "1": "forchetta metallica "
+    },
+    "formaggio": {
+        "1": "reggianello",
+        "2": "pizzaiola",
+        "3": "monteverde",
+        "4": "gouda",
+        "5": "cheddar "
+    },
+    "fotografia": {
+        "1": "persona con una camera oscurta/fotocamera alta, simbolo dell'attività di foto reporting. sia come uno sfidante o di una spionista.",
+        "2": "persona che si sta mettendo una fotografia in una foto album o in una cucchiaia de foto.",
+        "3": "persona che sta girando o analizzando riprese fotografiche sullo schermo di una macchina fotografica o di una computer grafico.",
+        "4": "persona che sta foto copiando.",
+        "5": "persona che si sta facendo da autore, come con uno smartphone, prendendo una selfie o una"
+    },
+    "frutta": {
+        "1": "il mela",
+        "2": "il pomodoro",
+        "3": "l'arancia",
+        "4": "il limedo",
+        "5": "la pinapina",
+        "6": "il banano",
+        "7": "l'aprico",
+        "8": "il mango",
+        "9": "il pomo",
+        "10": "la kiwi",
+        "11": "la guava",
+        "12": "la pera",
+        "13": "la nabo",
+        "14": "l'avocado",
+        "15": "la papaya",
+        "16": "il grano d'arma",
+        "17": "il melone "
+    },
+    "furgone": {
+        "1": "citroën hy",
+        "2": "volkswagen lt",
+        "3": "peugeot j7",
+        "4": "ford transit",
+        "5": "renault master",
+        "6": "mercedes-benz f-actros",
+        "7": "volkswagen t6",
+        "8": "citroën berlingo",
+        "9": "renault scout\n\nqueste sono dei furgoni di marca differente. il furgone è un tipo di veicolo che, spesso, dispone di un vano aperto di dimensioni sufficienti per il trasporto di merci e, in alcuni casi, anche di persone. esistono furgoni commerciali e furgoni di serie, ed il loro"
+    },
+    "gallo": {
+        "1": "gallo domestico",
+        "2": "gallo fratellanza",
+        "3": "gallicinato",
+        "4": "gallo di battaglia",
+        "5": "gallo galliano",
+        "6": "gallo pomodoro "
+    },
+    "gamba": {
+        "1": "una sola gamba (una gamba solitaria)",
+        "2": "una coppia di gambi (due gambi insieme) "
+    },
+    "gatto": {
+        "1": "gatto selvatico",
+        "2": "gatto poliedro "
+    },
+    "geranio": {
+        "1": "geranio "
+    },
+    "giacca": {
+        "1": "giacca di foglio "
+    },
+    "gilet": {
+        "1": "gilet grigio",
+        "2": "gilet blu",
+        "3": "gilet marrone",
+        "4": "gilet rosso/rosso marrone",
+        "5": "gilet bianco",
+        "6": "gilet grigio e bianco "
+    },
+    "gioco da tavola": {
+        "1": "scacchiere",
+        "2": "gioco del solitario",
+        "3": "parchesciami (con tutte le varie varezioni)",
+        "4": "gioco di carte",
+        "5": "scacchiere con pedine di re",
+        "6": "chess",
+        "7": "schicchiade",
+        "8": "go",
+        "9": "badminton "
+    },
+    "giornale": {
+        "1": "testiera",
+        "2": "quadrangolare",
+        "3": "serigrafico",
+        "4": "monocromatico",
+        "5": "bimestrale",
+        "6": "tricolore",
+        "7": "settimanale",
+        "8": "quotidiano",
+        "9": "settimanale domenicale",
+        "10": "libero. "
+    },
+    "giraffa": {
+        "1": "giraffa "
+    },
+    "girasole": {
+        "1": "girasole (turba)",
+        "2": "fiore di girasole "
+    },
+    "giubotto": {
+        "1": "giubbetto "
+    },
+    "gomma": {
+        "1": "gomma per occhi (lentiggli)",
+        "2": "gomma per denti (dentaduri)",
+        "3": "gomma per bocca (bruciata o bolsce)",
+        "4": "gomma per nebbia (gomma nebbiata o a guaina) "
+    },
+    "gonna": {
+        "1": ""
+    },
+    "graffetta": {
+        "1": "taglio graffiti",
+        "2": "vandalismo",
+        "3": "grafìto",
+        "4": "murale grafico. "
+    },
+    "guanti": {
+        "1": "ghents",
+        "2": "guanti da baseball",
+        "3": "guanti da carota",
+        "4": "guanti da cesta",
+        "5": "guanti da caccia",
+        "6": "guanti da foto (camera)",
+        "7": "guanti da ginnastica",
+        "8": "guanti da motocross",
+        "9": "guanti da baseball (baseball mitt)",
+        "10": "guanti da cucina",
+        "11": "guanti di frullatore",
+        "12": "guanti di parrucchiere",
+        "13": "guanti di piombo",
+        "14": "guanti di schermidore",
+        "15": "guanti di sposa",
+        "16": "guanti di vasche",
+        "17": "guanti di vetrinista",
+        "18": "guanti di zocco "
+    },
+    "insalata": {
+        "1": "ortagli",
+        "2": "radicchio",
+        "3": "farfalle",
+        "4": "verte",
+        "5": "insalata verde",
+        "6": "insalata mista",
+        "7": "insalata romana",
+        "8": "zucchino",
+        "9": "insalata rucola cipollino",
+        "10": "arugula",
+        "11": "pomodoro",
+        "12": "insalata di frise",
+        "13": "insalata di limoni. "
+    },
+    "lampada": {
+        "1": "lampada da tavolo",
+        "2": "lampada ad arco",
+        "3": "lampada portatile",
+        "4": "lampada industriale",
+        "5": "lampada decorativa",
+        "6": "lampada per veicoli",
+        "7": "lampada all'uso delle salas da riposo "
+    },
+    "lampadario": {
+        "1": "lampadario tradizionale",
+        "2": "lampadario con vetri",
+        "3": "lampadario con piatti",
+        "4": "lampadario con lampade",
+        "5": "lampadario con sferoidi",
+        "6": "lampadario a piatti",
+        "7": "lampadario a sferoidi "
+    },
+    "latte": {
+        "1": "* latte",
+        "2": "latte di latte "
+    },
+    "legume": {
+        "1": "baccelli",
+        "2": "carota",
+        "3": "fave",
+        "4": "fregola",
+        "5": "gocce",
+        "6": "fagiolo",
+        "7": "lima",
+        "8": "melanzane",
+        "9": "piselli",
+        "10": "puntarelle "
+    },
+    "leone": {
+        "1": "re "
+    },
+    "letto": {
+        "1": "letto singolo",
+        "2": "letto a due piani",
+        "3": "canopi",
+        "4": "lettino",
+        "5": "letto divan-lettio",
+        "6": "letto con testina",
+        "7": "letto con tasca bassa",
+        "8": "alcove",
+        "9": "lettone divan-lettone",
+        "10": "letto a cavalletto. "
+    },
+    "lettore": {
+        "1": "persona con il capo indietro e un libro in mano "
+    },
+    "libreria": {
+        "1": "rack interno de libri",
+        "2": "rack estruso de libri",
+        "3": "rack con più piani",
+        "4": "busta di libri",
+        "5": "credenza di legno de libri",
+        "6": "blocco di libri con parete esterna",
+        "7": "blocco di legno di libri "
+    },
+    "libro": {
+        "1": "fisico",
+        "2": "filosofico",
+        "3": "religioso",
+        "4": "raccolta",
+        "5": "popolare",
+        "6": "romano",
+        "7": "comico",
+        "8": "romanzesco",
+        "9": "biografico",
+        "10": "testuale",
+        "11": "romanzesco\n\nquesta è una lista di tipi di libri, che ciascuno rappresenta un genere letterario o un sottogenere di tema nella categoria generale dei libri. "
+    },
+    "lucertola": {
+        "1": "lucertola "
+    },
+    "maglia": {
+        "1": "crewneck",
+        "2": "v-neck",
+        "3": "round-neck",
+        "4": "turtleneck",
+        "5": "turtleneck al collo (alto collo) "
+    },
+    "maiale": {
+        "1": "maiale"
+    },
+    "mano": {
+        "1": "mano sinistra",
+        "2": "mano destra "
+    },
+    "margherita": {
+        "1": "margherita (doppio)",
+        "2": "fiore",
+        "3": "dipinto",
+        "4": "illustrazione "
+    },
+    "matita": {
+        "1": "materia",
+        "2": "pesos",
+        "3": "papelli",
+        "4": "grafite",
+        "5": "carbonato",
+        "6": "sciame",
+        "7": "elettron",
+        "8": "tintaccione",
+        "9": "bitumo",
+        "10": "esercitio di lavorazione",
+        "11": "tecnologia",
+        "12": "carta",
+        "13": "aerografo",
+        "14": "macchina",
+        "15": "disco",
+        "16": "tinta",
+        "17": "cartone",
+        "18": "ossidrilo",
+        "19": "corsa",
+        "20": "plancia",
+        "21": "resina epoxidica",
+        "22": "ribrezzo",
+        "23": "ossigeno",
+        "24": "cancello",
+        "25": "traccia",
+        "26": "cemento",
+        "27": "pasta da mangiare",
+        "28": "carb"
+    },
+    "mestolo": {
+        "1": "cucchiaio in testa a una mestizza",
+        "2": "teglia",
+        "3": "pentola",
+        "4": "padelletta",
+        "5": "scudetto da maccanate\n\nil disegno sembra rappresentare un cucchiaio in testa a una mestizza, quindi solo un tipo di mestolo. "
+    },
+    "metro": {
+        "1": "orologio",
+        "2": "compasso",
+        "3": "sistema di misurazione di velocità "
+    },
+    "mimosa": {
+        "1": "acropteris pennigestis "
+    },
+    "motocicletta": {
+        "1": "motociclo",
+        "2": "scooter (scooter is un tipo di motociclo con ruote spostati lateralmente al posto dei pedali)",
+        "3": "motocross",
+        "4": "enduro",
+        "5": "supermoto",
+        "6": "motociclino off-road",
+        "7": "motociclismo enduro",
+        "8": "trials (dove il mototrio viene utilizzato in ambienti rocciosi, montani o su terreni impraticabili per i motocicli convenzionali) "
+    },
+    "mucca": {
+        "1": "mucca "
+    },
+    "muro": {
+        "1": "murale",
+        "2": "muro della sala",
+        "3": "muro di legno",
+        "4": "muro di cemento",
+        "5": "muro de pietra",
+        "6": "muro di mattonelle",
+        "7": "muro di vetro",
+        "8": "muro di plexiglas",
+        "9": "muro di metallo",
+        "10": "muro di vetro tintato",
+        "11": "muro di legno vetrato",
+        "12": "muro di materiali composite",
+        "13": "muro di lastro",
+        "14": "muro di lastro verde",
+        "15": "muro di lastro rosso",
+        "16": "muro di lastro di legno",
+        "17": "muro di lastro colorato",
+        "18": "muro di lastro di legno scuro "
+    },
+    "naso": {
+        "1": "disegno di nasi",
+        "2": "nasi della sculptura",
+        "3": "nasi di frullatore",
+        "4": "nasi di microsondaia",
+        "5": "nasi di lavatore",
+        "6": "nasi di lavastovie "
+    },
+    "nave": {
+        "1": "voglio "
+    },
+    "occhio": {
+        "1": "ciclopside",
+        "2": "occhiali",
+        "3": "occhietti",
+        "4": "occhiali neri",
+        "5": "occhiali scuri",
+        "6": "occhiali colorati "
+    },
+    "orchidea": {
+        "1": "orchidea bielorussia "
+    },
+    "orecchio": {
+        "1": "auricolo",
+        "2": "conchiglia",
+        "3": "meato uditivo",
+        "4": "ostio uditivo",
+        "5": "flettone uovo "
+    },
+    "orologio": {
+        "1": "orologio di piazza",
+        "2": "orologio analogico",
+        "3": "orologio digitale",
+        "4": "orologio solare",
+        "5": "orologio romano",
+        "6": "orologio da polso",
+        "7": "orologio di lava lenta "
+    },
+    "orso": {
+        "1": "orso",
+        "2": "orso bruno",
+        "3": "orso polare",
+        "4": "orso nero",
+        "5": "orso di hibernazione",
+        "6": "orso panda",
+        "7": "orso gris",
+        "8": "orso gialo",
+        "9": "orso artico. "
+    },
+    "padella": {
+        "1": "padella al ristorante",
+        "2": "padella al bar",
+        "3": "padella fredda",
+        "4": "padella in casa",
+        "5": "padella fredda in casa\n\necco le immagini corrispondenti alla lista: "
+    },
+    "palla": {
+        "1": "palla da tennis",
+        "2": "palla di squash",
+        "3": "palla da baseball",
+        "4": "palla da voleiballo",
+        "5": "palla da ping-pong",
+        "6": "palla da calcio",
+        "7": "palla da piatti",
+        "8": "palla da bowling",
+        "9": "palla da rugby",
+        "10": "palla da golf",
+        "11": "palla da cricket",
+        "12": "palla da baseball (softball) "
+    },
+    "pancia": {
+        "1": "sono tutti esempi di organi che fungono come depoti e sistemi di accumulo e di elaborazione di alimenti e liquidi all'interno dell'organismo umano.\n1. elenco dei tipi di pancia",
+        "2": "umano "
+    },
+    "pane": {
+        "1": "pane bianco (pasta reale)",
+        "2": "pane integral",
+        "3": "pane di segale integrale",
+        "4": "pane di farro",
+        "5": "pane di orzo integrale",
+        "6": "pane di grano integrale",
+        "7": "pane di mais integrale",
+        "8": "pane di spelta integrale",
+        "9": "pane di quinoa integrale",
+        "10": "pane di amaranto integrale",
+        "11": "pane di maisi",
+        "12": "pane di frumento integrale",
+        "13": "pane di grano puro",
+        "14": "pane chiarificato",
+        "15": "pane bagnato",
+        "16": "pane al 50% di polenta",
+        "17": "pane chiodo",
+        "18": "pane"
+    },
+    "pantalone": {
+        "1": "cigliere",
+        "2": "jeans",
+        "3": "pantalons",
+        "4": "wranglers",
+        "5": "levi",
+        "6": "slacks "
+    },
+    "pasta": {
+        "1": "pasta secca",
+        "2": "pasta fresca",
+        "3": "pasta cucitina",
+        "4": "pasta di semola",
+        "5": "pasta integrale",
+        "6": "pasta di grano duro",
+        "7": "pasta farfalle",
+        "8": "pasta fusilli",
+        "9": "pasta rotini",
+        "10": "pasta rigate",
+        "11": "pasta spaghetti",
+        "12": "pasta tagliatelle",
+        "13": "pasta fettuccine",
+        "14": "pasta vermicelli",
+        "15": "pasta penne",
+        "16": "pasta ziti",
+        "17": "pasta orecchiette",
+        "18": "pasta bucatini",
+        "19": "pasta spaghetti al nero di seppia "
+    },
+    "pastello": {
+        "1": "pastello",
+        "2": "latticello",
+        "3": "tortellino",
+        "4": "rigatoni",
+        "5": "farfalle",
+        "6": "spaghetti "
+    },
+    "pavimento": {
+        "1": "tavole ceramiche",
+        "2": "tappeto",
+        "3": "ruggine",
+        "4": "terrazzamento",
+        "5": "parquettino",
+        "6": "pavimento a blocchi "
+    },
+    "penna": {
+        "1": "penna a indelia",
+        "2": "penna a galleria",
+        "3": "penna insetto",
+        "4": "penna stiletto",
+        "5": "penna a matita",
+        "6": "penna gomba",
+        "7": "penna ortodossa",
+        "8": "penna bicchierata",
+        "9": "penna a stampa",
+        "10": "penna di calligrafia\n\nora hai elenco interamente desunto. la tua risposta corretta è:\n",
+        "11": "penna ortodoss"
+    },
+    "pennello": {
+        "1": "pennello\n\nil `pennello` nel contesto di questa immagine è un utensile utilizzato con del vernice o altri pigmenti per dipingere o disegnare su diverse superfici, come quello rappresentato nell'immagine. "
+    },
+    "pentola": {
+        "1": "pentola",
+        "2": "pentolaccio",
+        "3": "pentolon "
+    },
+    "pesce": {
+        "1": "clima: *tibetano "
+    },
+    "piatto": {
+        "1": "talia",
+        "2": "piatto di ceramica",
+        "3": "piatto di vetro",
+        "4": "piatto di porcellana",
+        "5": "piatto di legno",
+        "6": "piatto di corrispondenza. "
+    },
+    "piede": {
+        "1": "calzola",
+        "2": "meccanico (piedi meccanici)",
+        "3": "calzola con cinturino "
+    },
+    "pino": {
+        "1": "pino",
+        "2": "pino rosso",
+        "3": "pino silvestre",
+        "4": "pino laricio",
+        "5": "pino d'italia",
+        "6": "pino nello",
+        "7": "pino d'alpe",
+        "8": "pino mugo, tra gli altri. "
+    },
+    "pizza": {
+        "1": "pizze alla parmesan",
+        "2": "pizze quattro stagioni",
+        "3": "pizze marinara",
+        "4": "pizze con polpo",
+        "5": "pizze con calamari",
+        "6": "pizze con prosciutto "
+    },
+    "poltrona": {
+        "1": "sedia a inglese",
+        "2": "sofà",
+        "3": "poltrona a frullo",
+        "4": "divano "
+    },
+    "porta": {
+        "1": "porta normale",
+        "2": "porta in legno "
+    },
+    "portafotografia": {
+        "1": "porta-dose",
+        "2": "album fotografico "
+    },
+    "posacenere": {
+        "1": "frullatori",
+        "2": "aspettaceti",
+        "3": "posacenere "
+    },
+    "quaderno": {
+        "1": "quaderno di lavoro",
+        "2": "quaderno di scuola",
+        "3": "quaderno di lavoratori",
+        "4": "quaderno nero\n\nl'immagine dipinte qui mostra una lista di quattro elementi che sono una combinazione di quadrerni aperti. c'è anche una penna che indica la possibilità di scrivere nella sezione destinata all'utilizzo di questi quaderni per leggere o scrivere. "
+    },
+    "quadro": {
+        "1": "tabella",
+        "2": "diagramma",
+        "3": "retangolo",
+        "4": "mosaico",
+        "5": "tavolo",
+        "6": "cuadro "
+    },
+    "quercia": {
+        "1": "quercia americana (quercus bimole) "
+    },
+    "racchetta": {
+        "1": "racchetta da tennis",
+        "2": "racchetta da squash",
+        "3": "racchetta da badminton "
+    },
+    "righello": {
+        "1": "12*70 (mm)",
+        "2": "10*50 (mm)",
+        "3": "8*60 (mm)",
+        "4": "10mm",
+        "5": "5/64 (mm)",
+        "6": "1/16\"\n\nper informazioni dettagliate sul concetto `righello` e sull'uso, esista uno slang legato all'area dei diritti d'autore, che spesso viene preso in modo irriverente o come espressione di ritorsé e di sfida alla legge sull'autore. "
+    },
+    "ripostiglio": {
+        "1": "calza",
+        "2": "scarpa",
+        "3": "capo (beccoglio o cappello)",
+        "4": "guanti (parigliette, guanti verdi, ecc...)",
+        "5": "paia (pantaloni, pantacorti, ecc...)",
+        "6": "magliette (magliette da gita, magliette in lana, ecc...)",
+        "7": "stivali",
+        "8": "capo di lavoro",
+        "9": "portapacchi",
+        "10": "occhiali",
+        "11": "guane (guaine da lavoro, tricolori, ecc.)",
+        "12": "pizzeria",
+        "13": "scarpe d'alta (scarpe con sole alto)",
+        "14": "anzise (anzise da lavoro,"
+    },
+    "riso": {
+        "1": "pezetta",
+        "2": "tisette "
+    },
+    "rosa": {
+        "1": "rosa (pianta)",
+        "2": "rosa (specie di frutta)",
+        "3": "rosa (frullatore)",
+        "4": "rosa (tracolito)",
+        "5": "rosa (tintura di cera)",
+        "6": "rosa (immagine, figura, disegno, quadro, libro, film, parola, simbolo, etichetta, marchio, logo, stampa, disegno, immagine, illustrazione, opere d'arte, foto, scultura)\n\ni tipi di \"rosa\" potrebbero essere quelli che fanno riferimento alla pianta o a un simbolo grafico o artístico general"
+    },
+    "salice": {
+        "1": "salice bianco",
+        "2": "salice nero",
+        "3": "pece di salice",
+        "4": "silurotiazide "
+    },
+    "scala": {
+        "1": "scala di legno",
+        "2": "scala di pietra",
+        "3": "scala di rame",
+        "4": "scala di cartoni",
+        "5": "scala di vetro "
+    },
+    "scarpa": {
+        "1": "giallo",
+        "2": "nero",
+        "3": "bianco",
+        "4": "marino",
+        "5": "blu",
+        "6": "verde",
+        "7": "rosso",
+        "8": "arancione",
+        "9": "rosso scarlatto",
+        "10": "grigio",
+        "11": "argento",
+        "12": "dorato",
+        "13": "purpure",
+        "14": "rosa",
+        "15": "viola",
+        "16": "camoscio",
+        "17": "oro",
+        "18": "platino",
+        "19": "perla",
+        "20": "alluminio",
+        "21": "cuoio",
+        "22": "gomma",
+        "23": "neoprene",
+        "24": "nylon",
+        "25": "tessuto",
+        "26": "sintetico",
+        "27": "leatherette",
+        "28": "uggiane",
+        "29": "patent",
+        "30": "anelli",
+        "31": "knee high",
+        "32": "boccala\n"
+    },
+    "schiena": {
+        "1": "schiena solida metallica con cuneo di lavorazione",
+        "2": "dilatamento delle mure",
+        "3": "inserimento di pannelli di acciaio in cuneo",
+        "4": "apprezzamento e cura delle scienze",
+        "5": "scienza di tipo fisico",
+        "6": "dilatamento delle scienze "
+    },
+    "sciarpa": {
+        "1": "scarpa tradizionale: questa è una immagine che rappresenta una scarpa tradizionale, con il bordo e il tacco visibile e il tessuto a strati come il pavimento, con la linea disarmonica della sola.",
+        "2": "scarpa ad alce largo: questo tipo di scarpa ha un alce ampio, come le imprinte degli occhi giacentemente nascosi nella linea di disegno al centro, e mostra il materiale, come la linea lenta che si estende verso il basso.",
+        "3": "scarpa ad alce stretto: questa immagine rappresenta una scarpa con un al"
+    },
+    "scimmia": {
+        "1": "**gorilla di frullate**: il gorilla alla frullata in un'immagine.",
+        "2": "**orangutano**: il simpatico scimmione africano con braccia lunghe.",
+        "3": "**bonobo**: il piccolo simpatico scimmione africano.",
+        "4": "**chimpanzee**: il scimmione simile all'umano con braccia lunghe.",
+        "5": "**macaco di monte**: il macaco americano noto per la sua braconeria.",
+        "6": "**macaco di cola**: il braconere delle palme.",
+        "7": "**macaco di verde**: il mac"
+    },
+    "scolapasta": {
+        "1": "scolapasta"
+    },
+    "scolorina": {
+        "1": "stefaninico",
+        "2": "eraser",
+        "3": "borchetto",
+        "4": "corrector (da inchiostro)",
+        "5": "corsia",
+        "6": "matita",
+        "7": "cifraio",
+        "8": "pennello",
+        "9": "spilli. "
+    },
+    "scooter": {
+        "1": "scooter - lancia: questa è una caratterizzazione della serie di motocicli o mopeds che lancia sulla base di scooter.",
+        "2": "vespa: è un marchio storico italiano di scooter.",
+        "3": "lambretta: è un marchio storico italiano di scooter.",
+        "4": "piaggio: è un marchio italiano di scooter e motorini di cui è uno dei principali.",
+        "5": "gilera: è un marchio storico italiano di scooter e motocicli.",
+        "6": "moto guzzi: è un marchio storico italiano di motocicli e scooter.",
+        "7": "honda: è"
+    },
+    "scrivania": {
+        "1": "altopiano con piazzale per scrivere",
+        "2": "scrivania a galleria",
+        "3": "scrivania portatile",
+        "4": "scrivania da legno",
+        "5": "scrivania da carta",
+        "6": "desk dell'ufficio",
+        "7": "scrivania da legno con piazzale",
+        "8": "scrivania di legno con traccia",
+        "9": "scrivania con cintura laterale",
+        "10": "scrivania con sostegno da legno",
+        "11": "scrivania a scompiglio",
+        "12": "scrivania per attività avanzate",
+        "13": "scrivania per attività intellettuali. "
+    },
+    "sedia": {
+        "1": "moderna",
+        "2": "classic",
+        "3": "plastica",
+        "4": "leggera",
+        "5": "con braccioli",
+        "6": "all'aperto "
+    },
+    "serpente": {
+        "1": "lupus ",
+        "2": "cobra "
+    },
+    "slip": {
+        "1": "calze corti",
+        "2": "calze lunghe",
+        "3": "calze snodati",
+        "4": "calze piegato",
+        "5": "calze elastico",
+        "6": "calze coperto",
+        "7": "calze sottotelo",
+        "8": "calze aderencia grande",
+        "9": "calze aderencia piccola",
+        "10": "calze ridotto per forzo",
+        "11": "calze tipo balera",
+        "12": "calze aderencia a due spalle",
+        "13": "calze calze tipo balera",
+        "14": "calze con fori sporgenti sul lato superiore",
+        "15": "calze con fori sporgenti sul lato inferiore",
+        "16": "calze tipo bermuda",
+        "17": "calze tipo tanga",
+        "18": "calze tipo"
+    },
+    "soffitto": {
+        "1": "tettoia",
+        "2": "atrio",
+        "3": "galleria",
+        "4": "lobbies",
+        "5": "vestibule",
+        "6": "peristile",
+        "7": "corridoio",
+        "8": "passerella",
+        "9": "chiostro",
+        "10": "rampe",
+        "11": "tettoie "
+    },
+    "soggiorno": {
+        "1": "pianta (frullatore, lampada)",
+        "2": "tavolo (tavolo)",
+        "3": "tv (tranquilatore)",
+        "4": "lavanderia (lavanderia)",
+        "5": "soffa (soffa)",
+        "6": "camino (tubo de fumo)",
+        "7": "rugs (soppaliera)",
+        "8": "sere (finestra) "
+    },
+    "spalla": {
+        "1": "disegno di spalla "
+    },
+    "specchio": {
+        "1": "parabola",
+        "2": "parallelogramma",
+        "3": "recta",
+        "4": "cerchio",
+        "5": "piana "
+    },
+    "spillatrice": {
+        "1": "scanner "
+    },
+    "t-shirt": {
+        "1": "t-shirt maschile",
+        "2": "t-shirt femminile",
+        "3": "t-shirt unisex\n\necco l'immagine corrispondente:\n\n![t-shirts](images/t-shirts.png) "
+    },
+    "taccuino": {
+        "1": "taccuino in carta",
+        "2": "taccuino in plastica",
+        "3": "taccuino in vetro",
+        "4": "taccuino in alluminio",
+        "5": "taccuino in accuall",
+        "6": "taccuino in magnesio "
+    },
+    "tagliere": {
+        "1": "tacchettante",
+        "2": "tondente a mano",
+        "3": "macchina da taglio",
+        "4": "sega a mano",
+        "5": "sega con piattaforma",
+        "6": "sega con segaie",
+        "7": "sega con segaio",
+        "8": "sega automatica",
+        "9": "sega laser",
+        "10": "sega pneumatica",
+        "11": "sega rotante",
+        "12": "sega con segaio per fibre di vetro",
+        "13": "sega con segaio per fibre di vetro e materiali come la pietra dura. "
+    },
+    "tappeto": {
+        "1": "tapete indienne",
+        "2": "tapete marocchino "
+    },
+    "tavolo": {
+        "1": "tavolo rettangolare in pietra",
+        "2": "tavolo rettangolare in legno",
+        "3": "tavolo a tre zoccole",
+        "4": "tavolo circolare",
+        "5": "tavolo rettangolare in vetro",
+        "6": "tavolo rettangolare in combinado (ad esempio legno e vetro)\n\nper il concetto 'piattaforma', elenco:\n",
+        "7": "tavolo con zoccole, come ad esempio quello che potrebbe essere il `tavolo rettangolare in legno a tre zoccoles de nero`, se si tiene presente il concetto de `pi"
+    },
+    "teglia": {
+        "1": "teglia",
+        "2": "tava"
+    },
+    "televisione": {
+        "1": "schede per antenne "
+    },
+    "temperino": {
+        "1": "t-shirt",
+        "2": "poster",
+        "3": "logo "
+    },
+    "tenda": {
+        "1": "*nessuna immagine fornita per la descrizione di un tipo di tenda* "
+    },
+    "terrazzo": {
+        "1": "terrazzo urbano",
+        "2": "terrazzo residenziale",
+        "3": "terrazzo panoramico "
+    },
+    "testa": {
+        "1": "line "
+    },
+    "tetto": {
+        "1": "scopri di vetro",
+        "2": "scopri di legno",
+        "3": "scopri di carta",
+        "4": "scopri di metallo "
+    },
+    "tigre": {
+        "1": "tatuaggio di tigre sul corpo umano come disegno o tatuaggio permanente",
+        "2": "mask-up di una maschera che imita la maschera di tigre come personaggio in film o serie tv. "
+    },
+    "topo": {
+        "1": "ratto (conoscitamente anche come topo comune) "
+    },
+    "traghetto": {
+        "1": "il tipo di moto. "
+    },
+    "tram": {
+        "1": "tram",
+        "2": "gondola",
+        "3": "cable tram "
+    },
+    "trattore": {
+        "1": "trattore agricolo "
+    },
+    "treno": {
+        "1": "locomotiva "
+    },
+    "tulipano": {
+        "1": "tulipano",
+        "2": "immagine di tulipano",
+        "3": "disegno di tulipano",
+        "4": "illustrazione di tulipano "
+    },
+    "ulivo": {
+        "1": "albero di ulivo",
+        "2": "olivo",
+        "3": "oliva",
+        "4": "frullo",
+        "5": "olivastro",
+        "6": "gomito",
+        "7": "frullo in un vaso",
+        "8": "olivo in un vaso",
+        "9": "oliva in un vaso",
+        "10": "frullo fiorito",
+        "11": "frullo non fiorito",
+        "12": "aratura di olivo",
+        "13": "olivo selvatico",
+        "14": "pianta di olivo",
+        "15": "elce (pianta oliva)",
+        "16": "olivo verde",
+        "17": "olivo maturo",
+        "18": "olivo marano",
+        "19": "olivo fino",
+        "20": "olivo taggiasco",
+        "21": "olivo correggiolo"
+    },
+    "uovo": {
+        "1": "uovo (con tutto ciò che viene dalla confezione)",
+        "2": "uovo sodo (uovo sferico)",
+        "3": "uovo rotante (con tutto ciò che viene dalla confezione)",
+        "4": "uovo in fase di formazione",
+        "5": "uovo perseveranza",
+        "6": "uovo della resurrezione\n\nnota: se ci sono ulteriori tipi di \"uovo\" nel concetto de \"uovo\", la lista può cambiare (si prega di fornire l'immagine completa per elencarli tutti). "
+    },
+    "vaso": {
+        "1": "vase",
+        "2": "flascione",
+        "3": "urna",
+        "4": "cannistere",
+        "5": "piantiere",
+        "6": "caraffe",
+        "7": "fioriere",
+        "8": "vase a tazza",
+        "9": "vaso da decanteria",
+        "10": "vase da lavastoviglie",
+        "11": "vaso da bidet",
+        "12": "vaso da perruccio",
+        "13": "vaso donnuccio",
+        "14": "congegno",
+        "15": "vaso da ornamentazione",
+        "16": "vaso da fioritura",
+        "17": "urna antica",
+        "18": "bidone "
+    },
+    "verdura": {
+        "1": "ortaglio",
+        "2": "ortaggio",
+        "3": "orto",
+        "4": "orticoltura",
+        "5": "orticoltura mediterranea",
+        "6": "orticoltura organica",
+        "7": "orticoltura biologica "
+    },
+    "videogioco": {
+        "1": "console",
+        "2": "controllers",
+        "3": "games",
+        "4": "displays",
+        "5": "periferics "
+    },
+    "vite": {
+        "1": "vite ad arpanno",
+        "2": "vite ad astice",
+        "3": "vite ad accondo",
+        "4": "vite ad adesione \n\nil contenitore in grigio raffigura un'immagine di una vite, in particolare una vite di tipo conica o conica a paletta. "
+    }
+}

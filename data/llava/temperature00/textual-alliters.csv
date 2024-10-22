@@ -1,0 +1,2637 @@
+participant,category,concept,concept_eng,exemplar,rank,abs_freq
+iter1,PLANTS,abete,fir,albero,1,17569.0
+iter1,PLANTS,abete,fir,arbusto,2,14939.0
+iter1,PLANTS,abete,fir,cespuglio,3,12131.0
+iter1,PLANTS,abete,fir,piante,4,25266.0
+iter1,PLANTS,abete,fir,arbore,5,11703.0
+iter1,PLANTS,abete,fir,albero da frullo,6,0.0
+iter1,PLANTS,abete,fir,albero da frutto,7,353.0
+iter1,PLANTS,abete,fir,albero da legno,8,26.0
+iter1,PLANTS,abete,fir,albero da gomma,9,21.0
+iter1,PLANTS,abete,fir,albero da silicone,10,0.0
+iter1,PLANTS,abete,fir,albero da resina,11,3.0
+iter1,PLANTS,abete,fir,albero da olio,12,3.0
+iter1,PLANTS,abete,fir,albero da olio extravergine,13,0.0
+iter1,PLANTS,abete,fir,albero da olio di oliva,14,0.0
+iter1,PLANTS,abete,fir,albero da olio di palma,15,0.0
+iter1,PLANTS,abete,fir,albero da olio di palma extravergine,16,0.0
+iter1,PLANTS,abete,fir,albero da olio di palma extra,17,0.0
+iter1,PLANTS,abete,fir,albero da olio di palma extraver,18,0.0
+iter1,VEHICLES,aereo,plane,aereo,1,962449.0
+iter1,VEHICLES,aereo,plane,aereoplano,2,1547.0
+iter1,VEHICLES,aereo,plane,aereo nero,3,38.0
+iter1,VEHICLES,aereo,plane,aereo militare,4,91.0
+iter1,VEHICLES,aereo,plane,aereo civile,5,51.0
+iter1,VEHICLES,aereo,plane,aereo da combattimento,6,51.0
+iter1,VEHICLES,aereo,plane,aereo da trasporto,7,35.0
+iter1,VEHICLES,aereo,plane,aereo da ricognizione,8,1035.0
+iter1,VEHICLES,aereo,plane,aereo da addestramento,9,37.0
+iter1,VEHICLES,aereo,plane,aereo da caccia,10,31.0
+iter1,VEHICLES,aereo,plane,aereo da trasporto militare,11,34.0
+iter1,VEHICLES,aereo,plane,aereo da trasporto civile,12,48.0
+iter1,VEHICLES,aereo,plane,aereo da addestramento militare,13,9.0
+iter1,VEHICLES,aereo,plane,aereo da addestramento civile,14,2.0
+iter1,VEHICLES,aereo,plane,aereo da caccia militare,15,5.0
+iter1,VEHICLES,aereo,plane,aereo da caccia civile,16,0.0
+iter1,VEHICLES,aereo,plane,aereo da ricognizione militare,17,0.0
+iter1,VEHICLES,aereo,plane,aereo da,18,28.0
+iter1,STATIONERY,agenda,diary,agenda giornaliera,1,387.0
+iter1,STATIONERY,agenda,diary,agenda settimanale,2,26.0
+iter1,STATIONERY,agenda,diary,agenda mensile,3,65.0
+iter1,STATIONERY,agenda,diary,agenda annuale,4,103.0
+iter1,STATIONERY,agenda,diary,agenda di lavoro,5,23.0
+iter1,STATIONERY,agenda,diary,agenda di studio,6,35.0
+iter1,STATIONERY,agenda,diary,agenda di viaggio,7,23.0
+iter1,STATIONERY,agenda,diary,agenda di vacanza,8,3.0
+iter1,STATIONERY,agenda,diary,agenda di eventi,9,22.0
+iter1,STATIONERY,agenda,diary,agenda di riunioni,10,4.0
+iter1,STATIONERY,agenda,diary,agenda di appuntamenti,11,20.0
+iter1,STATIONERY,agenda,diary,agenda di riunioni di lavoro,12,0.0
+iter1,STATIONERY,agenda,diary,agenda di riunioni di studio,13,0.0
+iter1,STATIONERY,agenda,diary,agenda di riunioni di eventi,14,0.0
+iter1,STATIONERY,agenda,diary,agenda di riunioni di viaggio,15,0.0
+iter1,STATIONERY,agenda,diary,agenda di riunioni di vacanza,16,0.0
+iter1,STATIONERY,agenda,diary,agenda di riunioni di eventi di lavoro,17,0.0
+iter1,STATIONERY,agenda,diary,agenda di riunioni di eventi di studio,18,0.0
+iter1,STATIONERY,agenda,diary,agenda di riunioni di eventi di viaggio,19,0.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,scarpe,1,459506.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calze,2,24821.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,pantaloni,3,24566.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,camicie,4,27358.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,magliette,5,22472.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,gonne,6,25421.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,pantaloncini,7,24465.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini,8,26716.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da bagno,9,0.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da ginnastica,10,6.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da sport,11,1.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da lavoro,12,7.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da corsa,13,23.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da tennis,14,20.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da pallavolo,15,0.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da calcio,16,4.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da golf,17,5.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da squash,18,0.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da vela,19,0.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da sci,20,11.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da snowboard,21,0.0
+iter1,FURNISHINGS/FITTINGS,appendiabiti,clothes hanger,calzini da surf,22,0.0
+iter1,FURNITURE,armadio,closet,armadio,1,21279.0
+iter1,FURNITURE,armadio,closet,armadio a serratura,2,0.0
+iter1,FURNITURE,armadio,closet,armadio a chiave,3,15.0
+iter1,FURNITURE,armadio,closet,armadio a serratura a chiave,4,0.0
+iter1,FURNITURE,armadio,closet,armadio a serratura a chiave e a manovra,5,0.0
+iter1,FURNITURE,armadio,closet,armadio a serratura a chiave e a manovra elettrico,6,0.0
+iter1,FURNITURE,armadio,closet,armadio a serratura a chiave e a manovra elettrico e con raccoglitore,7,0.0
+iter1,FURNITURE,armadio,closet,armadio a serratura a chiave e a manovra elettrico e con raccoglitore e con raccoglitore interno,8,0.0
+iter1,FURNITURE,armadio,closet,armadio a serratura a chiave e a manovra elettrico e con raccoglitore interno e con,9,0.0
+iter1,STATIONERY,astuccio,case,radiator,1,695.0
+iter1,STATIONERY,astuccio,case,calorifora,2,0.0
+iter1,STATIONERY,astuccio,case,stufa,3,16319.0
+iter1,STATIONERY,astuccio,case,fornace,4,17263.0
+iter1,STATIONERY,astuccio,case,riscaldamento,5,20586.0
+iter1,STATIONERY,astuccio,case,riscaldamento elettrico,6,42.0
+iter1,STATIONERY,astuccio,case,riscaldamento a gas,7,31.0
+iter1,STATIONERY,astuccio,case,riscaldamento a biomassa,8,27.0
+iter1,STATIONERY,astuccio,case,riscaldamento a legna,9,20.0
+iter1,STATIONERY,astuccio,case,riscaldamento a pellet,10,33.0
+iter1,STATIONERY,astuccio,case,riscaldamento a biomassa a legna,11,0.0
+iter1,STATIONERY,astuccio,case,riscaldamento a biomassa a pellet,12,0.0
+iter1,STATIONERY,astuccio,case,riscaldamento a biomassa a gas,13,0.0
+iter1,STATIONERY,astuccio,case,riscaldamento a biomassa a biomassa,14,0.0
+iter1,STATIONERY,astuccio,case,riscaldamento a biomassa a biomassa a legna,15,0.0
+iter1,HOBBIES,attrezzo,tool,pala,1,16230.0
+iter1,HOBBIES,attrezzo,tool,raccapiedi,2,0.0
+iter1,HOBBIES,attrezzo,tool,scopa,3,19208.0
+iter1,HOBBIES,attrezzo,tool,spazzola,4,20785.0
+iter1,HOBBIES,attrezzo,tool,spazzolina,5,1622.0
+iter1,HOBBIES,attrezzo,tool,spazzolone,6,1656.0
+iter1,HOBBIES,attrezzo,tool,spazzolino,7,8358.0
+iter1,HOBBIES,attrezzo,tool,spazzolino,8,8358.0
+iter1,VEHICLES,autobus,bus,autobus,1,331938.0
+iter1,VEHICLES,autobus,bus,bus,2,300215.0
+iter1,VEHICLES,autobus,bus,minibus,3,11863.0
+iter1,VEHICLES,autobus,bus,pullman,4,17974.0
+iter1,VEHICLES,autobus,bus,autobus a due piani,5,34.0
+iter1,VEHICLES,autobus,bus,autobus a tre piani,6,10.0
+iter1,VEHICLES,autobus,bus,autobus a ponte,7,6.0
+iter1,VEHICLES,autobus,bus,autobus a ponte a due piani,8,0.0
+iter1,VEHICLES,autobus,bus,autobus a ponte a tre piani,9,0.0
+iter1,VEHICLES,autobus,bus,autobus a ponte a quattro piani,10,0.0
+iter1,VEHICLES,autobus,bus,autobus a ponte a cinque piani,11,0.0
+iter1,VEHICLES,autobus,bus,autobus a ponte a sei piani,12,0.0
+iter1,VEHICLES,autobus,bus,autobus a ponte a sette piani,13,0.0
+iter1,VEHICLES,autobus,bus,autobus a ponte a otto piani,14,0.0
+iter1,VEHICLES,autobus,bus,autobus a ponte a nove piani,15,0.0
+iter1,VEHICLES,autobus,bus,autobus a ponte a dieci piani,16,0.0
+iter1,VEHICLES,automobile,car,berlina,1,19428.0
+iter1,VEHICLES,automobile,car,coupé,2,21351.0
+iter1,VEHICLES,automobile,car,station wagon,3,3651.0
+iter1,VEHICLES,automobile,car,minivan,4,7935.0
+iter1,VEHICLES,automobile,car,suv,5,19341.0
+iter1,VEHICLES,automobile,car,pickup,6,15709.0
+iter1,VEHICLES,automobile,car,convertibile,7,18790.0
+iter1,VEHICLES,automobile,car,sportscar,8,447.0
+iter1,VEHICLES,automobile,car,limousine,9,14829.0
+iter1,VEHICLES,automobile,car,taxi,10,16427.0
+iter1,VEHICLES,automobile,car,camper,11,15011.0
+iter1,VEHICLES,automobile,car,fuoristrada,12,10934.0
+iter1,VEHICLES,automobile,car,fuoriterra,13,1308.0
+iter1,VEHICLES,automobile,car,fuoricontinentale,14,0.0
+iter1,VEHICLES,automobile,car,fuorisport,15,0.0
+iter1,VEHICLES,automobile,car,fuoristile,16,1.0
+iter1,VEHICLES,automobile,car,fuoristilizzato,17,0.0
+iter1,VEHICLES,automobile,car,fu,18,21504.0
+iter1,HOUSING BUILDINGS,bagno,bathroom,vasca da bagno,1,385.0
+iter1,HOUSING BUILDINGS,bagno,bathroom,doccia,2,15526.0
+iter1,HOUSING BUILDINGS,bagno,bathroom,bidet,3,17369.0
+iter1,HOUSING BUILDINGS,bagno,bathroom,piscina,4,15193.0
+iter1,HOUSING BUILDINGS,bagno,bathroom,sauna,5,19389.0
+iter1,HOUSING BUILDINGS,bagno,bathroom,spa,6,19888.0
+iter1,HOUSING BUILDINGS,balcone,balcony,balcone,1,16407.0
+iter1,HOUSING BUILDINGS,balcone,balcony,terrazza,2,304235.0
+iter1,HOUSING BUILDINGS,balcone,balcony,loggia,3,17598.0
+iter1,HOUSING BUILDINGS,balcone,balcony,cornicione,4,18128.0
+iter1,HOUSING BUILDINGS,balcone,balcony,pavimento,5,463954.0
+iter1,HOUSING BUILDINGS,balcone,balcony,guardrail,6,5187.0
+iter1,HOUSING BUILDINGS,balcone,balcony,portico,7,17053.0
+iter1,HOUSING BUILDINGS,balcone,balcony,pergola,8,23202.0
+iter1,HOUSING BUILDINGS,balcone,balcony,balcone-giardino,9,5.0
+iter1,HOUSING BUILDINGS,balcone,balcony,balcone-panoramico,10,0.0
+iter1,HOUSING BUILDINGS,balcone,balcony,balcone-sottotetto,11,0.0
+iter1,HOUSING BUILDINGS,balcone,balcony,balcone-terrazzino,12,12.0
+iter1,HOUSING BUILDINGS,balcone,balcony,balcone-veranda,13,23.0
+iter1,HOUSING BUILDINGS,balcone,balcony,balcone-sottotetto-panoramico,14,0.0
+iter1,HOUSING BUILDINGS,balcone,balcony,balcone-terrazzino-panoramico,15,0.0
+iter1,HOUSING BUILDINGS,balcone,balcony,balcone-giardino-panoramico,16,0.0
+iter1,HOUSING BUILDINGS,balcone,balcony,balcone-sottotetto-giardino-panoramico,17,0.0
+iter1,HOUSING BUILDINGS,balcone,balcony,balcone-terrazzino-giardino-panoramico,18,0.0
+iter1,HOUSING BUILDINGS,balcone,balcony,balcon,19,1168.0
+iter1,PLANTS,basilico,basil,basilico comune,1,38.0
+iter1,PLANTS,basilico,basil,basilico piccolo,2,32.0
+iter1,PLANTS,basilico,basil,basilico grande,3,32.0
+iter1,PLANTS,basilico,basil,basilico nero,4,14.0
+iter1,PLANTS,basilico,basil,basilico bianco,5,9.0
+iter1,PLANTS,basilico,basil,basilico d'olio,6,0.0
+iter1,PLANTS,basilico,basil,basilico di finocchio,7,0.0
+iter1,PLANTS,basilico,basil,basilico di limone,8,1.0
+iter1,PLANTS,basilico,basil,basilico di camomilla,9,0.0
+iter1,PLANTS,basilico,basil,basilico di aneto,10,0.0
+iter1,PLANTS,basilico,basil,basilico di genziana,11,0.0
+iter1,PLANTS,basilico,basil,basilico di pietra,12,1.0
+iter1,PLANTS,basilico,basil,basilico di cipolla,13,0.0
+iter1,PLANTS,basilico,basil,basilico di cipolla rossa,14,0.0
+iter1,PLANTS,basilico,basil,basilico di cipolla bianca,15,0.0
+iter1,PLANTS,basilico,basil,basilico di cipolla verde,16,0.0
+iter1,PLANTS,basilico,basil,basilico di cipolla gialla,17,0.0
+iter1,PLANTS,basilico,basil,basilico,18,11480.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di vetro,1,33.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di plastica,2,38.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di cristallo,3,42.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di ceramica,4,20.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di porcellana,5,13.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di metallo,6,20.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di legno,7,21.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di vetro colorato,8,13.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di vetro con manico,9,0.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di vetro con manico colorato,10,0.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di vetro con manico di porcellana,11,0.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di vetro con manico di porcellana colorato,12,0.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di vetro con manico di cristallo,13,0.0
+iter1,KITCHENWARE,bicchiere,glass,bicchiere di vet,14,0.0
+iter1,VEHICLES,bicicletta,bicycle,bicicletta,1,18803.0
+iter1,VEHICLES,bicicletta,bicycle,mountain bike,2,3015.0
+iter1,VEHICLES,bicicletta,bicycle,road bike,3,42.0
+iter1,VEHICLES,bicicletta,bicycle,cruiser,4,9757.0
+iter1,VEHICLES,bicicletta,bicycle,bmx,5,8203.0
+iter1,VEHICLES,bicicletta,bicycle,fixie,6,283.0
+iter1,VEHICLES,bicicletta,bicycle,folding bike,7,23.0
+iter1,VEHICLES,bicicletta,bicycle,recumbent bike,8,58.0
+iter1,VEHICLES,bicicletta,bicycle,e-bike,9,14299.0
+iter1,VEHICLES,bicicletta,bicycle,cargo bike,10,22.0
+iter1,VEHICLES,bicicletta,bicycle,touring bike,11,44.0
+iter1,VEHICLES,bicicletta,bicycle,gravel bike,12,205.0
+iter1,VEHICLES,bicicletta,bicycle,single speed bike,13,1.0
+iter1,VEHICLES,bicicletta,bicycle,track bike,14,9.0
+iter1,VEHICLES,bicicletta,bicycle,time trial bike,15,1.0
+iter1,VEHICLES,bicicletta,bicycle,triathlon bike,16,5.0
+iter1,VEHICLES,bicicletta,bicycle,cyclocross bike,17,1.0
+iter1,VEHICLES,bicicletta,bicycle,hybrid bike,18,14.0
+iter1,VEHICLES,bicicletta,bicycle,city bike,19,252.0
+iter1,VEHICLES,bicicletta,bicycle,commuter bike,20,3.0
+iter1,VEHICLES,bicicletta,bicycle,cruiser bike,21,14.0
+iter1,VEHICLES,bicicletta,bicycle,dirt bike,22,43.0
+iter1,VEHICLES,bicicletta,bicycle,dirt jump bike,23,0.0
+iter1,VEHICLES,bicicletta,bicycle,downhill bike,24,27.0
+iter1,VEHICLES,bicicletta,bicycle,enduro bike,25,39.0
+iter1,VEHICLES,bicicletta,bicycle,freestyle bike,26,2.0
+iter1,VEHICLES,bicicletta,bicycle,hardtail bike,27,0.0
+iter1,VEHICLES,bicicletta,bicycle,longboard bike,28,0.0
+iter1,VEHICLES,bicicletta,bicycle,long distance bike,29,0.0
+iter1,VEHICLES,bicicletta,bicycle,off-road bike,30,0.0
+iter1,VEHICLES,bicicletta,bicycle,pave,31,1048.0
+iter1,BODY PARTS,bocca,mouth,bocca di cane,1,20.0
+iter1,BODY PARTS,bocca,mouth,bocca di gatto,2,3.0
+iter1,BODY PARTS,bocca,mouth,bocca di cavallo,3,3.0
+iter1,BODY PARTS,bocca,mouth,bocca di pesce,4,23.0
+iter1,BODY PARTS,bocca,mouth,bocca di uomo,5,9.0
+iter1,BODY PARTS,bocca,mouth,bocca di donna,6,22.0
+iter1,BODY PARTS,bocca,mouth,bocca di bambino,7,21.0
+iter1,BODY PARTS,bocca,mouth,bocca di neonato,8,2.0
+iter1,BODY PARTS,bocca,mouth,bocca di uccello,9,2.0
+iter1,BODY PARTS,bocca,mouth,bocca di canguro,10,0.0
+iter1,BODY PARTS,bocca,mouth,bocca di elefante,11,1.0
+iter1,BODY PARTS,bocca,mouth,bocca di ippopotamo,12,4.0
+iter1,BODY PARTS,bocca,mouth,bocca di rinocerto,13,0.0
+iter1,BODY PARTS,bocca,mouth,bocca di cammello,14,0.0
+iter1,BODY PARTS,bocca,mouth,bocca di orso,15,2.0
+iter1,BODY PARTS,bocca,mouth,bocca di leone,16,37.0
+iter1,BODY PARTS,bocca,mouth,bocca di tigre,17,6.0
+iter1,BODY PARTS,bocca,mouth,bocca,18,19650.0
+iter1,BODY PARTS,braccio,arm,braccio umano,1,177.0
+iter1,BODY PARTS,braccio,arm,braccio robotico,2,143.0
+iter1,BODY PARTS,braccio,arm,braccio artificiale,3,196.0
+iter1,BODY PARTS,braccio,arm,braccio di gomma,4,20.0
+iter1,BODY PARTS,braccio,arm,braccio di carta,5,4.0
+iter1,BODY PARTS,braccio,arm,braccio di plastica,6,20.0
+iter1,BODY PARTS,braccio,arm,braccio di legno,7,26.0
+iter1,BODY PARTS,braccio,arm,braccio di metallo,8,22.0
+iter1,BODY PARTS,braccio,arm,braccio di vetro,9,9.0
+iter1,BODY PARTS,braccio,arm,braccio di ceramica,10,0.0
+iter1,BODY PARTS,braccio,arm,braccio di,11,259.0
+iter1,PLANTS,cactus,cactus,cactus,1,17616.0
+iter1,PLANTS,cactus,cactus,cactus bianco,2,9.0
+iter1,PLANTS,cactus,cactus,cactus rosso,3,10.0
+iter1,PLANTS,cactus,cactus,cactus verde,4,35.0
+iter1,PLANTS,cactus,cactus,cactus spinoso,5,38.0
+iter1,PLANTS,cactus,cactus,cactus spinoso rosso,6,0.0
+iter1,PLANTS,cactus,cactus,cactus spinoso verde,7,0.0
+iter1,PLANTS,cactus,cactus,cactus spinoso bianco,8,0.0
+iter1,PLANTS,cactus,cactus,cactus spinoso rosso bianco,9,0.0
+iter1,PLANTS,cactus,cactus,cactus spinoso verde bianco,10,0.0
+iter1,PLANTS,cactus,cactus,cactus spinoso rosso verde,11,0.0
+iter1,PLANTS,cactus,cactus,cactus spinoso bianco rosso,12,0.0
+iter1,PLANTS,cactus,cactus,cactus spinoso bianco verde,13,0.0
+iter1,PLANTS,cactus,cactus,cactus spinoso rosso bianco verde,14,0.0
+iter1,PLANTS,cactus,cactus,cactus spinoso rosso verde bianco,15,0.0
+iter1,PLANTS,cactus,cactus,,16,0.0
+iter1,CLOTHES,calza,sock,calze,1,24821.0
+iter1,CLOTHES,calza,sock,calzini,2,26716.0
+iter1,CLOTHES,calza,sock,calzini da lavoro,3,7.0
+iter1,CLOTHES,calza,sock,calzini da ginnastica,4,6.0
+iter1,CLOTHES,calza,sock,calzini da sport,5,1.0
+iter1,CLOTHES,calza,sock,calzini da bagno,6,0.0
+iter1,CLOTHES,calza,sock,calzini da letto,7,2.0
+iter1,CLOTHES,calza,sock,calzini da camicia,8,0.0
+iter1,CLOTHES,calza,sock,calzini da pijama,9,0.0
+iter1,CLOTHES,calza,sock,calzini da piacere,10,0.0
+iter1,CLOTHES,calza,sock,calzini da spiaggia,11,0.0
+iter1,CLOTHES,calza,sock,calzini da neve,12,6.0
+iter1,CLOTHES,calza,sock,calzini da caccia,13,2.0
+iter1,CLOTHES,calza,sock,calzini da ciclismo,14,12.0
+iter1,CLOTHES,calza,sock,calzini da equitazione,15,1.0
+iter1,CLOTHES,calza,sock,calzini da equestre,16,0.0
+iter1,CLOTHES,calza,sock,calzini da equestre da salto,17,0.0
+iter1,CLOTHES,calza,sock,calzini da equestre da dressage,18,0.0
+iter1,CLOTHES,calza,sock,calz,19,64.0
+iter1,HOUSING BUILDINGS,camera,bedroom,fotocamera,1,23184.0
+iter1,HOUSING BUILDINGS,camera,bedroom,video camera,2,387.0
+iter1,HOUSING BUILDINGS,camera,bedroom,webcam,3,19007.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera 360,4,116.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera drone,5,28.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera action,6,21.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera gopro,7,89.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera dslr,8,73.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera mirrorless,9,25.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera point and shoot,10,0.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera reflex,11,92.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera box,12,27.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera security,13,7.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera surveillance,14,0.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera trail,15,0.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera underwater,16,3.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera 3d,17,73.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera 4k,18,215.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera 5k,19,2.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera 8k,20,4.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera 1080p,21,40.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera 720p,22,7.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera 480p,23,0.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera 240p,24,0.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera 120p,25,0.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera 60p,26,0.0
+iter1,HOUSING BUILDINGS,camera,bedroom,camera 30p,27,0.0
+iter1,CLOTHES,camicia,shirt,camicia bianca,1,553.0
+iter1,CLOTHES,camicia,shirt,camicia nera,2,510.0
+iter1,CLOTHES,camicia,shirt,camicia rossa,3,149.0
+iter1,CLOTHES,camicia,shirt,camicia blu,4,660.0
+iter1,CLOTHES,camicia,shirt,camicia verde,5,26.0
+iter1,CLOTHES,camicia,shirt,camicia rosa,6,340.0
+iter1,CLOTHES,camicia,shirt,camicia grigia,7,151.0
+iter1,CLOTHES,camicia,shirt,camicia nera con maniche lunghe,8,2.0
+iter1,CLOTHES,camicia,shirt,camicia bianca con maniche lunghe,9,3.0
+iter1,CLOTHES,camicia,shirt,camicia nera con maniche corte,10,0.0
+iter1,CLOTHES,camicia,shirt,camicia bianca con maniche corte,11,1.0
+iter1,CLOTHES,camicia,shirt,camicia nera con maniche a maniche,12,0.0
+iter1,CLOTHES,camicia,shirt,camicia bianca con maniche a maniche,13,0.0
+iter1,CLOTHES,camicia,shirt,camicia b,14,0.0
+iter1,VEHICLES,camion,truck,camioncino,1,9300.0
+iter1,VEHICLES,camion,truck,camioncino da lavoro,2,7.0
+iter1,VEHICLES,camion,truck,camioncino da trasporto,3,1.0
+iter1,VEHICLES,camion,truck,camioncino da trasporto merci,4,0.0
+iter1,VEHICLES,camion,truck,camioncino da trasporto passeggeri,5,0.0
+iter1,VEHICLES,camion,truck,camioncino da trasporto passeggeri a lunga distanza,6,0.0
+iter1,VEHICLES,camion,truck,camioncino da trasporto passeggeri a corta distanza,7,0.0
+iter1,VEHICLES,camion,truck,camioncino da trasporto passeggeri a corta distanza con guida,8,0.0
+iter1,VEHICLES,camion,truck,camioncino da trasporto passeggeri a corta distanza senza guida,9,0.0
+iter1,VEHICLES,camion,truck,camioncino da trasporto passeggeri a lunga distanza con guida,10,0.0
+iter1,VEHICLES,camion,truck,,11,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro,1,13940.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro a tre ramificazioni,2,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro a cinque ramificazioni,3,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro a sette ramificazioni,4,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro a nove ramificazioni,5,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro a dodici ramificazioni,6,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro a quindici ramificazioni,7,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro a diciotto ramificazioni,8,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro a ventuno ramificazioni,9,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro a venticinque ramificazioni,10,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro a trenta ramificazioni,11,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro a trentasei ramificazioni,12,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candelabro a quaranta ramificazioni,13,0.0
+iter1,FURNISHINGS/FITTINGS,candelabro,candelabrum,candel,14,103.0
+iter1,ANIMALS,cane,dog,cane da passeggio,1,36.0
+iter1,ANIMALS,cane,dog,cane da gita,2,0.0
+iter1,ANIMALS,cane,dog,cane da caccia,3,153.0
+iter1,ANIMALS,cane,dog,cane da pesca,4,9.0
+iter1,ANIMALS,cane,dog,cane da lavoro,5,30.0
+iter1,ANIMALS,cane,dog,cane da giardino,6,16.0
+iter1,ANIMALS,cane,dog,cane da corsa,7,20.0
+iter1,CLOTHES,canottiera,singlet,canottiera,1,7946.0
+iter1,CLOTHES,canottiera,singlet,canottiera da barca,2,0.0
+iter1,CLOTHES,canottiera,singlet,canottiera da yacht,3,0.0
+iter1,CLOTHES,canottiera,singlet,canottiera da vela,4,0.0
+iter1,CLOTHES,canottiera,singlet,canottiera da motonave,5,0.0
+iter1,CLOTHES,canottiera,singlet,canottiera da canoa,6,0.0
+iter1,CLOTHES,canottiera,singlet,canottiera da kayak,7,0.0
+iter1,CLOTHES,canottiera,singlet,canottiera da canoa da esplorazione,8,0.0
+iter1,CLOTHES,canottiera,singlet,canottiera da canoa da slalom,9,0.0
+iter1,CLOTHES,canottiera,singlet,canottiera da canoa da canoeismo,10,0.0
+iter1,CLOTHES,canottiera,singlet,canottiera da canoa da canoeismo di velocità,11,0.0
+iter1,CLOTHES,canottiera,singlet,canottiera da canoa da canoeismo di slalom,12,0.0
+iter1,CLOTHES,canottiera,singlet,canottiera da canoa da canoeismo di maratona,13,0.0
+iter1,CLOTHES,canottiera,singlet,canottiera da canoa da canoeismo di maratona di velocità,14,0.0
+iter1,CLOTHES,canottiera,singlet,,15,0.0
+iter1,BODY PARTS,capello,hair,berretto,1,18675.0
+iter1,BODY PARTS,capello,hair,cappello,2,17040.0
+iter1,BODY PARTS,capello,hair,cappuccio,3,13089.0
+iter1,BODY PARTS,capello,hair,cappellino,4,11911.0
+iter1,BODY PARTS,capello,hair,cappellone,5,3578.0
+iter1,BODY PARTS,capello,hair,cappellaccio,6,3750.0
+iter1,BODY PARTS,capello,hair,c,7,23611.0
+iter1,CLOTHES,cappello,hat,cappello di carta,1,27.0
+iter1,CLOTHES,cappello,hat,cappello di feltro,2,21.0
+iter1,CLOTHES,cappello,hat,cappello di peltro,3,0.0
+iter1,CLOTHES,cappello,hat,cappello di piuma,4,21.0
+iter1,CLOTHES,cappello,hat,cappello di tela,5,20.0
+iter1,CLOTHES,cappello,hat,cappello di velluto,6,20.0
+iter1,CLOTHES,cappello,hat,cappello di lana,7,28.0
+iter1,CLOTHES,cappello,hat,cappello di lino,8,1.0
+iter1,CLOTHES,cappello,hat,cappello di seta,9,22.0
+iter1,CLOTHES,cappello,hat,cappello di cotone,10,20.0
+iter1,CLOTHES,cappello,hat,cappello di lana merino,11,1.0
+iter1,CLOTHES,cappello,hat,cappello di lana pura,12,0.0
+iter1,CLOTHES,cappello,hat,cappello di lana pura merino,13,0.0
+iter1,CLOTHES,cappello,hat,cappello di lana pura merino extra fine,14,0.0
+iter1,CLOTHES,cappello,hat,cappello di lana pura merino extra fine 100,15,0.0
+iter1,CLOTHES,cappotto,coat,cappotto,1,11091.0
+iter1,CLOTHES,cappotto,coat,cappotto da neve,2,5.0
+iter1,CLOTHES,cappotto,coat,cappotto da pioggia,3,0.0
+iter1,CLOTHES,cappotto,coat,cappotto da vento,4,0.0
+iter1,CLOTHES,cappotto,coat,cappotto da freddo,5,0.0
+iter1,CLOTHES,cappotto,coat,cappotto da caldo,6,0.0
+iter1,CLOTHES,cappotto,coat,cappotto da pi,7,0.0
+iter1,FOODS,carne,meat,pollo,1,19596.0
+iter1,FOODS,carne,meat,maiale,2,14621.0
+iter1,FOODS,carne,meat,bovino,3,14835.0
+iter1,FOODS,carne,meat,pesce,4,19874.0
+iter1,FOODS,carne,meat,carne di manzo,5,20.0
+iter1,FOODS,carne,meat,carne di maiale,6,67.0
+iter1,FOODS,carne,meat,carne di pollo,7,70.0
+iter1,FOODS,carne,meat,carne di pesce,8,20.0
+iter1,FOODS,carne,meat,carne di vitello,9,48.0
+iter1,FOODS,carne,meat,carne di maiale nero,10,20.0
+iter1,FOODS,carne,meat,carne di maiale bianco,11,5.0
+iter1,FOODS,carne,meat,carne di maiale rosa,12,0.0
+iter1,FOODS,carne,meat,carne di maiale nero americano,13,0.0
+iter1,FOODS,carne,meat,carne di maiale nero spagnolo,14,0.0
+iter1,FOODS,carne,meat,carne di maiale nero inglese,15,0.0
+iter1,FOODS,carne,meat,carne di maiale nero francese,16,0.0
+iter1,FOODS,carne,meat,carne di maiale nero tedesco,17,0.0
+iter1,FOODS,carne,meat,carne di maiale nero austriaco,18,0.0
+iter1,VEHICLES,carrozza,carriage,autobus,1,331938.0
+iter1,VEHICLES,carrozza,carriage,treno,2,16540.0
+iter1,VEHICLES,carrozza,carriage,tranvia,3,5658.0
+iter1,VEHICLES,carrozza,carriage,metro,4,19529.0
+iter1,VEHICLES,carrozza,carriage,taxi,5,16427.0
+iter1,VEHICLES,carrozza,carriage,pullman,6,17974.0
+iter1,VEHICLES,carrozza,carriage,camioncino,7,9300.0
+iter1,VEHICLES,carrozza,carriage,carrozza turistica,8,2.0
+iter1,VEHICLES,carrozza,carriage,carrozza funicolare,9,1.0
+iter1,VEHICLES,carrozza,carriage,carrozza ferroviaria,10,41.0
+iter1,VEHICLES,carrozza,carriage,carrozza a cavallo,11,23.0
+iter1,VEHICLES,carrozza,carriage,carrozza a tracolla,12,0.0
+iter1,VEHICLES,carrozza,carriage,carrozza a mula,13,0.0
+iter1,VEHICLES,carrozza,carriage,carrozza a dromedario,14,0.0
+iter1,VEHICLES,carrozza,carriage,carrozza a camello,15,0.0
+iter1,VEHICLES,carrozza,carriage,carrozza a elefante,16,0.0
+iter1,VEHICLES,carrozza,carriage,carrozza a ippopotamo,17,0.0
+iter1,VEHICLES,carrozza,carriage,carrozza a ippopotamo africano,18,0.0
+iter1,VEHICLES,carrozza,carriage,carrozza a ippopotamo asiatico,19,0.0
+iter1,VEHICLES,carrozza,carriage,carrozza a ippopotamo sud,20,0.0
+iter1,HOBBIES,carte,cards,tarocchi,1,31303.0
+iter1,HOBBIES,carte,cards,carte da gioco,2,101.0
+iter1,HOBBIES,carte,cards,carte di visita,3,10.0
+iter1,HOBBIES,carte,cards,carte di credito,4,301.0
+iter1,HOBBIES,carte,cards,carte di scommessa,5,0.0
+iter1,HOBBIES,carte,cards,carte di posta,6,0.0
+iter1,HOBBIES,carte,cards,carte di posta elettronica,7,0.0
+iter1,HOBBIES,carte,cards,carte di posta elettronica elettronica,8,0.0
+iter1,HOBBIES,carte,cards,carte di posta elettronica elettronica elettronica elettronica elettronica elettronica elettronica elettronica elettronica elettronica elettronica elettronica elettronica elettronica elettronica elettronica e,9,0.0
+iter1,FURNITURE,cassettiera,chest of drawers,cassettiera di legno,1,22.0
+iter1,FURNITURE,cassettiera,chest of drawers,cassettiera di vetro,2,0.0
+iter1,FURNITURE,cassettiera,chest of drawers,cassettiera di plastica,3,1.0
+iter1,FURNITURE,cassettiera,chest of drawers,cassettiera di metallo,4,3.0
+iter1,FURNITURE,cassettiera,chest of drawers,cassettiera di vetro con porta,5,0.0
+iter1,FURNITURE,cassettiera,chest of drawers,cassettiera di vetro con porta e raccordi,6,0.0
+iter1,FURNITURE,cassettiera,chest of drawers,cassettiera di vetro con porta e raccordi e maniglie,7,0.0
+iter1,FURNITURE,cassettiera,chest of drawers,cassettiera di vetro con porta e raccordi e maniglie e scaffale,8,0.0
+iter1,FURNITURE,cassettiera,chest of drawers,cassettiera di vetro con porta e raccordi e maniglie e scaffale e raccordi laterali,9,0.0
+iter1,FURNITURE,cassettiera,chest of drawers,cassettiera di vetro con porta e r,10,0.0
+iter1,ANIMALS,cavallo,horse,cavallo da corsa,1,37.0
+iter1,ANIMALS,cavallo,horse,cavallo da lavoro,2,30.0
+iter1,ANIMALS,cavallo,horse,cavallo da equitazione,3,20.0
+iter1,ANIMALS,cavallo,horse,cavallo da sella,4,34.0
+iter1,ANIMALS,cavallo,horse,cavallo da carro,5,4.0
+iter1,ANIMALS,cavallo,horse,cavallo da caccia,6,22.0
+iter1,ANIMALS,cavallo,horse,cavallo da guerra,7,28.0
+iter1,ANIMALS,cavallo,horse,cavallo da polo,8,20.0
+iter1,ANIMALS,cavallo,horse,cavallo da salto,9,29.0
+iter1,ANIMALS,cavallo,horse,cavallo da trote,10,0.0
+iter1,ANIMALS,cavallo,horse,cavallo da gara,11,24.0
+iter1,ANIMALS,cavallo,horse,cavallo da gara,12,24.0
+iter1,HOBBIES,cd,CD,compact disc,1,4640.0
+iter1,HOBBIES,cd,CD,cd-rom,2,24137.0
+iter1,HOBBIES,cd,CD,cd-audio,3,782.0
+iter1,HOBBIES,cd,CD,cd-video,4,15.0
+iter1,HOBBIES,cd,CD,cd-data,5,1.0
+iter1,HOBBIES,cd,CD,cd-r,6,3166.0
+iter1,HOBBIES,cd,CD,cd-rw,7,1240.0
+iter1,HOBBIES,cd,CD,cd-ram,8,2.0
+iter1,HOBBIES,cd,CD,cd-dvd,9,724.0
+iter1,HOBBIES,cd,CD,cd-hd dvd,10,0.0
+iter1,HOBBIES,cd,CD,cd-blu-ray,11,0.0
+iter1,HOBBIES,cd,CD,cd-4k,12,0.0
+iter1,HOBBIES,cd,CD,cd-3d,13,0.0
+iter1,HOBBIES,cd,CD,cd-vr,14,0.0
+iter1,HOBBIES,cd,CD,cd-ar,15,0.0
+iter1,HOBBIES,cd,CD,cd-sr,16,0.0
+iter1,HOBBIES,cd,CD,cd-cr,17,0.0
+iter1,HOBBIES,cd,CD,cd-dr,18,0.0
+iter1,HOBBIES,cd,CD,cd-tr,19,0.0
+iter1,HOBBIES,cd,CD,cd-sr-dts,20,0.0
+iter1,HOBBIES,cd,CD,cd-sr-dts-hd,21,0.0
+iter1,HOBBIES,cd,CD,cd-sr-dts-hd ma,22,0.0
+iter1,HOBBIES,cd,CD,cd-sr-dts-hd ma,23,0.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di gravità,1,26.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa,2,45.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa del sistema,3,21.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa del pianeta,4,7.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa del sistema solare,5,21.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa del sistema galattico,6,0.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa del sistema universale,7,0.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa del sistema bianco,8,0.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa del sistema nero,9,0.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa del sistema quasar,10,0.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa del sistema supermassivo,11,0.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa del sistema nero supermassivo,12,0.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa del sistema nero supermassivo quasar,13,0.0
+iter1,FURNISHINGS/FITTINGS,centrotavola,centerpiece,centro di massa del sistema nero supermass,14,0.0
+iter1,FOODS,cereale,cereal,mais,1,15458.0
+iter1,FOODS,cereale,cereal,riso,2,363062.0
+iter1,FOODS,cereale,cereal,frumento,3,20420.0
+iter1,FOODS,cereale,cereal,orzo,4,17095.0
+iter1,FOODS,cereale,cereal,farro,5,22777.0
+iter1,FOODS,cereale,cereal,amaranto,6,15417.0
+iter1,FOODS,cereale,cereal,quinoa,7,13359.0
+iter1,FOODS,cereale,cereal,maischio,8,0.0
+iter1,FOODS,cereale,cereal,mais cotto,9,119.0
+iter1,FOODS,cereale,cereal,mais integrale,10,121.0
+iter1,FOODS,cereale,cereal,mais integrale bianco,11,0.0
+iter1,FOODS,cereale,cereal,mais integrale nero,12,0.0
+iter1,FOODS,cereale,cereal,mais integrale rosso,13,0.0
+iter1,FOODS,cereale,cereal,mais integrale giallo,14,0.0
+iter1,FOODS,cereale,cereal,mais integrale verde,15,0.0
+iter1,FOODS,cereale,cereal,mais integrale rosso scarlatto,16,0.0
+iter1,FOODS,cereale,cereal,mais integrale rosso scarlatto nero,17,0.0
+iter1,FOODS,cereale,cereal,mais integrale rosso scarlatto giallo,18,0.0
+iter1,FOODS,cereale,cereal,mais integrale rosso scarlatto giallo nero,19,0.0
+iter1,FOODS,cereale,cereal,mais integrale rosso scarlatto giallo nero bianco,20,0.0
+iter1,BODY PARTS,cervello,brain,cerebro,1,1651.0
+iter1,BODY PARTS,cervello,brain,encefalo,2,10935.0
+iter1,BODY PARTS,cervello,brain,cervello umano,3,196.0
+iter1,BODY PARTS,cervello,brain,cervello animale,4,92.0
+iter1,BODY PARTS,cervello,brain,cervello insettiforme,5,0.0
+iter1,BODY PARTS,cervello,brain,cervello di rettiliano,6,0.0
+iter1,BODY PARTS,cervello,brain,cervello di mollusco,7,0.0
+iter1,BODY PARTS,cervello,brain,cervello di invertebrato,8,0.0
+iter1,BODY PARTS,cervello,brain,cervello di insetto,9,1.0
+iter1,BODY PARTS,cervello,brain,cervello di pesce,10,3.0
+iter1,BODY PARTS,cervello,brain,cervello di mammifero,11,21.0
+iter1,BODY PARTS,cervello,brain,cervello di uccello,12,5.0
+iter1,BODY PARTS,cervello,brain,cervello di primate,13,17.0
+iter1,BODY PARTS,cervello,brain,cervello di umano,14,7.0
+iter1,BODY PARTS,cervello,brain,cervello di neonato,15,13.0
+iter1,BODY PARTS,cervello,brain,cervello di bambino,16,23.0
+iter1,BODY PARTS,cervello,brain,cervello,17,18590.0
+iter1,HOBBIES,chitarra,guitar,chitarra acustica,1,1024.0
+iter1,HOBBIES,chitarra,guitar,chitarra elettrica,2,21649.0
+iter1,HOBBIES,chitarra,guitar,chitarra basso,3,330.0
+iter1,HOBBIES,chitarra,guitar,chitarra classica,4,518.0
+iter1,HOBBIES,chitarra,guitar,chitarra a 12 corde,5,25.0
+iter1,HOBBIES,chitarra,guitar,chitarra a 6 corde,6,20.0
+iter1,HOBBIES,chitarra,guitar,chitarra a 4 corde,7,20.0
+iter1,HOBBIES,chitarra,guitar,chitarra a 5 corde,8,20.0
+iter1,HOBBIES,chitarra,guitar,chitarra a 7 corde,9,21.0
+iter1,HOBBIES,chitarra,guitar,chitarra a 8 corde,10,27.0
+iter1,HOBBIES,chitarra,guitar,chitarra a 9 corde,11,8.0
+iter1,HOBBIES,chitarra,guitar,chitarra a 10 corde,12,23.0
+iter1,HOBBIES,chitarra,guitar,chitarra a 11 corde,13,4.0
+iter1,HOBBIES,chitarra,guitar,chitarra a 14 corde,14,5.0
+iter1,HOBBIES,chitarra,guitar,chitarra a 16 corde,15,1.0
+iter1,HOBBIES,chitarra,guitar,ch,16,13821.0
+iter1,PLANTS,ciclamino,cyclamen,ciclamino,1,9522.0
+iter1,PLANTS,ciclamino,cyclamen,ciclomotore,2,18505.0
+iter1,PLANTS,ciclamino,cyclamen,ciclomotore elettrico,3,305.0
+iter1,PLANTS,ciclamino,cyclamen,ciclomotore a pedali,4,24.0
+iter1,PLANTS,ciclamino,cyclamen,ciclomotore a motore,5,8.0
+iter1,PLANTS,ciclamino,cyclamen,ciclomotore a pedali elettrico,6,0.0
+iter1,PLANTS,ciclamino,cyclamen,ciclomotore a motore elettrico,7,0.0
+iter1,PLANTS,ciclamino,cyclamen,c,8,23611.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio,1,20020.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio a rotelle,2,0.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio a disco,3,0.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio a pettine,4,0.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio a tamburo,5,0.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio a tamburo a disco,6,0.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio a tamburo a rotelle,7,0.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio a tamburo a pettine,8,0.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio a tamburo a disco a rotelle,9,0.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio a tamburo a disco a pettine,10,0.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio a tamburo a rotelle a pettine,11,0.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio a tamburo a rotelle a disco,12,0.0
+iter1,PLANTS,ciliegio,cherry tree,ciliegio a tamburo a disco a rotelle a pettine,13,0.0
+iter1,PLANTS,ciliegio,cherry tree,cilie,14,29.0
+iter1,FOODS,cioccolato,chocolate,cioccolata,1,16745.0
+iter1,FOODS,cioccolato,chocolate,cioccolata fondente,2,450.0
+iter1,FOODS,cioccolato,chocolate,cioccolata bianco,3,399.0
+iter1,FOODS,cioccolato,chocolate,cioccolata nero,4,41.0
+iter1,FOODS,cioccolato,chocolate,cioccolata con latte,5,9.0
+iter1,FOODS,cioccolato,chocolate,cioccolata con noci,6,0.0
+iter1,FOODS,cioccolato,chocolate,cioccolata con frutta,7,7.0
+iter1,FOODS,cioccolato,chocolate,cioccolata con arancia,8,0.0
+iter1,FOODS,cioccolato,chocolate,cioccolata con caramello,9,1.0
+iter1,FOODS,cioccolato,chocolate,cioccolata con panna,10,24.0
+iter1,FOODS,cioccolato,chocolate,cioccolata con crema,11,6.0
+iter1,FOODS,cioccolato,chocolate,cioccolata con frullato,12,0.0
+iter1,FOODS,cioccolato,chocolate,cioccolata con banana,13,0.0
+iter1,FOODS,cioccolato,chocolate,cioccolata con caramello bianco,14,0.0
+iter1,FOODS,cioccolato,chocolate,cioccolata con caramello nero,15,0.0
+iter1,STATIONERY,colla,glue,adesivo,1,177444.0
+iter1,STATIONERY,colla,glue,adesivo per pelli,2,2.0
+iter1,STATIONERY,colla,glue,adesivo per metalli,3,10.0
+iter1,STATIONERY,colla,glue,adesivo per vetro,4,20.0
+iter1,STATIONERY,colla,glue,adesivo per plastica,5,3.0
+iter1,STATIONERY,colla,glue,adesivo per legno,6,24.0
+iter1,STATIONERY,colla,glue,adesivo per carta,7,20.0
+iter1,STATIONERY,colla,glue,,8,0.0
+iter1,BODY PARTS,collo,neck,collare,1,18046.0
+iter1,BODY PARTS,collo,neck,colletto,2,15596.0
+iter1,BODY PARTS,collo,neck,colonna,3,16457.0
+iter1,BODY PARTS,collo,neck,colonna vertebrale,4,2322.0
+iter1,BODY PARTS,collo,neck,colonna di supporto,5,20.0
+iter1,BODY PARTS,collo,neck,colonna di sostegno,6,33.0
+iter1,BODY PARTS,collo,neck,colonna di sostegno per il lavoro,7,0.0
+iter1,BODY PARTS,collo,neck,colonna di sostegno per il lavoro pesante,8,0.0
+iter1,BODY PARTS,collo,neck,colonna di sostegno per il lavoro pesante con maniche,9,0.0
+iter1,BODY PARTS,collo,neck,colonna di sostegno per il lavoro pesante con maniche lunghe,10,0.0
+iter1,BODY PARTS,collo,neck,colonna di sostegno per il lavoro pesante con maniche corte,11,0.0
+iter1,BODY PARTS,collo,neck,colonna di,12,233.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di legno,1,20.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di marmo,2,23.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di pietra,3,22.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di vetro,4,20.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di metallo,5,20.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di cemento,6,23.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di ferro,7,21.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di acciaio,8,24.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di alluminio,9,8.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di vetro sottopesto,10,0.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di vetro temperato,11,0.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di vetro laminato,12,0.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di vetro sottopesto temperato,13,0.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di vetro laminato temperato,14,0.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di vetro sottopesto laminato temperato,15,0.0
+iter1,HOUSING BUILDINGS,colonna,column,colonna di vet,16,0.0
+iter1,KITCHENWARE,coltello,knife,coltello da cucina,1,103.0
+iter1,KITCHENWARE,coltello,knife,coltello da carne,2,30.0
+iter1,KITCHENWARE,coltello,knife,coltello da frullato,3,0.0
+iter1,KITCHENWARE,coltello,knife,coltello da taglio,4,25.0
+iter1,KITCHENWARE,coltello,knife,coltello da pettinato,5,0.0
+iter1,KITCHENWARE,coltello,knife,coltello da cucitura,6,0.0
+iter1,KITCHENWARE,coltello,knife,coltello da legno,7,0.0
+iter1,KITCHENWARE,coltello,knife,,8,0.0
+iter1,FURNITURE,comodino,bedside table,bidet,1,17369.0
+iter1,FURNITURE,comodino,bedside table,urinal,2,30.0
+iter1,FURNITURE,comodino,bedside table,lavandino,3,18972.0
+iter1,FURNITURE,comodino,bedside table,lavandino per bambini,4,11.0
+iter1,FURNITURE,comodino,bedside table,bidet per bambini,5,1.0
+iter1,FURNITURE,comodino,bedside table,bidet per gatti,6,0.0
+iter1,FURNITURE,comodino,bedside table,bidet per cani,7,1.0
+iter1,FURNITURE,comodino,bedside table,bidet per cavalli,8,0.0
+iter1,FURNITURE,comodino,bedside table,bidet per cavie,9,0.0
+iter1,FURNITURE,comodino,bedside table,bidet per coniglio,10,0.0
+iter1,FURNITURE,comodino,bedside table,bidet per conig,11,0.0
+iter1,HOBBIES,computer,computer,desktop,1,17977.0
+iter1,HOBBIES,computer,computer,laptop,2,21577.0
+iter1,HOBBIES,computer,computer,tablet,3,23900.0
+iter1,HOBBIES,computer,computer,smartphone,4,16969.0
+iter1,HOBBIES,computer,computer,server,5,17302.0
+iter1,HOBBIES,computer,computer,mainframe,6,5664.0
+iter1,HOBBIES,computer,computer,supercomputer,7,7221.0
+iter1,HOBBIES,computer,computer,workstation,8,15482.0
+iter1,HOBBIES,computer,computer,personal computer,9,1622.0
+iter1,HOBBIES,computer,computer,home computer,10,120.0
+iter1,HOBBIES,computer,computer,gaming computer,11,13.0
+iter1,HOBBIES,computer,computer,mini computer,12,20.0
+iter1,HOBBIES,computer,computer,netbook,13,14369.0
+iter1,HOBBIES,computer,computer,notebook,14,16042.0
+iter1,HOBBIES,computer,computer,ultrabook,15,5430.0
+iter1,HOBBIES,computer,computer,all-in-one,16,8837.0
+iter1,HOBBIES,computer,computer,thin client,17,462.0
+iter1,HOBBIES,computer,computer,thick client,18,11.0
+iter1,HOBBIES,computer,computer,cloud computing,19,3004.0
+iter1,HOBBIES,computer,computer,virtual machine,20,1060.0
+iter1,HOBBIES,computer,computer,serverless computing,21,94.0
+iter1,HOBBIES,computer,computer,edge computing,22,644.0
+iter1,HOBBIES,computer,computer,fog computing,23,157.0
+iter1,HOBBIES,computer,computer,grid computing,24,369.0
+iter1,HOBBIES,computer,computer,distributed computing,25,133.0
+iter1,HOBBIES,computer,computer,parallel computing,26,116.0
+iter1,HOBBIES,computer,computer,high performance computing,27,77.0
+iter1,HOBBIES,computer,computer,supercomputing,28,558.0
+iter1,HOBBIES,computer,computer,quantum computing,29,408.0
+iter1,HOBBIES,computer,computer,artificial intelligence,30,1508.0
+iter1,HOBBIES,computer,computer,machine learning,31,2131.0
+iter1,HOBBIES,computer,computer,deep learning,32,1147.0
+iter1,HOBBIES,computer,computer,natural language processing,33,220.0
+iter1,HOBBIES,computer,computer,computer vision,34,103.0
+iter1,HOBBIES,computer,computer,robotics,35,4916.0
+iter1,HOBBIES,computer,computer,computer graphics,36,78.0
+iter1,HOBBIES,computer,computer,computer networking,37,46.0
+iter1,HOBBIES,computer,computer,computer security,38,250.0
+iter1,HOBBIES,computer,computer,cyber,39,16675.0
+iter1,FURNITURE,comò,dresser,manuale,1,14495.0
+iter1,FURNITURE,comò,dresser,telefonico,2,19183.0
+iter1,FURNITURE,comò,dresser,via postale,3,146.0
+iter1,FURNITURE,comò,dresser,via e-mail,4,415.0
+iter1,FURNITURE,comò,dresser,via fax,5,217.0
+iter1,FURNITURE,comò,dresser,via web,6,147.0
+iter1,ANIMALS,coniglio,rabbit,coniglio selvatico,1,226.0
+iter1,ANIMALS,coniglio,rabbit,coniglio domestico,2,31.0
+iter1,ANIMALS,coniglio,rabbit,coniglio americano,3,1.0
+iter1,ANIMALS,coniglio,rabbit,coniglio europeo,4,35.0
+iter1,ANIMALS,coniglio,rabbit,coniglio giapponese,5,5.0
+iter1,ANIMALS,coniglio,rabbit,coniglio australiano,6,14.0
+iter1,ANIMALS,coniglio,rabbit,coniglio nero,7,156.0
+iter1,ANIMALS,coniglio,rabbit,coniglio bianco,8,1059.0
+iter1,ANIMALS,coniglio,rabbit,coniglio arlecchino,9,6.0
+iter1,ANIMALS,coniglio,rabbit,coniglio di legno,10,10.0
+iter1,ANIMALS,coniglio,rabbit,coniglio di carta,11,9.0
+iter1,ANIMALS,coniglio,rabbit,coniglio di plastica,12,8.0
+iter1,ANIMALS,coniglio,rabbit,coniglio di cart,13,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di pavimento,1,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di parete,2,6.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di soffa,3,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di tavolo,4,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di porta,5,20.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di finestrella,6,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di finestre,7,21.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di vetro,8,23.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di vetro stile antico,9,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di vetro stile moderno,10,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di vetro stile rustico,11,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di vetro stile classico,12,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di vetro stile art deco,13,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di vetro stile barocco,14,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di vetro stile gotico,15,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di vetro stile romano,16,0.0
+iter1,FURNISHINGS/FITTINGS,cornice,frame,cornice di vetro st,17,0.0
+iter1,FURNITURE,credenza,cupboard,armadio,1,21279.0
+iter1,FURNITURE,credenza,cupboard,buffet,2,15945.0
+iter1,FURNITURE,credenza,cupboard,credenza,3,142189.0
+iter1,FURNITURE,credenza,cupboard,credenza in legno,4,34.0
+iter1,FURNITURE,credenza,cupboard,credenza in vetro,5,4.0
+iter1,FURNITURE,credenza,cupboard,credenza in vetro con porta,6,0.0
+iter1,FURNITURE,credenza,cupboard,credenza in vetro con porta chiusa,7,0.0
+iter1,FURNITURE,credenza,cupboard,credenza in vetro con porta aperta,8,0.0
+iter1,FURNITURE,credenza,cupboard,credenza in vetro con porta aperta chiusa,9,0.0
+iter1,FURNITURE,credenza,cupboard,credenza in vetro con porta aperta chiusa con vetri,10,0.0
+iter1,FURNITURE,credenza,cupboard,credenza in vetro con porta aperta chiusa con vetri colorati,11,0.0
+iter1,FURNITURE,credenza,cupboard,credenza in vetro con porta aperta chiusa con vetri colorati con vetri neri,12,0.0
+iter1,FURNITURE,credenza,cupboard,credenza in vetro con porta aperta ch,13,0.0
+iter1,HOBBIES,cruciverba,crossword,cruciverba,1,9300.0
+iter1,HOBBIES,cruciverba,crossword,crossword puzzle,2,36.0
+iter1,HOBBIES,cruciverba,crossword,sudoku,3,5478.0
+iter1,HOBBIES,cruciverba,crossword,nonogrammi,4,19.0
+iter1,HOBBIES,cruciverba,crossword,enigmi,5,31386.0
+iter1,HOBBIES,cruciverba,crossword,puzzles,6,1146.0
+iter1,HOBBIES,cruciverba,crossword,riddles,7,237.0
+iter1,HOBBIES,cruciverba,crossword,enigmi logici,8,82.0
+iter1,HOBBIES,cruciverba,crossword,enigmi di deduzione,9,0.0
+iter1,HOBBIES,cruciverba,crossword,enigmi di analisi,10,0.0
+iter1,HOBBIES,cruciverba,crossword,enigmi di indovinanza,11,0.0
+iter1,HOBBIES,cruciverba,crossword,enigmi di risoluzione,12,0.0
+iter1,HOBBIES,cruciverba,crossword,enigmi di analisi logica,13,0.0
+iter1,HOBBIES,cruciverba,crossword,enigmi di analisi matematica,14,0.0
+iter1,HOBBIES,cruciverba,crossword,enigmi di analisi linguistica,15,0.0
+iter1,HOBBIES,cruciverba,crossword,enigmi di analisi storica,16,0.0
+iter1,HOBBIES,cruciverba,crossword,enigmi di analisi scientifica,17,0.0
+iter1,HOBBIES,cruciverba,crossword,enigmi di analisi filosofica,18,0.0
+iter1,HOBBIES,cruciverba,crossword,enigmi di analisi psicologica,19,0.0
+iter1,HOBBIES,cruciverba,crossword,enigmi di,20,31.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti,1,25161.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da cucina,2,24.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da tavola,3,22.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da pranzo,4,4.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da cena,5,2.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da pasto,6,0.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da frullato,7,0.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da banco,8,0.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da tavolino,9,0.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da tavola da pranzo,10,0.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da tavola da cena,11,0.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da tavola da pasto,12,0.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da tavola da frullato,13,0.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da tavola da banco,14,0.0
+iter1,KITCHENWARE,cucchiaio,spoon,piatti da tavola da pasto,15,0.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno,1,20681.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,frigorifero,2,14771.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,lavastoviglie,3,21923.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,tostapane,4,9700.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,microonde,5,20211.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,lavatrice,6,131287.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,cucinino,7,11282.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno a legna,8,289.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno a gas,9,40.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno a vapore,10,28.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno a induzione,11,35.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno a induzione a gas,12,0.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno a induzione a legna,13,0.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno a induzione a vapore,14,0.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno a vapore a gas,15,0.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno a vapore a legna,16,0.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno a vapore a vapore,17,0.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno a vapore a gas a legna,18,0.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,forno a vapore a legna a vapore,19,0.0
+iter1,HOUSING BUILDINGS,cucina,kitchen,for,20,18427.0
+iter1,BODY PARTS,cuore,heart,cuore umano,1,49.0
+iter1,BODY PARTS,cuore,heart,cuore animale,2,52.0
+iter1,BODY PARTS,cuore,heart,cuore vegetale,3,10.0
+iter1,BODY PARTS,cuore,heart,cuore di legno,4,24.0
+iter1,BODY PARTS,cuore,heart,cuore di pietra,5,52.0
+iter1,BODY PARTS,cuore,heart,cuore di vetro,6,21.0
+iter1,BODY PARTS,cuore,heart,cuore di ghiaccio,7,34.0
+iter1,BODY PARTS,cuore,heart,cuore di cristallo,8,21.0
+iter1,BODY PARTS,cuore,heart,cu,9,17198.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da letto,1,23.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da sedere,2,2.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da riposo,3,9.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da giochi,4,0.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da bagno,5,14.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da viaggio,6,22.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da camicia,7,0.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da piuma,8,0.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da polvere,9,1.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da neve,10,1.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da sabbia,11,0.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da ghiaccio,12,0.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,cuscino da acqua,13,22.0
+iter1,FURNISHINGS/FITTINGS,cuscino,pillow,c,14,23611.0
+iter1,ANIMALS,delfino,dolphin,delfino comune,1,123.0
+iter1,ANIMALS,delfino,dolphin,delfino del pacifico,2,6.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar rosso,3,4.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar mediterraneo,4,4.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar nero,5,6.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar bianco,6,0.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar dei caraibi,7,1.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar argento,8,0.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar dei sargassi,9,0.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar delle antille,10,0.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar delle azzurre,11,0.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar delle baleari,12,0.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar delle isole canarie,13,0.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar delle isole falkland,14,0.0
+iter1,ANIMALS,delfino,dolphin,delfino del mar delle isole galapagos,15,0.0
+iter1,FURNITURE,divano,sofa,divano a due posti,1,24.0
+iter1,FURNITURE,divano,sofa,divano a tre posti,2,28.0
+iter1,FURNITURE,divano,sofa,divano a quattro posti,3,15.0
+iter1,FURNITURE,divano,sofa,divano a cinque posti,4,4.0
+iter1,FURNITURE,divano,sofa,divano a sei posti,5,1.0
+iter1,FURNITURE,divano,sofa,divano a sette posti,6,2.0
+iter1,FURNITURE,divano,sofa,divano a otto posti,7,0.0
+iter1,FURNITURE,divano,sofa,divano a nove posti,8,0.0
+iter1,FURNITURE,divano,sofa,divano a dieci posti,9,0.0
+iter1,FURNITURE,divano,sofa,divano a undici posti,10,0.0
+iter1,FURNITURE,divano,sofa,divano a dodici posti,11,0.0
+iter1,FURNITURE,divano,sofa,divano a tredici posti,12,0.0
+iter1,FURNITURE,divano,sofa,divano a quattordici posti,13,0.0
+iter1,FURNITURE,divano,sofa,divano a quindici posti,14,0.0
+iter1,FURNITURE,divano,sofa,divano a sedici posti,15,0.0
+iter1,FURNITURE,divano,sofa,divano a diciassette posti,16,0.0
+iter1,FURNITURE,divano,sofa,divano a diciannove posti,17,0.0
+iter1,FURNITURE,divano,sofa,div,18,13664.0
+iter1,PLANTS,edera,ivy,edera comune,1,81.0
+iter1,PLANTS,edera,ivy,edera americana,2,1.0
+iter1,PLANTS,edera,ivy,edera gialla,3,1.0
+iter1,PLANTS,edera,ivy,edera rossa,4,22.0
+iter1,PLANTS,edera,ivy,edera verde,5,65.0
+iter1,PLANTS,edera,ivy,edera nera,6,12.0
+iter1,PLANTS,edera,ivy,edera bianca,7,11.0
+iter1,PLANTS,edera,ivy,edera di legno,8,0.0
+iter1,PLANTS,edera,ivy,edera di vetro,9,0.0
+iter1,PLANTS,edera,ivy,edera di plastica,10,3.0
+iter1,PLANTS,edera,ivy,edera di carta,11,16.0
+iter1,PLANTS,edera,ivy,edera di tela,12,0.0
+iter1,PLANTS,edera,ivy,edera di lana,13,0.0
+iter1,PLANTS,edera,ivy,edera di seta,14,1.0
+iter1,PLANTS,edera,ivy,edera di lino,15,0.0
+iter1,PLANTS,edera,ivy,edera di cotone,16,0.0
+iter1,PLANTS,edera,ivy,edera di rame,17,0.0
+iter1,PLANTS,edera,ivy,edera di alluminio,18,0.0
+iter1,PLANTS,edera,ivy,edera di acciaio,19,0.0
+iter1,PLANTS,edera,ivy,edera di vetro temperato,20,0.0
+iter1,PLANTS,edera,ivy,edera di vetro sottile,21,0.0
+iter1,PLANTS,edera,ivy,,22,0.0
+iter1,ANIMALS,elefante,elephant,elefante africano,1,150.0
+iter1,ANIMALS,elefante,elephant,elefante asiatico,2,125.0
+iter1,ANIMALS,elefante,elephant,elefante indiano,3,56.0
+iter1,ANIMALS,elefante,elephant,elefante africano africano,4,1.0
+iter1,ANIMALS,elefante,elephant,elefante africano asiatico,5,0.0
+iter1,ANIMALS,elefante,elephant,elefante africano indiano,6,0.0
+iter1,ANIMALS,elefante,elephant,elefante asiatico africano,7,0.0
+iter1,ANIMALS,elefante,elephant,elefante asiatico asiatico,8,0.0
+iter1,ANIMALS,elefante,elephant,elefante asiatico indiano,9,0.0
+iter1,ANIMALS,elefante,elephant,elefante indiano africano,10,0.0
+iter1,ANIMALS,elefante,elephant,elefante indiano asiatico,11,0.0
+iter1,ANIMALS,elefante,elephant,elefante indiano indiano,12,0.0
+iter1,VEHICLES,elicottero,helicopter,elicottero,1,15099.0
+iter1,VEHICLES,elicottero,helicopter,elicottero militare,2,68.0
+iter1,VEHICLES,elicottero,helicopter,elicottero civile,3,194.0
+iter1,VEHICLES,elicottero,helicopter,elicottero di polizia,4,22.0
+iter1,VEHICLES,elicottero,helicopter,elicottero di emergenza,5,23.0
+iter1,VEHICLES,elicottero,helicopter,elicottero di ricerca e salvataggio,6,6.0
+iter1,VEHICLES,elicottero,helicopter,elicottero di trasporto,7,19.0
+iter1,VEHICLES,elicottero,helicopter,elicottero di ambulanza aerea,8,1.0
+iter1,VEHICLES,elicottero,helicopter,elicottero di soccorso,9,38.0
+iter1,VEHICLES,elicottero,helicopter,elicottero di trasporto vip,10,0.0
+iter1,VEHICLES,elicottero,helicopter,elicottero di trasporto sanitario,11,0.0
+iter1,VEHICLES,elicottero,helicopter,elicottero di trasporto medico,12,0.0
+iter1,VEHICLES,elicottero,helicopter,elicottero di trasporto medico urgente,13,0.0
+iter1,VEHICLES,elicottero,helicopter,elicotter,14,17.0
+iter1,STATIONERY,evidenziatore,marker,testimone,1,18739.0
+iter1,STATIONERY,evidenziatore,marker,prova,2,18768.0
+iter1,STATIONERY,evidenziatore,marker,documento,3,19912.0
+iter1,STATIONERY,evidenziatore,marker,fotografia,4,27116.0
+iter1,STATIONERY,evidenziatore,marker,video,5,15714.0
+iter1,STATIONERY,evidenziatore,marker,testimonianza,6,18201.0
+iter1,STATIONERY,evidenziatore,marker,dichiarazione,7,22658.0
+iter1,STATIONERY,evidenziatore,marker,prova scientifica,8,62.0
+iter1,STATIONERY,evidenziatore,marker,prova tecnica,9,352.0
+iter1,STATIONERY,evidenziatore,marker,prova diretta,10,477.0
+iter1,STATIONERY,evidenziatore,marker,prova indiretta,11,377.0
+iter1,STATIONERY,evidenziatore,marker,prova perizia,12,3.0
+iter1,STATIONERY,evidenziatore,marker,prova per testimonianza,13,2.0
+iter1,STATIONERY,evidenziatore,marker,prova per documento,14,1.0
+iter1,STATIONERY,evidenziatore,marker,prova per fotografia,15,0.0
+iter1,STATIONERY,evidenziatore,marker,prova per video,16,1.0
+iter1,STATIONERY,evidenziatore,marker,prova per dichiarazione,17,1.0
+iter1,STATIONERY,evidenziatore,marker,prova per testim,18,0.0
+iter1,CLOTHES,felpa,sweatshirt,felpa,1,8396.0
+iter1,CLOTHES,felpa,sweatshirt,felpa di lana,2,11.0
+iter1,CLOTHES,felpa,sweatshirt,felpa di cotone,3,22.0
+iter1,CLOTHES,felpa,sweatshirt,felpa di poliestere,4,2.0
+iter1,CLOTHES,felpa,sweatshirt,felpa di poliamida,5,0.0
+iter1,CLOTHES,felpa,sweatshirt,felpa di poliestere con filo di lana,6,0.0
+iter1,CLOTHES,felpa,sweatshirt,felpa di poliestere con filo di cotone,7,0.0
+iter1,CLOTHES,felpa,sweatshirt,felpa di poliestere con filo di poliestere,8,0.0
+iter1,CLOTHES,felpa,sweatshirt,felpa di poliestere con filo di poliamida,9,0.0
+iter1,CLOTHES,felpa,sweatshirt,felpa di poliestere con filo di poliestere con filo di poliamida,10,0.0
+iter1,CLOTHES,felpa,sweatshirt,felpa di poliestere con filo di poliestere con filo di poliestere con filo di poliamida,11,0.0
+iter1,PLANTS,ficus,rubber plant,ficus benjamina,1,419.0
+iter1,PLANTS,ficus,rubber plant,ficus elastica,2,324.0
+iter1,PLANTS,ficus,rubber plant,ficus lyrata,3,101.0
+iter1,PLANTS,ficus,rubber plant,ficus microcarpa,4,109.0
+iter1,PLANTS,ficus,rubber plant,ficus pumila,5,91.0
+iter1,PLANTS,ficus,rubber plant,ficus religiosa,6,40.0
+iter1,PLANTS,ficus,rubber plant,ficus retusa,7,283.0
+iter1,PLANTS,ficus,rubber plant,ficus sepiaria,8,0.0
+iter1,PLANTS,ficus,rubber plant,ficus sycomorus,9,39.0
+iter1,PLANTS,ficus,rubber plant,ficus tinearia,10,0.0
+iter1,PLANTS,ficus,rubber plant,ficus usneoides,11,0.0
+iter1,PLANTS,ficus,rubber plant,ficus virens,12,1.0
+iter1,PLANTS,ficus,rubber plant,ficus williamsii,13,0.0
+iter1,HOUSING BUILDINGS,finestra,window,finestra aperta,1,232.0
+iter1,HOUSING BUILDINGS,finestra,window,finestra chiusa,2,44.0
+iter1,HOUSING BUILDINGS,finestra,window,finestra con vetri,3,22.0
+iter1,HOUSING BUILDINGS,finestra,window,finestra con vetri aperte,4,0.0
+iter1,HOUSING BUILDINGS,finestra,window,finestra con vetri chiusi,5,0.0
+iter1,HOUSING BUILDINGS,finestra,window,finestra con vetri aperte e chiusi,6,0.0
+iter1,HOUSING BUILDINGS,finestra,window,finestra con,7,252.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioraio,1,9144.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,florista,2,50.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,negozio di fiori,3,29.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria,4,1941.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria online,5,3.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria mobile,6,0.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria di frullati,7,0.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria di gelati,8,0.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria di dolci,9,0.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria di cibo,10,0.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria di bevande,11,0.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria di prodotti di bellezza,12,0.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria di prodotti di salute,13,0.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria di prodotti di casa,14,0.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria di prodotti di giardino,15,0.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria di prodotti di animali,16,0.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria di prodotti di bambini,17,0.0
+iter1,FURNISHINGS/FITTINGS,fioriera,flowerpot,fioreria di prodotti,18,0.0
+iter1,STATIONERY,foglio,sheet,foglio di carta,1,131.0
+iter1,STATIONERY,foglio,sheet,foglio di giornale,2,33.0
+iter1,STATIONERY,foglio,sheet,foglio di carta da parati,3,20.0
+iter1,STATIONERY,foglio,sheet,foglio di carta da scrittura,4,1.0
+iter1,STATIONERY,foglio,sheet,foglio di carta da stampa,5,11.0
+iter1,STATIONERY,foglio,sheet,foglio di carta da taglio,6,0.0
+iter1,STATIONERY,foglio,sheet,foglio di carta da scrivere,7,12.0
+iter1,STATIONERY,foglio,sheet,foglio di carta da lettura,8,0.0
+iter1,STATIONERY,foglio,sheet,foglio di carta da disegno,9,22.0
+iter1,STATIONERY,foglio,sheet,foglio di carta da fotografia,10,1.0
+iter1,STATIONERY,foglio,sheet,foglio di carta da cucina,11,26.0
+iter1,STATIONERY,foglio,sheet,foglio di carta da gioco,12,0.0
+iter1,STATIONERY,foglio,sheet,foglio di carta da mangiare,13,0.0
+iter1,STATIONERY,foglio,sheet,foglio,14,17364.0
+iter1,KITCHENWARE,forbice,scissors,forbice da barba,1,9.0
+iter1,KITCHENWARE,forbice,scissors,forbice da capelli,2,3.0
+iter1,KITCHENWARE,forbice,scissors,forbice da denti,3,0.0
+iter1,KITCHENWARE,forbice,scissors,forbice da taglio,4,31.0
+iter1,KITCHENWARE,forbice,scissors,forbice da cucina,5,36.0
+iter1,KITCHENWARE,forbice,scissors,forbice da giardino,6,27.0
+iter1,KITCHENWARE,forbice,scissors,forbice da legno,7,0.0
+iter1,KITCHENWARE,forbice,scissors,forbice da metallo,8,3.0
+iter1,KITCHENWARE,forbice,scissors,forbice da pietra,9,0.0
+iter1,KITCHENWARE,forbice,scissors,forbice da vetro,10,0.0
+iter1,KITCHENWARE,forbice,scissors,forbice da vetro,11,0.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da tavola,1,26.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da pasto,2,1.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da pesce,3,21.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da carne,4,10.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da frullato,5,0.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da riso,6,0.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da spaghetti,7,0.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da gnocchi,8,0.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da polenta,9,0.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da risotto,10,0.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da gelato,11,0.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da crema,12,0.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da yogurt,13,0.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da marmellata,14,0.0
+iter1,KITCHENWARE,forchetta,fork,forchetta da m,15,0.0
+iter1,FOODS,formaggio,cheese,mozzarella,1,20760.0
+iter1,FOODS,formaggio,cheese,parmigiano,2,18020.0
+iter1,FOODS,formaggio,cheese,gorgonzola,3,15895.0
+iter1,FOODS,formaggio,cheese,pecorino,4,14098.0
+iter1,FOODS,formaggio,cheese,parmesan,5,1949.0
+iter1,FOODS,formaggio,cheese,cheddar,6,2421.0
+iter1,FOODS,formaggio,cheese,gouda,7,1499.0
+iter1,FOODS,formaggio,cheese,brie,8,7697.0
+iter1,FOODS,formaggio,cheese,feta,9,7115.0
+iter1,FOODS,formaggio,cheese,pepper jack,10,13.0
+iter1,FOODS,formaggio,cheese,provolone,11,6502.0
+iter1,FOODS,formaggio,cheese,b,12,23113.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,fotocamera,1,23184.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,telecamera,2,26326.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,telefoto,3,279.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,fotolithografia,4,0.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,fotogiornalismo,5,5271.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,fotografia aerea,6,68.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,fotografia satellitare,7,364.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,fotografia infrarossa,8,32.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,fotografia a colori,9,50.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,fotografia nera e bianca,10,0.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,fotografia panoramica,11,405.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,fotografia 3d,12,86.0
+iter1,FURNISHINGS/FITTINGS,fotografia,photography,,13,0.0
+iter1,FOODS,frutta,fruit,mela,1,20103.0
+iter1,FOODS,frutta,fruit,banana,2,16590.0
+iter1,FOODS,frutta,fruit,arancia,3,21056.0
+iter1,FOODS,frutta,fruit,pera,4,16853.0
+iter1,FOODS,frutta,fruit,limone,5,18527.0
+iter1,FOODS,frutta,fruit,melone,6,18742.0
+iter1,FOODS,frutta,fruit,ananas,7,26924.0
+iter1,FOODS,frutta,fruit,kiwi,8,16676.0
+iter1,FOODS,frutta,fruit,mango,9,17627.0
+iter1,FOODS,frutta,fruit,papaya,10,9554.0
+iter1,FOODS,frutta,fruit,cocco,11,24704.0
+iter1,FOODS,frutta,fruit,frambuosa,12,0.0
+iter1,FOODS,frutta,fruit,fragola,13,19228.0
+iter1,FOODS,frutta,fruit,pesche,14,22272.0
+iter1,FOODS,frutta,fruit,prugna,15,18501.0
+iter1,FOODS,frutta,fruit,pomegranate,16,289.0
+iter1,FOODS,frutta,fruit,grappa,17,27916.0
+iter1,FOODS,frutta,fruit,uva,18,16516.0
+iter1,FOODS,frutta,fruit,fico,19,12767.0
+iter1,FOODS,frutta,fruit,lichene,20,10698.0
+iter1,FOODS,frutta,fruit,mirtillo,21,19436.0
+iter1,FOODS,frutta,fruit,mora,22,18515.0
+iter1,FOODS,frutta,fruit,nespolo,23,6494.0
+iter1,FOODS,frutta,fruit,pino,24,41860.0
+iter1,FOODS,frutta,fruit,tangelo,25,89.0
+iter1,FOODS,frutta,fruit,tangerina,26,71.0
+iter1,FOODS,frutta,fruit,uva di vino,27,22.0
+iter1,FOODS,frutta,fruit,uva di frullo,28,0.0
+iter1,FOODS,frutta,fruit,uva di pino,29,4.0
+iter1,FOODS,frutta,fruit,uva di prugna,30,0.0
+iter1,VEHICLES,furgone,van,fiat ducato,1,629.0
+iter1,VEHICLES,furgone,van,volkswagen crafter,2,212.0
+iter1,VEHICLES,furgone,van,mercedes-benz arocs,3,66.0
+iter1,VEHICLES,furgone,van,renault master,4,69.0
+iter1,VEHICLES,furgone,van,peugeot boxer,5,198.0
+iter1,VEHICLES,furgone,van,citroën jumper,6,181.0
+iter1,VEHICLES,furgone,van,iveco daily,7,1268.0
+iter1,VEHICLES,furgone,van,ford transit,8,1607.0
+iter1,VEHICLES,furgone,van,volkswagen transporter,9,399.0
+iter1,VEHICLES,furgone,van,peugeot expert,10,235.0
+iter1,VEHICLES,furgone,van,citroën relay,11,1.0
+iter1,VEHICLES,furgone,van,iveco eurocargo,12,379.0
+iter1,VEHICLES,furgone,van,fiat talento,13,289.0
+iter1,VEHICLES,furgone,van,volkswagen caddy,14,375.0
+iter1,VEHICLES,furgone,van,mercedes-benz aro,15,0.0
+iter1,ANIMALS,gallo,cock,gallo,1,21051.0
+iter1,ANIMALS,gallo,cock,gallina,2,21415.0
+iter1,ANIMALS,gallo,cock,gallo d'arietta,3,0.0
+iter1,ANIMALS,gallo,cock,gallo selvatico,4,94.0
+iter1,ANIMALS,gallo,cock,gallo di battaglia,5,0.0
+iter1,ANIMALS,gallo,cock,gallo di razza,6,25.0
+iter1,ANIMALS,gallo,cock,gallo di fattoria,7,0.0
+iter1,ANIMALS,gallo,cock,gallo di corrida,8,0.0
+iter1,ANIMALS,gallo,cock,gallo di caccia,9,0.0
+iter1,ANIMALS,gallo,cock,gallo di fiera,10,0.0
+iter1,ANIMALS,gallo,cock,gallo di esibizione,11,0.0
+iter1,ANIMALS,gallo,cock,gallo di combattimento,12,2.0
+iter1,ANIMALS,gallo,cock,gallo di fiera di combattimento,13,0.0
+iter1,ANIMALS,gallo,cock,gallo di fiera di corrida,14,0.0
+iter1,ANIMALS,gallo,cock,gallo di fiera di battaglia,15,0.0
+iter1,ANIMALS,gallo,cock,gallo di fiera di razza,16,0.0
+iter1,ANIMALS,gallo,cock,gallo di fiera di caccia,17,0.0
+iter1,ANIMALS,gallo,cock,gallo di fiera di esibizione,18,0.0
+iter1,ANIMALS,gallo,cock,gallo di f,19,0.0
+iter1,BODY PARTS,gamba,leg,gamba,1,21761.0
+iter1,BODY PARTS,gamba,leg,gambissimo,2,2.0
+iter1,BODY PARTS,gamba,leg,gambetta,3,5756.0
+iter1,BODY PARTS,gamba,leg,gambettone,4,7.0
+iter1,BODY PARTS,gamba,leg,gambettino,5,2.0
+iter1,BODY PARTS,gamba,leg,g,6,18728.0
+iter1,ANIMALS,gatto,cat,gatto domestico,1,109.0
+iter1,ANIMALS,gatto,cat,gatto selvatico,2,275.0
+iter1,ANIMALS,gatto,cat,gatto da caccia,3,5.0
+iter1,ANIMALS,gatto,cat,gatto da compagnia,4,26.0
+iter1,ANIMALS,gatto,cat,gatto da giardino,5,7.0
+iter1,ANIMALS,gatto,cat,gatto da caccia selvatico,6,0.0
+iter1,ANIMALS,gatto,cat,gatto da caccia domestico,7,0.0
+iter1,PLANTS,geranio,geranium,geranio comune,1,21.0
+iter1,PLANTS,geranio,geranium,geranio odoroso,2,159.0
+iter1,PLANTS,geranio,geranium,geranio rosa,3,166.0
+iter1,PLANTS,geranio,geranium,geranio giallo,4,3.0
+iter1,PLANTS,geranio,geranium,geranio bianco,5,23.0
+iter1,PLANTS,geranio,geranium,geranio rosso,6,257.0
+iter1,PLANTS,geranio,geranium,geranio rosa rossa,7,0.0
+iter1,PLANTS,geranio,geranium,geranio rosa bianca,8,0.0
+iter1,PLANTS,geranio,geranium,geranio rosa rosa,9,0.0
+iter1,PLANTS,geranio,geranium,geranio rosa rosa rosa,10,0.0
+iter1,PLANTS,geranio,geranium,geranio rosa rosa rosa rosa,11,0.0
+iter1,PLANTS,geranio,geranium,geranio rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa rosa,12,0.0
+iter1,CLOTHES,giacca,jacket,giacca da uomo,1,40.0
+iter1,CLOTHES,giacca,jacket,giacca da donna,2,44.0
+iter1,CLOTHES,giacca,jacket,giacca da bambino,3,32.0
+iter1,CLOTHES,giacca,jacket,giacca da neonato,4,1.0
+iter1,CLOTHES,giacca,jacket,giacca da neonata,5,0.0
+iter1,CLOTHES,giacca,jacket,giacca da,6,81.0
+iter1,CLOTHES,gilet,waistcoat,gilet di cuo,1,0.0
+iter1,CLOTHES,gilet,waistcoat,gilet di pelle,2,20.0
+iter1,CLOTHES,gilet,waistcoat,gilet di velluto,3,22.0
+iter1,CLOTHES,gilet,waistcoat,gilet di lana,4,20.0
+iter1,CLOTHES,gilet,waistcoat,gilet di cotone,5,12.0
+iter1,CLOTHES,gilet,waistcoat,gilet di lana di camoscio,6,0.0
+iter1,CLOTHES,gilet,waistcoat,gilet di lana di merino,7,0.0
+iter1,CLOTHES,gilet,waistcoat,gilet di lana di alpaca,8,0.0
+iter1,CLOTHES,gilet,waistcoat,gilet di lana di cashmere,9,0.0
+iter1,CLOTHES,gilet,waistcoat,gilet di lana di visone,10,0.0
+iter1,CLOTHES,gilet,waistcoat,gilet di lana di mohair,11,0.0
+iter1,CLOTHES,gilet,waistcoat,gilet di lana di angora,12,0.0
+iter1,CLOTHES,gilet,waistcoat,gilet di lana di alp,13,0.0
+iter1,HOBBIES,gioco da tavola,game table,scacchiere,1,17173.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del dardo,2,8.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del go,3,21.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del backgammon,4,21.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del mahjong,5,22.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del domino,6,38.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del monopoly,7,20.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del bridge,8,32.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del poker,9,58.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del scrabble,10,4.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del gioco della vita,11,0.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del gioco del sudoku,12,0.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del gioco del non,13,0.0
+iter1,HOBBIES,gioco da tavola,game table,gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del,14,0.0
+iter1,HOBBIES,giornale,newspaper,il giornale,1,38.0
+iter1,HOBBIES,giornale,newspaper,la repubblica,2,240262.0
+iter1,HOBBIES,giornale,newspaper,il corriere della sera,3,196.0
+iter1,HOBBIES,giornale,newspaper,il messaggero,4,175.0
+iter1,HOBBIES,giornale,newspaper,il tempo,5,290.0
+iter1,HOBBIES,giornale,newspaper,il sole 24 ore,6,207.0
+iter1,HOBBIES,giornale,newspaper,il fatto quotidiano,7,142.0
+iter1,HOBBIES,giornale,newspaper,il gazzettino,8,92.0
+iter1,HOBBIES,giornale,newspaper,il resto del carlino,9,70.0
+iter1,HOBBIES,giornale,newspaper,il giornale dell'umbria,10,0.0
+iter1,HOBBIES,giornale,newspaper,il giornale di sicilia,11,31.0
+iter1,HOBBIES,giornale,newspaper,il giornale di padova,12,10.0
+iter1,HOBBIES,giornale,newspaper,il giornale di brescia,13,22.0
+iter1,HOBBIES,giornale,newspaper,il giornale di venezia,14,9.0
+iter1,HOBBIES,giornale,newspaper,il giornale di trieste,15,20.0
+iter1,HOBBIES,giornale,newspaper,il giornale di bergamo,16,20.0
+iter1,HOBBIES,giornale,newspaper,il giornale di milano,17,25.0
+iter1,HOBBIES,giornale,newspaper,il giornale di torino,18,20.0
+iter1,HOBBIES,giornale,newspaper,il giornale di,19,55.0
+iter1,ANIMALS,giraffa,giraffe,giraffa,1,9212.0
+iter1,PLANTS,girasole,sunflower,girasole,1,16968.0
+iter1,PLANTS,girasole,sunflower,girasole selvatico,2,33.0
+iter1,PLANTS,girasole,sunflower,girasole coltivato,3,12.0
+iter1,PLANTS,girasole,sunflower,girasole olio,4,42.0
+iter1,PLANTS,girasole,sunflower,girasole ornamentale,5,4.0
+iter1,PLANTS,girasole,sunflower,girasole gigante,6,34.0
+iter1,PLANTS,girasole,sunflower,girasole giallo,7,60.0
+iter1,PLANTS,girasole,sunflower,girasole rosa,8,3.0
+iter1,PLANTS,girasole,sunflower,girasole nero,9,20.0
+iter1,PLANTS,girasole,sunflower,girasole bianco,10,21.0
+iter1,PLANTS,girasole,sunflower,girasole rosso,11,10.0
+iter1,PLANTS,girasole,sunflower,girasole ro,12,0.0
+iter1,CLOTHES,giubotto,vest,giubbino,1,8810.0
+iter1,CLOTHES,giubotto,vest,giubbino da neve,2,0.0
+iter1,CLOTHES,giubotto,vest,giubbino da pioggia,3,2.0
+iter1,CLOTHES,giubotto,vest,giubbino da moto,4,19.0
+iter1,CLOTHES,giubotto,vest,giubbino da motociclo,5,0.0
+iter1,CLOTHES,giubotto,vest,giubbino da motocross,6,0.0
+iter1,CLOTHES,giubotto,vest,giubbino da motonuovo,7,0.0
+iter1,CLOTHES,giubotto,vest,giub,8,28.0
+iter1,STATIONERY,gomma,rubber,gomma da masticare,1,145.0
+iter1,STATIONERY,gomma,rubber,gomma da mangiare,2,1.0
+iter1,STATIONERY,gomma,rubber,gomma da cucire,3,0.0
+iter1,STATIONERY,gomma,rubber,gomma da stiro,4,0.0
+iter1,STATIONERY,gomma,rubber,gomma da scrivere,5,0.0
+iter1,STATIONERY,gomma,rubber,gomma da tagliare,6,0.0
+iter1,STATIONERY,gomma,rubber,gomma da spalmare,7,0.0
+iter1,STATIONERY,gomma,rubber,gomma da pulire,8,0.0
+iter1,STATIONERY,gomma,rubber,gomma da lavare,9,0.0
+iter1,STATIONERY,gomma,rubber,gomma da spazzare,10,0.0
+iter1,STATIONERY,gomma,rubber,gomma da pulire vetri,11,0.0
+iter1,STATIONERY,gomma,rubber,gomma da pulire pietre,12,0.0
+iter1,STATIONERY,gomma,rubber,gomma da pulire metalli,13,0.0
+iter1,STATIONERY,gomma,rubber,gomma da pulire legno,14,0.0
+iter1,STATIONERY,gomma,rubber,gomma da pulire vetro,15,0.0
+iter1,CLOTHES,gonna,skirt,frullatore,1,24713.0
+iter1,CLOTHES,gonna,skirt,aspirapolvere,2,33259.0
+iter1,CLOTHES,gonna,skirt,tostapance,3,0.0
+iter1,CLOTHES,gonna,skirt,lavatrice,4,131287.0
+iter1,CLOTHES,gonna,skirt,microonde,5,20211.0
+iter1,CLOTHES,gonna,skirt,lavastoviglie,6,21923.0
+iter1,STATIONERY,graffetta,clip,grafitti,1,119.0
+iter1,STATIONERY,graffetta,clip,tagging,2,1897.0
+iter1,STATIONERY,graffetta,clip,street art,3,214.0
+iter1,STATIONERY,graffetta,clip,graffiti artist,4,56.0
+iter1,STATIONERY,graffetta,clip,vandalismo,5,17920.0
+iter1,STATIONERY,graffetta,clip,graffiti on wall,6,0.0
+iter1,CLOTHES,guanti,gloves,guanti da lavoro,1,39.0
+iter1,CLOTHES,guanti,gloves,guanti da cucina,2,29.0
+iter1,CLOTHES,guanti,gloves,guanti da bagno,3,37.0
+iter1,CLOTHES,guanti,gloves,guanti da giardino,4,20.0
+iter1,CLOTHES,guanti,gloves,guanti da sport,5,9.0
+iter1,CLOTHES,guanti,gloves,guanti da moto,6,21.0
+iter1,CLOTHES,guanti,gloves,guanti da motociclo,7,0.0
+iter1,CLOTHES,guanti,gloves,guanti da motonuovo,8,0.0
+iter1,CLOTHES,guanti,gloves,guanti da motocross,9,11.0
+iter1,CLOTHES,guanti,gloves,gu,10,25130.0
+iter1,FOODS,insalata,salad,insalata di carote,1,25.0
+iter1,FOODS,insalata,salad,insalata di spinaci,2,21.0
+iter1,FOODS,insalata,salad,insalata di pomodoro,3,23.0
+iter1,FOODS,insalata,salad,insalata di cipolle,4,25.0
+iter1,FOODS,insalata,salad,insalata di fagioli,5,21.0
+iter1,FOODS,insalata,salad,insalata di piselli,6,19.0
+iter1,FOODS,insalata,salad,insalata di limoni,7,22.0
+iter1,FOODS,insalata,salad,insalata di aglio e olio,8,0.0
+iter1,FOODS,insalata,salad,insalata di rucola,9,25.0
+iter1,FOODS,insalata,salad,insalata di arugula,10,0.0
+iter1,FOODS,insalata,salad,insalata di finocchio,11,20.0
+iter1,FOODS,insalata,salad,insalata di cavolo,12,23.0
+iter1,FOODS,insalata,salad,insalata di zucchini,13,4.0
+iter1,FOODS,insalata,salad,insalata di melanzane,14,20.0
+iter1,FOODS,insalata,salad,insalata di tonno,15,20.0
+iter1,FOODS,insalata,salad,insalata di pollo,16,22.0
+iter1,FOODS,insalata,salad,insalata di pesce,17,24.0
+iter1,FOODS,insalata,salad,insalata di frutta,18,23.0
+iter1,FOODS,insalata,salad,,19,0.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada,1,9708.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a olio,2,26.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a gas,3,20.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a vapore,4,22.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a incandescenza,5,34.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada led,6,5548.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a fluorescenza,7,35.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a led,8,76.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a led rgb,9,8.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a led rgbw,10,0.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a led rgbww,11,0.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a led rgbwww,12,0.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a led rgbwwww,13,0.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a led rgbwwwww,14,0.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a led rgbwwwwww,15,0.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a led rgbwwwwwwww,16,0.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a led rgbwwwwwwwwww,17,0.0
+iter1,FURNISHINGS/FITTINGS,lampada,lamp,lampada a led rgbwwwwwwwwwwww,18,0.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a candela,1,20.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a incandescente,2,0.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a led,3,37.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a fluorescente,4,0.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a halogeno,5,0.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a xeno,6,0.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a led rgb,7,0.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a led rgbw,8,0.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a led rgbww,9,0.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a led rgbww+uv,10,0.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a led rgbww+uv+w,11,0.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a led rgbww+uv+w+cct,12,0.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a led rgbww+uv+w+cct+dimming,13,0.0
+iter1,FURNISHINGS/FITTINGS,lampadario,chandelier,lampadario a led rgbww+uv+w,14,0.0
+iter1,FOODS,latte,milk,latte,1,17038.0
+iter1,FOODS,latte,milk,latte macchiato,2,133.0
+iter1,FOODS,latte,milk,cappuccio,3,13089.0
+iter1,FOODS,latte,milk,espresso,4,15638.0
+iter1,FOODS,latte,milk,latte con latte,5,23.0
+iter1,FOODS,latte,milk,latte con panna,6,21.0
+iter1,FOODS,latte,milk,latte con soia,7,1.0
+iter1,FOODS,latte,milk,latte con almond,8,0.0
+iter1,FOODS,latte,milk,latte con cocco,9,1.0
+iter1,FOODS,latte,milk,latte con soia con almond,10,0.0
+iter1,FOODS,latte,milk,latte con soia con cocco,11,0.0
+iter1,FOODS,latte,milk,latte con soia con latte,12,0.0
+iter1,FOODS,latte,milk,latte con soia con panna,13,0.0
+iter1,FOODS,latte,milk,latte con soia con cocco con latte,14,0.0
+iter1,FOODS,latte,milk,latte con soia con panna con latte,15,0.0
+iter1,FOODS,latte,milk,latte con soia con cocco con panna con latte,16,0.0
+iter1,FOODS,latte,milk,latte con soia con panna con latte con latte,17,0.0
+iter1,FOODS,latte,milk,latte con,18,179.0
+iter1,FOODS,legume,legume,fagioli,1,29349.0
+iter1,FOODS,legume,legume,fave,2,23949.0
+iter1,FOODS,legume,legume,lenticchie,3,24451.0
+iter1,FOODS,legume,legume,piselli,4,21283.0
+iter1,FOODS,legume,legume,cicerchie,5,1904.0
+iter1,FOODS,legume,legume,fagiolini,6,15997.0
+iter1,FOODS,legume,legume,fagioli bianchi,7,186.0
+iter1,FOODS,legume,legume,fagioli neri,8,164.0
+iter1,FOODS,legume,legume,fagioli rossi,9,99.0
+iter1,FOODS,legume,legume,fagioli verdi,10,353.0
+iter1,FOODS,legume,legume,fagioli gialli,11,40.0
+iter1,FOODS,legume,legume,fagioli cremisi,12,0.0
+iter1,FOODS,legume,legume,fagioli castagnoli,13,0.0
+iter1,FOODS,legume,legume,fagioli di lima,14,21.0
+iter1,FOODS,legume,legume,fagioli di borgo,15,0.0
+iter1,FOODS,legume,legume,fagioli di castagna,16,0.0
+iter1,FOODS,legume,legume,fagioli di pisello,17,0.0
+iter1,FOODS,legume,legume,fagioli di soia,18,40.0
+iter1,FOODS,legume,legume,fagioli di lupo,19,0.0
+iter1,FOODS,legume,legume,fagioli di lupo nero,20,0.0
+iter1,FOODS,legume,legume,fagioli di lupo bianco,21,0.0
+iter1,FOODS,legume,legume,,22,0.0
+iter1,ANIMALS,leone,lion,leone africano,1,304.0
+iter1,ANIMALS,leone,lion,leone americano,2,60.0
+iter1,ANIMALS,leone,lion,leone asiatico,3,272.0
+iter1,ANIMALS,leone,lion,leone europeo,4,21.0
+iter1,ANIMALS,leone,lion,leone indiano,5,24.0
+iter1,ANIMALS,leone,lion,leone sudamericano,6,0.0
+iter1,FURNITURE,letto,bed,letto singolo,1,218.0
+iter1,FURNITURE,letto,bed,letto matrimoniale,2,1389.0
+iter1,FURNITURE,letto,bed,letto a tre piani,3,13.0
+iter1,FURNITURE,letto,bed,letto a quattro piani,4,1.0
+iter1,FURNITURE,letto,bed,letto a cinque piani,5,0.0
+iter1,FURNITURE,letto,bed,letto a sei piani,6,0.0
+iter1,FURNITURE,letto,bed,letto a sette piani,7,0.0
+iter1,FURNITURE,letto,bed,letto a otto piani,8,0.0
+iter1,FURNITURE,letto,bed,letto a nove piani,9,0.0
+iter1,FURNITURE,letto,bed,letto a dieci piani,10,0.0
+iter1,FURNITURE,letto,bed,letto a undici piani,11,0.0
+iter1,FURNITURE,letto,bed,letto a dodici piani,12,0.0
+iter1,FURNITURE,letto,bed,letto a tredici piani,13,0.0
+iter1,FURNITURE,letto,bed,letto a quattordici piani,14,0.0
+iter1,FURNITURE,letto,bed,letto a quindici piani,15,0.0
+iter1,FURNITURE,letto,bed,letto a sedici piani,16,0.0
+iter1,FURNITURE,letto,bed,letto a diciassette piani,17,0.0
+iter1,FURNITURE,letto,bed,letto a diciotto piani,18,0.0
+iter1,HOBBIES,lettore,reader,libro,1,16998.0
+iter1,HOBBIES,lettore,reader,giornale,2,10281.0
+iter1,HOBBIES,lettore,reader,rivista,3,17935.0
+iter1,HOBBIES,lettore,reader,e-book,4,16512.0
+iter1,HOBBIES,lettore,reader,magazine,5,19134.0
+iter1,HOBBIES,lettore,reader,comics,6,30255.0
+iter1,HOBBIES,lettore,reader,fumetti,7,34816.0
+iter1,HOBBIES,lettore,reader,manuale,8,14495.0
+iter1,HOBBIES,lettore,reader,enciclopedia,9,19443.0
+iter1,HOBBIES,lettore,reader,atlante,10,18098.0
+iter1,HOBBIES,lettore,reader,sito web,11,3091.0
+iter1,HOBBIES,lettore,reader,blog,12,17993.0
+iter1,HOBBIES,lettore,reader,forum,13,22055.0
+iter1,HOBBIES,lettore,reader,social network,14,6178.0
+iter1,HOBBIES,lettore,reader,newsletter,15,26417.0
+iter1,HOBBIES,lettore,reader,podcast,16,18305.0
+iter1,HOBBIES,lettore,reader,videoclip,17,19861.0
+iter1,HOBBIES,lettore,reader,film,18,19803.0
+iter1,HOBBIES,lettore,reader,serie tv,19,791.0
+iter1,HOBBIES,lettore,reader,cartone animato,20,3587.0
+iter1,HOBBIES,lettore,reader,videogioco,21,22742.0
+iter1,HOBBIES,lettore,reader,romanzo,22,13345.0
+iter1,HOBBIES,lettore,reader,poesia,23,17004.0
+iter1,HOBBIES,lettore,reader,racconto,24,18881.0
+iter1,HOBBIES,lettore,reader,saggio,25,14754.0
+iter1,HOBBIES,lettore,reader,articolo,26,20596.0
+iter1,HOBBIES,lettore,reader,recita,27,40723.0
+iter1,HOBBIES,lettore,reader,intervista,28,18560.0
+iter1,HOBBIES,lettore,reader,reportage,29,19452.0
+iter1,HOBBIES,lettore,reader,documentario,30,16880.0
+iter1,HOBBIES,lettore,reader,libro audio,31,105.0
+iter1,HOBBIES,lettore,reader,libro in braille,32,23.0
+iter1,HOBBIES,lettore,reader,libro in lingua straniera,33,22.0
+iter1,HOBBIES,lettore,reader,libro in formato e-reader,34,0.0
+iter1,FURNITURE,libreria,bookcase,libri,1,28595.0
+iter1,FURNITURE,libreria,bookcase,riviste,2,24164.0
+iter1,FURNITURE,libreria,bookcase,giornali,3,17162.0
+iter1,FURNITURE,libreria,bookcase,periodici,4,28201.0
+iter1,FURNITURE,libreria,bookcase,fumetti,5,34816.0
+iter1,FURNITURE,libreria,bookcase,cartoline,6,32174.0
+iter1,FURNITURE,libreria,bookcase,carte postali,7,74.0
+iter1,FURNITURE,libreria,bookcase,carte greeting,8,0.0
+iter1,FURNITURE,libreria,bookcase,carte di invito,9,11.0
+iter1,FURNITURE,libreria,bookcase,carte di auguri,10,13.0
+iter1,FURNITURE,libreria,bookcase,carte di condolenze,11,0.0
+iter1,FURNITURE,libreria,bookcase,carte di felicitazioni,12,0.0
+iter1,FURNITURE,libreria,bookcase,carte di ringraziamento,13,2.0
+iter1,FURNITURE,libreria,bookcase,carte di congratulazioni,14,0.0
+iter1,FURNITURE,libreria,bookcase,carte di auguri natalizi,15,0.0
+iter1,FURNITURE,libreria,bookcase,carte di auguri di compleanno,16,0.0
+iter1,FURNITURE,libreria,bookcase,carte di auguri di anniversario,17,0.0
+iter1,FURNITURE,libreria,bookcase,carte di auguri di fidanzamento,18,0.0
+iter1,FURNITURE,libreria,bookcase,carte di auguri di matrimonio,19,0.0
+iter1,FURNITURE,libreria,bookcase,carte di auguri di battesimo,20,0.0
+iter1,FURNITURE,libreria,bookcase,carte di auguri di conferma,21,0.0
+iter1,HOBBIES,libro,book,romanzo,1,13345.0
+iter1,HOBBIES,libro,book,raccolta di racconti,2,98.0
+iter1,HOBBIES,libro,book,manuale,3,14495.0
+iter1,HOBBIES,libro,book,enciclopedia,4,19443.0
+iter1,HOBBIES,libro,book,atlante,5,18098.0
+iter1,HOBBIES,libro,book,libro di testo,6,41823.0
+iter1,HOBBIES,libro,book,libro di viaggio,7,20.0
+iter1,HOBBIES,libro,book,libro di cucina,8,22.0
+iter1,HOBBIES,libro,book,libro di fotografia,9,28.0
+iter1,HOBBIES,libro,book,libro di poesia,10,89.0
+iter1,HOBBIES,libro,book,libro di matematica,11,37.0
+iter1,HOBBIES,libro,book,libro di scienze,12,29.0
+iter1,HOBBIES,libro,book,libro di storia,13,75.0
+iter1,HOBBIES,libro,book,libro di filosofia,14,31.0
+iter1,HOBBIES,libro,book,libro di teologia,15,33.0
+iter1,HOBBIES,libro,book,libro di diritto,16,27.0
+iter1,HOBBIES,libro,book,libro di economia,17,30.0
+iter1,HOBBIES,libro,book,libro di politica,18,22.0
+iter1,HOBBIES,libro,book,libro di biografia,19,30.0
+iter1,HOBBIES,libro,book,libro di autobiografia,20,5.0
+iter1,HOBBIES,libro,book,libro di diari,21,1.0
+iter1,HOBBIES,libro,book,libro di lettere,22,21.0
+iter1,HOBBIES,libro,book,libro di saggistica,23,20.0
+iter1,HOBBIES,libro,book,libro di viaggio,24,20.0
+iter1,ANIMALS,lucertola,lizard,lucertola comune,1,20.0
+iter1,ANIMALS,lucertola,lizard,lucertola africana,2,4.0
+iter1,ANIMALS,lucertola,lizard,lucertola americana,3,4.0
+iter1,ANIMALS,lucertola,lizard,lucertola asiatica,4,0.0
+iter1,ANIMALS,lucertola,lizard,lucertola europea,5,5.0
+iter1,ANIMALS,lucertola,lizard,lucertola australiana,6,5.0
+iter1,ANIMALS,lucertola,lizard,lucertola del deserto,7,16.0
+iter1,ANIMALS,lucertola,lizard,lucertola del sahara,8,0.0
+iter1,ANIMALS,lucertola,lizard,lucertola del deserto del sahara,9,0.0
+iter1,ANIMALS,lucertola,lizard,lucertola del deserto del marocco,10,0.0
+iter1,ANIMALS,lucertola,lizard,lucertola del deserto del sudan,11,0.0
+iter1,ANIMALS,lucertola,lizard,lucertola del deserto del sudan del sud,12,0.0
+iter1,ANIMALS,lucertola,lizard,lucert,13,5.0
+iter1,CLOTHES,maglia,sweater,calzino,1,28319.0
+iter1,CLOTHES,maglia,sweater,calzino da baseball,2,0.0
+iter1,CLOTHES,maglia,sweater,calzino da basket,3,1.0
+iter1,CLOTHES,maglia,sweater,calzino da calcio,4,4.0
+iter1,CLOTHES,maglia,sweater,calzino da golf,5,5.0
+iter1,CLOTHES,maglia,sweater,calzino da pallavolo,6,0.0
+iter1,CLOTHES,maglia,sweater,calzino da pattinaggio,7,0.0
+iter1,CLOTHES,maglia,sweater,calzino da tennis,8,22.0
+iter1,CLOTHES,maglia,sweater,calzino da tennistavolo,9,0.0
+iter1,CLOTHES,maglia,sweater,calzino da vela,10,0.0
+iter1,CLOTHES,maglia,sweater,calzino da volley,11,0.0
+iter1,CLOTHES,maglia,sweater,calzino da wrestling,12,0.0
+iter1,CLOTHES,maglia,sweater,calzino da zoccolato,13,0.0
+iter1,CLOTHES,maglia,sweater,calzino da zoccolato da equitazione,14,0.0
+iter1,CLOTHES,maglia,sweater,calzino da zoccolato da ginnastica,15,0.0
+iter1,CLOTHES,maglia,sweater,calzino da zoccolato da pattinaggio,16,0.0
+iter1,ANIMALS,maiale,pork,maiale,1,14621.0
+iter1,ANIMALS,maiale,pork,maiale nero,2,24.0
+iter1,ANIMALS,maiale,pork,maiale bianco,3,69.0
+iter1,ANIMALS,maiale,pork,maiale rosa,4,82.0
+iter1,ANIMALS,maiale,pork,maiale grigio,5,48.0
+iter1,ANIMALS,maiale,pork,maiale nero americano,6,0.0
+iter1,ANIMALS,maiale,pork,maiale nero dorato,7,0.0
+iter1,ANIMALS,maiale,pork,maiale nero di danimarca,8,0.0
+iter1,ANIMALS,maiale,pork,maiale nero di norvegia,9,0.0
+iter1,ANIMALS,maiale,pork,maiale nero di svezia,10,0.0
+iter1,ANIMALS,maiale,pork,maiale nero di finlandia,11,0.0
+iter1,ANIMALS,maiale,pork,maiale nero di germania,12,0.0
+iter1,ANIMALS,maiale,pork,maiale nero di polonia,13,0.0
+iter1,ANIMALS,maiale,pork,maiale nero di romania,14,0.0
+iter1,ANIMALS,maiale,pork,maiale nero di russia,15,0.0
+iter1,ANIMALS,maiale,pork,maiale nero di ucraina,16,0.0
+iter1,ANIMALS,maiale,pork,maiale nero di bulgaria,17,0.0
+iter1,ANIMALS,maiale,pork,maiale nero di grecia,18,0.0
+iter1,ANIMALS,maiale,pork,maiale nero di,19,24.0
+iter1,BODY PARTS,mano,hand,mano destra,1,198.0
+iter1,BODY PARTS,mano,hand,mano sinistra,2,237.0
+iter1,BODY PARTS,mano,hand,mano di un uomo,3,23.0
+iter1,BODY PARTS,mano,hand,mano di un bambino,4,22.0
+iter1,BODY PARTS,mano,hand,mano di un neonato,5,18.0
+iter1,BODY PARTS,mano,hand,mano di un adulto,6,23.0
+iter1,BODY PARTS,mano,hand,mano di un anziano,7,20.0
+iter1,BODY PARTS,mano,hand,mano,8,24488.0
+iter1,PLANTS,margherita,daisy,pizza,1,18445.0
+iter1,PLANTS,margherita,daisy,pane,2,17409.0
+iter1,PLANTS,margherita,daisy,salsa,3,14318.0
+iter1,PLANTS,margherita,daisy,mozzarella,4,20760.0
+iter1,PLANTS,margherita,daisy,pomodoro,5,15754.0
+iter1,PLANTS,margherita,daisy,basilico,6,11480.0
+iter1,STATIONERY,matita,pencil,matita a grafite,1,11.0
+iter1,STATIONERY,matita,pencil,matita a grafite e a coltello,2,0.0
+iter1,STATIONERY,matita,pencil,matita a grafite e a spilli,3,0.0
+iter1,STATIONERY,matita,pencil,matita a grafite e a spilli e a coltello,4,0.0
+iter1,STATIONERY,matita,pencil,matita a grafite e a spilli e a coltello e a spilli,5,0.0
+iter1,STATIONERY,matita,pencil,matita a grafite e a spilli e a coltello e a spilli e a coltello,6,0.0
+iter1,STATIONERY,matita,pencil,matita a grafite e a spilli e a coltello e a spilli e a coltello e a spilli,7,0.0
+iter1,STATIONERY,matita,pencil,matita a grafite e a spilli e a coltello e a spilli e,8,0.0
+iter1,KITCHENWARE,mestolo,ladle,pentola,1,14077.0
+iter1,KITCHENWARE,mestolo,ladle,padella,2,18973.0
+iter1,KITCHENWARE,mestolo,ladle,piatti,3,25161.0
+iter1,KITCHENWARE,mestolo,ladle,tazze,4,29549.0
+iter1,KITCHENWARE,mestolo,ladle,piatti da cucina,5,24.0
+iter1,KITCHENWARE,mestolo,ladle,piatti da tavola,6,22.0
+iter1,KITCHENWARE,mestolo,ladle,piatti da pranzo,7,4.0
+iter1,KITCHENWARE,mestolo,ladle,piatti da cena,8,2.0
+iter1,KITCHENWARE,mestolo,ladle,piatti da pasto,9,0.0
+iter1,KITCHENWARE,mestolo,ladle,piatti da frullato,10,0.0
+iter1,KITCHENWARE,mestolo,ladle,piatti da riso,11,0.0
+iter1,KITCHENWARE,mestolo,ladle,piatti da pasta,12,4.0
+iter1,KITCHENWARE,mestolo,ladle,pi,13,30947.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro,1,19529.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro aereo,2,13.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro subacqueo,3,1.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro tranviario,4,24.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro leggero,5,300.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro pesante,6,33.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro veloce,7,29.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro ad alta,8,21.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro sotterraneo,9,29.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro a ponte,10,23.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro a galleria,11,0.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro a piazza,12,22.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro a binario,13,1.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro a scambio,14,0.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro a piazzale,15,7.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro a stazione,16,25.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro a capolinea,17,3.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro a fermata,18,23.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro a scalo,19,0.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro a banchina,20,0.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,metro a piattaforma,21,0.0
+iter1,FURNISHINGS/FITTINGS,metro,meter,met,22,17020.0
+iter1,PLANTS,mimosa,mimosa,mimosa,1,15729.0
+iter1,PLANTS,mimosa,mimosa,mimosa verde,2,2.0
+iter1,PLANTS,mimosa,mimosa,mimosa giallo,3,6.0
+iter1,PLANTS,mimosa,mimosa,mimosa bianco,4,2.0
+iter1,PLANTS,mimosa,mimosa,mimosa rosa,5,12.0
+iter1,PLANTS,mimosa,mimosa,mimosa rosa giallo,6,0.0
+iter1,PLANTS,mimosa,mimosa,mimosa rosa bianco,7,0.0
+iter1,PLANTS,mimosa,mimosa,mimosa rosa giallo bianco,8,0.0
+iter1,PLANTS,mimosa,mimosa,mimosa rosa giallo bianco verde,9,0.0
+iter1,PLANTS,mimosa,mimosa,mimosa rosa giallo bianco verde rosa,10,0.0
+iter1,PLANTS,mimosa,mimosa,mimosa rosa giallo bianco verde rosa giallo,11,0.0
+iter1,PLANTS,mimosa,mimosa,mimosa rosa giallo bianco verde rosa giallo bianco verde rosa giallo bianco verde rosa giallo bianco verde rosa giallo bianco verde rosa giallo bianco verde,12,0.0
+iter1,VEHICLES,motocicletta,motorcycle,motocicletta,1,18648.0
+iter1,VEHICLES,motocicletta,motorcycle,scooter,2,25153.0
+iter1,VEHICLES,motocicletta,motorcycle,moto,3,16932.0
+iter1,VEHICLES,motocicletta,motorcycle,quadriciclo,4,3423.0
+iter1,VEHICLES,motocicletta,motorcycle,sidecar,5,5809.0
+iter1,VEHICLES,motocicletta,motorcycle,trike,6,923.0
+iter1,VEHICLES,motocicletta,motorcycle,motocross,7,16448.0
+iter1,VEHICLES,motocicletta,motorcycle,enduro,8,13122.0
+iter1,VEHICLES,motocicletta,motorcycle,motogiro,9,2539.0
+iter1,VEHICLES,motocicletta,motorcycle,motocross enduro,10,28.0
+iter1,VEHICLES,motocicletta,motorcycle,motocross trial,11,2.0
+iter1,VEHICLES,motocicletta,motorcycle,motocross supercross,12,0.0
+iter1,VEHICLES,motocicletta,motorcycle,motocross motocross,13,10.0
+iter1,VEHICLES,motocicletta,motorcycle,motoc,14,78.0
+iter1,ANIMALS,mucca,cow,mucca,1,18092.0
+iter1,ANIMALS,mucca,cow,mucca bianca,2,23.0
+iter1,ANIMALS,mucca,cow,mucca nera,3,44.0
+iter1,ANIMALS,mucca,cow,mucca grigia,4,13.0
+iter1,ANIMALS,mucca,cow,mucca bruna,5,24.0
+iter1,ANIMALS,mucca,cow,mucca rossa,6,55.0
+iter1,ANIMALS,mucca,cow,mucca marrone,7,35.0
+iter1,ANIMALS,mucca,cow,mucca nera con macchie bianche,8,0.0
+iter1,ANIMALS,mucca,cow,mucca nera con macchie rosse,9,0.0
+iter1,ANIMALS,mucca,cow,mucca nera con macchie grigie,10,0.0
+iter1,ANIMALS,mucca,cow,mucca nera con macchie brune,11,0.0
+iter1,ANIMALS,mucca,cow,mucca nera con macchie rosse e grigie,12,0.0
+iter1,ANIMALS,mucca,cow,mucca nera con macchie brune e rosse,13,0.0
+iter1,ANIMALS,mucca,cow,mucca nera con macchie rosse e grigie e brune,14,0.0
+iter1,HOUSING BUILDINGS,muro,wall,muro di pietra,1,23.0
+iter1,HOUSING BUILDINGS,muro,wall,muro di mattoni,2,26.0
+iter1,HOUSING BUILDINGS,muro,wall,muro di cemento,3,35.0
+iter1,HOUSING BUILDINGS,muro,wall,muro di legno,4,25.0
+iter1,HOUSING BUILDINGS,muro,wall,muro di vetro,5,24.0
+iter1,HOUSING BUILDINGS,muro,wall,muro di vetro storto,6,0.0
+iter1,HOUSING BUILDINGS,muro,wall,muro di vetro sottile,7,0.0
+iter1,HOUSING BUILDINGS,muro,wall,muro di vetro sporgente,8,0.0
+iter1,HOUSING BUILDINGS,muro,wall,muro di vetro a specchio,9,0.0
+iter1,HOUSING BUILDINGS,muro,wall,muro di vetro a specchio sporgente,10,0.0
+iter1,HOUSING BUILDINGS,muro,wall,muro di vetro a specchio sottile,11,0.0
+iter1,HOUSING BUILDINGS,muro,wall,muro di vetro a specchio sottile sporgente,12,0.0
+iter1,BODY PARTS,naso,nose,naso,1,13915.0
+iter1,BODY PARTS,naso,nose,rinocerto,2,0.0
+iter1,BODY PARTS,naso,nose,rinoceronte,3,17217.0
+iter1,BODY PARTS,naso,nose,rinocerto indiano,4,0.0
+iter1,BODY PARTS,naso,nose,rinocerto africano,5,0.0
+iter1,BODY PARTS,naso,nose,rinocerto bianco,6,0.0
+iter1,BODY PARTS,naso,nose,rinocerto nero,7,0.0
+iter1,BODY PARTS,naso,nose,rinocerto grigio,8,0.0
+iter1,BODY PARTS,naso,nose,rinocerto giallo,9,0.0
+iter1,BODY PARTS,naso,nose,rinocerto rosso,10,0.0
+iter1,BODY PARTS,naso,nose,rinocerto rosso africano,11,0.0
+iter1,BODY PARTS,naso,nose,rinocerto rosso indiano,12,0.0
+iter1,BODY PARTS,naso,nose,rinocerto rosso asiatico,13,0.0
+iter1,BODY PARTS,naso,nose,rinocerto rosso sudamericano,14,0.0
+iter1,BODY PARTS,naso,nose,rinocerto rosso sudamericano asiatico,15,0.0
+iter1,BODY PARTS,naso,nose,rin,16,9101.0
+iter1,VEHICLES,nave,ship,nave da crociera,1,26.0
+iter1,VEHICLES,nave,ship,nave da guerra,2,358.0
+iter1,VEHICLES,nave,ship,nave da pesca,3,37.0
+iter1,VEHICLES,nave,ship,nave da cargo,4,21.0
+iter1,VEHICLES,nave,ship,nave da passeggeri,5,29.0
+iter1,VEHICLES,nave,ship,nave da battaglia,6,60.0
+iter1,VEHICLES,nave,ship,nave da caccia,7,18.0
+iter1,VEHICLES,nave,ship,nave da guerra anfibia,8,22.0
+iter1,VEHICLES,nave,ship,nave da guerra sottomarina,9,5.0
+iter1,VEHICLES,nave,ship,nave da guerra aerea,10,0.0
+iter1,VEHICLES,nave,ship,nave da guerra aerea anfibia,11,0.0
+iter1,VEHICLES,nave,ship,nave da guerra anfibia aerea,12,0.0
+iter1,VEHICLES,nave,ship,nave da guerra anfibia aerea sottomarina,13,0.0
+iter1,VEHICLES,nave,ship,n,14,15444.0
+iter1,BODY PARTS,occhio,eye,occhio umano,1,96.0
+iter1,BODY PARTS,occhio,eye,occhio animale,2,51.0
+iter1,BODY PARTS,occhio,eye,occhio artificiale,3,139.0
+iter1,BODY PARTS,occhio,eye,occhio robotico,4,49.0
+iter1,BODY PARTS,occhio,eye,occhio di pesce,5,20.0
+iter1,BODY PARTS,occhio,eye,occhio di rettile,6,14.0
+iter1,BODY PARTS,occhio,eye,occhio di insetto,7,19.0
+iter1,BODY PARTS,occhio,eye,occhio di mollusco,8,0.0
+iter1,BODY PARTS,occhio,eye,occhio di crostaceo,9,0.0
+iter1,BODY PARTS,occhio,eye,occhio di invertebrato,10,0.0
+iter1,BODY PARTS,occhio,eye,oc,11,16651.0
+iter1,PLANTS,orchidea,orchid,orchidea,1,15534.0
+iter1,PLANTS,orchidea,orchid,,2,0.0
+iter1,BODY PARTS,orecchio,ear,orecchio umano,1,33.0
+iter1,BODY PARTS,orecchio,ear,orecchio di cane,2,24.0
+iter1,BODY PARTS,orecchio,ear,orecchio di gatto,3,20.0
+iter1,BODY PARTS,orecchio,ear,orecchio di cavallo,4,10.0
+iter1,BODY PARTS,orecchio,ear,orecchio di elefante,5,23.0
+iter1,BODY PARTS,orecchio,ear,orecchio di orso,6,6.0
+iter1,BODY PARTS,orecchio,ear,orecchio di leone,7,2.0
+iter1,BODY PARTS,orecchio,ear,orecchio di tigre,8,0.0
+iter1,BODY PARTS,orecchio,ear,orecchio di lupo,9,21.0
+iter1,BODY PARTS,orecchio,ear,orecchio di coyote,10,0.0
+iter1,BODY PARTS,orecchio,ear,orecchio di volpe,11,7.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio meccanico,1,88.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio elettrico,2,234.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a pendolo,3,23.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a molla,4,22.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a sfera,5,4.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a goccia,6,0.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a ponte,7,1.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a bilanciere,8,14.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a giri,9,1.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a giri elettrico,10,0.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a giri elettrico a pendolo,11,0.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a giri elettrico a molla,12,0.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a giri elettrico a sfera,13,0.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a giri elettrico a goccia,14,0.0
+iter1,FURNISHINGS/FITTINGS,orologio,clock,orologio a g,15,0.0
+iter1,ANIMALS,orso,bear,orso polare,1,1206.0
+iter1,ANIMALS,orso,bear,orso nero,2,670.0
+iter1,ANIMALS,orso,bear,orso bruno,3,413.0
+iter1,ANIMALS,orso,bear,orso rosso,4,32.0
+iter1,ANIMALS,orso,bear,orso grigio,5,52.0
+iter1,ANIMALS,orso,bear,orso dorato,6,7.0
+iter1,ANIMALS,orso,bear,orso pardo,7,5.0
+iter1,ANIMALS,orso,bear,or,8,19529.0
+iter1,KITCHENWARE,padella,pan,padella di legno,1,1.0
+iter1,KITCHENWARE,padella,pan,padella di metallo,2,20.0
+iter1,KITCHENWARE,padella,pan,padella di silicone,3,0.0
+iter1,KITCHENWARE,padella,pan,padella di vetro,4,3.0
+iter1,KITCHENWARE,padella,pan,padella di ceramica,5,18.0
+iter1,KITCHENWARE,padella,pan,padella di alluminio,6,22.0
+iter1,KITCHENWARE,padella,pan,padella di ghisa,7,26.0
+iter1,KITCHENWARE,padella,pan,padella di acciaio,8,24.0
+iter1,KITCHENWARE,padella,pan,padella di gh,9,0.0
+iter1,HOBBIES,palla,ball,pallone,1,22087.0
+iter1,HOBBIES,palla,ball,pallina,2,21191.0
+iter1,HOBBIES,palla,ball,palloncino,3,20071.0
+iter1,HOBBIES,palla,ball,pallon,4,236.0
+iter1,BODY PARTS,pancia,belly,pancia,1,18290.0
+iter1,BODY PARTS,pancia,belly,ventre,2,22521.0
+iter1,BODY PARTS,pancia,belly,stomaco,3,19271.0
+iter1,BODY PARTS,pancia,belly,addome,4,101036.0
+iter1,BODY PARTS,pancia,belly,grembiule,5,17993.0
+iter1,BODY PARTS,pancia,belly,fegato,6,15580.0
+iter1,BODY PARTS,pancia,belly,rene,7,14961.0
+iter1,BODY PARTS,pancia,belly,cintura,8,21504.0
+iter1,BODY PARTS,pancia,belly,pancreas,9,17655.0
+iter1,BODY PARTS,pancia,belly,intestino,10,16377.0
+iter1,BODY PARTS,pancia,belly,cieco,11,16833.0
+iter1,BODY PARTS,pancia,belly,colonne,12,22483.0
+iter1,BODY PARTS,pancia,belly,retto,13,20106.0
+iter1,BODY PARTS,pancia,belly,cieco intero,14,0.0
+iter1,BODY PARTS,pancia,belly,cieco esterno,15,4.0
+iter1,BODY PARTS,pancia,belly,milza,16,21089.0
+iter1,FOODS,pane,bread,pane bianco,1,90.0
+iter1,FOODS,pane,bread,pane integrale,2,273.0
+iter1,FOODS,pane,bread,pane di segale,3,30.0
+iter1,FOODS,pane,bread,pane di frumento,4,26.0
+iter1,FOODS,pane,bread,pane di mais,5,21.0
+iter1,FOODS,pane,bread,pane di riso,6,21.0
+iter1,FOODS,pane,bread,pane di farro,7,23.0
+iter1,FOODS,pane,bread,pane di amaranto,8,6.0
+iter1,FOODS,pane,bread,pane di orzo,9,20.0
+iter1,FOODS,pane,bread,pane di quinoa,10,20.0
+iter1,FOODS,pane,bread,pane di mais integrale,11,1.0
+iter1,FOODS,pane,bread,pane di mais di frullo,12,0.0
+iter1,FOODS,pane,bread,pane di mais di mais,13,0.0
+iter1,FOODS,pane,bread,pane di mais di mais di mais,14,0.0
+iter1,FOODS,pane,bread,pane di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di mais di,15,0.0
+iter1,CLOTHES,pantalone,trouser,pantalone,1,14680.0
+iter1,CLOTHES,pantalone,trouser,pantaloni,2,24566.0
+iter1,CLOTHES,pantalone,trouser,pantaloncini,3,24465.0
+iter1,CLOTHES,pantalone,trouser,pantaloncino,4,16589.0
+iter1,CLOTHES,pantalone,trouser,pantalonc,5,1.0
+iter1,FOODS,pasta,pasta,spaghetti,1,16684.0
+iter1,FOODS,pasta,pasta,penne,2,29217.0
+iter1,FOODS,pasta,pasta,fusilli,3,7759.0
+iter1,FOODS,pasta,pasta,farfalle,4,25598.0
+iter1,FOODS,pasta,pasta,rigatoni,5,4024.0
+iter1,FOODS,pasta,pasta,rotini,6,350.0
+iter1,FOODS,pasta,pasta,tagliatelle,7,14101.0
+iter1,FOODS,pasta,pasta,fettuccine,8,6558.0
+iter1,FOODS,pasta,pasta,lasagne,9,18397.0
+iter1,FOODS,pasta,pasta,cannelloni,10,6217.0
+iter1,FOODS,pasta,pasta,tortellini,11,14943.0
+iter1,FOODS,pasta,pasta,ravioli,12,24164.0
+iter1,FOODS,pasta,pasta,trofie,13,3095.0
+iter1,FOODS,pasta,pasta,pici,14,4711.0
+iter1,FOODS,pasta,pasta,penne rigate,15,826.0
+iter1,FOODS,pasta,pasta,fusilli rigati,16,1.0
+iter1,FOODS,pasta,pasta,farfalle rigate,17,22.0
+iter1,FOODS,pasta,pasta,rotini rigati,18,0.0
+iter1,FOODS,pasta,pasta,tagliatelle rigate,19,0.0
+iter1,FOODS,pasta,pasta,fettuccine rigate,20,1.0
+iter1,FOODS,pasta,pasta,lasagne rigate,21,0.0
+iter1,FOODS,pasta,pasta,cannelloni rigati,22,2.0
+iter1,FOODS,pasta,pasta,tortellini rigati,23,0.0
+iter1,FOODS,pasta,pasta,ravioli rigati,24,0.0
+iter1,FOODS,pasta,pasta,trofie rigate,25,0.0
+iter1,FOODS,pasta,pasta,pici rigati,26,0.0
+iter1,STATIONERY,pastello,pastel,spaghetti,1,16684.0
+iter1,STATIONERY,pastello,pastel,penne,2,29217.0
+iter1,STATIONERY,pastello,pastel,farfalle,3,25598.0
+iter1,STATIONERY,pastello,pastel,fusilli,4,7759.0
+iter1,STATIONERY,pastello,pastel,rigatoni,5,4024.0
+iter1,STATIONERY,pastello,pastel,rotini,6,350.0
+iter1,STATIONERY,pastello,pastel,tagliatelle,7,14101.0
+iter1,STATIONERY,pastello,pastel,fettuccine,8,6558.0
+iter1,STATIONERY,pastello,pastel,lasagne,9,18397.0
+iter1,STATIONERY,pastello,pastel,cannelloni,10,6217.0
+iter1,STATIONERY,pastello,pastel,ravioli,11,24164.0
+iter1,STATIONERY,pastello,pastel,tortellini,12,14943.0
+iter1,STATIONERY,pastello,pastel,gnocchi,13,24897.0
+iter1,STATIONERY,pastello,pastel,maccheroni,14,12399.0
+iter1,STATIONERY,pastello,pastel,,15,0.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in cemento,1,50.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in legno,2,127.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in pietra,3,71.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in ceramica,4,71.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in vinile,5,25.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in laminate,6,0.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in linoleum,7,23.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in parquet,8,65.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in marmo,9,33.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in granito,10,24.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in porcellanato,11,17.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in vetroresina,12,14.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in gres,13,52.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in terracotta,14,24.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in pietra naturale,15,21.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in pietra artificiale,16,4.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento in pietra bianca,17,22.0
+iter1,HOUSING BUILDINGS,pavimento,floor,pavimento,18,463954.0
+iter1,STATIONERY,penna,pen,penna a sfera,1,33.0
+iter1,STATIONERY,penna,pen,penna a goccia,2,0.0
+iter1,STATIONERY,penna,pen,penna a sfera con goccia,3,0.0
+iter1,STATIONERY,penna,pen,penna a sfera con goccia e goccia di inchiostro,4,0.0
+iter1,STATIONERY,penna,pen,penna a sfera con goccia e goccia di inchiostro e goccia di tinta,5,0.0
+iter1,STATIONERY,penna,pen,penna a sfera con goccia e goccia di tinta e goccia di inchiostro,6,0.0
+iter1,STATIONERY,penna,pen,penna a sfera con goccia e goccia di tinta e goccia di inchiostro e goccia di acquerello,7,0.0
+iter1,STATIONERY,penna,pen,penna a sfera con goccia e goccia di tinta e g,8,0.0
+iter1,HOBBIES,pennello,brush,pennello a dente,1,2.0
+iter1,HOBBIES,pennello,brush,pennello a dente con fibre,2,0.0
+iter1,HOBBIES,pennello,brush,pennello a dente con fibre di seta,3,0.0
+iter1,HOBBIES,pennello,brush,pennello a dente con fibre di nylon,4,0.0
+iter1,HOBBIES,pennello,brush,pennello a dente con fibre di poliestere,5,0.0
+iter1,HOBBIES,pennello,brush,pennello a dente con fibre di polietilene,6,0.0
+iter1,HOBBIES,pennello,brush,pennello a dente con fibre di polipropilene,7,0.0
+iter1,HOBBIES,pennello,brush,pennello a dente con fibre di polietilene tetrametilico,8,0.0
+iter1,HOBBIES,pennello,brush,pennello a dente con fibre di polietilene tetrametilico con fibre di nylon,9,0.0
+iter1,HOBBIES,pennello,brush,pennello a dente con fibre di polietilene t,10,0.0
+iter1,KITCHENWARE,pentola,pot,pentola di bronzo,1,16.0
+iter1,KITCHENWARE,pentola,pot,pentola di ferro,2,25.0
+iter1,KITCHENWARE,pentola,pot,pentola di alluminio,3,22.0
+iter1,KITCHENWARE,pentola,pot,pentola di silicone,4,1.0
+iter1,KITCHENWARE,pentola,pot,pentola di vetro,5,22.0
+iter1,KITCHENWARE,pentola,pot,pentola di ceramica,6,23.0
+iter1,KITCHENWARE,pentola,pot,pentola di ghisa,7,22.0
+iter1,KITCHENWARE,pentola,pot,pentola di acciaio,8,25.0
+iter1,KITCHENWARE,pentola,pot,pentola di legno,9,5.0
+iter1,KITCHENWARE,pentola,pot,pentola di plastica,10,7.0
+iter1,KITCHENWARE,pentola,pot,pentola di ghisa iniettata,11,0.0
+iter1,KITCHENWARE,pentola,pot,pentola di ghisa per forno,12,0.0
+iter1,KITCHENWARE,pentola,pot,pentola di ghisa per forno a legna,13,0.0
+iter1,KITCHENWARE,pentola,pot,pentola di ghisa per forno a gas,14,0.0
+iter1,KITCHENWARE,pentola,pot,pentola di ghisa per forno a vapore,15,0.0
+iter1,KITCHENWARE,pentola,pot,pentola di ghisa per forno a forno,16,0.0
+iter1,FOODS,pesce,fish,salmone,1,20922.0
+iter1,FOODS,pesce,fish,trota,2,18669.0
+iter1,FOODS,pesce,fish,pesce spada,3,830.0
+iter1,FOODS,pesce,fish,pesce gatto,4,103.0
+iter1,FOODS,pesce,fish,pes,5,17710.0
+iter1,KITCHENWARE,piatto,plate,piatto da cucina,1,20.0
+iter1,KITCHENWARE,piatto,plate,piatto da tavola,2,24.0
+iter1,KITCHENWARE,piatto,plate,piatto da pranzo,3,22.0
+iter1,KITCHENWARE,piatto,plate,piatto da cena,4,8.0
+iter1,KITCHENWARE,piatto,plate,piatto da pasto,5,1.0
+iter1,KITCHENWARE,piatto,plate,piatto da frullato,6,0.0
+iter1,KITCHENWARE,piatto,plate,piatto da birra,7,0.0
+iter1,KITCHENWARE,piatto,plate,piatto da vino,8,1.0
+iter1,KITCHENWARE,piatto,plate,piatto da caffè,9,4.0
+iter1,KITCHENWARE,piatto,plate,piatto da tè,10,2.0
+iter1,KITCHENWARE,piatto,plate,piatto da gelato,11,1.0
+iter1,KITCHENWARE,piatto,plate,piatto da pizza,12,43.0
+iter1,KITCHENWARE,piatto,plate,piatto da pasta,13,6.0
+iter1,KITCHENWARE,piatto,plate,piatto da riso,14,2.0
+iter1,KITCHENWARE,piatto,plate,piatto da sushi,15,5.0
+iter1,KITCHENWARE,piatto,plate,piatto da sashimi,16,0.0
+iter1,KITCHENWARE,piatto,plate,piatto da ramen,17,0.0
+iter1,KITCHENWARE,piatto,plate,piatto da curry,18,0.0
+iter1,KITCHENWARE,piatto,plate,piatto da burger,19,0.0
+iter1,KITCHENWARE,piatto,plate,piatto da fettuccine,20,0.0
+iter1,KITCHENWARE,piatto,plate,pi,21,30947.0
+iter1,BODY PARTS,piede,foot,piede umano,1,213.0
+iter1,BODY PARTS,piede,foot,piede animale,2,4.0
+iter1,BODY PARTS,piede,foot,piede vegetale,3,3.0
+iter1,BODY PARTS,piede,foot,piede inanimato,4,1.0
+iter1,BODY PARTS,piede,foot,piede di legno,5,25.0
+iter1,BODY PARTS,piede,foot,piede di gomma,6,21.0
+iter1,BODY PARTS,piede,foot,piede di vetro,7,19.0
+iter1,BODY PARTS,piede,foot,piede di metallo,8,25.0
+iter1,BODY PARTS,piede,foot,piede di ceramica,9,3.0
+iter1,BODY PARTS,piede,foot,piede di plastica,10,19.0
+iter1,BODY PARTS,piede,foot,piede di gomma sintetica,11,0.0
+iter1,BODY PARTS,piede,foot,piede di gomma naturale,12,0.0
+iter1,BODY PARTS,piede,foot,piede di gomma vulcanizzata,13,0.0
+iter1,BODY PARTS,piede,foot,piede di gomma in gomma,14,0.0
+iter1,BODY PARTS,piede,foot,piede di gomma in gomma sintetica,15,0.0
+iter1,BODY PARTS,piede,foot,piede di gomma in gomma naturale,16,0.0
+iter1,BODY PARTS,piede,foot,piede di gomma in gomma vul,17,0.0
+iter1,PLANTS,pino,pine,pino d'albero,1,0.0
+iter1,PLANTS,pino,pine,pino di pietra,2,1.0
+iter1,PLANTS,pino,pine,pino di legno,3,4.0
+iter1,PLANTS,pino,pine,pino di legno verde,4,0.0
+iter1,PLANTS,pino,pine,pino di legno verde giallo,5,0.0
+iter1,PLANTS,pino,pine,pino di legno verde giallo scuro,6,0.0
+iter1,PLANTS,pino,pine,pino di legno verde scuro scuro,7,0.0
+iter1,PLANTS,pino,pine,pino di legno verde scuro scuro scuro,8,0.0
+iter1,PLANTS,pino,pine,pino di legno verde scuro scuro scuro scuro,9,0.0
+iter1,PLANTS,pino,pine,pino di legno verde scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro scuro sc,10,0.0
+iter1,FOODS,pizza,pizza,margherita,1,18066.0
+iter1,FOODS,pizza,pizza,pepperoni,2,251.0
+iter1,FOODS,pizza,pizza,quattro stagioni,3,535.0
+iter1,FOODS,pizza,pizza,hawaiiana,4,635.0
+iter1,FOODS,pizza,pizza,funghi,5,33424.0
+iter1,FOODS,pizza,pizza,prosciutto,6,18462.0
+iter1,FOODS,pizza,pizza,vegetariana,7,26273.0
+iter1,FOODS,pizza,pizza,calzone,8,14710.0
+iter1,FOODS,pizza,pizza,fettuccine alfredo,9,53.0
+iter1,FOODS,pizza,pizza,pizza alla diavola,10,42.0
+iter1,FOODS,pizza,pizza,pizza alla marinara,11,29.0
+iter1,FOODS,pizza,pizza,pizza alla napoletana,12,29.0
+iter1,FOODS,pizza,pizza,pizza alla siciliana,13,10.0
+iter1,FOODS,pizza,pizza,pizza alla romana,14,23.0
+iter1,FOODS,pizza,pizza,pizza alla bolognese,15,3.0
+iter1,FOODS,pizza,pizza,pizza alla caprese,16,0.0
+iter1,FOODS,pizza,pizza,pizza alla pugliese,17,0.0
+iter1,FOODS,pizza,pizza,pizza alla sardinia,18,0.0
+iter1,FOODS,pizza,pizza,pizza alla calabrese,19,2.0
+iter1,FOODS,pizza,pizza,pizza alla toscana,20,1.0
+iter1,FOODS,pizza,pizza,pizza alla sicula,21,0.0
+iter1,FOODS,pizza,pizza,pizza alla puglies,22,0.0
+iter1,FURNITURE,poltrona,armchair,poltrona a rotelle,1,22.0
+iter1,FURNITURE,poltrona,armchair,poltrona a sbalzi,2,0.0
+iter1,FURNITURE,poltrona,armchair,poltrona a schienale,3,17.0
+iter1,FURNITURE,poltrona,armchair,poltrona a sedere,4,4.0
+iter1,FURNITURE,poltrona,armchair,poltrona a cuscino,5,0.0
+iter1,FURNITURE,poltrona,armchair,poltrona a schienale e a sedere,6,0.0
+iter1,FURNITURE,poltrona,armchair,poltrona a schienale e a cuscino,7,0.0
+iter1,FURNITURE,poltrona,armchair,poltrona a sedere e a cuscino,8,0.0
+iter1,FURNITURE,poltrona,armchair,poltrona a schienale e a sedere e a cuscino,9,0.0
+iter1,FURNITURE,poltrona,armchair,poltrona a schienale e a sedere e a cuscino e a rotelle,10,0.0
+iter1,FURNITURE,poltrona,armchair,poltrona a schienale e a sedere e a cuscino e a sbalzi,11,0.0
+iter1,FURNITURE,poltrona,armchair,poltrona a schienale e a sedere e,12,0.0
+iter1,HOUSING BUILDINGS,porta,door,porta acciaio,1,30.0
+iter1,HOUSING BUILDINGS,porta,door,porta vetro,2,76.0
+iter1,HOUSING BUILDINGS,porta,door,porta in legno,3,29.0
+iter1,HOUSING BUILDINGS,porta,door,porta in metallo,4,28.0
+iter1,HOUSING BUILDINGS,porta,door,porta in alluminio,5,42.0
+iter1,HOUSING BUILDINGS,porta,door,porta in vetro,6,40.0
+iter1,HOUSING BUILDINGS,porta,door,porta in vetro storto,7,0.0
+iter1,HOUSING BUILDINGS,porta,door,porta in vetro temperato,8,22.0
+iter1,HOUSING BUILDINGS,porta,door,porta in vetro semplice,9,1.0
+iter1,HOUSING BUILDINGS,porta,door,porta in vetro semplice temperato,10,0.0
+iter1,HOUSING BUILDINGS,porta,door,porta in vetro semplice temperato storto,11,0.0
+iter1,HOUSING BUILDINGS,porta,door,porta in vetro semplice temperato storto in vetro,12,0.0
+iter1,HOUSING BUILDINGS,porta,door,porta in vetro semplice temperato storto in vetro storto,13,0.0
+iter1,HOUSING BUILDINGS,porta,door,porta in vetro semplice temperato storto in vetro storto in vet,14,0.0
+iter1,FURNISHINGS/FITTINGS,portafotografia,portafotografia,portafoglio,1,22345.0
+iter1,FURNISHINGS/FITTINGS,portafotografia,portafotografia,portafoglio di fotografie,2,0.0
+iter1,FURNISHINGS/FITTINGS,portafotografia,portafotografia,portafoglio di foto,3,3.0
+iter1,FURNISHINGS/FITTINGS,portafotografia,portafotografia,portafoglio di immagini,4,6.0
+iter1,FURNISHINGS/FITTINGS,portafotografia,portafotografia,portafoglio di fotografie digitali,5,0.0
+iter1,FURNISHINGS/FITTINGS,portafotografia,portafotografia,portafoglio di fotografie in formato fisico,6,0.0
+iter1,FURNISHINGS/FITTINGS,portafotografia,portafotografia,portafoglio di fotografie in formato digitale,7,0.0
+iter1,FURNISHINGS/FITTINGS,portafotografia,portafotografia,portafoglio di fotografie in formato fisico e digitale,8,0.0
+iter1,FURNISHINGS/FITTINGS,portafotografia,portafotografia,portafoglio di fotografie in formato fisico e digitale con protezione,9,0.0
+iter1,FURNISHINGS/FITTINGS,portafotografia,portafotografia,portafoglio di fotografie in formato fisico e digitale con protezione e confezione,10,0.0
+iter1,FURNISHINGS/FITTINGS,portafotografia,portafotografia,portafoglio di fotografie in formato fisico e digitale con protezione e confezione in material,11,0.0
+iter1,FURNISHINGS/FITTINGS,posacenere,ashtray,lavastoviglie,1,21923.0
+iter1,FURNISHINGS/FITTINGS,posacenere,ashtray,lavatrice,2,131287.0
+iter1,FURNISHINGS/FITTINGS,posacenere,ashtray,microonde,3,20211.0
+iter1,FURNISHINGS/FITTINGS,posacenere,ashtray,tostapance,4,0.0
+iter1,FURNISHINGS/FITTINGS,posacenere,ashtray,frullatore,5,24713.0
+iter1,FURNISHINGS/FITTINGS,posacenere,ashtray,aspirapolvere,6,33259.0
+iter1,STATIONERY,quaderno,copybook,quaderno di lavoro,1,26.0
+iter1,STATIONERY,quaderno,copybook,quaderno di spese,2,21.0
+iter1,STATIONERY,quaderno,copybook,quaderno di contabilità,3,4.0
+iter1,STATIONERY,quaderno,copybook,quaderno,4,19676.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro analogo,1,85.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro digitale,2,0.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di controllo,3,37.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di guida,4,2.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di misurazione,5,7.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di pianificazione,6,22.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di programmazione,7,29.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di registrazione,8,4.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di segnalazione,9,13.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di supervisione,10,6.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di tracciamento,11,0.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di lavoro,12,24.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di lavoro grafico,13,0.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di lavoro matematico,14,0.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di lavoro scientifico,15,0.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di lavoro tecnico,16,0.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di lavoro tattico,17,0.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di lavoro tattico militare,18,0.0
+iter1,FURNISHINGS/FITTINGS,quadro,picture,quadro di lavoro t,19,0.0
+iter1,PLANTS,quercia,oak,quercia bianca,1,505.0
+iter1,PLANTS,quercia,oak,quercia rossa,2,88.0
+iter1,PLANTS,quercia,oak,quercia nera,3,58.0
+iter1,PLANTS,quercia,oak,quercia gialla,4,1.0
+iter1,PLANTS,quercia,oak,quercia bianca di caucasia,5,0.0
+iter1,PLANTS,quercia,oak,quercia bianca di siberia,6,0.0
+iter1,PLANTS,quercia,oak,quercia bianca di,7,1.0
+iter1,HOBBIES,racchetta,racket,tennis,1,14070.0
+iter1,HOBBIES,racchetta,racket,squash,2,7941.0
+iter1,HOBBIES,racchetta,racket,badminton,3,5374.0
+iter1,HOBBIES,racchetta,racket,pallavolo,4,24649.0
+iter1,HOBBIES,racchetta,racket,ping pong,5,5453.0
+iter1,HOBBIES,racchetta,racket,voleiballo,6,0.0
+iter1,HOBBIES,racchetta,racket,calcio,7,17474.0
+iter1,HOBBIES,racchetta,racket,rugby,8,18085.0
+iter1,HOBBIES,racchetta,racket,baseball,9,16530.0
+iter1,HOBBIES,racchetta,racket,cricket,10,11058.0
+iter1,HOBBIES,racchetta,racket,golf,11,17533.0
+iter1,HOBBIES,racchetta,racket,hockey su ghiaccio,12,282.0
+iter1,HOBBIES,racchetta,racket,hockey su prato,13,102.0
+iter1,HOBBIES,racchetta,racket,pallacanestro,14,18753.0
+iter1,HOBBIES,racchetta,racket,pallamano,15,16400.0
+iter1,HOBBIES,racchetta,racket,pallanuoto,16,19685.0
+iter1,HOBBIES,racchetta,racket,pallavolo in spiaggia,17,21.0
+iter1,HOBBIES,racchetta,racket,pallavolo in sintesi,18,0.0
+iter1,HOBBIES,racchetta,racket,pallavolo in sintesi a 6,19,0.0
+iter1,HOBBIES,racchetta,racket,pallavolo in sintesi a 4,20,0.0
+iter1,HOBBIES,racchetta,racket,pallavolo in sintesi a 2,21,0.0
+iter1,HOBBIES,racchetta,racket,pallavolo in sintesi a 1,22,0.0
+iter1,STATIONERY,righello,ruler,righello,1,11891.0
+iter1,STATIONERY,righello,ruler,righello a mano,2,0.0
+iter1,STATIONERY,righello,ruler,righello a pedale,3,0.0
+iter1,STATIONERY,righello,ruler,righello a vite,4,0.0
+iter1,STATIONERY,righello,ruler,righello a vite con testa,5,0.0
+iter1,STATIONERY,righello,ruler,righello a vite con testa e manico,6,0.0
+iter1,STATIONERY,righello,ruler,righello a vite con testa e manico con manico,7,0.0
+iter1,STATIONERY,righello,ruler,righello a vite con testa e manico con manico e testa,8,0.0
+iter1,STATIONERY,righello,ruler,righello a vite con testa e manico con manico e testa e manico,9,0.0
+iter1,STATIONERY,righello,ruler,righello a vite con testa e manico con manico e testa e manico e testa e manico,10,0.0
+iter1,STATIONERY,righello,ruler,righello a vite con testa e manico con manico e testa e manico e testa e man,11,0.0
+iter1,HOUSING BUILDINGS,ripostiglio,closet,armadio,1,21279.0
+iter1,HOUSING BUILDINGS,ripostiglio,closet,cassaforte,2,11085.0
+iter1,HOUSING BUILDINGS,ripostiglio,closet,cassina,3,12008.0
+iter1,HOUSING BUILDINGS,ripostiglio,closet,cassinietta,4,0.0
+iter1,HOUSING BUILDINGS,ripostiglio,closet,cassino,5,24255.0
+iter1,HOUSING BUILDINGS,ripostiglio,closet,cassinaio,6,0.0
+iter1,HOUSING BUILDINGS,ripostiglio,closet,cassinaio,7,0.0
+iter1,FOODS,riso,rice,riso bianco,1,54.0
+iter1,FOODS,riso,rice,riso integrale,2,405.0
+iter1,FOODS,riso,rice,riso parboiled,3,104.0
+iter1,FOODS,riso,rice,riso arborio,4,76.0
+iter1,FOODS,riso,rice,riso nero,5,27.0
+iter1,FOODS,riso,rice,riso rosso,6,68.0
+iter1,FOODS,riso,rice,riso giallo,7,256.0
+iter1,FOODS,riso,rice,,8,0.0
+iter1,PLANTS,rosa,rose,rosa,1,24271.0
+iter1,PLANTS,rosa,rose,rosa rossa,2,307.0
+iter1,PLANTS,rosa,rose,rosa bianca,3,243.0
+iter1,PLANTS,rosa,rose,rosa rosa,4,741.0
+iter1,PLANTS,rosa,rose,rosa gialla,5,98.0
+iter1,PLANTS,rosa,rose,rosa rosa scarlatto,6,0.0
+iter1,PLANTS,salice,willow,salice,1,16443.0
+iter1,PLANTS,salice,willow,salice bianco,2,1395.0
+iter1,PLANTS,salice,willow,salice rosso,3,154.0
+iter1,PLANTS,salice,willow,salice nero,4,26.0
+iter1,PLANTS,salice,willow,,5,0.0
+iter1,HOUSING BUILDINGS,scala,stairs,scala retta,1,3.0
+iter1,HOUSING BUILDINGS,scala,stairs,scala a chiocciola,2,83.0
+iter1,HOUSING BUILDINGS,scala,stairs,scala aperta,3,293.0
+iter1,HOUSING BUILDINGS,scala,stairs,scala a chiocciola aperta,4,6.0
+iter1,HOUSING BUILDINGS,scala,stairs,scala a chiocciola aperta con raccordi,5,0.0
+iter1,HOUSING BUILDINGS,scala,stairs,scala a chiocciola aperta con raccordi e connessione,6,0.0
+iter1,HOUSING BUILDINGS,scala,stairs,scala a chiocciola aperta con raccordi e connessione e connessione,7,0.0
+iter1,HOUSING BUILDINGS,scala,stairs,scala a chiocciola aperta con raccordi e connessione e connessione e connessione e connessione e connessione e connessione e connessione e connessione e connessione e connessione e connessione e con,8,0.0
+iter1,CLOTHES,scarpa,shoe,scarpa da ginnastica,1,339.0
+iter1,CLOTHES,scarpa,shoe,scarpa da calcio,2,29.0
+iter1,CLOTHES,scarpa,shoe,scarpa da tennis,3,69.0
+iter1,CLOTHES,scarpa,shoe,scarpa da corsa,4,54.0
+iter1,CLOTHES,scarpa,shoe,scarpa da lavoro,5,51.0
+iter1,CLOTHES,scarpa,shoe,scarpa da montagna,6,24.0
+iter1,CLOTHES,scarpa,shoe,scarpa da pioggia,7,21.0
+iter1,CLOTHES,scarpa,shoe,scarpa da neve,8,27.0
+iter1,CLOTHES,scarpa,shoe,scarpa da sandalo,9,0.0
+iter1,CLOTHES,scarpa,shoe,scarpa da tacchi,10,1.0
+iter1,CLOTHES,scarpa,shoe,scarpa da ballerina,11,30.0
+iter1,CLOTHES,scarpa,shoe,scarpa da anziani,12,1.0
+iter1,CLOTHES,scarpa,shoe,scarpa da gioielliere,13,0.0
+iter1,CLOTHES,scarpa,shoe,scarpa da pattinaggio,14,15.0
+iter1,CLOTHES,scarpa,shoe,scarpa da skateboard,15,22.0
+iter1,CLOTHES,scarpa,shoe,scarpa da motociclo,16,0.0
+iter1,CLOTHES,scarpa,shoe,scarpa da equitazione,17,2.0
+iter1,CLOTHES,scarpa,shoe,scarpa da golf,18,23.0
+iter1,CLOTHES,scarpa,shoe,scarpa da pesca,19,1.0
+iter1,CLOTHES,scarpa,shoe,scarpa da sc,20,0.0
+iter1,BODY PARTS,schiena,back,schiena,1,20256.0
+iter1,BODY PARTS,schiena,back,schiena di legno,2,6.0
+iter1,BODY PARTS,schiena,back,schiena di carta,3,0.0
+iter1,BODY PARTS,schiena,back,schiena di plastica,4,2.0
+iter1,BODY PARTS,schiena,back,schiena di metallo,5,0.0
+iter1,BODY PARTS,schiena,back,schiena di vetro,6,13.0
+iter1,BODY PARTS,schiena,back,schiena di vetro sottile,7,0.0
+iter1,BODY PARTS,schiena,back,schiena di vetro temperato,8,0.0
+iter1,BODY PARTS,schiena,back,schiena di vetro temperato sottile,9,0.0
+iter1,BODY PARTS,schiena,back,schiena di vetro temperato sottile con tracce,10,0.0
+iter1,BODY PARTS,schiena,back,schiena di vetro temperato sottile con tracce di oro,11,0.0
+iter1,BODY PARTS,schiena,back,schiena di vetro temperato sottile con tracce di argento,12,0.0
+iter1,BODY PARTS,schiena,back,schiena di vetro temperato sottile con tracce di bronzo,13,0.0
+iter1,BODY PARTS,schiena,back,sch,14,2247.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa,1,22572.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa a maniche,2,0.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa a collo,3,0.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa a capello,4,0.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa a gambetta,5,0.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa a gambetta a collo,6,0.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa a gambetta a maniche,7,0.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa a gambetta a capello,8,0.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa a gambetta a collo a maniche,9,0.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa a gambetta a capello a maniche,10,0.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa a gambetta a collo a capello a maniche,11,0.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa a gambetta a capello a maniche a collo,12,0.0
+iter1,CLOTHES,sciarpa,scarf,sciarpa a gambetta a capello a maniche a collo a man,13,0.0
+iter1,ANIMALS,scimmia,monkey,scimmia comune,1,8.0
+iter1,ANIMALS,scimmia,monkey,scimmia verde,2,193.0
+iter1,ANIMALS,scimmia,monkey,scimmia rossa,3,52.0
+iter1,ANIMALS,scimmia,monkey,scimmia grigia,4,11.0
+iter1,ANIMALS,scimmia,monkey,scimmia nera,5,41.0
+iter1,ANIMALS,scimmia,monkey,scimmia bianca,6,133.0
+iter1,ANIMALS,scimmia,monkey,scimmia dal collare,7,0.0
+iter1,ANIMALS,scimmia,monkey,scimmia dal collo,8,1.0
+iter1,ANIMALS,scimmia,monkey,scimmia dal capo,9,0.0
+iter1,ANIMALS,scimmia,monkey,scimmia dal grembiule,10,0.0
+iter1,ANIMALS,scimmia,monkey,scimmia dal grembiule nero,11,0.0
+iter1,ANIMALS,scimmia,monkey,scimmia dal grembiule bianco,12,0.0
+iter1,ANIMALS,scimmia,monkey,scimmia dal grembiule rosso,13,0.0
+iter1,ANIMALS,scimmia,monkey,scimmia dal grembiule grigio,14,0.0
+iter1,ANIMALS,scimmia,monkey,scimmia dal,15,37.0
+iter1,KITCHENWARE,scolapasta,colander,scuola elementare,1,1433.0
+iter1,KITCHENWARE,scolapasta,colander,scuola media,2,1114.0
+iter1,KITCHENWARE,scolapasta,colander,scuola superiore,3,550.0
+iter1,KITCHENWARE,scolapasta,colander,scuola primaria,4,2102.0
+iter1,KITCHENWARE,scolapasta,colander,scuola secondaria di primo grado,5,123.0
+iter1,KITCHENWARE,scolapasta,colander,scuola secondaria di secondo grado,6,72.0
+iter1,KITCHENWARE,scolapasta,colander,scuola tecnica,7,624.0
+iter1,KITCHENWARE,scolapasta,colander,scuola professionale,8,37.0
+iter1,KITCHENWARE,scolapasta,colander,scuola magistrale,9,28.0
+iter1,KITCHENWARE,scolapasta,colander,scuola universitaria,10,711.0
+iter1,KITCHENWARE,scolapasta,colander,scuola di educazione fisica,11,20.0
+iter1,KITCHENWARE,scolapasta,colander,scuola di educazione musicale,12,13.0
+iter1,KITCHENWARE,scolapasta,colander,scuola di educazione artistica,13,2.0
+iter1,KITCHENWARE,scolapasta,colander,scuola di educazione sportiva,14,1.0
+iter1,KITCHENWARE,scolapasta,colander,scuola di educazione religiosa,15,0.0
+iter1,KITCHENWARE,scolapasta,colander,scuola di educazione speciale,16,12.0
+iter1,KITCHENWARE,scolapasta,colander,scuola di educazione speciale per dislessici,17,0.0
+iter1,KITCHENWARE,scolapasta,colander,scuola di,18,98.0
+iter1,STATIONERY,scolorina,ink remover,scuola elementare,1,1433.0
+iter1,STATIONERY,scolorina,ink remover,scuola media,2,1114.0
+iter1,STATIONERY,scolorina,ink remover,scuola superiore,3,550.0
+iter1,STATIONERY,scolorina,ink remover,scuola primaria,4,2102.0
+iter1,STATIONERY,scolorina,ink remover,scuola secondaria di primo grado,5,123.0
+iter1,STATIONERY,scolorina,ink remover,scuola secondaria di secondo grado,6,72.0
+iter1,STATIONERY,scolorina,ink remover,scuola tecnica,7,624.0
+iter1,STATIONERY,scolorina,ink remover,scuola professionale,8,37.0
+iter1,STATIONERY,scolorina,ink remover,scuola magistrale,9,28.0
+iter1,STATIONERY,scolorina,ink remover,scuola universitaria,10,711.0
+iter1,STATIONERY,scolorina,ink remover,scuola di educazione fisica,11,20.0
+iter1,STATIONERY,scolorina,ink remover,scuola di educazione musicale,12,13.0
+iter1,STATIONERY,scolorina,ink remover,scuola di educazione artistica,13,2.0
+iter1,STATIONERY,scolorina,ink remover,scuola di educazione sportiva,14,1.0
+iter1,STATIONERY,scolorina,ink remover,scuola di educazione religiosa,15,0.0
+iter1,STATIONERY,scolorina,ink remover,scuola di educazione speciale,16,12.0
+iter1,STATIONERY,scolorina,ink remover,scuola di educazione speciale per dislessici,17,0.0
+iter1,STATIONERY,scolorina,ink remover,scuola di,18,98.0
+iter1,VEHICLES,scooter,scooter,scooter,1,25153.0
+iter1,VEHICLES,scooter,scooter,moped,2,313.0
+iter1,VEHICLES,scooter,scooter,motociclo,3,16769.0
+iter1,VEHICLES,scooter,scooter,motoscooter,4,210.0
+iter1,VEHICLES,scooter,scooter,scooter elettrico,5,208.0
+iter1,VEHICLES,scooter,scooter,scooter a pedali,6,6.0
+iter1,VEHICLES,scooter,scooter,scooter a tre ruote,7,27.0
+iter1,VEHICLES,scooter,scooter,scooter a quattro ruote,8,23.0
+iter1,VEHICLES,scooter,scooter,scooter a cinque ruote,9,1.0
+iter1,VEHICLES,scooter,scooter,scooter a sei ruote,10,0.0
+iter1,VEHICLES,scooter,scooter,scooter a sette ruote,11,0.0
+iter1,VEHICLES,scooter,scooter,scooter a otto ruote,12,0.0
+iter1,VEHICLES,scooter,scooter,scooter a nove ruote,13,0.0
+iter1,VEHICLES,scooter,scooter,scooter a dieci ruote,14,0.0
+iter1,VEHICLES,scooter,scooter,scooter a undici ruote,15,0.0
+iter1,VEHICLES,scooter,scooter,scooter a dodici ruote,16,0.0
+iter1,VEHICLES,scooter,scooter,scooter a tredici ruote,17,0.0
+iter1,VEHICLES,scooter,scooter,scooter a quattordici ruote,18,0.0
+iter1,VEHICLES,scooter,scooter,sc,19,17810.0
+iter1,FURNITURE,scrivania,desk,scrivania,1,22627.0
+iter1,FURNITURE,scrivania,desk,tavolo da scrivere,2,6.0
+iter1,FURNITURE,scrivania,desk,sedia da scrivere,3,0.0
+iter1,FURNITURE,scrivania,desk,sedie da ufficio,4,59.0
+iter1,FURNITURE,scrivania,desk,scrivania a rotelle,5,2.0
+iter1,FURNITURE,scrivania,desk,scrivania a ruota,6,0.0
+iter1,FURNITURE,scrivania,desk,scrivania a tavolo,7,1.0
+iter1,FURNITURE,scrivania,desk,scrivania a scomparsa,8,21.0
+iter1,FURNITURE,scrivania,desk,scrivania a sbalzo,9,0.0
+iter1,FURNITURE,scrivania,desk,scrivania a sbalzo a ruota,10,0.0
+iter1,FURNITURE,scrivania,desk,scrivania a sbalzo a tavolo,11,0.0
+iter1,FURNITURE,scrivania,desk,scrivania a sbalzo a scomparsa,12,0.0
+iter1,FURNITURE,scrivania,desk,scrivania a sbalzo a ruota a scomparsa,13,0.0
+iter1,FURNITURE,scrivania,desk,scrivania a sbalzo a tavolo a scomparsa,14,0.0
+iter1,FURNITURE,scrivania,desk,scrivania a sbalzo a scomp,15,0.0
+iter1,FURNITURE,sedia,chair,poltrona,1,17953.0
+iter1,FURNITURE,sedia,chair,sedia a rotelle,2,298.0
+iter1,FURNITURE,sedia,chair,sedia a sbalzo,3,24.0
+iter1,FURNITURE,sedia,chair,sedia a due manici,4,0.0
+iter1,FURNITURE,sedia,chair,sedia a quattro manici,5,0.0
+iter1,FURNITURE,sedia,chair,sedia a rulli,6,0.0
+iter1,FURNITURE,sedia,chair,s,7,16069.0
+iter1,ANIMALS,serpente,snake,cobra,1,21022.0
+iter1,ANIMALS,serpente,snake,vipera,2,18421.0
+iter1,ANIMALS,serpente,snake,anaconda,3,3470.0
+iter1,ANIMALS,serpente,snake,boa constritora,4,0.0
+iter1,ANIMALS,serpente,snake,python,5,20850.0
+iter1,ANIMALS,serpente,snake,iguana,6,5316.0
+iter1,ANIMALS,serpente,snake,rattlesnake,7,318.0
+iter1,ANIMALS,serpente,snake,mamba,8,3503.0
+iter1,ANIMALS,serpente,snake,garter snake,9,0.0
+iter1,ANIMALS,serpente,snake,adder,10,570.0
+iter1,ANIMALS,serpente,snake,rattles,11,47.0
+iter1,CLOTHES,slip,briefs,slipper,1,844.0
+iter1,CLOTHES,slip,briefs,slip dress,2,82.0
+iter1,CLOTHES,slip,briefs,slip on shoes,3,41.0
+iter1,CLOTHES,slip,briefs,slip of paper,4,1.0
+iter1,CLOTHES,slip,briefs,slip of the tongue,5,27.0
+iter1,CLOTHES,slip,briefs,slip of the hand,6,0.0
+iter1,CLOTHES,slip,briefs,slip of the foot,7,0.0
+iter1,CLOTHES,slip,briefs,slip of the mind,8,0.0
+iter1,CLOTHES,slip,briefs,slip of the pen,9,1.0
+iter1,CLOTHES,slip,briefs,slip of the lip,10,0.0
+iter1,CLOTHES,slip,briefs,slip of,11,107.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto,1,17885.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in legno,2,23.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in alluminio,3,21.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in pvc,4,3.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in vetro,5,23.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in lamiera,6,5.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in fibrocemento,7,0.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in gesso,8,22.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in cemento,9,26.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in muratura,10,20.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in pietra,11,21.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in laterizio,12,8.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in mattoni,13,22.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in laterizio a vista,14,0.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in laterizio a vista con intonaco,15,0.0
+iter1,HOUSING BUILDINGS,soffitto,ceiling,soffitto in laterizio a vista con inton,16,0.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,hotel,1,20104.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,bed and breakfast,2,2207.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,motel,3,15101.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,hostel,4,13759.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,villa,5,22543.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,appartamento,6,24709.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,casa,7,18062.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,ristorante,8,22048.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,albergo,9,18951.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,pension,10,3740.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,campeggio,11,13678.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,casa vacanza,12,509.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,villaggio turistico,13,691.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,resort,14,20274.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,condominio,15,16741.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,villa turistica,16,8.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,casa di cura,17,128.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,casa di riposo,18,228.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,casa di cura per anziani,19,20.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,casa di cura per bambini,20,20.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,casa di cura per disabili,21,16.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,casa di cura per persone con problemi di salute mentale,22,0.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,casa di cura per persone con problemi di salute fisica,23,0.0
+iter1,HOUSING BUILDINGS,soggiorno,living room,casa di cura per persone,24,16.0
+iter1,BODY PARTS,spalla,shoulder,spalla,1,18222.0
+iter1,BODY PARTS,spalla,shoulder,spallina,2,12968.0
+iter1,BODY PARTS,spalla,shoulder,spallino,3,2015.0
+iter1,BODY PARTS,spalla,shoulder,spallone,4,2066.0
+iter1,BODY PARTS,spalla,shoulder,spalliera,5,10218.0
+iter1,BODY PARTS,spalla,shoulder,spalliera,6,10218.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio,1,18953.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a sessanta facce,2,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a trecce,3,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a quattrocce,4,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a sei facce,5,1.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a otto facce,6,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a dieci facce,7,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a venti facce,8,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a trenta facce,9,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a quaranta facce,10,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a cinquanta facce,11,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a novanta facce,12,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a cento facce,13,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a mille facce,14,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a diecimila facce,15,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a centomila facce,16,0.0
+iter1,FURNISHINGS/FITTINGS,specchio,mirror,specchio a milione fac,17,0.0
+iter1,STATIONERY,spillatrice,stapler,frullatore,1,24713.0
+iter1,STATIONERY,spillatrice,stapler,aspirapolvere,2,33259.0
+iter1,STATIONERY,spillatrice,stapler,tostapance,3,0.0
+iter1,STATIONERY,spillatrice,stapler,lavatrice,4,131287.0
+iter1,STATIONERY,spillatrice,stapler,microonde,5,20211.0
+iter1,STATIONERY,spillatrice,stapler,lavastoviglie,6,21923.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt,1,17728.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt nero,2,448.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt bianco,3,29.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt rosa,4,84.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt grigio,5,121.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt blu,6,137.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt verde,7,92.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt rosso,8,161.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt giallo,9,119.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt arancione,10,55.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt viola,11,20.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt rosa scarlatto,12,0.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt rosa chiaro,13,0.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt rosa scarlatto chiaro,14,0.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt rosa scarlatto scuro,15,0.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt rosa scarlatto chiaro scuro,16,0.0
+iter1,CLOTHES,t-shirt,t-shirts,t-shirt rosa scarlatto scuro scuro,17,0.0
+iter1,STATIONERY,taccuino,notebook,taccuino,1,18154.0
+iter1,STATIONERY,taccuino,notebook,taccuino elettrico,2,0.0
+iter1,STATIONERY,taccuino,notebook,taccuino manuale,3,0.0
+iter1,STATIONERY,taccuino,notebook,taccuino elettrico manuale,4,0.0
+iter1,STATIONERY,taccuino,notebook,taccuino elettrico elettrico,5,0.0
+iter1,STATIONERY,taccuino,notebook,taccuino elettrico elettrico manuale,6,0.0
+iter1,STATIONERY,taccuino,notebook,taccuino elettrico elettrico elettrico manuale,7,0.0
+iter1,KITCHENWARE,tagliere,chopping board,tagliere da cucina,1,26.0
+iter1,KITCHENWARE,tagliere,chopping board,tagliere da barberia,2,0.0
+iter1,KITCHENWARE,tagliere,chopping board,tagliere da barberia elettriche,3,0.0
+iter1,KITCHENWARE,tagliere,chopping board,tagliere da barberia elettriche con guarnimento,4,0.0
+iter1,KITCHENWARE,tagliere,chopping board,tagliere da barberia elettriche con guarnimento elettriche,5,0.0
+iter1,KITCHENWARE,tagliere,chopping board,tagliere da barberia elettriche con guarnimento elettriche con guarnimento,6,0.0
+iter1,KITCHENWARE,tagliere,chopping board,tagliere da barberia elettriche con guarnimento elettriche con guarnimento elettriche con guarnimento elettriche con guarnimento elettriche con guarnimento elettriche con guarnimento elettriche con guarnimento e,7,0.0
+iter1,FURNISHINGS/FITTINGS,tappeto,carpet,tappeto,1,17169.0
+iter1,FURNISHINGS/FITTINGS,tappeto,carpet,tappeto da bagno,2,22.0
+iter1,FURNISHINGS/FITTINGS,tappeto,carpet,tappeto da letto,3,4.0
+iter1,FURNISHINGS/FITTINGS,tappeto,carpet,tappeto da pranzo,4,0.0
+iter1,FURNISHINGS/FITTINGS,tappeto,carpet,tappeto da bagno da pranzo,5,0.0
+iter1,FURNISHINGS/FITTINGS,tappeto,carpet,tappeto da bagno da letto,6,0.0
+iter1,FURNISHINGS/FITTINGS,tappeto,carpet,tappeto da letto da bagno,7,0.0
+iter1,FURNISHINGS/FITTINGS,tappeto,carpet,tappeto da pranzo da bagno,8,0.0
+iter1,FURNISHINGS/FITTINGS,tappeto,carpet,tappeto da letto da pranzo da bagno,9,0.0
+iter1,FURNISHINGS/FITTINGS,tappeto,carpet,tappeto da pranzo da letto da bagno,10,0.0
+iter1,FURNISHINGS/FITTINGS,tappeto,carpet,tappeto da letto da pranzo da bagno da letto da bagno,11,0.0
+iter1,FURNISHINGS/FITTINGS,tappeto,carpet,tappeto da pranzo da letto da pranzo da bagno da letto da bagno da letto da bagno da let,12,0.0
+iter1,FURNITURE,tavolo,table,tavolo da cena,1,13.0
+iter1,FURNITURE,tavolo,table,tavolo da lavoro,2,50.0
+iter1,FURNITURE,tavolo,table,tavolo da pranzo,3,129.0
+iter1,FURNITURE,tavolo,table,tavolo da gioco,4,96.0
+iter1,FURNITURE,tavolo,table,tavolo da cucina,5,52.0
+iter1,FURNITURE,tavolo,table,tavolo da bagno,6,7.0
+iter1,FURNITURE,tavolo,table,tavolo da letto,7,10.0
+iter1,FURNITURE,tavolo,table,tavolo da studio,8,23.0
+iter1,FURNITURE,tavolo,table,tav,9,24067.0
+iter1,KITCHENWARE,teglia,baking pan,tetto,1,18060.0
+iter1,KITCHENWARE,teglia,baking pan,tettoia,2,13807.0
+iter1,KITCHENWARE,teglia,baking pan,tettoie,3,11403.0
+iter1,KITCHENWARE,teglia,baking pan,tettoie,4,11403.0
+iter1,HOBBIES,televisione,television,televisore,1,15631.0
+iter1,HOBBIES,televisione,television,monitor,2,23730.0
+iter1,HOBBIES,televisione,television,televisore a tubo,3,32.0
+iter1,HOBBIES,televisione,television,televisore a schermo piatto,4,20.0
+iter1,HOBBIES,televisione,television,televisore a led,5,26.0
+iter1,HOBBIES,televisione,television,televisore a oled,6,0.0
+iter1,HOBBIES,televisione,television,televisore a lcd,7,10.0
+iter1,HOBBIES,televisione,television,televisore a plasma,8,6.0
+iter1,HOBBIES,televisione,television,televisore a proiezione,9,7.0
+iter1,HOBBIES,televisione,television,televisore a cristallo liquido,10,22.0
+iter1,HOBBIES,televisione,television,televisore a cristallo liquido a led,11,0.0
+iter1,HOBBIES,televisione,television,televisore a cristallo liquido a oled,12,0.0
+iter1,HOBBIES,televisione,television,televisore a cristallo liquido a lcd,13,0.0
+iter1,HOBBIES,televisione,television,televisore a cristallo liquido a plasma,14,0.0
+iter1,HOBBIES,televisione,television,televisore a cristallo liquido a proiezione,15,0.0
+iter1,HOBBIES,televisione,television,televisore a cristallo liquido a led a proiezione,16,0.0
+iter1,HOBBIES,televisione,television,televisore a cristallo liquido a oled a proiezione,17,0.0
+iter1,STATIONERY,temperino,pencil sharpener,frullatore,1,24713.0
+iter1,STATIONERY,temperino,pencil sharpener,aspirapolvere,2,33259.0
+iter1,STATIONERY,temperino,pencil sharpener,tostapance,3,0.0
+iter1,STATIONERY,temperino,pencil sharpener,lavatrice,4,131287.0
+iter1,STATIONERY,temperino,pencil sharpener,microonde,5,20211.0
+iter1,STATIONERY,temperino,pencil sharpener,lavastoviglie,6,21923.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da camping,1,23.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da evento,2,0.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da esposizione,3,0.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da lavoro,4,58.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da pranzo,5,8.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da letto,6,12.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da bagno,7,32.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da cucina,8,20.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da giardino,9,22.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da spiaggia,10,33.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da neve,11,0.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da festa,12,11.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da cena,13,0.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da bar,14,3.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da ristorante,15,0.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da caffè,16,0.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da ristorante esterno,17,0.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da ristorante aperto,18,0.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda da ristorante al fresco,19,0.0
+iter1,FURNISHINGS/FITTINGS,tenda,curtain,tenda,20,25605.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,terrazzo,1,12886.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,balcone,2,16407.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,loggia,3,17598.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,veranda,4,20922.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,pavimento,5,463954.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,pergola,6,23202.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,giardino,7,17316.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,cortile,8,23855.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,patio,9,24642.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,balcone-terrazzo,10,49.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,terrazzo-giardino,11,91.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,terrazzo-balcone,12,18.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,terrazzo-loggia,13,5.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,terrazzo-veranda,14,7.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,terrazzo-pavimento,15,0.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,terrazzo-pergola,16,0.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,terrazzo-giardino-balcone,17,0.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,terrazzo-giardino-loggia,18,0.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,terrazzo-giardino-veranda,19,0.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,terrazzo-giardino-pavimento,20,0.0
+iter1,HOUSING BUILDINGS,terrazzo,terrace,terrazzo-gi,21,0.0
+iter1,BODY PARTS,testa,head,cervello,1,18590.0
+iter1,BODY PARTS,testa,head,capo,2,22668.0
+iter1,BODY PARTS,testa,head,testa,3,22016.0
+iter1,BODY PARTS,testa,head,cremisiere,4,0.0
+iter1,BODY PARTS,testa,head,barba,5,16418.0
+iter1,BODY PARTS,testa,head,pelo,6,19184.0
+iter1,BODY PARTS,testa,head,capelli,7,33362.0
+iter1,BODY PARTS,testa,head,corteccia cerebrale,8,1012.0
+iter1,BODY PARTS,testa,head,encefalo,9,10935.0
+iter1,BODY PARTS,testa,head,cerebro,10,1651.0
+iter1,BODY PARTS,testa,head,frontale,11,30601.0
+iter1,BODY PARTS,testa,head,occipitale,12,6005.0
+iter1,BODY PARTS,testa,head,temporale,13,21664.0
+iter1,BODY PARTS,testa,head,parietale,14,8075.0
+iter1,BODY PARTS,testa,head,lobo cerebrale,15,28.0
+iter1,BODY PARTS,testa,head,giro,16,16699.0
+iter1,BODY PARTS,testa,head,emisfero cerebrale,17,709.0
+iter1,BODY PARTS,testa,head,talamo,18,10020.0
+iter1,BODY PARTS,testa,head,corteccia sommotoria,19,0.0
+iter1,BODY PARTS,testa,head,corteccia motoria,20,383.0
+iter1,BODY PARTS,testa,head,corteccia sensoriale,21,49.0
+iter1,BODY PARTS,testa,head,corteccia associativa,22,40.0
+iter1,BODY PARTS,testa,head,corteccia limbica,23,59.0
+iter1,BODY PARTS,testa,head,corteccia neocorticale,24,2.0
+iter1,BODY PARTS,testa,head,corteccia paleocortical,25,0.0
+iter1,HOUSING BUILDINGS,tetto,roof,tettoia,1,13807.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di legno,2,26.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di rame,3,24.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di zinco,4,21.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di lamiera,5,25.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di ghisa,6,0.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di alluminio,7,15.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di vetro,8,28.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di vetro sottopesto,9,0.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di vetro temperato,10,1.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di vetro in vetro,11,0.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di vetro in vetro temperato,12,0.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di vetro in vetro sottoposto,13,0.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di vetro in vetro temperato sottoposto,14,0.0
+iter1,HOUSING BUILDINGS,tetto,roof,tetto di vetro in vetro temperato sott,15,0.0
+iter1,ANIMALS,tigre,tiger,tigre africana,1,4.0
+iter1,ANIMALS,tigre,tiger,tigre siamese,2,1.0
+iter1,ANIMALS,tigre,tiger,tigre bengalina,3,1.0
+iter1,ANIMALS,tigre,tiger,tigre del bengala,4,46.0
+iter1,ANIMALS,tigre,tiger,tigre del siberiano,5,0.0
+iter1,ANIMALS,tigre,tiger,tigre del sudan,6,0.0
+iter1,ANIMALS,tigre,tiger,tigre della birmania,7,6.0
+iter1,ANIMALS,tigre,tiger,tigre della cina,8,23.0
+iter1,ANIMALS,tigre,tiger,tigre della corea,9,0.0
+iter1,ANIMALS,tigre,tiger,tigre della india,10,0.0
+iter1,ANIMALS,tigre,tiger,tigre della malesia,11,33.0
+iter1,ANIMALS,tigre,tiger,tigre della russia,12,0.0
+iter1,ANIMALS,tigre,tiger,tigre della somalia,13,0.0
+iter1,ANIMALS,tigre,tiger,tigre della tailandia,14,0.0
+iter1,ANIMALS,tigre,tiger,tigre della thailandia,15,5.0
+iter1,ANIMALS,tigre,tiger,tigre della vietnam,16,0.0
+iter1,ANIMALS,tigre,tiger,tigre della yunnan,17,0.0
+iter1,ANIMALS,tigre,tiger,tigre della zimbabwe,18,0.0
+iter1,ANIMALS,tigre,tiger,tigre giapponese,19,26.0
+iter1,ANIMALS,tigre,tiger,,20,0.0
+iter1,ANIMALS,topo,mouse,topo,1,16853.0
+iter1,ANIMALS,topo,mouse,topo di casa,2,18.0
+iter1,ANIMALS,topo,mouse,topo selvatico,3,73.0
+iter1,ANIMALS,topo,mouse,topo domestico,4,328.0
+iter1,ANIMALS,topo,mouse,topo di laboratorio,5,1052.0
+iter1,ANIMALS,topo,mouse,topo di giardino,6,0.0
+iter1,ANIMALS,topo,mouse,topo di campagna,7,20.0
+iter1,ANIMALS,topo,mouse,topo di fattoria,8,0.0
+iter1,VEHICLES,traghetto,ferry,traghetto a vapore,1,21.0
+iter1,VEHICLES,traghetto,ferry,traghetto a ponte,2,0.0
+iter1,VEHICLES,traghetto,ferry,traghetto a funicolare,3,0.0
+iter1,VEHICLES,traghetto,ferry,traghetto a gondola,4,0.0
+iter1,VEHICLES,traghetto,ferry,traghetto a barca,5,0.0
+iter1,VEHICLES,traghetto,ferry,traghetto a ferry,6,1.0
+iter1,VEHICLES,traghetto,ferry,traghetto a traghetto a vaporetto,7,0.0
+iter1,VEHICLES,traghetto,ferry,traghetto a traghetto a ponte,8,0.0
+iter1,VEHICLES,traghetto,ferry,traghetto a traghetto a funicolare,9,0.0
+iter1,VEHICLES,traghetto,ferry,traghetto a traghetto a gondola,10,0.0
+iter1,VEHICLES,traghetto,ferry,traghetto a traghetto a barca,11,0.0
+iter1,VEHICLES,traghetto,ferry,traghetto a traghetto a ferry,12,0.0
+iter1,VEHICLES,traghetto,ferry,traghet,13,24.0
+iter1,VEHICLES,tram,tram,tram,1,21351.0
+iter1,VEHICLES,trattore,tractor,trattore agricolo,1,160.0
+iter1,VEHICLES,trattore,tractor,trattore di carico,2,1.0
+iter1,VEHICLES,trattore,tractor,trattore di carico pesante,3,1.0
+iter1,VEHICLES,trattore,tractor,trattore di carico leggero,4,0.0
+iter1,VEHICLES,trattore,tractor,trattore di carico aereo,5,0.0
+iter1,VEHICLES,trattore,tractor,trattore di carico marittimo,6,0.0
+iter1,VEHICLES,trattore,tractor,trattore di carico ferroviario,7,0.0
+iter1,VEHICLES,trattore,tractor,trattore di carico aereo pesante,8,0.0
+iter1,VEHICLES,trattore,tractor,trattore di carico aereo leggero,9,0.0
+iter1,VEHICLES,trattore,tractor,trattore di carico marittimo pesante,10,0.0
+iter1,VEHICLES,trattore,tractor,trattore di carico marittimo leggero,11,0.0
+iter1,VEHICLES,trattore,tractor,trattore di carico ferroviario pesante,12,0.0
+iter1,VEHICLES,trattore,tractor,trattore di carico ferroviario leggero,13,0.0
+iter1,VEHICLES,trattore,tractor,trattore,14,12168.0
+iter1,VEHICLES,treno,train,locomotiva,1,21089.0
+iter1,VEHICLES,treno,train,carro,2,17038.0
+iter1,VEHICLES,treno,train,carrozza,3,17133.0
+iter1,VEHICLES,treno,train,vagoni,4,22076.0
+iter1,VEHICLES,treno,train,treno passeggeri,5,75.0
+iter1,VEHICLES,treno,train,treno merci,6,7268.0
+iter1,VEHICLES,treno,train,treno cantiere,7,154.0
+iter1,VEHICLES,treno,train,treno turistico,8,548.0
+iter1,VEHICLES,treno,train,treno a vapore,9,40.0
+iter1,VEHICLES,treno,train,treno elettrico,10,454.0
+iter1,VEHICLES,treno,train,treno a scartamento ridotto,11,30.0
+iter1,VEHICLES,treno,train,treno a scartamento normale,12,4.0
+iter1,VEHICLES,treno,train,treno ad alta velocità,13,414.0
+iter1,VEHICLES,treno,train,treno ad alta velocità a scartamento normale,14,0.0
+iter1,VEHICLES,treno,train,treno ad alta velocità a scartamento ridotto,15,0.0
+iter1,VEHICLES,treno,train,treno ad alta velocità a scartamento misto,16,0.0
+iter1,VEHICLES,treno,train,treno ad alta velocità a scartamento misto normale,17,0.0
+iter1,VEHICLES,treno,train,treno ad,18,472.0
+iter1,PLANTS,tulipano,tulip,tulipano,1,22454.0
+iter1,PLANTS,tulipano,tulip,tulipano rosso,2,338.0
+iter1,PLANTS,tulipano,tulip,tulipano giallo,3,263.0
+iter1,PLANTS,tulipano,tulip,tulipano bianco,4,228.0
+iter1,PLANTS,tulipano,tulip,tulipano viola,5,54.0
+iter1,PLANTS,tulipano,tulip,tulipano rosa,6,102.0
+iter1,PLANTS,tulipano,tulip,tulipano arancio,7,8.0
+iter1,PLANTS,tulipano,tulip,tulipano nero,8,517.0
+iter1,PLANTS,tulipano,tulip,tulipano rosa nero,9,0.0
+iter1,PLANTS,tulipano,tulip,tulipano rosa bianca,10,0.0
+iter1,PLANTS,tulipano,tulip,tulipano rosa rossa,11,0.0
+iter1,PLANTS,tulipano,tulip,tulipano rosa rosa,12,0.0
+iter1,PLANTS,tulipano,tulip,tulipano rosa rosa rosa,13,0.0
+iter1,PLANTS,tulipano,tulip,tulipano rosa rosa rosa rosa,14,0.0
+iter1,PLANTS,tulipano,tulip,tulipano rosa rosa rosa rosa rosa rosa rosa rosa rosa ro,15,0.0
+iter1,PLANTS,ulivo,olive tree,olivo,1,25600.0
+iter1,PLANTS,ulivo,olive tree,olio d'olivo,2,0.0
+iter1,PLANTS,ulivo,olive tree,olivastro,3,8511.0
+iter1,PLANTS,ulivo,olive tree,olivicello,4,1.0
+iter1,PLANTS,ulivo,olive tree,olivastro nero,5,5.0
+iter1,PLANTS,ulivo,olive tree,olivastro verde,6,0.0
+iter1,PLANTS,ulivo,olive tree,olivastro bianco,7,0.0
+iter1,PLANTS,ulivo,olive tree,olivastro giallo,8,1.0
+iter1,PLANTS,ulivo,olive tree,olivastro rosso,9,0.0
+iter1,PLANTS,ulivo,olive tree,olivastro verde scarlatto,10,0.0
+iter1,PLANTS,ulivo,olive tree,olivastro verde scarlatto giallo,11,0.0
+iter1,PLANTS,ulivo,olive tree,olivastro verde scarlatto rosso,12,0.0
+iter1,PLANTS,ulivo,olive tree,olivastro verde scarlatto giallo rosso,13,0.0
+iter1,PLANTS,ulivo,olive tree,olivastro verde scarlatto rosso giallo,14,0.0
+iter1,PLANTS,ulivo,olive tree,olivastro verde scarlatto rosso giallo rosso,15,0.0
+iter1,FOODS,uovo,egg,uovo di pollo,1,22.0
+iter1,FOODS,uovo,egg,uovo di gallina,2,32.0
+iter1,FOODS,uovo,egg,uovo di oca,3,26.0
+iter1,FOODS,uovo,egg,uovo di quaglia,4,37.0
+iter1,FOODS,uovo,egg,uovo di struzzo,5,33.0
+iter1,FOODS,uovo,egg,uovo di anatra,6,20.0
+iter1,FOODS,uovo,egg,uovo di ostriche,7,0.0
+iter1,FOODS,uovo,egg,uovo di emu,8,6.0
+iter1,FOODS,uovo,egg,uovo di pavone,9,19.0
+iter1,FOODS,uovo,egg,uovo di tartaruga,10,20.0
+iter1,FOODS,uovo,egg,uovo di coccodrillo,11,20.0
+iter1,FOODS,uovo,egg,uovo di alligatore,12,10.0
+iter1,FOODS,uovo,egg,uovo di ippopotamo,13,0.0
+iter1,FOODS,uovo,egg,uovo di elefante,14,4.0
+iter1,FOODS,uovo,egg,uovo di rinoceronte,15,1.0
+iter1,FOODS,uovo,egg,uovo di orso,16,0.0
+iter1,FOODS,uovo,egg,uovo di panda,17,1.0
+iter1,FOODS,uovo,egg,uovo di gorilla,18,0.0
+iter1,FOODS,uovo,egg,uovo di orca,19,0.0
+iter1,FOODS,uovo,egg,uovo di squalo,20,22.0
+iter1,FOODS,uovo,egg,uovo,21,16441.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,bicchierino,1,18449.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,coppa,2,20005.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,tazza,3,18646.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,piatto,4,15552.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,piatto da cucina,5,20.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,piatto da pranzo,6,22.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,piatto da pasto,7,1.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,piatto da dessert,8,30.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,piatto da frullato,9,0.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,piatto da riso,10,2.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,piatto da pasta,11,6.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,piatto da carne,12,5.0
+iter1,FURNISHINGS/FITTINGS,vaso,vase,piatto da pesce,13,30.0
+iter1,FOODS,verdura,vegetable,broccoli,1,16212.0
+iter1,FOODS,verdura,vegetable,carote,2,23573.0
+iter1,FOODS,verdura,vegetable,cipolle,3,24254.0
+iter1,FOODS,verdura,vegetable,pomodori,4,27245.0
+iter1,FOODS,verdura,vegetable,zucchini,5,6191.0
+iter1,FOODS,verdura,vegetable,patate,6,20749.0
+iter1,FOODS,verdura,vegetable,spinaci,7,26433.0
+iter1,FOODS,verdura,vegetable,cavoli,8,27863.0
+iter1,FOODS,verdura,vegetable,fagioli,9,29349.0
+iter1,FOODS,verdura,vegetable,limoni,10,14409.0
+iter1,FOODS,verdura,vegetable,melanzane,11,25937.0
+iter1,FOODS,verdura,vegetable,pere,12,24187.0
+iter1,FOODS,verdura,vegetable,prugne,13,21104.0
+iter1,FOODS,verdura,vegetable,fragole,14,23535.0
+iter1,FOODS,verdura,vegetable,mela,15,20103.0
+iter1,FOODS,verdura,vegetable,banane,16,33033.0
+iter1,FOODS,verdura,vegetable,arance,17,24267.0
+iter1,FOODS,verdura,vegetable,kiwi,18,16676.0
+iter1,FOODS,verdura,vegetable,mango,19,17627.0
+iter1,FOODS,verdura,vegetable,ananas,20,26924.0
+iter1,FOODS,verdura,vegetable,papaya,21,9554.0
+iter1,FOODS,verdura,vegetable,duri,22,21307.0
+iter1,FOODS,verdura,vegetable,ciliegie,23,25553.0
+iter1,FOODS,verdura,vegetable,cipollotti,24,3948.0
+iter1,FOODS,verdura,vegetable,aglio,25,23717.0
+iter1,FOODS,verdura,vegetable,peperoncino,26,19157.0
+iter1,FOODS,verdura,vegetable,zenzero,27,16097.0
+iter1,FOODS,verdura,vegetable,ginger,28,11856.0
+iter1,FOODS,verdura,vegetable,chiodi di garofano,29,38.0
+iter1,FOODS,verdura,vegetable,cardamomo,30,9086.0
+iter1,FOODS,verdura,vegetable,cinnamomo,31,485.0
+iter1,FOODS,verdura,vegetable,noce,32,16870.0
+iter1,HOBBIES,videogioco,video game,playstation,1,13966.0
+iter1,HOBBIES,videogioco,video game,xbox,2,31264.0
+iter1,HOBBIES,videogioco,video game,nintendo,3,29732.0
+iter1,HOBBIES,videogioco,video game,wii,4,26697.0
+iter1,HOBBIES,videogioco,video game,pc,5,20041.0
+iter1,HOBBIES,videogioco,video game,game boy,6,1657.0
+iter1,HOBBIES,videogioco,video game,psp,7,22025.0
+iter1,HOBBIES,videogioco,video game,3ds,8,15343.0
+iter1,HOBBIES,videogioco,video game,vita,9,18544.0
+iter1,HOBBIES,videogioco,video game,switch,10,20302.0
+iter1,HOBBIES,videogioco,video game,stadia,11,6136.0
+iter1,HOBBIES,videogioco,video game,steam,12,27351.0
+iter1,HOBBIES,videogioco,video game,gog,13,3609.0
+iter1,HOBBIES,videogioco,video game,origin,14,11174.0
+iter1,HOBBIES,videogioco,video game,uplay,15,966.0
+iter1,HOBBIES,videogioco,video game,epic games store,16,180.0
+iter1,HOBBIES,videogioco,video game,playstation store,17,274.0
+iter1,HOBBIES,videogioco,video game,xbox store,18,43.0
+iter1,HOBBIES,videogioco,video game,nintendo eshop,19,1569.0
+iter1,HOBBIES,videogioco,video game,google play store,20,380.0
+iter1,HOBBIES,videogioco,video game,app store,21,1652.0
+iter1,HOBBIES,videogioco,video game,stadia pro,22,296.0
+iter1,HOBBIES,videogioco,video game,xbox game pass,23,283.0
+iter1,HOBBIES,videogioco,video game,playstation plus,24,584.0
+iter1,HOBBIES,videogioco,video game,nintendo switch online,25,728.0
+iter1,HOBBIES,videogioco,video game,playstation now,26,653.0
+iter1,HOBBIES,videogioco,video game,xbox live gold,27,76.0
+iter1,HOBBIES,videogioco,video game,xbox game pass ultimate,28,34.0
+iter1,HOBBIES,videogioco,video game,playstation plus collection,29,38.0
+iter1,HOBBIES,videogioco,video game,xbox game pass ultimate perks,30,0.0
+iter1,HOBBIES,videogioco,video game,xbox game pass quests,31,0.0
+iter1,HOBBIES,videogioco,video game,xbox game pass deals,32,0.0
+iter1,HOBBIES,videogioco,video game,xbox game pass free games,33,0.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di legno,1,22.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di metallo,2,22.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di plastica,3,20.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di vetro,4,10.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di ceramica,5,2.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di gomma,6,7.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di silicone,7,0.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di nylon,8,1.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di fibra di vetro,9,0.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di fibra di carbonio,10,0.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di fibra di aramida,11,0.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di fibra di kevlar,12,0.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di fibra di polietilene,13,0.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di fibra di polipropilene,14,0.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di fibra di polietilene tetraidroato,15,0.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,vite di fibra di poliamida,16,0.0
+iter1,FURNISHINGS/FITTINGS,vite,screw,v,17,23106.0
