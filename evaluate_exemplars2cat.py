@@ -15,10 +15,10 @@ import torch
 from transformers import AutoProcessor, LlavaNextForConditionalGeneration, AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, AutoModelForPreTraining
 from transformers.utils.logging import disable_progress_bar
 
-disable_progress_bar()
+# disable_progress_bar()
 
-DEVICE          = "cuda:3"
-MODEL_NAME      = "nemo"
+DEVICE          = "cuda"
+MODEL_NAME      = "llama3.1-70B"
 
 LLAVA_ID        = "llava-hf/llava-v1.6-mistral-7b-hf"
 MISTRAL_ID      = "mistralai/Mistral-7B-Instruct-v0.2"
@@ -27,6 +27,8 @@ LLAMA31_ID      = "meta-llama/Llama-3.1-8B-Instruct"
 LLAMA32_ID      = "meta-llama/Llama-3.2-3B-Instruct"
 IDEFICS2_ID     = "HuggingFaceM4/idefics2-8b"
 MIXTRAL_ID      = "mistralai/Mixtral-8x7B-Instruct-v0.1"
+LLAMA_31_70B    = "meta-llama/Llama-3.1-70B-Instruct"
+
 
 CATEGORY_MAPPER_ITA = {
     'animals': 'animali',
@@ -42,6 +44,7 @@ CATEGORY_MAPPER_ITA = {
     'stationery': 'cancelleria',
     'vehicles': 'veicoli'
 }
+
 
 def get_model(model_name="llava"):
     if model_name == "llava":
@@ -84,7 +87,12 @@ def get_model(model_name="llava"):
         model = AutoModelForCausalLM.from_pretrained(MIXTRAL_ID, torch_dtype=torch.float16, low_cpu_mem_usage=True, device_map="auto")
         tokenizer = AutoTokenizer.from_pretrained(MIXTRAL_ID)
         processor = None
+    elif model_name.lower() == "llama3.1-70b":
+        tokenizer = AutoTokenizer.from_pretrained(LLAMA_31_70B)
+        model = AutoModelForCausalLM.from_pretrained(LLAMA_31_70B, torch_dtype=torch.float16, low_cpu_mem_usage=True, device_map="auto")
+        processor = None
     
+    model.eval()
     return model, tokenizer, processor
 
 
@@ -98,6 +106,7 @@ def eval():
     concepts    = sorted(list(set([elem["concept"] for elem in dataset])))
 
     model, tokenizer, processor = get_model(model_name=MODEL_NAME)
+    model.eval()
 
     all_res = []
     for sample in tqdm(dataset):
