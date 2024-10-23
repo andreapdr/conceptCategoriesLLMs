@@ -88,8 +88,8 @@ def get_model(model_name="llava"):
         tokenizer = AutoTokenizer.from_pretrained(MIXTRAL_ID)
         processor = None
     elif model_name.lower() == "llama3.1-70b":
-        tokenizer = AutoTokenizer.from_pretrained(LLAMA_31_70B)
-        model = AutoModelForCausalLM.from_pretrained(LLAMA_31_70B, torch_dtype=torch.float16, low_cpu_mem_usage=True, device_map="auto")
+        tokenizer = AutoTokenizer.from_pretrained(LLAMA_31_70B, token=os.getenv("MY_HF_TOKEN"))
+        model = AutoModelForCausalLM.from_pretrained(LLAMA_31_70B, torch_dtype=torch.float16, low_cpu_mem_usage=True, device_map="auto", token=os.getenv("MY_HF_TOKEN")).to(DEVICE)
         processor = None
     
     model.eval()
