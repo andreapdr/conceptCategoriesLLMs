@@ -26,6 +26,7 @@ LLAMA31_ID      = "meta-llama/Llama-3.1-8B-Instruct"
 LLAMA32_ID      = "meta-llama/Llama-3.2-3B-Instruct"
 IDEFICS2_ID     = "HuggingFaceM4/idefics2-8b"
 MIXTRAL_ID      = "mistralai/Mixtral-8x7B-Instruct-v0.1"
+LLAMA_31_70B    = "meta-llama/Llama-3.1-70B-Instruct"
 
 
 def get_model(model_name="llava"):
@@ -70,6 +71,10 @@ def get_model(model_name="llava"):
         from accelerate import init_empty_weights, infer_auto_device_map, dispatch_model
         model = AutoModelForCausalLM.from_pretrained(MIXTRAL_ID, torch_dtype=torch.float16, low_cpu_mem_usage=True, device_map="auto")
         tokenizer = AutoTokenizer.from_pretrained(MIXTRAL_ID)
+        processor = None
+    elif model_name.lower() == "llama3.1-70b":
+        tokenizer = AutoTokenizer.from_pretrained(LLAMA_31_70B, token=os.getenv("MY_HF_TOKEN"))
+        model = AutoModelForCausalLM.from_pretrained(LLAMA_31_70B, torch_dtype=torch.float16, low_cpu_mem_usage=True, device_map="auto", token=os.getenv("MY_HF_TOKEN"))
         processor = None
     
     return model, tokenizer, processor, start_token, end_token
@@ -189,7 +194,7 @@ def eval(args):
 
     models = ["llama3.1", "llama3.2", "nemo", "mistral", "llava", "idefics2"]
     models_visual = ["idefics2", "llava"]
-    models = ["llama3.2", "nemo"]
+    models = ["llama3.1-70B", "mixtral"]
     models_visual = []
 
     results = {"model": [], "easy": [], "medium": [], "hard": [], "llm": []}
@@ -243,8 +248,8 @@ def eval(args):
     print(res_df.round(2))
     
     if not args.nosave:
-        res_df.to_csv(f"{output_dir + output_name}.diff.csv", index=False)
-        with open(f"{output_dir + output_name}.diff.annotated.json", "w") as f:
+        res_df.to_csv(f"{output_dir + output_name}.diff.bigmodels.csv", index=False)
+        with open(f"{output_dir + output_name}.diff.annotated.bigmodels.json", "w") as f:
             json.dump(dataset, f, ensure_ascii=False)
 
 
