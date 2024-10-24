@@ -1,0 +1,121 @@
+{
+    "italian": {
+        "textual": {
+            "super-simple": {
+                "messages": [
+                    ["USER", "[INST] Data una parola che denota un concetto, elenca tutta i 'tipo di' quel concetto. Elenca solo i nomi delle entità. [/INST]Questa è una lista 'tipi di' `<CONCEPT>`: \n*"]
+                ]
+            },
+            "simple": {
+                "messages": [
+                    ["USER", "Data una parola che denota una concetto, elenca tutta le entità che appartengono a quel concetto. Elenca solo i nomi delle entità.\nInizia con il concetto <CONCEPT>.\n"]
+                ],
+                "followup": []
+            },
+            "example": {
+                "messages": [
+                    ["USER", "Data una parola che denota una concetto, elenca tutta le entità che appartengono a quel concetto. Elenca solo i nomi delle entità.\n"],
+                    ["USER", "Per esempio per il concetto 'elettrodomestico' elenca:\n*frullatore\n*aspirapolvere\n*tostapane\n*lavatrice\n*microonde\n*lavastoviglie.\nOra fai lo stesso per il concetto '<CONCEPT>' ed elenca solo i nomi delle entità!\n"]
+                ],
+                "followup": []
+            },
+            "unibo": {
+                "messages": [
+                    ["USER", "Data una parola che denota un concetto, elenca tutti i \"tipi di\" quel concetto. Per ogni parola inserisci quanti più esemplari ti vengono in mente!\n"]
+                ]
+            },
+            "guided": {
+                "messages": [
+                    ["USER", "Data una parola che denota una concetto, elenca tutta le entità che appartengono a quel concetto. Elenca solo i nomi delle entità. Inizia con il concetto `<CONCEPT>`. <ROLE_ASSISTANT>Ecco una lista di entità che appartengono al concetto `<CONCEPT>`: \n*"]
+                ]
+            },
+            "guided-example": {
+                "messages": [
+                    ["USER", "Data una parola che denota una concetto, elenca tutta i 'tipi di' quel concetto. Elenca solo i nomi delle entità. Per esempio per il concetto 'elettrodomestico' elenca:\n* frullatore\n* aspirapolvere\n* tostapane\n* lavatrice\n* microonde\n* lavastoviglie.\nOra fai lo stesso per il concetto '<CONCEPT>'. <ROLE_ASSISTANT>Questa è una lista 'tipi di' che appartengono al concetto `<CONCEPT>`: \n*"]
+                ]
+            }
+        },
+        "visual": {
+            "simple": {
+                "messages": [
+                    ["USER", "Data una parola che denota una concetto, elenca tutta le entità che appartengono a quel concetto. Usa l'immagine come fonte di ispirazione! Elenca solo i nomi delle entità.\nInizia con il concetto <CONCEPT>.\n"]
+                ],
+                "followup": []
+            },
+            "example": {
+                "messages": [
+                    ["USER","Data una parola che denota una concetto, elenca tutta le entità che appartengono a quel concetto. Usa l'immagine come fonte di ispirazione! Elenca solo i nomi delle entità.\n"],
+                    ["USER","Per esempio per il concetto 'elettrodomestico' elenca:\n*frullatore\n*aspirapolvere\n*tostapane\n*lavatrice\n*microonde\n*lavastoviglie.\nOra fai lo stesso per il concetto '<CONCEPT>' ed elenca solo i nomi delle entità!\n"]
+                ],
+                "followup": []
+            },
+            "guided":{
+                "messages": [
+                    ["USER", "Data una parola ed un'immagine che denotano una concetto, elenca tutta le entità che appartengono a quel concetto. Elenca solo i nomi delle entità. Inizia con il concetto '<CONCEPT>'. <ROLE_ASSISTANT>Ecco una lista di entità che appartengono al concetto `<CONCEPT>`: \n*"]
+                ]
+            },
+            "guided-example": {
+                "messages": [
+                    ["USER", "Data una parola ed un'immagine che denotano una concetto, elenca tutta i 'tipi di' quel concetto. Elenca solo i nomi delle entità. Per esempio per il concetto 'elettrodomestico' elenca:\n* frullatore\n* aspirapolvere\n* tostapane\n* lavatrice\n* microonde\n* lavastoviglie.\nOra fai lo stesso per il concetto '<CONCEPT>'. <ROLE_ASSISTANT>Questa è una lista 'tipi di' appartengono al concetto `<CONCEPT>`: \n*"]
+                ]
+            }
+        }
+    },
+    "english": {
+        "textual": {
+            "simple": {
+                "messages": [
+                    ["USER", "Given a word denoting a class of entities, try to list all of the specific entities that are elements of that concept. Output only the names of the specific entities. Start with the concept <CONCEPT>.\n"]
+                ],
+                "followup": []
+            },
+            "example": {
+                "messages": [
+                    ["USER","Given a word denoting a class of entities, try to list all of the specific entities that are elements of that concept. Output only the names of the specific entities.\n"],
+                    ["USER", "This is an example of the desired output for the concept 'electrical appliance':\n*mixer\n*vacuum cleaner\n*toaster\n*washing machine\n*microwave\n*dishwasher.\nNow do the same for the concept '<CONCEPT>' and output only the names of the entities!\n"]
+                ],
+                "followup": []
+            },
+            "unibo": {},
+            "guided": {
+                "messages": [
+                    ["USER", "Given a word denoting a class of entities, try to list all of the specific entities that are elements of that concept. Output only the names of the specific entities. Start with the concept <CONCEPT>. <ROLE_ASSISTANT>Here is a list of specific entities:\n*"]
+                ]
+            },
+            "guided-example": {
+                "messages": [
+                    ["USER", "Given a word denoting a class of entities, try to list all of the 'kind of' entites of that concept. Output only the names of the specific entities. This is an example of the desired output for the concept 'electrical appliance':\n* mixer\n* vacuum cleaner\n* toaster\n* washing machine\n* microwave\n* dishwasher.\nNow do the same for the concept '<CONCEPT>' and output only the names of the entities! <ROLE_ASSISTANT>This is a list of specific entities for the concept `<CONCEPT>':\n*"],
+                    ["USER", "Given a word denoting a class of entities, try to list all of the specific entities that are elements of that concept. Output only the names of the specific entities. This is an example of the desired output for the concept 'electrical appliance':\n* mixer\n* vacuum cleaner\n* toaster\n* washing machine\n* microwave\n* dishwasher.\nNow do the same for the concept '<CONCEPT>' and output only the names of the entities! <ROLE_ASSISTANT>This is a list of specific entities for the concept `<CONCEPT>':\n*"]
+                ]
+            }
+        },
+        "visual": {
+            "simple": {
+                "messages": [
+                    ["USER", "Given a word denoting a class of entities, try to list all of the specific entities that are elements of that concept. Use the image as source of inspiration, but do not limit yourself to it! Output only the names of the specific entities. Start with the concept <CONCEPT>.\n"]
+                ],
+                "followup": []
+            },
+            "example": {
+                "textual": {
+                    "messages": [
+                        ["USER", "Given a word denoting a class of entities, try to list all of the specific entities that are elements of that concept. Output only the names of the specific entities.\n"],
+                        ["USER", "This is an example of the desired output for the concept 'electrical appliance':\n*mixer\n*vacuum cleaner\n*toaster\n*washing machine\n*microwave\n*dishwasher.\nNow do the same for the concept '<CONCEPT>' and output only the names of the entities!\n"]
+                    ],
+                "followup": []
+                }
+            },
+            "guided": {
+                "messages": [
+                    ["USER", "Given a word and an image denoting a class of entities, try to list all of the specific entities that are elements of that concept. Use the image as source of inspiration! Output only the names of the specific entities. Start with the concept <CONCEPT>. <ROLE_ASSISTANT>Here is a list of specific entities for the concept `<CONCEPT>`:\n*"]
+                ]
+            },
+            "guided-example": {
+                "messages": [
+                    ["USER", "Given a word denoting a class of entities, try to list all of the 'kind of' entities of that concept. Output only the names of the specific entities. This is an example of the desired output for the concept 'electrical appliance':\n* mixer\n* vacuum cleaner\n* toaster\n* washing machine\n* microwave\n* dishwasher.\nNow do the same for the concept '<CONCEPT>' and output only the names of the entities. <ROLE_ASSISTANT>Here is a list of entities for the concept `<CONCEPT>':\n*"],
+                    ["USER", "Given a word denoting a class of entities, try to list all of the specific entities that are elements of that concept. Output only the names of the specific entities. This is an example of the desired output for the concept 'electrical appliance':\n* mixer\n* vacuum cleaner\n* toaster\n* washing machine\n* microwave\n* dishwasher.\nNow do the same for the concept '<CONCEPT>' and output only the names of the entities. <ROLE_ASSISTANT>Here is a list of entities for the concept `<CONCEPT>':\n*"]
+                ]
+            }
+        }
+    }
+}
