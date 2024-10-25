@@ -13,6 +13,28 @@ from torch.utils.data import Dataset, DataLoader
 
 from transformers import AutoProcessor, LlavaNextForConditionalGeneration, AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, AutoModelForPreTraining
 
+"""
+TODO
+idefics2 chat template
+
+```
+messages = [{
+    "role": "user",
+    "content": [
+        {"type": "text", "text": "What’s the difference between these two images?"},
+        {"type": "image"},
+        {"type": "image"},
+    ],
+},
+{
+    "role": "assistant",
+    "content": [
+        {"type": "text", "text": "The difference is that one image is about dogs and the other one about cats."},
+    ],
+}]
+```
+"""
+
 LLAVA_ID        = "llava-hf/llava-v1.6-mistral-7b-hf"
 MISTRAL_ID      = "mistralai/Mistral-7B-Instruct-v0.2"
 NEMO_ID         = "mistralai/Mistral-Nemo-Instruct-2407"
@@ -46,8 +68,10 @@ def get_model(model_name="llava", device="cuda:0", padding_side="left"):
         processor = None
     elif model_name == "idefics2":
         processor = AutoProcessor.from_pretrained(IDEFICS2_ID, token=os.getenv("MY_HF_TOKEN"), padding_side=padding_side)
-        model = AutoModelForPreTraining.from_pretrained(IDEFICS2_ID, token=os.getenv("MY_HF_TOKEN"), torch_dtype=torch.bfloat16).to(device)
+        model = AutoModelForPreTraining.from_pretrained(IDEFICS2_ID, token=os.getenv("MY_HF_TOKEN"), torch_dtype=torch.bfloat16, device_map="auto")
         tokenizer = processor.tokenizer
+        tokenizer.chat_template = processor.chat_template
+        tokenizer.eos_token = processor.end_of_utterance_token
     elif model_name == "mixtral":
         model = AutoModelForCausalLM.from_pretrained(MIXTRAL_ID, torch_dtype=torch.float16, low_cpu_mem_usage=True, device_map="auto", token=os.getenv("MY_HF_TOKEN"))
         tokenizer = AutoTokenizer.from_pretrained(MIXTRAL_ID, padding_side=padding_side)
@@ -61,7 +85,7 @@ def get_model(model_name="llava", device="cuda:0", padding_side="left"):
 
 
 class ConceptDataset(Dataset):
-    def __init__(self, tokenizer, datapath="data/unibo-concepts-it.csv", prompt="", multimodal=False):
+    def __init__(self, tokenizer, model_name, datapath="data/unibo-concepts-it.csv", prompt="", multimodal=False):
         df = pd.read_csv(datapath)
 
         self.concepts = df.concept.tolist()
@@ -69,6 +93,7 @@ class ConceptDataset(Dataset):
         self.multimodal = multimodal
         self.prompt = prompt
         self.tokenizer = tokenizer
+        self.model_name = model_name
 
     def __len__(self):
         return len(self.concepts)
@@ -79,26 +104,43 @@ class ConceptDataset(Dataset):
         instruction_prompt = instruction_prompt.replace("<CONCEPT>", concept).rstrip()
         started_generation = started_generation.replace("<CONCEPT>", concept)
 
-        conv = [
-            {"role": "user", "content": instruction_prompt},
-            {"role": "assistant", "content": started_generation}
-        ]
+
+        if self.model_name == "idefics2":
+            conv = [
+                {"role": "user", "content": [{"type": "text", "text": instruction_prompt}]},
+                {"role": "assistant", "content": [{"type": "text", "text": started_generation}]}
+            ]
+            if self.multimodal:
+                conv[0]["content"].append({"type": "image"})
+        else:
+            conv = [
+                {"role": "user", "content": instruction_prompt},
+                {"role": "assistant", "content": started_generation}
+            ]
 
         text = self.tokenizer.apply_chat_template(conv, tokenize=False)
-        text = text.replace(self.tokenizer.eos_token, "")
+
+        if self.model_name == "idefics2":
+            text = text.rstrip(self.tokenizer.eos_token + "\n")
+        else:
+            text = text.replace(self.tokenizer.eos_token, "")
 
         if self.multimodal:
-            image = Image.open(f"data/concept-images/stable-diffusion-xl-base-1.0/0319_1724/{self.images[index]}").convert("RGB")
-            text = "<s>[INST] <image>\n" + text
+            image = Image.open(f"dataset/concept-images/stable-diffusion-xl-base-1.0/0319_1724/{self.images[index]}").convert("RGB")
+            if self.model_name == "idefics2":
+                image = [image]     # for idefics, wrapping image in a list since the model can manage multiple images for a single input
+            elif self.model_name == "llava":
+                # text = "<s>[INST] <image>\n" + text 
+                text = text.replace("<s>[INST] ", "<s>[INST] <image>\n")
         else:
             image = None
-            # text = "<s>[INST] " + text
         return {"text": text, "image": image, "concept": concept}
 
 
 class LlavaCustomCollate:
-    def __init__(self, processor):
+    def __init__(self, processor, modality="textual"):
         self.processor = processor
+        self.modality = modality
     
     def __call__(self, examples):
         texts = [e["text"] for e in examples]
@@ -106,7 +148,10 @@ class LlavaCustomCollate:
             images = [e["image"] for e in examples]
         else:
             images = None
-        inputs = self.processor(texts, return_tensors="pt", padding=True)
+        if self.modality == "textual":
+            inputs = self.processor(texts, return_tensors="pt", padding=True)
+        else:
+            inputs = self.processor(text=texts, images=images, return_tensors="pt", padding=True)
         return inputs 
 
 
@@ -125,8 +170,8 @@ def main(args):
 
     base_outdir = "results-generation"
 
-    raw_outdir = f"{base_outdir}/raw/{language}"
-    outdir = f"{base_outdir}/{language}"
+    raw_outdir = f"{base_outdir}/raw/{language}/temp_{str(temp).replace('.', '')}"
+    outdir = f"{base_outdir}/{language}/temp_{str(temp).replace('.', '')}"
 
     for datadir in [raw_outdir, outdir]:
         os.makedirs(datadir, exist_ok=True)
@@ -140,22 +185,22 @@ def main(args):
     model, tokenizer, processor = get_model(model_name=model_name, device=device)
     tokenizer.pad_token = tokenizer.eos_token
     
-    dataset = ConceptDataset(tokenizer, datapath=f"data/{filename}.csv", prompt=prompt, multimodal=False)
-    dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=False, collate_fn=LlavaCustomCollate(processor=tokenizer))
+    dataset = ConceptDataset(tokenizer, model_name=model_name, datapath=f"data/{filename}.csv", prompt=prompt, multimodal=False if modality == "textual" else True)
+    dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=False, collate_fn=LlavaCustomCollate(processor=tokenizer if modality=="textual" else processor, modality=modality))
 
     generation_config = {
         "timestamp": timestamp,
         "model": model.name_or_path,
         "modality": modality,
-        "max_length": 300,
+        "max_length": 700 if (model_name == "idefics2" and modality == "visual") else 300,
         "prompt": prompt,
         "modality": modality,
         "language": language,
         "prompt_style": prompt_style,
         "do_sample": True if temp != 0.0 else False,
-        "temperature": temp,
+        "temperature": temp if temp != 0.0 else None,
         "top_k": 50,
-        "top_p": 0.72,
+        "top_p": 0.72 if temp != 0.0 else None,
         "repetition_penalty": 1.15,
         }
 
@@ -203,6 +248,7 @@ def clean_exemplar(exemplar):
     exemplar = exemplar.split("\n")[0]
     exemplar = exemplar.split("(")[0]
     exemplar = exemplar.rstrip()
+    exemplar = exemplar.rstrip(".")
     return exemplar
 
 
