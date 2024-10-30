@@ -1,0 +1,1136 @@
+`abete`: 
+* Abete
+* Quercia
+* Pino
+* Acanto
+* Fagio
+* Robin.
+$$$$
+`aereo`: 
+* Aereo
+* elica
+* wing
+* fuselage
+* rudder
+* aileron
+* flap
+$$$$
+`agenda`: 
+* calendario
+* diario
+* calandarum.
+$$$$
+`appendiabiti`: 
+* Hanger.
+$$$$
+`armadio`: 
+* cabinato
+* scopa
+* sciarpa
+* scarpe
+* abbigliamento
+* carne d'allev
+$$$$
+`astuccio`: 
+* bagagli
+* valigie
+* borse
+* cassette
+* cisterne.
+$$$$
+`attrezzo`: 
+* martello
+* sciarpa.
+$$$$
+`autobus`: 
+* autobus urbano
+* autobus a linea
+* autobus turistico
+* autobus interur
+$$$$
+`automobile`: 
+* berlina
+* coupé
+* van
+* utilitario
+* roadster.
+$$$$
+`bagno`: 
+* doccia
+* vasca
+* lettiera
+* vaso
+* pietra
+* usignolo.
+$$$$
+`balcone`: 
+* balcone
+* terrazza.
+$$$$
+`basilico`: 
+* peppermint
+* oregano
+* mela
+* rosmarino
+* carciofo.
+$$$$
+`bicchiere`: 
+* Tulipano
+* Bottiglia
+* Coppa
+* Campione
+* Bottiglia di Coca Col
+$$$$
+`bicicletta`: 
+* ciclo
+* bicicletta
+* velo.
+$$$$
+`bocca`: 
+* anima
+* cuffia
+* cannocchia
+* forchetta
+* stufetta d'odore.
+$$$$
+`braccio`: 
+* artiglio
+* avambracchio
+* mano
+* braccio
+* braccio destro
+* bracc
+$$$$
+`cactus`: 
+* Prickly pear
+$$$$
+`calza`: 
+* calza
+* calzature
+* scarpe
+* stivali
+* calze a ginocchio
+* stinche
+$$$$
+`camera`: 
+* camera digitale
+* camera fisica
+* telefono
+* computer
+* tablet
+* telecamera.
+$$$$
+`camicia`: 
+* polo
+* taglia al busto
+* colonna guastata
+* maglia
+* svezeria.
+$$$$
+`camion`: 
+* pick-up
+* cassonetto
+* bus.
+$$$$
+`candelabro`: 
+* candelabro.
+$$$$
+`cane`: 
+* cane
+* Dobermann
+* Mastiff
+* Bulldog
+* Spaniel
+* Dachsund.
+$$$$
+`canottiera`: 
+* canottiera
+* giubbino
+* maglia.
+$$$$
+`capello`: 
+* ciocca 
+* pettina  
+* pettino  
+* wig 
+* triche 
+* barba
+$$$$
+`cappello`: 
+* Beretta
+* Bowler
+* Fedora
+* Fedora Straw
+* Cowboy.
+$$$$
+`cappotto`: 
+* Cappotto da barba
+* Cappotto in pelle
+* Cappotto da calzo
+* Cappotto da
+$$$$
+`carne`: 
+* carne da carne
+* carne di carne
+* carne da piatti
+* carne de carne
+* carne
+$$$$
+`carrozza`: 
+* Carrozza per 2 persone
+* Carrozza passeggiata
+* Carrozza cabine
+* Carro
+$$$$
+`carte`: 
+* Carta che viene usata per pagare
+* Carta del metro
+* Carta esercita.
+$$$$
+`cassettiera`: 
+* scrivania
+* armadio
+* cassette.
+$$$$
+`cavallo`: 
+* Cavallo
+* Pavo
+* Cavallino
+* Cavallino mare
+* Cavallino nero.
+$$$$
+`cd`: 
+* cd audio
+* cd rom.
+$$$$
+`centrotavola`: 
+* Tavola
+* Stilino
+* Sedile
+* Sedia
+* Cuscino 
+* Altab
+$$$$
+`cereale`: 
+* granoturo
+* farina
+* pancake mix
+* mix di bignola
+* mix di muesli.
+$$$$
+`cervello`: 
+* Cortex
+* Bulbo dermico
+* Fondo cerebrale
+* Ponte
+* Cerebellum.
+$$$$
+`chitarra`: 
+* Classica
+* Acustica
+* Elettrica
+* Basso.
+$$$$
+`ciclamino`: 
+* Girotondo giallo
+* Purga
+* Poppy
+* Papavero
+* Iris
+* T
+$$$$
+`ciliegio`: 
+* Ciliegio
+* Bianchetto
+* Morello
+* Lemon candier
+* Cioccolato fond
+$$$$
+`cioccolato`: 
+* Tartufo
+* Dolci (candee, gulia)
+* Assortimento
+* Confetto
+$$$$
+`colla`: 
+* Adesivo
+* Stato (per chiariare e legare le piastre)
+* Adesivo in 3D.
+$$$$
+`collo`: 
+* mazzetta
+* rinsoie da capo
+* boccoli.
+$$$$
+`colonna`: 
+* colonna.
+$$$$
+`coltello`: 
+* coltello
+* pugnale
+* scimmietta
+* spada
+* lanciappalacche
+$$$$
+`comodino`: 
+* cassette di raccolta di poste
+* cassette di raccoglimento di pala
+* racc
+$$$$
+`computer`: 
+* personal computer
+* desktop
+* laptop
+* notebooks
+* desktop computer
+* workstation
+* tablet
+* ipad.
+$$$$
+`comò`: 
+* Telefonando
+* Scrivere una lettera
+* Chiedere informazioni
+* Assistere a un discorso
+*
+$$$$
+`coniglio`: 
+* Coniglio
+* Cervo
+* Volpe
+* Puma
+* Capra
+* Mucca
+$$$$
+`cornice`: 
+* bevitere
+* cornice/sopraffanile
+* soffitto
+* architettura
+
+$$$$
+`credenza`: 
+* Cancellaio
+* Armoire
+* Cabinet
+* Credenza
+* Cabinet 
+* Cabinet.
+$$$$
+`cruciverba`: 
+* alfa
+* ßeta
+* gamma
+* delta
+* epsilon
+* zeta
+*
+$$$$
+`cucchiaio`: 
+* bancone
+* tazza.
+$$$$
+`cucina`: 
+* stivale
+* tasso per la spina dorsale
+* forni
+* scuderia
+* lavandino
+$$$$
+`cuore`: 
+* ventricoli
+* atri
+* auricola sinistra
+* auricola destra
+* cavità auricolare
+$$$$
+`cuscino`: 
+* goose-feather pillow
+* down-alternative pillow
+* gel foam pillow.
+$$$$
+`delfino`: 
+* delfino
+* squalo
+* tonno
+* balena
+* squalo dorsale
+* squalo mak
+$$$$
+`divano`: 
+* Sedutore 
+* Sofà
+* Divano
+* Poltrona
+* Cullotto.
+$$$$
+`edera`: 
+* Acanto 
+* Begonia
+* Bonsai
+* Eucalyptus
+* Ginkgo biloba
+* Liqu
+$$$$
+`elefante`: 
+* Elefante africano
+* Elefante asiatico.
+$$$$
+`elicottero`: 
+* elicottero.
+$$$$
+`evidenziatore`: 
+* stiletto
+* piolo
+* rospo.
+$$$$
+`felpa`: 
+* vestaglia
+* pantone
+* giubetto
+* cuffie.
+$$$$
+`ficus`: 
+* Ficus benjamina
+* Ficus elastica.
+$$$$
+`finestra`: 
+* Apertura/apertura
+* Vetro 
+* Piattaforma/cornice
+* Barriera (d
+$$$$
+`fioriera`: 
+* Fiori
+* Piante
+* Fiore.
+$$$$
+`foglio`: 
+* paper
+* card
+* book
+* poster.
+$$$$
+`forbice`: 
+* forbice
+* forbice ad ampia tacca
+* forbice ad ampia tacca p
+$$$$
+`forchetta`: 
+* taglia
+* scorseria
+* forchetta
+* spone.
+$$$$
+`formaggio`: 
+* caciocavallo
+* caciotta
+* gorgonzola
+* mozzarella
+* scamorza
+$$$$
+`fotografia`: 
+* foto
+* fotoreporter
+* fotostampe
+* fotocopie
+* fotocopia
+* fot
+$$$$
+`frutta`: 
+* Banana
+* Limone
+* Mela
+* Ciliegie
+* Pomelo.
+$$$$
+`furgone`: 
+* camionette
+* van
+* pickup
+* bus
+* autobus.
+$$$$
+`gallo`: 
+* gallo
+* gallina
+* gallinetta
+* gallinello
+* pulcino
+* pellicano.
+$$$$
+`gamba`: 
+* intera
+* femorale
+* poplitale
+* fibularia
+* peronea.
+$$$$
+`gatto`: 
+* Gatto domestico
+* Gatto nel deserto
+* Gatto felino
+* Gatto selvatico.
+$$$$
+`geranio`: 
+* rotaia (Feltrum)
+* peronnello
+* 404002
+* 1
+$$$$
+`giacca`: 
+* sport jacket
+* suit
+* trench coat
+* blazer.
+$$$$
+`gilet`: 
+* freddo
+* caldo.
+$$$$
+`gioco da tavola`: 
+* Ciao, non sono in grado di fornire una lista di tipi specifici di "gi
+$$$$
+`giornale`: 
+* New York Times
+* The Wall Street Journal
+* The Washington Post
+* Los Angeles Times
+* San Francisco Chronicle
+* Boston
+$$$$
+`giraffa`: 
+* giraffa.
+$$$$
+`girasole`: 
+* Girasole.
+$$$$
+`giubotto`: 
+* fustagno di seta
+* fustagno di cottone
+* giubbotto da donna
+*
+$$$$
+`gomma`: 
+* pneumatico
+* gomma da guinzaglio
+* gomma da ciclo
+* gommaplastica
+$$$$
+`gonna`: 
+* carro
+* treno
+* bus
+* pendolino
+* taxi
+* cannone.
+$$$$
+`graffetta`: 
+* fichetta
+* stenografica.
+$$$$
+`guanti`: 
+* guanti da tegolaia
+* guanti da pittura
+* guanti da sport.
+$$$$
+`insalata`: 
+* insalata mista
+* insalata di verdure
+* insalata di mais e patate amare
+* ins
+$$$$
+`lampada`: 
+* lampada da tavolo
+* lampada portabile
+* lampada d'apparimento
+* lampada da soff
+$$$$
+`lampadario`: 
+* lampe a torce/colonna
+* lampada da tesa
+* lampada ad arco
+* lamp
+$$$$
+`latte`: 
+* latte fresco
+* latte di latte
+* latte uguale 
+* latte non uguale
+
+$$$$
+`legume`: 
+* fagioli
+* fagioli neri
+* fagioli ceci
+* orzati
+* castagne
+* f
+$$$$
+`leone`: 
+* leone
+* leonessa
+* leoncino
+* lione reale
+* lioness
+* lion cub.
+$$$$
+`letto`: 
+* culla
+* borsa da viaggio
+* sofà
+* poltrona
+* letto.
+$$$$
+`lettore`: 
+* libro
+* rivista
+* giornale
+* carta telefonica.
+$$$$
+`libreria`: 
+* libro
+* libri
+* cassette
+* CD
+* DVD
+* cartine.
+$$$$
+`libro`: 
+* racconto
+* romanzo
+* fumetto
+* testo
+* testo scolastico
+* saggi.
+$$$$
+`lucertola`: 
+* lucertola
+* lucertolette.
+$$$$
+`maglia`: 
+* pullover
+* t-shirt
+* sweater
+* giubbotto
+* sweatshirts.
+$$$$
+`maiale`: 
+* svinco
+* suino
+* cerdo.
+$$$$
+`mano`: 
+* digitale
+* dorsale
+* metacarpi
+* falangi.
+$$$$
+`margherita`: 
+* pizza
+* gelato
+* tartufo
+* pietra.
+$$$$
+`matita`: 
+* matita da scuola
+* matita nero.
+$$$$
+`mestolo`: 
+* Stirler
+* Pot
+* Bowl with a spoon.
+$$$$
+`metro`: 
+* 43"
+* 47 ".
+$$$$
+`mimosa`: 
+* Mimosa
+* albero.
+$$$$
+`motocicletta`: 
+* motocicletta in stile classico
+* motocicletta in stile moderno
+* motocicletta
+$$$$
+`mucca`: 
+* manzo 
+* bovino 
+* animale.
+$$$$
+`muro`: 
+* muro aperto o portone
+* muro piombato
+* muro perimetrale
+* muro separatore
+
+$$$$
+`naso`: 
+* un naso umano
+* un naso animale
+* un naso di un cavallo
+* un naso del tipo del
+$$$$
+`nave`: 
+* petroliera
+* portavalettere
+* sommergibile
+* nave da guerra 
+* motonave
+* mot
+$$$$
+`occhio`: 
+* Sono
+* Occhio.
+$$$$
+`orchidea`: 
+* orchidia.
+$$$$
+`orecchio`: 
+* orecchio
+* cavità auditiva
+* timpani
+* incudine
+* malleoide
+* st
+$$$$
+`orologio`: 
+* Analog clock
+* Digital clock.
+$$$$
+`orso`: 
+* orso bruno
+* orso barbuto
+* orso d'Isla
+* orso del Sibiria
+
+$$$$
+`padella`: 
+* gatto
+* padella cucina
+* padella da cottura
+* padella da rastrello
+* padella
+$$$$
+`palla`: 
+* palloneto
+* pallacanestro
+* pallaspino
+* pallavolley.
+$$$$
+`pancia`: 
+* utero
+* ovaio
+* placenta
+* ligamenti uteri
+* gravida
+* endometrio.
+$$$$
+`pane`: 
+* dolci
+* salati
+* dolci
+* bicchiere
+* fiascone.
+$$$$
+`pantalone`: 
+* pantalone
+* pantalone bicolore
+* pantalone stretto.
+$$$$
+`pasta`: 
+* forche
+* spoon
+* kitchen knife
+* fork
+* ladle
+* spoon
+* chopstick.
+$$$$
+`pastello`: 
+* olio da pasta
+* uovo
+* speck
+* pane
+* formaggio.
+$$$$
+`pavimento`: 
+* Tosa
+* Cemento.
+$$$$
+`penna`: 
+* cartuccia per penna a invento
+* penna
+* fodera
+* stilografia
+* diadema
+$$$$
+`pennello`: 
+* brocca
+* pennello da dipinto
+* paletta
+* spazzola.
+$$$$
+`pentola`: 
+* pentola
+* caldeira.
+$$$$
+`pesce`: 
+* pesce selvaggio
+* pesce d'acqua dolce
+* pesce marino
+* pesce di mare d'
+$$$$
+`piatto`: 
+* piatto
+* piatto per cibi
+* piatto da bocca
+* piatto da cibo
+* piatto
+$$$$
+`piede`: 
+* Calzature
+* Favole
+* Bellezze
+* Povertà.
+$$$$
+`pino`: 
+* Pino.
+$$$$
+`pizza`: 
+* mosaico
+* gusto classic
+* peporina
+* gatto selvaggio
+* pancetta
+* spin
+$$$$
+`poltrona`: 
+* divano
+* sedia
+* sofà
+* sedia cullotta.
+$$$$
+`porta`: 
+* porta d'ingresso
+* porta di uscita
+* porta incrossata 
+* porta d'ing
+$$$$
+`portafotografia`: 
+* Fotocamera
+* Flash.
+$$$$
+`posacenere`: 
+* cannocchia
+* lanciappallettoni
+* tovagliacarne
+* vasa
+$$$$
+`quaderno`: 
+* notepad
+* paper.
+$$$$
+`quadro`: 
+* ramingo
+* quadro.
+$$$$
+`quercia`: 
+* Quercia
+* Acero
+* Pino.
+$$$$
+`racchetta`: 
+* racchetta da tennis
+* racchetta da kettlebells
+* racchetta da squash
+* racchet
+$$$$
+`righello`: 
+* adesivo
+* cartine di vettura
+* fogli carta
+* calze
+* libri
+* stoffa
+$$$$
+`ripostiglio`: 
+* armadio
+* scopa per capelli
+* scomparti 
+* scala
+* lettolo 
+$$$$
+`riso`: 
+* riso nero
+* riso bianco
+* riso nero
+* riso rosso
+* riso gom
+$$$$
+`rosa`: 
+* rose
+* rosato
+* girotate
+* fiorino
+* giglio
+* ciliegio.
+$$$$
+`salice`: 
+* Willow.
+$$$$
+`scala`: 
+* ascensore
+* scale.
+$$$$
+`scarpa`: 
+* sandala
+* scarpe da donna
+* scarpe da gara
+* scarpe da lavoro
+* stivali
+*
+$$$$
+`schiena`: 
+* Schiena a V
+* Schiena con il retro piatto
+* Schiena a sella
+* Schiena
+$$$$
+`sciarpa`: 
+* boccola
+* scarpa.
+$$$$
+`scimmia`: 
+* Babbuino
+* Gorilla
+* Chimpanzee
+* Bonobo
+* Mandril
+* Orangut
+$$$$
+`scolapasta`: 
+* cuscino
+* padella
+* tagliatella
+* cucchiaia
+* colazione
+*
+$$$$
+`scolorina`: 
+* bicchiere
+* tazzina
+* spruzzatore
+* cimaretti
+* stucchi
+$$$$
+`scooter`: 
+* Scooter.
+$$$$
+`scrivania`: 
+* Soggiorno
+* Living room
+* Bedroom.
+$$$$
+`sedia`: 
+* sedia ad alto, reclinabile
+* alzavaltina
+* tavolo al telaio mobile.
+$$$$
+`serpente`: 
+* Vipera
+* Elapsidae
+* cobra
+* python
+* boa
+* colubridi.
+$$$$
+`slip`: 
+* pantalone
+* sottogonna.
+$$$$
+`soffitto`: 
+* Piani
+* Soffitti
+* Piani
+* Quadri.
+$$$$
+`soggiorno`: 
+* tavolo
+* sofà
+* tavolo da fumo
+* arredo per ufficio
+$$$$
+`spalla`: 
+* frullatore (in caso la spalla fosse una donna)
+* aspirapolvere (se fosse una donna con p
+$$$$
+`specchio`: 
+* specchio per camerino
+* specchio per mira
+* specchio retroflettente
+* specchio fotografico
+*
+$$$$
+`spillatrice`: 
+* stitofilare
+* stapleton
+* stasimacchiatrici.
+$$$$
+`t-shirt`: 
+* t-shirt
+.* t-shirt in cotone
+* t-shirt 100% cotone
+* t-shirt
+$$$$
+`taccuino`: 
+* A5
+* A4
+* Wire bound
+* Stapled
+* Ring bound
+* Saddle stitched.
+$$$$
+`tagliere`: 
+* taglia-fette
+* taglia-pizzelle
+* taglia-panini
+* taglia-carne
+
+$$$$
+`tappeto`: 
+* tapeto di pelle
+* tapeto a fiori
+* tapeto pavimentale
+* tapeto imperiale
+
+$$$$
+`tavolo`: 
+* Tavolo da cucina
+* Tavolo da ufficio 
+* Tavolo da gioco 
+*
+$$$$
+`teglia`: 
+* taglia
+* incastro
+* tegolietta
+* tetra-pac.
+$$$$
+`televisione`: 
+* SCTV
+* Sky
+* Freeview
+* satellite
+* cable TV
+* DVB-T.
+$$$$
+`temperino`: 
+* Camera del boccato (bottle camera)
+* Camera fotostati (stilled photo camera)
+* Camera fotoe
+$$$$
+`tenda`: 
+* casella delle merci
+* tenda da pescando
+* tenda sanitaria
+* tenda di poltrona
+*
+$$$$
+`terrazzo`: 
+* parete in ceramica
+* palazzo
+* condominio
+* rinvenire materiale da un terrazzo
+$$$$
+`testa`: 
+* orecchie
+* ciuffi di capelli
+* occhi
+* bocca
+* naso.
+$$$$
+`tetto`: 
+* tetto tradizionale 
+* tetto moderno
+* tetto di lamina
+* tetto da piastre
+*
+$$$$
+`tigre`: 
+* Tigre asiatico
+* Tigre americano
+* Tigre di Sibiria.
+$$$$
+`topo`: 
+* ratto bianco
+* ratto domestico
+* rattuschiena
+* mouse pazza.
+$$$$
+`traghetto`: 
+* traghetto in sospeso
+* traghetto a carico
+* traghetto a vela
+* traghetto
+$$$$
+`tram`: 
+* tranvia
+* tramway.
+$$$$
+`trattore`: 
+* tractor.
+$$$$
+`treno`: 
+* locomotiva
+* treno interurbanista
+* vapore
+* treno passo-passo
+* treno eliche
+$$$$
+`tulipano`: 
+* tulipano.
+$$$$
+`ulivo`: 
+* Grazia
+* Olivo a canne
+* Olivo a pianta 
+* Olivo a scala da cucina
+$$$$
+`uovo`: 
+* uovo uovo
+* uovo uovo 
+* uovo uovo uovo
+* uovo uovo 
+* uovo
+$$$$
+`vaso`: 
+* vaso a decora
+* vaso di vasi
+* vasetto
+* vassoio
+* vasello
+* vassoio
+$$$$
+`verdura`: 
+* uovo 
+* uva 
+* uva 
+* ciliegie 
+* fagioli.
+$$$$
+`videogioco`: 
+* video joystick
+* Nintendo DS
+* PlayStation
+* Xbox
+* Switch.
+$$$$
+`vite`: 
+* vite
+* vite a cappuccio
+* vite a sassa
+* vite a spalla
+* vite
+$$$$

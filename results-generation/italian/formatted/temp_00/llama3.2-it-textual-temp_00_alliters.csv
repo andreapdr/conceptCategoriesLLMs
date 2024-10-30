@@ -1,0 +1,1255 @@
+participant,category,category_it,concept,exemplar,clean_exemplar,rank
+llama3.2-iter1,plants,piante,abete,abete di montagna,di montagna,1
+llama3.2-iter1,plants,piante,abete,abete di foresta,di foresta,2
+llama3.2-iter1,plants,piante,abete,abete di piantagione,di piantagione,3
+llama3.2-iter1,plants,piante,abete,abete di giardino,di giardino,4
+llama3.2-iter1,vehicles,veicoli,aereo,aereo da passeggeri,da passeggeri,1
+llama3.2-iter1,vehicles,veicoli,aereo,aereo da trasporto,da trasporto,2
+llama3.2-iter1,vehicles,veicoli,aereo,aereo da combattimento,da combattimento,3
+llama3.2-iter1,vehicles,veicoli,aereo,aereo da ricognizione,da ricognizione,4
+llama3.2-iter1,vehicles,veicoli,aereo,aereo da addestramento,da addestramento,5
+llama3.2-iter1,vehicles,veicoli,aereo,aereo da trasporto a lungo raggio,da trasporto a lungo raggio,6
+llama3.2-iter1,vehicles,veicoli,aereo,aereo da trasporto aereo,da trasporto aereo,7
+llama3.2-iter1,vehicles,veicoli,aereo,aereo da pattugliamento,da pattugliamento,8
+llama3.2-iter1,vehicles,veicoli,aereo,aereo da ricerca e salvataggio,da ricerca e salvataggio,9
+llama3.2-iter1,stationery,cancelleria,agenda,calendario,calendario,1
+llama3.2-iter1,stationery,cancelleria,agenda,piano,piano,2
+llama3.2-iter1,stationery,cancelleria,agenda,elenco,elenco,3
+llama3.2-iter1,stationery,cancelleria,agenda,tabella,tabella,4
+llama3.2-iter1,stationery,cancelleria,agenda,elenco di attività,elenco di attività,5
+llama3.2-iter1,stationery,cancelleria,agenda,elenco di appuntamenti,elenco di appuntamenti,6
+llama3.2-iter1,stationery,cancelleria,agenda,elenco di date,elenco di date,7
+llama3.2-iter1,stationery,cancelleria,agenda,elenco di obiettivi,elenco di obiettivi,8
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,appendiabiti,cassettone,cassettone,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,appendiabiti,cassettiera,cassettiera,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,appendiabiti,cassettiera a muro,cassettiera a muro,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,appendiabiti,cassettiera a tenda,cassettiera a tenda,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,appendiabiti,cassettiera a tenda con cassetta,cassettiera a tenda con cassetta,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,appendiabiti,cassettiera a tenda con cassetta e vetro,cassettiera a tenda con cassetta e vetro,6
+llama3.2-iter1,furniture,mobili,armadio,armadio a muro,a muro,1
+llama3.2-iter1,furniture,mobili,armadio,armadio a cassettone,a cassettone,2
+llama3.2-iter1,furniture,mobili,armadio,armadio a stile,a stile,3
+llama3.2-iter1,furniture,mobili,armadio,armadio a vetro,a vetro,4
+llama3.2-iter1,furniture,mobili,armadio,armadio a porta,a porta,5
+llama3.2-iter1,furniture,mobili,armadio,armadio da letto,da letto,6
+llama3.2-iter1,furniture,mobili,armadio,armadio da cucina,da cucina,7
+llama3.2-iter1,furniture,mobili,armadio,armadio da bagno,da bagno,8
+llama3.2-iter1,stationery,cancelleria,astuccio,cappello,cappello,1
+llama3.2-iter1,stationery,cancelleria,astuccio,guanti,guanti,2
+llama3.2-iter1,stationery,cancelleria,astuccio,guanti da lavoro,guanti da lavoro,3
+llama3.2-iter1,stationery,cancelleria,astuccio,guanti da neve,guanti da neve,4
+llama3.2-iter1,stationery,cancelleria,astuccio,guanti da sci,guanti da sci,5
+llama3.2-iter1,stationery,cancelleria,astuccio,guanti da cucina,guanti da cucina,6
+llama3.2-iter1,hobbies,passatempi,attrezzo,forbici,forbici,1
+llama3.2-iter1,hobbies,passatempi,attrezzo,forbici da cucito,forbici da cucito,2
+llama3.2-iter1,hobbies,passatempi,attrezzo,forbici da giardinaggio,forbici da giardinaggio,3
+llama3.2-iter1,hobbies,passatempi,attrezzo,forbici da pesca,forbici da pesca,4
+llama3.2-iter1,hobbies,passatempi,attrezzo,forbici da cucina,forbici da cucina,5
+llama3.2-iter1,hobbies,passatempi,attrezzo,forbici da barba,forbici da barba,6
+llama3.2-iter1,hobbies,passatempi,attrezzo,forbici da legno,forbici da legno,7
+llama3.2-iter1,hobbies,passatempi,attrezzo,forbici da unguento,forbici da unguento,8
+llama3.2-iter1,vehicles,veicoli,autobus,autobus urbano,urbano,1
+llama3.2-iter1,vehicles,veicoli,autobus,autobus interurbano,interurbano,2
+llama3.2-iter1,vehicles,veicoli,autobus,autobus notturno,notturno,3
+llama3.2-iter1,vehicles,veicoli,autobus,autobus a lungo percorso,a lungo percorso,4
+llama3.2-iter1,vehicles,veicoli,autobus,autobus a lungo percorso con fermate,a lungo percorso con fermate,5
+llama3.2-iter1,vehicles,veicoli,autobus,autobus a linea,a linea,6
+llama3.2-iter1,vehicles,veicoli,autobus,autobus a linea con fermate,a linea con fermate,7
+llama3.2-iter1,vehicles,veicoli,autobus,autobus a linea con fermate e parcheggio,a linea con fermate e parcheggio,8
+llama3.2-iter1,vehicles,veicoli,automobile,auto,auto,1
+llama3.2-iter1,vehicles,veicoli,automobile,motocicletta,motocicletta,2
+llama3.2-iter1,vehicles,veicoli,automobile,autobus,autobus,3
+llama3.2-iter1,vehicles,veicoli,automobile,camion,camion,4
+llama3.2-iter1,vehicles,veicoli,automobile,scooter,scooter,5
+llama3.2-iter1,vehicles,veicoli,automobile,motocicletta da neve,motocicletta da neve,6
+llama3.2-iter1,vehicles,veicoli,automobile,motocicletta da montagna,motocicletta da montagna,7
+llama3.2-iter1,housing buildings,edifici residenziali,bagno,doccia,doccia,1
+llama3.2-iter1,housing buildings,edifici residenziali,bagno,vasca,vasca,2
+llama3.2-iter1,housing buildings,edifici residenziali,bagno,bidet,bidet,3
+llama3.2-iter1,housing buildings,edifici residenziali,bagno,lavabo,lavabo,4
+llama3.2-iter1,housing buildings,edifici residenziali,bagno,lavandino,lavandino,5
+llama3.2-iter1,housing buildings,edifici residenziali,bagno,wc,wc,6
+llama3.2-iter1,housing buildings,edifici residenziali,balcone,scale,scale,1
+llama3.2-iter1,housing buildings,edifici residenziali,balcone,scale a pié,scale a pié,2
+llama3.2-iter1,housing buildings,edifici residenziali,balcone,scale a manovella,scale a manovella,3
+llama3.2-iter1,housing buildings,edifici residenziali,balcone,scale a cassetta,scale a cassetta,4
+llama3.2-iter1,housing buildings,edifici residenziali,balcone,scale a puleggia,scale a puleggia,5
+llama3.2-iter1,housing buildings,edifici residenziali,balcone,scale a manovella elettrica,scale a manovella elettrica,6
+llama3.2-iter1,housing buildings,edifici residenziali,balcone,scale a manovella elettrica con cassetta,scale a manovella elettrica con cassetta,7
+llama3.2-iter1,plants,piante,basilico,basilico comune,comune,1
+llama3.2-iter1,plants,piante,basilico,basilico di genova,di genova,2
+llama3.2-iter1,plants,piante,basilico,basilico di napoli,di napoli,3
+llama3.2-iter1,plants,piante,basilico,basilico di sicilia,di sicilia,4
+llama3.2-iter1,plants,piante,basilico,basilico di calabria,di calabria,5
+llama3.2-iter1,plants,piante,basilico,basilico di puglia,di puglia,6
+llama3.2-iter1,plants,piante,basilico,basilico di sibillini,di sibillini,7
+llama3.2-iter1,plants,piante,basilico,basilico di prealpi,di prealpi,8
+llama3.2-iter1,plants,piante,basilico,basilico di alpi,di alpi,9
+llama3.2-iter1,plants,piante,basilico,basilico di appennini,di appennini,10
+llama3.2-iter1,kitchenware,utensili da cucina,bicchiere,bicchiere da vino,da vino,1
+llama3.2-iter1,kitchenware,utensili da cucina,bicchiere,bicchiere da acqua,da acqua,2
+llama3.2-iter1,kitchenware,utensili da cucina,bicchiere,bicchiere da caffè,da caffè,3
+llama3.2-iter1,kitchenware,utensili da cucina,bicchiere,bicchiere da soda,da soda,4
+llama3.2-iter1,kitchenware,utensili da cucina,bicchiere,bicchiere da bibita,da bibita,5
+llama3.2-iter1,kitchenware,utensili da cucina,bicchiere,bicchiere da cocktail,da cocktail,6
+llama3.2-iter1,kitchenware,utensili da cucina,bicchiere,bicchiere da frutta,da frutta,7
+llama3.2-iter1,vehicles,veicoli,bicicletta,mountain bike,mountain bike,1
+llama3.2-iter1,vehicles,veicoli,bicicletta,bicicletta da strada,da strada,2
+llama3.2-iter1,vehicles,veicoli,bicicletta,bicicletta da pista,da pista,3
+llama3.2-iter1,vehicles,veicoli,bicicletta,bicicletta da mountain bike,da mountain bike,4
+llama3.2-iter1,vehicles,veicoli,bicicletta,bicicletta da corsa,da corsa,5
+llama3.2-iter1,vehicles,veicoli,bicicletta,bicicletta da bambini,da bambini,6
+llama3.2-iter1,vehicles,veicoli,bicicletta,bicicletta da neve,da neve,7
+llama3.2-iter1,vehicles,veicoli,bicicletta,bicicletta elettrica,elettrica,8
+llama3.2-iter1,body parts,parti del corpo,bocca,labbra,labbra,1
+llama3.2-iter1,body parts,parti del corpo,bocca,narice,narice,2
+llama3.2-iter1,body parts,parti del corpo,bocca,lingua,lingua,3
+llama3.2-iter1,body parts,parti del corpo,bocca,gola,gola,4
+llama3.2-iter1,body parts,parti del corpo,bocca,naso,naso,5
+llama3.2-iter1,body parts,parti del corpo,braccio,braccio umano,umano,1
+llama3.2-iter1,body parts,parti del corpo,braccio,braccio di un animale,di un animale,2
+llama3.2-iter1,body parts,parti del corpo,braccio,braccio di una macchina,di una macchina,3
+llama3.2-iter1,body parts,parti del corpo,braccio,braccio di un albero,di un albero,4
+llama3.2-iter1,body parts,parti del corpo,braccio,braccio di una struttura,di una struttura,5
+llama3.2-iter1,plants,piante,cactus,aloe,aloe,1
+llama3.2-iter1,plants,piante,cactus,cardone,cardone,2
+llama3.2-iter1,plants,piante,cactus,echeveria,echeveria,3
+llama3.2-iter1,plants,piante,cactus,epiphyte,epiphyte,4
+llama3.2-iter1,plants,piante,cactus,gasteria,gasteria,5
+llama3.2-iter1,plants,piante,cactus,mammillaria,mammillaria,6
+llama3.2-iter1,plants,piante,cactus,opuntia,opuntia,7
+llama3.2-iter1,plants,piante,cactus,pereskia,pereskia,8
+llama3.2-iter1,plants,piante,cactus,prickly pear,prickly pear,9
+llama3.2-iter1,clothes,vestiti,calza,guanti,guanti,1
+llama3.2-iter1,clothes,vestiti,calza,cappelli,cappelli,2
+llama3.2-iter1,clothes,vestiti,calza,berretti,berretti,3
+llama3.2-iter1,housing buildings,edifici residenziali,camera,camera da letto,da letto,1
+llama3.2-iter1,housing buildings,edifici residenziali,camera,camera da bagno,da bagno,2
+llama3.2-iter1,housing buildings,edifici residenziali,camera,camera da studio,da studio,3
+llama3.2-iter1,housing buildings,edifici residenziali,camera,camera da lettura,da lettura,4
+llama3.2-iter1,housing buildings,edifici residenziali,camera,camera da gioco,da gioco,5
+llama3.2-iter1,housing buildings,edifici residenziali,camera,camera da musica,da musica,6
+llama3.2-iter1,housing buildings,edifici residenziali,camera,camera da lavoro,da lavoro,7
+llama3.2-iter1,housing buildings,edifici residenziali,camera,camera da pranzo,da pranzo,8
+llama3.2-iter1,housing buildings,edifici residenziali,camera,camera da cucina,da cucina,9
+llama3.2-iter1,clothes,vestiti,camicia,polo,polo,1
+llama3.2-iter1,clothes,vestiti,camicia,camicia da ballo,da ballo,2
+llama3.2-iter1,clothes,vestiti,camicia,camicia da tennis,da tennis,3
+llama3.2-iter1,clothes,vestiti,camicia,camicia da cricket,da cricket,4
+llama3.2-iter1,clothes,vestiti,camicia,camicia da golf,da golf,5
+llama3.2-iter1,clothes,vestiti,camicia,camicia da sci,da sci,6
+llama3.2-iter1,vehicles,veicoli,camion,camion di pompaggio,di pompaggio,1
+llama3.2-iter1,vehicles,veicoli,camion,camion di trasporto,di trasporto,2
+llama3.2-iter1,vehicles,veicoli,camion,camion di pompaggio per incendi,di pompaggio per incendi,3
+llama3.2-iter1,vehicles,veicoli,camion,camion di pompaggio per gas,di pompaggio per gas,4
+llama3.2-iter1,vehicles,veicoli,camion,camion di pompaggio per acqua,di pompaggio per acqua,5
+llama3.2-iter1,vehicles,veicoli,camion,camion di pompaggio per impianti di irrigazione,di pompaggio per impianti di irrigazione,6
+llama3.2-iter1,vehicles,veicoli,camion,camion di pompaggio per impianti di scarico,di pompaggio per impianti di scarico,7
+llama3.2-iter1,vehicles,veicoli,camion,camion di pompaggio per impianti di riscaldamento,di pompaggio per impianti di riscaldamento,8
+llama3.2-iter1,vehicles,veicoli,camion,camion di pompaggio per impianti di raffreddamento,di pompaggio per impianti di raffreddamento,9
+llama3.2-iter1,vehicles,veicoli,camion,camion di pompaggio per impianti di smaltimento,di pompaggio per impianti di smaltimento,10
+llama3.2-iter1,vehicles,veicoli,camion,camion di pompaggio per impianti di smaltimento di rifiuti,di pompaggio per impianti di smaltimento di rifiuti,11
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a braccioli,a braccioli,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a steli,a steli,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a colonne,a colonne,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a piattaforma,a piattaforma,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a vasi,a vasi,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a steli con candele,a steli con candele,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a candele in un vaso,a candele in un vaso,7
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a candele in un contenitore,a candele in un contenitore,8
+llama3.2-iter1,animals,animali,cane,pastore tedesco,pastore tedesco,1
+llama3.2-iter1,animals,animali,cane,chihuahua,chihuahua,2
+llama3.2-iter1,animals,animali,cane,bulldog,bulldog,3
+llama3.2-iter1,animals,animali,cane,pug,pug,4
+llama3.2-iter1,animals,animali,cane,dachshund,dachshund,5
+llama3.2-iter1,animals,animali,cane,beagle,beagle,6
+llama3.2-iter1,animals,animali,cane,cane da guardia,da guardia,7
+llama3.2-iter1,animals,animali,cane,cagnolino,cagnolino,8
+llama3.2-iter1,clothes,vestiti,canottiera,canoa,canoa,1
+llama3.2-iter1,clothes,vestiti,canottiera,barca,barca,2
+llama3.2-iter1,clothes,vestiti,canottiera,imbarcazione,imbarcazione,3
+llama3.2-iter1,clothes,vestiti,canottiera,veliero,veliero,4
+llama3.2-iter1,clothes,vestiti,canottiera,catamarano,catamarano,5
+llama3.2-iter1,clothes,vestiti,canottiera,catamarano a motore,catamarano a motore,6
+llama3.2-iter1,clothes,vestiti,canottiera,imbarca da diporto,imbarca da diporto,7
+llama3.2-iter1,body parts,parti del corpo,capello,capelli lunghi,lunghi,1
+llama3.2-iter1,body parts,parti del corpo,capello,capelli corti,corti,2
+llama3.2-iter1,body parts,parti del corpo,capello,capelli biondi,biondi,3
+llama3.2-iter1,body parts,parti del corpo,capello,capelli rossi,rossi,4
+llama3.2-iter1,body parts,parti del corpo,capello,capelli neri,neri,5
+llama3.2-iter1,body parts,parti del corpo,capello,capelli castani,castani,6
+llama3.2-iter1,body parts,parti del corpo,capello,capelli grigi,grigi,7
+llama3.2-iter1,body parts,parti del corpo,capello,capelli a ciocche,a ciocche,8
+llama3.2-iter1,body parts,parti del corpo,capello,capelli ondulati,ondulati,9
+llama3.2-iter1,body parts,parti del corpo,capello,capelli rasi,rasi,10
+llama3.2-iter1,clothes,vestiti,cappello,panama,panama,1
+llama3.2-iter1,clothes,vestiti,cappello,berretto,berretto,2
+llama3.2-iter1,clothes,vestiti,cappello,top,top,3
+llama3.2-iter1,clothes,vestiti,cappello,fedora,fedora,4
+llama3.2-iter1,clothes,vestiti,cappello,sombrero,sombrero,5
+llama3.2-iter1,clothes,vestiti,cappello,cappello da cowboy,da cowboy,6
+llama3.2-iter1,clothes,vestiti,cappello,cappello da golf,da golf,7
+llama3.2-iter1,clothes,vestiti,cappello,cappello da neve,da neve,8
+llama3.2-iter1,clothes,vestiti,cappello,cappello da mare,da mare,9
+llama3.2-iter1,clothes,vestiti,cappotto,giacca,giacca,1
+llama3.2-iter1,clothes,vestiti,cappotto,mantello,mantello,2
+llama3.2-iter1,clothes,vestiti,cappotto,pelliccia,pelliccia,3
+llama3.2-iter1,clothes,vestiti,cappotto,impermeabile,impermeabile,4
+llama3.2-iter1,clothes,vestiti,cappotto,giacca da neve,giacca da neve,5
+llama3.2-iter1,clothes,vestiti,cappotto,giacca da sci,giacca da sci,6
+llama3.2-iter1,foods,cibi,carne,manzo,manzo,1
+llama3.2-iter1,foods,cibi,carne,vitello,vitello,2
+llama3.2-iter1,foods,cibi,carne,maiale,maiale,3
+llama3.2-iter1,foods,cibi,carne,tacchino,tacchino,4
+llama3.2-iter1,foods,cibi,carne,agnello,agnello,5
+llama3.2-iter1,foods,cibi,carne,maiale nero,maiale nero,6
+llama3.2-iter1,vehicles,veicoli,carrozza,treno,treno,1
+llama3.2-iter1,vehicles,veicoli,carrozza,autobus,autobus,2
+llama3.2-iter1,vehicles,veicoli,carrozza,autobus a tre piani,autobus a tre piani,3
+llama3.2-iter1,vehicles,veicoli,carrozza,treno a vapore,treno a vapore,4
+llama3.2-iter1,vehicles,veicoli,carrozza,treno a elettrico,treno a elettrico,5
+llama3.2-iter1,vehicles,veicoli,carrozza,treno a gas,treno a gas,6
+llama3.2-iter1,vehicles,veicoli,carrozza,treno a diesel,treno a diesel,7
+llama3.2-iter1,vehicles,veicoli,carrozza,treno a trazione mista,treno a trazione mista,8
+llama3.2-iter1,vehicles,veicoli,carrozza,treno a trazione elettrica,treno a trazione elettrica,9
+llama3.2-iter1,vehicles,veicoli,carrozza,treno a trazione a vapore,treno a trazione a vapore,10
+llama3.2-iter1,vehicles,veicoli,carrozza,treno a trazione a gas,treno a trazione a gas,11
+llama3.2-iter1,vehicles,veicoli,carrozza,treno a trazione diesel,treno a trazione diesel,12
+llama3.2-iter1,hobbies,passatempi,carte,carte di credito,di credito,1
+llama3.2-iter1,hobbies,passatempi,carte,carte di debito,di debito,2
+llama3.2-iter1,hobbies,passatempi,carte,carte di identità,di identità,3
+llama3.2-iter1,hobbies,passatempi,carte,carte di prepagate,di prepagate,4
+llama3.2-iter1,hobbies,passatempi,carte,carte di trasporto,di trasporto,5
+llama3.2-iter1,hobbies,passatempi,carte,carte di abbonamento,di abbonamento,6
+llama3.2-iter1,hobbies,passatempi,carte,carte di regalo,di regalo,7
+llama3.2-iter1,hobbies,passatempi,carte,carte di identità digitale,di identità digitale,8
+llama3.2-iter1,furniture,mobili,cassettiera,cassettiera a mano,a mano,1
+llama3.2-iter1,furniture,mobili,cassettiera,cassettiera elettrica,elettrica,2
+llama3.2-iter1,furniture,mobili,cassettiera,cassettiera a rotelle,a rotelle,3
+llama3.2-iter1,furniture,mobili,cassettiera,cassettiera a ruote,a ruote,4
+llama3.2-iter1,animals,animali,cavallo,cavallo da corsa,da corsa,1
+llama3.2-iter1,animals,animali,cavallo,cavallo da lavoro,da lavoro,2
+llama3.2-iter1,animals,animali,cavallo,cavallo da tiro,da tiro,3
+llama3.2-iter1,animals,animali,cavallo,cavallo da compagnia,da compagnia,4
+llama3.2-iter1,animals,animali,cavallo,pony,pony,5
+llama3.2-iter1,animals,animali,cavallo,destriero,destriero,6
+llama3.2-iter1,hobbies,passatempi,cd,album,album,1
+llama3.2-iter1,hobbies,passatempi,cd,singolo,singolo,2
+llama3.2-iter1,hobbies,passatempi,cd,ep,ep,3
+llama3.2-iter1,hobbies,passatempi,cd,mixtape,mixtape,4
+llama3.2-iter1,hobbies,passatempi,cd,playlist,playlist,5
+llama3.2-iter1,hobbies,passatempi,cd,compilation,compilation,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,centrotavola in legno,in legno,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,centrotavola in metallo,in metallo,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,centrotavola in vetro,in vetro,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,centrotavola con cuscino,con cuscino,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,centrotavola con cuscino rotante,con cuscino rotante,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,centrotavola con superficie di vetro,con superficie di vetro,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,centrotavola con superficie di legno,con superficie di legno,7
+llama3.2-iter1,foods,cibi,cereale,riso,riso,1
+llama3.2-iter1,foods,cibi,cereale,avena,avena,2
+llama3.2-iter1,foods,cibi,cereale,mais,mais,3
+llama3.2-iter1,foods,cibi,cereale,orzo,orzo,4
+llama3.2-iter1,foods,cibi,cereale,quinoa,quinoa,5
+llama3.2-iter1,foods,cibi,cereale,farina,farina,6
+llama3.2-iter1,body parts,parti del corpo,cervello,cerebro,cerebro,1
+llama3.2-iter1,body parts,parti del corpo,cervello,cervelletto,cervelletto,2
+llama3.2-iter1,body parts,parti del corpo,cervello,meningi,meningi,3
+llama3.2-iter1,body parts,parti del corpo,cervello,meningoma,meningoma,4
+llama3.2-iter1,body parts,parti del corpo,cervello,encefalo,encefalo,5
+llama3.2-iter1,hobbies,passatempi,chitarra,acustica,acustica,1
+llama3.2-iter1,hobbies,passatempi,chitarra,elettrica,elettrica,2
+llama3.2-iter1,hobbies,passatempi,chitarra,basso,basso,3
+llama3.2-iter1,hobbies,passatempi,chitarra,classica,classica,4
+llama3.2-iter1,hobbies,passatempi,chitarra,eletroacustica,eletroacustica,5
+llama3.2-iter1,hobbies,passatempi,chitarra,pedal steel,pedal steel,6
+llama3.2-iter1,hobbies,passatempi,chitarra,slide,slide,7
+llama3.2-iter1,plants,piante,ciclamino,rosa,rosa,1
+llama3.2-iter1,plants,piante,ciclamino,viola,viola,2
+llama3.2-iter1,plants,piante,ciclamino,lilaccio,lilaccio,3
+llama3.2-iter1,plants,piante,ciclamino,porpora,porpora,4
+llama3.2-iter1,plants,piante,ciclamino,indaco,indaco,5
+llama3.2-iter1,plants,piante,ciclamino,violinaccio,violinaccio,6
+llama3.2-iter1,plants,piante,ciliegio,ciliegia,ciliegia,1
+llama3.2-iter1,plants,piante,ciliegio,ciliegia di bosco,ciliegia di bosco,2
+llama3.2-iter1,plants,piante,ciliegio,ciliegia di frutto,ciliegia di frutto,3
+llama3.2-iter1,plants,piante,ciliegio,ciliegia di agricoltura,ciliegia di agricoltura,4
+llama3.2-iter1,plants,piante,ciliegio,ciliegia di orto,ciliegia di orto,5
+llama3.2-iter1,foods,cibi,cioccolato,cioccolata,cioccolata,1
+llama3.2-iter1,foods,cibi,cioccolato,cioccolatini,ni,2
+llama3.2-iter1,foods,cibi,cioccolato,cioccolatini per bambini,ni per bambini,3
+llama3.2-iter1,foods,cibi,cioccolato,cioccolatini per cani,ni per cani,4
+llama3.2-iter1,foods,cibi,cioccolato,cioccolata calda,cioccolata calda,5
+llama3.2-iter1,foods,cibi,cioccolato,cioccolata fredda,cioccolata fredda,6
+llama3.2-iter1,foods,cibi,cioccolato,cioccolata al latte,cioccolata al latte,7
+llama3.2-iter1,foods,cibi,cioccolato,cioccolata al caffè,cioccolata al caffè,8
+llama3.2-iter1,foods,cibi,cioccolato,cioccolata amara,cioccolata amara,9
+llama3.2-iter1,foods,cibi,cioccolato,cioccolata bianca,cioccolata bianca,10
+llama3.2-iter1,foods,cibi,cioccolato,cioccolata nera,cioccolata nera,11
+llama3.2-iter1,stationery,cancelleria,colla,adesivo,adesivo,1
+llama3.2-iter1,stationery,cancelleria,colla,colla per pietre,per pietre,2
+llama3.2-iter1,stationery,cancelleria,colla,colla per legno,per legno,3
+llama3.2-iter1,stationery,cancelleria,colla,colla per tessuti,per tessuti,4
+llama3.2-iter1,stationery,cancelleria,colla,colla per plastica,per plastica,5
+llama3.2-iter1,stationery,cancelleria,colla,colla per metallo,per metallo,6
+llama3.2-iter1,stationery,cancelleria,colla,colla per vetro,per vetro,7
+llama3.2-iter1,stationery,cancelleria,colla,colla per cartone,per cartone,8
+llama3.2-iter1,stationery,cancelleria,colla,colla per gomma,per gomma,9
+llama3.2-iter1,body parts,parti del corpo,collo,collo di vetro,di vetro,1
+llama3.2-iter1,body parts,parti del corpo,collo,collo di legno,di legno,2
+llama3.2-iter1,body parts,parti del corpo,collo,collo di metallo,di metallo,3
+llama3.2-iter1,body parts,parti del corpo,collo,collo di plastica,di plastica,4
+llama3.2-iter1,body parts,parti del corpo,collo,collo di gomma,di gomma,5
+llama3.2-iter1,body parts,parti del corpo,collo,collo di cuoio,di cuoio,6
+llama3.2-iter1,housing buildings,edifici residenziali,colonna,sostegno,sostegno,1
+llama3.2-iter1,housing buildings,edifici residenziali,colonna,pilastro,pilastro,2
+llama3.2-iter1,housing buildings,edifici residenziali,colonna,muro,muro,3
+llama3.2-iter1,housing buildings,edifici residenziali,colonna,palo,palo,4
+llama3.2-iter1,housing buildings,edifici residenziali,colonna,traliccio,traliccio,5
+llama3.2-iter1,housing buildings,edifici residenziali,colonna,pilastro di legno,pilastro di legno,6
+llama3.2-iter1,housing buildings,edifici residenziali,colonna,pilastro di metallo,pilastro di metallo,7
+llama3.2-iter1,housing buildings,edifici residenziali,colonna,pilastro di vetro,pilastro di vetro,8
+llama3.2-iter1,kitchenware,utensili da cucina,coltello,coltello da cucina,da cucina,1
+llama3.2-iter1,kitchenware,utensili da cucina,coltello,coltello da pesca,da pesca,2
+llama3.2-iter1,kitchenware,utensili da cucina,coltello,coltello da caccia,da caccia,3
+llama3.2-iter1,kitchenware,utensili da cucina,coltello,coltello da lavoro,da lavoro,4
+llama3.2-iter1,kitchenware,utensili da cucina,coltello,coltello da cucina da cucina,da cucina da cucina,5
+llama3.2-iter1,kitchenware,utensili da cucina,coltello,coltello da cucina da forno,da cucina da forno,6
+llama3.2-iter1,furniture,mobili,comodino,cuscino,cuscino,1
+llama3.2-iter1,furniture,mobili,comodino,cuscino a piuma,cuscino a piuma,2
+llama3.2-iter1,furniture,mobili,comodino,cuscino a schiuma,cuscino a schiuma,3
+llama3.2-iter1,furniture,mobili,comodino,cuscino a forma di animale,cuscino a forma di animale,4
+llama3.2-iter1,furniture,mobili,comodino,cuscino da letto,cuscino da letto,5
+llama3.2-iter1,hobbies,passatempi,computer,desktop,desktop,1
+llama3.2-iter1,hobbies,passatempi,computer,laptop,laptop,2
+llama3.2-iter1,hobbies,passatempi,computer,tablet,tablet,3
+llama3.2-iter1,hobbies,passatempi,computer,smartphone,smartphone,4
+llama3.2-iter1,hobbies,passatempi,computer,server,server,5
+llama3.2-iter1,hobbies,passatempi,computer,mainframe,mainframe,6
+llama3.2-iter1,furniture,mobili,comò,cassettone,cassettone,1
+llama3.2-iter1,furniture,mobili,comò,comò a braccio,a braccio,2
+llama3.2-iter1,furniture,mobili,comò,comò a muro,a muro,3
+llama3.2-iter1,furniture,mobili,comò,comò a rotelle,a rotelle,4
+llama3.2-iter1,furniture,mobili,comò,comò a ruota,a ruota,5
+llama3.2-iter1,animals,animali,coniglio,coniglio comune,comune,1
+llama3.2-iter1,animals,animali,coniglio,coniglio cinese,cinese,2
+llama3.2-iter1,animals,animali,coniglio,coniglio di montagna,di montagna,3
+llama3.2-iter1,animals,animali,coniglio,coniglio di sibillia,di sibillia,4
+llama3.2-iter1,animals,animali,coniglio,coniglio di prussia,di prussia,5
+llama3.2-iter1,animals,animali,coniglio,coniglio di siam,di siam,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cornice,cornice per finestra,per finestra,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cornice,cornice per porte,per porte,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cornice,cornice per pavimento,per pavimento,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cornice,cornice per soffitto,per soffitto,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cornice,cornice per tavolo,per tavolo,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cornice,cornice per parete,per parete,6
+llama3.2-iter1,furniture,mobili,credenza,banca,banca,1
+llama3.2-iter1,furniture,mobili,credenza,cassa di risparmio,cassa di risparmio,2
+llama3.2-iter1,furniture,mobili,credenza,fondi comuni,fondi comuni,3
+llama3.2-iter1,furniture,mobili,credenza,fondi di investimento,fondi di investimento,4
+llama3.2-iter1,furniture,mobili,credenza,assicurazione,assicurazione,5
+llama3.2-iter1,furniture,mobili,credenza,prestito,prestito,6
+llama3.2-iter1,furniture,mobili,credenza,carta di credito,carta di credito,7
+llama3.2-iter1,furniture,mobili,credenza,bonifico bancario,bonifico bancario,8
+llama3.2-iter1,furniture,mobili,credenza,bonifico postale,bonifico postale,9
+llama3.2-iter1,furniture,mobili,credenza,bonifico online,bonifico online,10
+llama3.2-iter1,hobbies,passatempi,cruciverba,puzzle,puzzle,1
+llama3.2-iter1,hobbies,passatempi,cruciverba,anagramma,anagramma,2
+llama3.2-iter1,hobbies,passatempi,cruciverba,acrostico,acrostico,3
+llama3.2-iter1,hobbies,passatempi,cruciverba,palindromo,palindromo,4
+llama3.2-iter1,hobbies,passatempi,cruciverba,anagramma di parole,anagramma di parole,5
+llama3.2-iter1,hobbies,passatempi,cruciverba,indovinello,indovinello,6
+llama3.2-iter1,kitchenware,utensili da cucina,cucchiaio,cucchiaio da tavola,da tavola,1
+llama3.2-iter1,kitchenware,utensili da cucina,cucchiaio,cucchiaio da cucina,da cucina,2
+llama3.2-iter1,kitchenware,utensili da cucina,cucchiaio,cucchiaio da forno,da forno,3
+llama3.2-iter1,kitchenware,utensili da cucina,cucchiaio,cucchiaio da ghiaccio,da ghiaccio,4
+llama3.2-iter1,kitchenware,utensili da cucina,cucchiaio,cucchiaio da neve,da neve,5
+llama3.2-iter1,housing buildings,edifici residenziali,cucina,pentola,pentola,1
+llama3.2-iter1,housing buildings,edifici residenziali,cucina,padella,padella,2
+llama3.2-iter1,housing buildings,edifici residenziali,cucina,teglia,teglia,3
+llama3.2-iter1,housing buildings,edifici residenziali,cucina,forno,forno,4
+llama3.2-iter1,housing buildings,edifici residenziali,cucina,frigorifero,frigorifero,5
+llama3.2-iter1,housing buildings,edifici residenziali,cucina,lavastoviglie,lavastoviglie,6
+llama3.2-iter1,housing buildings,edifici residenziali,cucina,elettrodomestico,elettrodomestico,7
+llama3.2-iter1,body parts,parti del corpo,cuore,cuore umano,umano,1
+llama3.2-iter1,body parts,parti del corpo,cuore,cuore animale,animale,2
+llama3.2-iter1,body parts,parti del corpo,cuore,cuore di pietra,di pietra,3
+llama3.2-iter1,body parts,parti del corpo,cuore,cuore di legno,di legno,4
+llama3.2-iter1,body parts,parti del corpo,cuore,cuore di metallo,di metallo,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino da letto,da letto,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino da poltrona,da poltrona,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino da poltrona esterno,da poltrona esterno,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino da giardino,da giardino,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino da spiaggia,da spiaggia,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino da viaggio,da viaggio,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino da bambino,da bambino,7
+llama3.2-iter1,animals,animali,delfino,delfino comune,comune,1
+llama3.2-iter1,animals,animali,delfino,delfino del mediterraneo,del mediterraneo,2
+llama3.2-iter1,animals,animali,delfino,delfino del giappone,del giappone,3
+llama3.2-iter1,animals,animali,delfino,delfino del pacifico,del pacifico,4
+llama3.2-iter1,animals,animali,delfino,delfino del nord atlantico,del nord atlantico,5
+llama3.2-iter1,furniture,mobili,divano,divano a tre o più posti,a tre o più posti,1
+llama3.2-iter1,furniture,mobili,divano,divano a due posti,a due posti,2
+llama3.2-iter1,furniture,mobili,divano,divano a sdraio,a sdraio,3
+llama3.2-iter1,furniture,mobili,divano,divano a cuscino,a cuscino,4
+llama3.2-iter1,furniture,mobili,divano,divano a slitta,a slitta,5
+llama3.2-iter1,plants,piante,edera,edera comune,comune,1
+llama3.2-iter1,plants,piante,edera,edera gigante,gigante,2
+llama3.2-iter1,plants,piante,edera,edera nana,nana,3
+llama3.2-iter1,plants,piante,edera,edera rossa,rossa,4
+llama3.2-iter1,plants,piante,edera,edera verde,verde,5
+llama3.2-iter1,animals,animali,elefante,elefante africano,africano,1
+llama3.2-iter1,animals,animali,elefante,elefante asiatico,asiatico,2
+llama3.2-iter1,animals,animali,elefante,elefante di sumatra,di sumatra,3
+llama3.2-iter1,animals,animali,elefante,elefante di borneo,di borneo,4
+llama3.2-iter1,animals,animali,elefante,elefante di sumatra orientale,di sumatra orientale,5
+llama3.2-iter1,animals,animali,elefante,elefante di caspico,di caspico,6
+llama3.2-iter1,vehicles,veicoli,elicottero,elicottero da trasporto,da trasporto,1
+llama3.2-iter1,vehicles,veicoli,elicottero,elicottero da combattimento,da combattimento,2
+llama3.2-iter1,vehicles,veicoli,elicottero,elicottero da pattugliamento,da pattugliamento,3
+llama3.2-iter1,vehicles,veicoli,elicottero,elicottero da pompaggio,da pompaggio,4
+llama3.2-iter1,vehicles,veicoli,elicottero,elicottero da trasporto di merci,da trasporto di merci,5
+llama3.2-iter1,vehicles,veicoli,elicottero,elicottero da ricerca e salvataggio,da ricerca e salvataggio,6
+llama3.2-iter1,stationery,cancelleria,evidenziatore,pennarelli,pennarelli,1
+llama3.2-iter1,stationery,cancelleria,evidenziatore,matite,matite,2
+llama3.2-iter1,stationery,cancelleria,evidenziatore,pennelli,pennelli,3
+llama3.2-iter1,stationery,cancelleria,evidenziatore,pennarelli a righello,pennarelli a righello,4
+llama3.2-iter1,stationery,cancelleria,evidenziatore,pennarelli a sghembo,pennarelli a sghembo,5
+llama3.2-iter1,stationery,cancelleria,evidenziatore,pennarelli a punta,pennarelli a punta,6
+llama3.2-iter1,stationery,cancelleria,evidenziatore,pennarelli a seta,pennarelli a seta,7
+llama3.2-iter1,stationery,cancelleria,evidenziatore,pennarelli a cera,pennarelli a cera,8
+llama3.2-iter1,clothes,vestiti,felpa,cappello,cappello,1
+llama3.2-iter1,clothes,vestiti,felpa,berretto,berretto,2
+llama3.2-iter1,clothes,vestiti,felpa,cappuccio,cappuccio,3
+llama3.2-iter1,clothes,vestiti,felpa,mantello,mantello,4
+llama3.2-iter1,clothes,vestiti,felpa,sciarpa,sciarpa,5
+llama3.2-iter1,plants,piante,ficus,ficus benghalensis,benghalensis,1
+llama3.2-iter1,plants,piante,ficus,ficus carica,carica,2
+llama3.2-iter1,plants,piante,ficus,ficus benjamina,benjamina,3
+llama3.2-iter1,plants,piante,ficus,ficus religiosa,religiosa,4
+llama3.2-iter1,plants,piante,ficus,ficus lyrata,lyrata,5
+llama3.2-iter1,housing buildings,edifici residenziali,finestra,finestra a tenda,a tenda,1
+llama3.2-iter1,housing buildings,edifici residenziali,finestra,finestra a vetro,a vetro,2
+llama3.2-iter1,housing buildings,edifici residenziali,finestra,finestra a sospensione,a sospensione,3
+llama3.2-iter1,housing buildings,edifici residenziali,finestra,finestra a muro,a muro,4
+llama3.2-iter1,housing buildings,edifici residenziali,finestra,finestra a palazzo,a palazzo,5
+llama3.2-iter1,housing buildings,edifici residenziali,finestra,finestra a balcone,a balcone,6
+llama3.2-iter1,housing buildings,edifici residenziali,finestra,finestra a terrazza,a terrazza,7
+llama3.2-iter1,housing buildings,edifici residenziali,finestra,finestra a soffitto,a soffitto,8
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fioriera,vaso,vaso,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fioriera,ciotola,ciotola,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fioriera,vaso da fiori,vaso da fiori,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fioriera,cassa da fiori,cassa da fiori,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fioriera,scatola da fiori,scatola da fiori,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fioriera,vetrina,vetrina,6
+llama3.2-iter1,stationery,cancelleria,foglio,carta,carta,1
+llama3.2-iter1,stationery,cancelleria,foglio,foglio di velluto,di velluto,2
+llama3.2-iter1,stationery,cancelleria,foglio,foglio di carta igienica,di carta igienica,3
+llama3.2-iter1,stationery,cancelleria,foglio,foglio di carta da cucito,di carta da cucito,4
+llama3.2-iter1,stationery,cancelleria,foglio,foglio di carta da scrivere,di carta da scrivere,5
+llama3.2-iter1,stationery,cancelleria,foglio,foglio di vetro,di vetro,6
+llama3.2-iter1,kitchenware,utensili da cucina,forbice,forbice a mano,a mano,1
+llama3.2-iter1,kitchenware,utensili da cucina,forbice,forbice elettrico,elettrico,2
+llama3.2-iter1,kitchenware,utensili da cucina,forbice,forbice a lama rotante,a lama rotante,3
+llama3.2-iter1,kitchenware,utensili da cucina,forbice,forbice a lama affilata,a lama affilata,4
+llama3.2-iter1,kitchenware,utensili da cucina,forbice,forbice a lama a guida manuale,a lama a guida manuale,5
+llama3.2-iter1,kitchenware,utensili da cucina,forbice,forbice a lama a guida automatica,a lama a guida automatica,6
+llama3.2-iter1,kitchenware,utensili da cucina,forchetta,forchetta da tavola,da tavola,1
+llama3.2-iter1,kitchenware,utensili da cucina,forchetta,forchetta da cucina,da cucina,2
+llama3.2-iter1,kitchenware,utensili da cucina,forchetta,forchetta da barbecue,da barbecue,3
+llama3.2-iter1,kitchenware,utensili da cucina,forchetta,forchetta da pesca,da pesca,4
+llama3.2-iter1,foods,cibi,formaggio,parmigiano,parmigiano,1
+llama3.2-iter1,foods,cibi,formaggio,mozzarella,mozzarella,2
+llama3.2-iter1,foods,cibi,formaggio,gorgonzola,gorgonzola,3
+llama3.2-iter1,foods,cibi,formaggio,ricotta,ricotta,4
+llama3.2-iter1,foods,cibi,formaggio,provolone,provolone,5
+llama3.2-iter1,foods,cibi,formaggio,gouda,gouda,6
+llama3.2-iter1,foods,cibi,formaggio,feta,feta,7
+llama3.2-iter1,foods,cibi,formaggio,brie,brie,8
+llama3.2-iter1,foods,cibi,formaggio,camembert,camembert,9
+llama3.2-iter1,foods,cibi,formaggio,mascarpone,mascarpone,10
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,fotografia aerea,aerea,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,fotografia notturna,notturna,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,fotografia sportiva,sportiva,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,fotografia di ritratto,di ritratto,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,fotografia di paesaggio,di paesaggio,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,fotografia di nudo,di nudo,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,fotografia di documentazione,di documentazione,7
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,fotografia di moda,di moda,8
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,fotografia di guerra,di guerra,9
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,fotografia di documentazione scientifica,di documentazione scientifica,10
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,fotografia di scena di studio,di scena di studio,11
+llama3.2-iter1,foods,cibi,frutta,banana,banana,1
+llama3.2-iter1,foods,cibi,frutta,mela,mela,2
+llama3.2-iter1,foods,cibi,frutta,pesca,pesca,3
+llama3.2-iter1,foods,cibi,frutta,arancia,arancia,4
+llama3.2-iter1,foods,cibi,frutta,limone,limone,5
+llama3.2-iter1,foods,cibi,frutta,albicocca,albicocca,6
+llama3.2-iter1,foods,cibi,frutta,fragola,fragola,7
+llama3.2-iter1,foods,cibi,frutta,ciliegia,ciliegia,8
+llama3.2-iter1,foods,cibi,frutta,uva,uva,9
+llama3.2-iter1,vehicles,veicoli,furgone,furgone a due posti,a due posti,1
+llama3.2-iter1,vehicles,veicoli,furgone,furgone a tre posti,a tre posti,2
+llama3.2-iter1,vehicles,veicoli,furgone,furgone a quattro posti,a quattro posti,3
+llama3.2-iter1,vehicles,veicoli,furgone,furgone a cinque posti,a cinque posti,4
+llama3.2-iter1,vehicles,veicoli,furgone,furgone a sei posti,a sei posti,5
+llama3.2-iter1,vehicles,veicoli,furgone,furgone a sette posti,a sette posti,6
+llama3.2-iter1,vehicles,veicoli,furgone,furgone a noleggio,a noleggio,7
+llama3.2-iter1,vehicles,veicoli,furgone,furgone a noleggio con conducente,a noleggio con conducente,8
+llama3.2-iter1,animals,animali,gallo,gallo selvatico,selvatico,1
+llama3.2-iter1,animals,animali,gallo,gallo domestico,domestico,2
+llama3.2-iter1,body parts,parti del corpo,gamba,gamba di legno,di legno,1
+llama3.2-iter1,body parts,parti del corpo,gamba,gamba di metallo,di metallo,2
+llama3.2-iter1,body parts,parti del corpo,gamba,gamba di plastica,di plastica,3
+llama3.2-iter1,body parts,parti del corpo,gamba,gamba di vetro,di vetro,4
+llama3.2-iter1,body parts,parti del corpo,gamba,gamba di fibra di vetro,di fibra di vetro,5
+llama3.2-iter1,animals,animali,gatto,gatto domestico,domestico,1
+llama3.2-iter1,animals,animali,gatto,gatto selvatico,selvatico,2
+llama3.2-iter1,animals,animali,gatto,gatto da compagnia,da compagnia,3
+llama3.2-iter1,animals,animali,gatto,gatto da caccia,da caccia,4
+llama3.2-iter1,animals,animali,gatto,gatto da guardia,da guardia,5
+llama3.2-iter1,animals,animali,gatto,gatto da razza,da razza,6
+llama3.2-iter1,plants,piante,geranio,petalo,petalo,1
+llama3.2-iter1,plants,piante,geranio,stelo,stelo,2
+llama3.2-iter1,plants,piante,geranio,foglia,foglia,3
+llama3.2-iter1,plants,piante,geranio,fioritura,fioritura,4
+llama3.2-iter1,clothes,vestiti,giacca,giacca da uomo,da uomo,1
+llama3.2-iter1,clothes,vestiti,giacca,giacca da donna,da donna,2
+llama3.2-iter1,clothes,vestiti,giacca,giacca da bambino,da bambino,3
+llama3.2-iter1,clothes,vestiti,giacca,giacca da neve,da neve,4
+llama3.2-iter1,clothes,vestiti,giacca,giacca da sci,da sci,5
+llama3.2-iter1,clothes,vestiti,gilet,camicia,camicia,1
+llama3.2-iter1,clothes,vestiti,gilet,giacca,giacca,2
+llama3.2-iter1,clothes,vestiti,gilet,giacca da ballo,giacca da ballo,3
+llama3.2-iter1,clothes,vestiti,gilet,giacca da sci,giacca da sci,4
+llama3.2-iter1,clothes,vestiti,gilet,giacca da neve,giacca da neve,5
+llama3.2-iter1,clothes,vestiti,gilet,giacca da polizia,giacca da polizia,6
+llama3.2-iter1,clothes,vestiti,gilet,giacca da tennis,giacca da tennis,7
+llama3.2-iter1,clothes,vestiti,gilet,giacca da golf,giacca da golf,8
+llama3.2-iter1,clothes,vestiti,gilet,giacca da ciclismo,giacca da ciclismo,9
+llama3.2-iter1,hobbies,passatempi,gioco da tavola,monoposto,monoposto,1
+llama3.2-iter1,hobbies,passatempi,gioco da tavola,scacchi,scacchi,2
+llama3.2-iter1,hobbies,passatempi,gioco da tavola,scacchi verticale,scacchi verticale,3
+llama3.2-iter1,hobbies,passatempi,gioco da tavola,scacchi orizzontale,scacchi orizzontale,4
+llama3.2-iter1,hobbies,passatempi,gioco da tavola,mancala,mancala,5
+llama3.2-iter1,hobbies,passatempi,gioco da tavola,mancala con pietre,mancala con pietre,6
+llama3.2-iter1,hobbies,passatempi,gioco da tavola,mancala con sassi,mancala con sassi,7
+llama3.2-iter1,hobbies,passatempi,gioco da tavola,mancala con palline,mancala con palline,8
+llama3.2-iter1,hobbies,passatempi,gioco da tavola,mancala con palle,mancala con palle,9
+llama3.2-iter1,hobbies,passatempi,gioco da tavola,mancala con dado,mancala con dado,10
+llama3.2-iter1,hobbies,passatempi,giornale,quotidiano,quotidiano,1
+llama3.2-iter1,hobbies,passatempi,giornale,settimanale,settimanale,2
+llama3.2-iter1,hobbies,passatempi,giornale,mensile,mensile,3
+llama3.2-iter1,hobbies,passatempi,giornale,trimestrale,trimestrale,4
+llama3.2-iter1,hobbies,passatempi,giornale,annuale,annuale,5
+llama3.2-iter1,hobbies,passatempi,giornale,online,online,6
+llama3.2-iter1,animals,animali,giraffa,giraffa africana,africana,1
+llama3.2-iter1,animals,animali,giraffa,giraffa banteng,banteng,2
+llama3.2-iter1,animals,animali,giraffa,giraffa camelopardalis,camelopardalis,3
+llama3.2-iter1,animals,animali,giraffa,giraffa reticulata,reticulata,4
+llama3.2-iter1,animals,animali,giraffa,giraffa tippelskirchi,tippelskirchi,5
+llama3.2-iter1,animals,animali,giraffa,giraffa camelopardalis perrieri,camelopardalis perrieri,6
+llama3.2-iter1,plants,piante,girasole,solare,solare,1
+llama3.2-iter1,plants,piante,girasole,solare a olio,solare a olio,2
+llama3.2-iter1,plants,piante,girasole,solare a gas,solare a gas,3
+llama3.2-iter1,plants,piante,girasole,solare a legna,solare a legna,4
+llama3.2-iter1,plants,piante,girasole,solare a pellet,solare a pellet,5
+llama3.2-iter1,clothes,vestiti,giubotto,giubotto di lino,di lino,1
+llama3.2-iter1,clothes,vestiti,giubotto,giubotto di cotone,di cotone,2
+llama3.2-iter1,clothes,vestiti,giubotto,giubotto di seta,di seta,3
+llama3.2-iter1,clothes,vestiti,giubotto,giubotto di poliestere,di poliestere,4
+llama3.2-iter1,clothes,vestiti,giubotto,giubotto di microfibra,di microfibra,5
+llama3.2-iter1,stationery,cancelleria,gomma,gomma auto,auto,1
+llama3.2-iter1,stationery,cancelleria,gomma,gomma da bicicletta,da bicicletta,2
+llama3.2-iter1,stationery,cancelleria,gomma,gomma da neve,da neve,3
+llama3.2-iter1,stationery,cancelleria,gomma,gomma da pneumatici,da pneumatici,4
+llama3.2-iter1,clothes,vestiti,gonna,gonna corta,corta,1
+llama3.2-iter1,clothes,vestiti,gonna,gonna lunga,lunga,2
+llama3.2-iter1,clothes,vestiti,gonna,gonna a pannoloni,a pannoloni,3
+llama3.2-iter1,clothes,vestiti,gonna,gonna a fiori,a fiori,4
+llama3.2-iter1,clothes,vestiti,gonna,gonna da ballo,da ballo,5
+llama3.2-iter1,clothes,vestiti,gonna,gonna da sera,da sera,6
+llama3.2-iter1,stationery,cancelleria,graffetta,carta,carta,1
+llama3.2-iter1,stationery,cancelleria,graffetta,plastica,plastica,2
+llama3.2-iter1,stationery,cancelleria,graffetta,vetro,vetro,3
+llama3.2-iter1,stationery,cancelleria,graffetta,legno,legno,4
+llama3.2-iter1,stationery,cancelleria,graffetta,metallo,metallo,5
+llama3.2-iter1,clothes,vestiti,guanti,guanti da lavoro,da lavoro,1
+llama3.2-iter1,clothes,vestiti,guanti,guanti da neve,da neve,2
+llama3.2-iter1,clothes,vestiti,guanti,guanti da sci,da sci,3
+llama3.2-iter1,clothes,vestiti,guanti,guanti da ginnastica,da ginnastica,4
+llama3.2-iter1,clothes,vestiti,guanti,guanti da cucito,da cucito,5
+llama3.2-iter1,clothes,vestiti,guanti,guanti da pittore,da pittore,6
+llama3.2-iter1,clothes,vestiti,guanti,guanti da cuoco,da cuoco,7
+llama3.2-iter1,clothes,vestiti,guanti,guanti da forno,da forno,8
+llama3.2-iter1,foods,cibi,insalata,insalata mista,mista,1
+llama3.2-iter1,foods,cibi,insalata,insalata di lattuga,di lattuga,2
+llama3.2-iter1,foods,cibi,insalata,insalata di pomodoro,di pomodoro,3
+llama3.2-iter1,foods,cibi,insalata,insalata di avocado,di avocado,4
+llama3.2-iter1,foods,cibi,insalata,insalata di carote,di carote,5
+llama3.2-iter1,foods,cibi,insalata,insalata di cetriolo,di cetriolo,6
+llama3.2-iter1,foods,cibi,insalata,insalata di zucchine,di zucchine,7
+llama3.2-iter1,foods,cibi,insalata,insalata di melanzane,di melanzane,8
+llama3.2-iter1,foods,cibi,insalata,insalata di peperoni,di peperoni,9
+llama3.2-iter1,foods,cibi,insalata,insalata di funghi,di funghi,10
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada a muro,a muro,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada da tavolo,da tavolo,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada da letto,da letto,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada da cucina,da cucina,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada da soggiorno,da soggiorno,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada da corridoio,da corridoio,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada da esterni,da esterni,7
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada a led,a led,8
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada a neon,a neon,9
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampada,lampada,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampada a sospensione,lampada a sospensione,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampada da tavolo,lampada da tavolo,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampada da letto,lampada da letto,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampada da cucina,lampada da cucina,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampada da bagno,lampada da bagno,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampada da corridoio,lampada da corridoio,7
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampada da soffitto,lampada da soffitto,8
+llama3.2-iter1,foods,cibi,latte,latte fresco,fresco,1
+llama3.2-iter1,foods,cibi,latte,latte in polvere,in polvere,2
+llama3.2-iter1,foods,cibi,latte,latte in barrielle,in barrielle,3
+llama3.2-iter1,foods,cibi,latte,latte in scatola,in scatola,4
+llama3.2-iter1,foods,cibi,latte,latte di soia,di soia,5
+llama3.2-iter1,foods,cibi,latte,latte di mandorla,di mandorla,6
+llama3.2-iter1,foods,cibi,latte,latte di cocco,di cocco,7
+llama3.2-iter1,foods,cibi,latte,latte di arachidi,di arachidi,8
+llama3.2-iter1,foods,cibi,legume,lenticchie,lenticchie,1
+llama3.2-iter1,foods,cibi,legume,fagioli,fagioli,2
+llama3.2-iter1,foods,cibi,legume,piselli,piselli,3
+llama3.2-iter1,foods,cibi,legume,ceci,ceci,4
+llama3.2-iter1,foods,cibi,legume,fagioli neri,fagioli neri,5
+llama3.2-iter1,foods,cibi,legume,fagioli rossi,fagioli rossi,6
+llama3.2-iter1,foods,cibi,legume,soia,soia,7
+llama3.2-iter1,foods,cibi,legume,lenticchie rosse,lenticchie rosse,8
+llama3.2-iter1,foods,cibi,legume,lenticchie verdi,lenticchie verdi,9
+llama3.2-iter1,foods,cibi,legume,ceci neri,ceci neri,10
+llama3.2-iter1,foods,cibi,legume,ceci rossi,ceci rossi,11
+llama3.2-iter1,foods,cibi,legume,piselli neri,piselli neri,12
+llama3.2-iter1,foods,cibi,legume,piselli rossi,piselli rossi,13
+llama3.2-iter1,animals,animali,leone,leone reale,reale,1
+llama3.2-iter1,animals,animali,leone,leone di savana,di savana,2
+llama3.2-iter1,animals,animali,leone,leone di montagna,di montagna,3
+llama3.2-iter1,animals,animali,leone,leone di selva,di selva,4
+llama3.2-iter1,animals,animali,leone,leone di foresta,di foresta,5
+llama3.2-iter1,animals,animali,leone,leone di cina,di cina,6
+llama3.2-iter1,furniture,mobili,letto,cuscino,cuscino,1
+llama3.2-iter1,furniture,mobili,letto,cuscino a piuma,cuscino a piuma,2
+llama3.2-iter1,furniture,mobili,letto,cuscino a schiuma,cuscino a schiuma,3
+llama3.2-iter1,furniture,mobili,letto,cuscino a materasso,cuscino a materasso,4
+llama3.2-iter1,furniture,mobili,letto,divano,divano,5
+llama3.2-iter1,furniture,mobili,letto,divano-letto,divano-,6
+llama3.2-iter1,furniture,mobili,letto,lettino,no,7
+llama3.2-iter1,furniture,mobili,letto,lettino a castello,no a castello,8
+llama3.2-iter1,furniture,mobili,letto,lettino a forma di animale,no a forma di animale,9
+llama3.2-iter1,furniture,mobili,letto,poltrona,poltrona,10
+llama3.2-iter1,hobbies,passatempi,lettore,lettore cd,cd,1
+llama3.2-iter1,hobbies,passatempi,lettore,lettore dvd,dvd,2
+llama3.2-iter1,hobbies,passatempi,lettore,lettore blu-ray,blu-ray,3
+llama3.2-iter1,hobbies,passatempi,lettore,lettore usb,usb,4
+llama3.2-iter1,hobbies,passatempi,lettore,lettore di schede di memoria,di schede di memoria,5
+llama3.2-iter1,hobbies,passatempi,lettore,lettore di cd/dvd/blu-ray,di cd/dvd/blu-ray,6
+llama3.2-iter1,hobbies,passatempi,lettore,lettore di musica,di musica,7
+llama3.2-iter1,hobbies,passatempi,lettore,lettore di libri elettronici,di libri elettronici,8
+llama3.2-iter1,furniture,mobili,libreria,libreria in legno,in legno,1
+llama3.2-iter1,furniture,mobili,libreria,libreria moderna,moderna,2
+llama3.2-iter1,furniture,mobili,libreria,libreria mobile,mobile,3
+llama3.2-iter1,furniture,mobili,libreria,libreria fissa,fissa,4
+llama3.2-iter1,furniture,mobili,libreria,libreria di seconda mano,di seconda mano,5
+llama3.2-iter1,furniture,mobili,libreria,libreria online,online,6
+llama3.2-iter1,hobbies,passatempi,libro,romanzo,romanzo,1
+llama3.2-iter1,hobbies,passatempi,libro,saggio,saggio,2
+llama3.2-iter1,hobbies,passatempi,libro,poema,poema,3
+llama3.2-iter1,hobbies,passatempi,libro,diario,diario,4
+llama3.2-iter1,hobbies,passatempi,libro,enciclopedia,enciclopedia,5
+llama3.2-iter1,hobbies,passatempi,libro,fumetto,fumetto,6
+llama3.2-iter1,hobbies,passatempi,libro,carteggio,carteggio,7
+llama3.2-iter1,hobbies,passatempi,libro,manuale,manuale,8
+llama3.2-iter1,hobbies,passatempi,libro,testo didattico,testo didattico,9
+llama3.2-iter1,hobbies,passatempi,libro,libro di testo,di testo,10
+llama3.2-iter1,animals,animali,lucertola,lucertola comune,comune,1
+llama3.2-iter1,animals,animali,lucertola,lucertola di mare,di mare,2
+llama3.2-iter1,animals,animali,lucertola,lucertola di terra,di terra,3
+llama3.2-iter1,animals,animali,lucertola,lucertola di montagna,di montagna,4
+llama3.2-iter1,animals,animali,lucertola,lucertola di palude,di palude,5
+llama3.2-iter1,clothes,vestiti,maglia,maglia da donna,da donna,1
+llama3.2-iter1,clothes,vestiti,maglia,maglia da uomo,da uomo,2
+llama3.2-iter1,clothes,vestiti,maglia,maglia da bambino,da bambino,3
+llama3.2-iter1,clothes,vestiti,maglia,maglia da neve,da neve,4
+llama3.2-iter1,clothes,vestiti,maglia,maglia da golf,da golf,5
+llama3.2-iter1,clothes,vestiti,maglia,maglia da tennis,da tennis,6
+llama3.2-iter1,clothes,vestiti,maglia,maglia da calcio,da calcio,7
+llama3.2-iter1,animals,animali,maiale,carne,carne,1
+llama3.2-iter1,animals,animali,maiale,olio,olio,2
+llama3.2-iter1,animals,animali,maiale,pelle,pelle,3
+llama3.2-iter1,animals,animali,maiale,osso,osso,4
+llama3.2-iter1,animals,animali,maiale,coda,coda,5
+llama3.2-iter1,animals,animali,maiale,corna,corna,6
+llama3.2-iter1,body parts,parti del corpo,mano,dita,dita,1
+llama3.2-iter1,body parts,parti del corpo,mano,palmo,palmo,2
+llama3.2-iter1,body parts,parti del corpo,mano,pollice,pollice,3
+llama3.2-iter1,body parts,parti del corpo,mano,indice,indice,4
+llama3.2-iter1,body parts,parti del corpo,mano,medio,medio,5
+llama3.2-iter1,body parts,parti del corpo,mano,anulare,anulare,6
+llama3.2-iter1,body parts,parti del corpo,mano,metacarpo,metacarpo,7
+llama3.2-iter1,plants,piante,margherita,pizza,pizza,1
+llama3.2-iter1,plants,piante,margherita,pasta,pasta,2
+llama3.2-iter1,plants,piante,margherita,gelato,gelato,3
+llama3.2-iter1,plants,piante,margherita,sorbetto,sorbetto,4
+llama3.2-iter1,plants,piante,margherita,limone,limone,5
+llama3.2-iter1,stationery,cancelleria,matita,matita di grafite,di grafite,1
+llama3.2-iter1,stationery,cancelleria,matita,matita di carbonio,di carbonio,2
+llama3.2-iter1,stationery,cancelleria,matita,matita di plastica,di plastica,3
+llama3.2-iter1,stationery,cancelleria,matita,matita di rame,di rame,4
+llama3.2-iter1,stationery,cancelleria,matita,matita di ferro,di ferro,5
+llama3.2-iter1,stationery,cancelleria,matita,matita di cera,di cera,6
+llama3.2-iter1,kitchenware,utensili da cucina,mestolo,bicchiere,bicchiere,1
+llama3.2-iter1,kitchenware,utensili da cucina,mestolo,tazza,tazza,2
+llama3.2-iter1,kitchenware,utensili da cucina,mestolo,ciotola,ciotola,3
+llama3.2-iter1,kitchenware,utensili da cucina,mestolo,bicchierino,bicchierino,4
+llama3.2-iter1,kitchenware,utensili da cucina,mestolo,tazza da caffè,tazza da caffè,5
+llama3.2-iter1,kitchenware,utensili da cucina,mestolo,bicchierino da vino,bicchierino da vino,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,metro,metro a mano,a mano,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,metro,metro a nastro,a nastro,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,metro,metro a cinghia,a cinghia,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,metro,metro a rullo,a rullo,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,metro,metro a sonda,a sonda,5
+llama3.2-iter1,plants,piante,mimosa,fiore,fiore,1
+llama3.2-iter1,plants,piante,mimosa,piatto,piatto,2
+llama3.2-iter1,plants,piante,mimosa,bicchiere,bicchiere,3
+llama3.2-iter1,plants,piante,mimosa,vaso,vaso,4
+llama3.2-iter1,plants,piante,mimosa,carta igienica,carta igienica,5
+llama3.2-iter1,vehicles,veicoli,motocicletta,scooter,scooter,1
+llama3.2-iter1,vehicles,veicoli,motocicletta,motocicletta da turismo,da turismo,2
+llama3.2-iter1,vehicles,veicoli,motocicletta,motocicletta da strada,da strada,3
+llama3.2-iter1,vehicles,veicoli,motocicletta,motocicletta da montagna,da montagna,4
+llama3.2-iter1,vehicles,veicoli,motocicletta,motocicletta da neve,da neve,5
+llama3.2-iter1,vehicles,veicoli,motocicletta,motocicletta da corsa,da corsa,6
+llama3.2-iter1,vehicles,veicoli,motocicletta,motocicletta da trekking,da trekking,7
+llama3.2-iter1,vehicles,veicoli,motocicletta,motocicletta da mountain bike,da mountain bike,8
+llama3.2-iter1,animals,animali,mucca,asina,asina,1
+llama3.2-iter1,animals,animali,mucca,bue,bue,2
+llama3.2-iter1,housing buildings,edifici residenziali,muro,muro di cinta,di cinta,1
+llama3.2-iter1,housing buildings,edifici residenziali,muro,muro di confine,di confine,2
+llama3.2-iter1,housing buildings,edifici residenziali,muro,muro di separazione,di separazione,3
+llama3.2-iter1,housing buildings,edifici residenziali,muro,muro di sostegno,di sostegno,4
+llama3.2-iter1,housing buildings,edifici residenziali,muro,muro di protezione,di protezione,5
+llama3.2-iter1,housing buildings,edifici residenziali,muro,muro di fondazione,di fondazione,6
+llama3.2-iter1,housing buildings,edifici residenziali,muro,muro di cinta per giardino,di cinta per giardino,7
+llama3.2-iter1,housing buildings,edifici residenziali,muro,muro di cinta per proprietà,di cinta per proprietà,8
+llama3.2-iter1,housing buildings,edifici residenziali,muro,muro di cinta per strada,di cinta per strada,9
+llama3.2-iter1,housing buildings,edifici residenziali,muro,muro di cinta per parcheggio,di cinta per parcheggio,10
+llama3.2-iter1,housing buildings,edifici residenziali,muro,muro di cinta per edificio,di cinta per edificio,11
+llama3.2-iter1,body parts,parti del corpo,naso,naso umano,umano,1
+llama3.2-iter1,body parts,parti del corpo,naso,naso di cane,di cane,2
+llama3.2-iter1,body parts,parti del corpo,naso,naso di gatto,di gatto,3
+llama3.2-iter1,body parts,parti del corpo,naso,naso di pesce,di pesce,4
+llama3.2-iter1,vehicles,veicoli,nave,nave da guerra,da guerra,1
+llama3.2-iter1,vehicles,veicoli,nave,nave da carico,da carico,2
+llama3.2-iter1,vehicles,veicoli,nave,nave da crociera,da crociera,3
+llama3.2-iter1,vehicles,veicoli,nave,nave da pesca,da pesca,4
+llama3.2-iter1,vehicles,veicoli,nave,nave da ricerca,da ricerca,5
+llama3.2-iter1,vehicles,veicoli,nave,nave da pattugliamento,da pattugliamento,6
+llama3.2-iter1,vehicles,veicoli,nave,nave da trasporto,da trasporto,7
+llama3.2-iter1,vehicles,veicoli,nave,nave da scuola,da scuola,8
+llama3.2-iter1,vehicles,veicoli,nave,nave da sperimentazione,da sperimentazione,9
+llama3.2-iter1,vehicles,veicoli,nave,nave da ricerca oceanografica,da ricerca oceanografica,10
+llama3.2-iter1,vehicles,veicoli,nave,nave da salvataggio,da salvataggio,11
+llama3.2-iter1,body parts,parti del corpo,occhio,palpebra,palpebra,1
+llama3.2-iter1,body parts,parti del corpo,occhio,iride,iride,2
+llama3.2-iter1,body parts,parti del corpo,occhio,cornea,cornea,3
+llama3.2-iter1,body parts,parti del corpo,occhio,cristallino,cristallino,4
+llama3.2-iter1,body parts,parti del corpo,occhio,retina,retina,5
+llama3.2-iter1,body parts,parti del corpo,occhio,lacrime,lacrime,6
+llama3.2-iter1,plants,piante,orchidea,orchidea azzurra,azzurra,1
+llama3.2-iter1,plants,piante,orchidea,orchidea bianca,bianca,2
+llama3.2-iter1,plants,piante,orchidea,orchidea gialla,gialla,3
+llama3.2-iter1,plants,piante,orchidea,orchidea rossa,rossa,4
+llama3.2-iter1,plants,piante,orchidea,orchidea viola,viola,5
+llama3.2-iter1,plants,piante,orchidea,orchidea rosa,rosa,6
+llama3.2-iter1,plants,piante,orchidea,orchidea nera,nera,7
+llama3.2-iter1,plants,piante,orchidea,orchidea verde,verde,8
+llama3.2-iter1,plants,piante,orchidea,orchidea a quattro petali,a quattro petali,9
+llama3.2-iter1,plants,piante,orchidea,orchidea a tre petali,a tre petali,10
+llama3.2-iter1,plants,piante,orchidea,orchidea a cinque petali,a cinque petali,11
+llama3.2-iter1,plants,piante,orchidea,orchidea a sei petali,a sei petali,12
+llama3.2-iter1,plants,piante,orchidea,orchidea a sette petali,a sette petali,13
+llama3.2-iter1,body parts,parti del corpo,orecchio,orecchio interno,interno,1
+llama3.2-iter1,body parts,parti del corpo,orecchio,orecchio esterno,esterno,2
+llama3.2-iter1,body parts,parti del corpo,orecchio,orecchio medio,medio,3
+llama3.2-iter1,body parts,parti del corpo,orecchio,orecchio anteriore,anteriore,4
+llama3.2-iter1,body parts,parti del corpo,orecchio,orecchio posteriore,posteriore,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,orologio,orologio da polso,da polso,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,orologio,orologio da parete,da parete,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,orologio,orologio da taschino,da taschino,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,orologio,orologio digitale,digitale,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,orologio,orologio analogico,analogico,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,orologio,orologio atomico,atomico,6
+llama3.2-iter1,animals,animali,orso,orso grigio,grigio,1
+llama3.2-iter1,animals,animali,orso,orso polare,polare,2
+llama3.2-iter1,animals,animali,orso,orso bruno,bruno,3
+llama3.2-iter1,animals,animali,orso,orso panda,panda,4
+llama3.2-iter1,kitchenware,utensili da cucina,padella,padella di rame,di rame,1
+llama3.2-iter1,kitchenware,utensili da cucina,padella,padella di acciaio,di acciaio,2
+llama3.2-iter1,kitchenware,utensili da cucina,padella,padella di legno,di legno,3
+llama3.2-iter1,kitchenware,utensili da cucina,padella,padella di vetro,di vetro,4
+llama3.2-iter1,kitchenware,utensili da cucina,padella,padella a mano,a mano,5
+llama3.2-iter1,kitchenware,utensili da cucina,padella,padella elettrica,elettrica,6
+llama3.2-iter1,hobbies,passatempi,palla,pallone,pallone,1
+llama3.2-iter1,hobbies,passatempi,palla,pallavolo,volo,2
+llama3.2-iter1,hobbies,passatempi,palla,pallacanestro,canestro,3
+llama3.2-iter1,hobbies,passatempi,palla,pallamano,mano,4
+llama3.2-iter1,hobbies,passatempi,palla,pallaboccio,boccio,5
+llama3.2-iter1,hobbies,passatempi,palla,pallacanestro a 3 punti,canestro a 3 punti,6
+llama3.2-iter1,hobbies,passatempi,palla,pallamano femminile,mano femminile,7
+llama3.2-iter1,body parts,parti del corpo,pancia,camicia,camicia,1
+llama3.2-iter1,body parts,parti del corpo,pancia,pantaloni,pantaloni,2
+llama3.2-iter1,body parts,parti del corpo,pancia,gilet,gilet,3
+llama3.2-iter1,body parts,parti del corpo,pancia,giacca,giacca,4
+llama3.2-iter1,body parts,parti del corpo,pancia,cappello,cappello,5
+llama3.2-iter1,body parts,parti del corpo,pancia,scarpe,scarpe,6
+llama3.2-iter1,foods,cibi,pane,pane integrale,integrale,1
+llama3.2-iter1,foods,cibi,pane,pane bianco,bianco,2
+llama3.2-iter1,foods,cibi,pane,pane secco,secco,3
+llama3.2-iter1,foods,cibi,pane,pane fresco,fresco,4
+llama3.2-iter1,foods,cibi,pane,pane di grano tenero,di grano tenero,5
+llama3.2-iter1,foods,cibi,pane,pane di grano duro,di grano duro,6
+llama3.2-iter1,foods,cibi,pane,pane di segale,di segale,7
+llama3.2-iter1,foods,cibi,pane,pane di farro,di farro,8
+llama3.2-iter1,foods,cibi,pane,pane di riso,di riso,9
+llama3.2-iter1,clothes,vestiti,pantalone,pantaloni da ballo,da ballo,1
+llama3.2-iter1,clothes,vestiti,pantalone,pantaloni da ginnastica,da ginnastica,2
+llama3.2-iter1,clothes,vestiti,pantalone,pantaloni da sci,da sci,3
+llama3.2-iter1,clothes,vestiti,pantalone,pantaloni da ciclismo,da ciclismo,4
+llama3.2-iter1,clothes,vestiti,pantalone,pantaloni da golf,da golf,5
+llama3.2-iter1,clothes,vestiti,pantalone,pantaloni da lavoro,da lavoro,6
+llama3.2-iter1,clothes,vestiti,pantalone,pantaloni da sera,da sera,7
+llama3.2-iter1,clothes,vestiti,pantalone,pantaloni da notte,da notte,8
+llama3.2-iter1,foods,cibi,pasta,spaghetti,spaghetti,1
+llama3.2-iter1,foods,cibi,pasta,fettuccine,fettuccine,2
+llama3.2-iter1,foods,cibi,pasta,penne,penne,3
+llama3.2-iter1,foods,cibi,pasta,rigatoni,rigatoni,4
+llama3.2-iter1,foods,cibi,pasta,lasagne,lasagne,5
+llama3.2-iter1,foods,cibi,pasta,maccheroni,maccheroni,6
+llama3.2-iter1,foods,cibi,pasta,tortellini,tortellini,7
+llama3.2-iter1,foods,cibi,pasta,ravioli,ravioli,8
+llama3.2-iter1,foods,cibi,pasta,tagliatelle,tagliatelle,9
+llama3.2-iter1,foods,cibi,pasta,cannelloni,cannelloni,10
+llama3.2-iter1,stationery,cancelleria,pastello,pastello a mano,a mano,1
+llama3.2-iter1,stationery,cancelleria,pastello,pastello elettrico,elettrico,2
+llama3.2-iter1,stationery,cancelleria,pastello,pastello a seta,a seta,3
+llama3.2-iter1,stationery,cancelleria,pastello,pastello in pelle,in pelle,4
+llama3.2-iter1,stationery,cancelleria,pastello,pastello in cuoio,in cuoio,5
+llama3.2-iter1,stationery,cancelleria,pastello,pastello in plastica,in plastica,6
+llama3.2-iter1,housing buildings,edifici residenziali,pavimento,pavimento in legno,in legno,1
+llama3.2-iter1,housing buildings,edifici residenziali,pavimento,pavimento in ceramica,in ceramica,2
+llama3.2-iter1,housing buildings,edifici residenziali,pavimento,pavimento in marmo,in marmo,3
+llama3.2-iter1,housing buildings,edifici residenziali,pavimento,pavimento in piastrelle,in piastrelle,4
+llama3.2-iter1,housing buildings,edifici residenziali,pavimento,pavimento in tessuto,in tessuto,5
+llama3.2-iter1,housing buildings,edifici residenziali,pavimento,pavimento in legno trattato,in legno trattato,6
+llama3.2-iter1,stationery,cancelleria,penna,biro,biro,1
+llama3.2-iter1,stationery,cancelleria,penna,matita,matita,2
+llama3.2-iter1,stationery,cancelleria,penna,pastello,pastello,3
+llama3.2-iter1,stationery,cancelleria,penna,stilografica,stilografica,4
+llama3.2-iter1,stationery,cancelleria,penna,pastello a olio,pastello a olio,5
+llama3.2-iter1,hobbies,passatempi,pennello,pennello a mano,a mano,1
+llama3.2-iter1,hobbies,passatempi,pennello,pennello elettrico,elettrico,2
+llama3.2-iter1,hobbies,passatempi,pennello,pennello a seta,a seta,3
+llama3.2-iter1,hobbies,passatempi,pennello,pennello da pittore,da pittore,4
+llama3.2-iter1,hobbies,passatempi,pennello,pennello da intonaco,da intonaco,5
+llama3.2-iter1,hobbies,passatempi,pennello,pennello da legno,da legno,6
+llama3.2-iter1,kitchenware,utensili da cucina,pentola,pentola a pressione,a pressione,1
+llama3.2-iter1,kitchenware,utensili da cucina,pentola,pentola a coperchio,a coperchio,2
+llama3.2-iter1,kitchenware,utensili da cucina,pentola,pentola a vapore,a vapore,3
+llama3.2-iter1,kitchenware,utensili da cucina,pentola,pentola a gas,a gas,4
+llama3.2-iter1,kitchenware,utensili da cucina,pentola,pentola a elettrica,a elettrica,5
+llama3.2-iter1,kitchenware,utensili da cucina,pentola,pentola a legno,a legno,6
+llama3.2-iter1,foods,cibi,pesce,trutta,trutta,1
+llama3.2-iter1,foods,cibi,pesce,salmone,salmone,2
+llama3.2-iter1,foods,cibi,pesce,merluzzo,merluzzo,3
+llama3.2-iter1,foods,cibi,pesce,sardine,sardine,4
+llama3.2-iter1,foods,cibi,pesce,anatra,anatra,5
+llama3.2-iter1,foods,cibi,pesce,gamberi,gamberi,6
+llama3.2-iter1,kitchenware,utensili da cucina,piatto,piatto da tavola,da tavola,1
+llama3.2-iter1,kitchenware,utensili da cucina,piatto,piatto da cucina,da cucina,2
+llama3.2-iter1,kitchenware,utensili da cucina,piatto,piatto da forno,da forno,3
+llama3.2-iter1,kitchenware,utensili da cucina,piatto,piatto da bar,da bar,4
+llama3.2-iter1,kitchenware,utensili da cucina,piatto,piatto da picnic,da picnic,5
+llama3.2-iter1,kitchenware,utensili da cucina,piatto,piatto da portata,da portata,6
+llama3.2-iter1,body parts,parti del corpo,piede,piede destro,destro,1
+llama3.2-iter1,body parts,parti del corpo,piede,piede sinistro,sinistro,2
+llama3.2-iter1,body parts,parti del corpo,piede,piede neonato,neonato,3
+llama3.2-iter1,body parts,parti del corpo,piede,piede amputato,amputato,4
+llama3.2-iter1,plants,piante,pino,pino da costruzione,da costruzione,1
+llama3.2-iter1,plants,piante,pino,pino da falegnameria,da falegnameria,2
+llama3.2-iter1,plants,piante,pino,pino da legno,da legno,3
+llama3.2-iter1,plants,piante,pino,pino da scultura,da scultura,4
+llama3.2-iter1,plants,piante,pino,pino da ornamento,da ornamento,5
+llama3.2-iter1,plants,piante,pino,pino da fuoco,da fuoco,6
+llama3.2-iter1,foods,cibi,pizza,margherita,margherita,1
+llama3.2-iter1,foods,cibi,pizza,quattro formaggi,quattro formaggi,2
+llama3.2-iter1,foods,cibi,pizza,prosciutto e funghi,prosciutto e funghi,3
+llama3.2-iter1,foods,cibi,pizza,capricciosa,capricciosa,4
+llama3.2-iter1,foods,cibi,pizza,marinara,marinara,5
+llama3.2-iter1,foods,cibi,pizza,quattro stagioni,quattro stagioni,6
+llama3.2-iter1,foods,cibi,pizza,quattro formaggi e prosciutto,quattro formaggi e prosciutto,7
+llama3.2-iter1,foods,cibi,pizza,quattro formaggi e funghi,quattro formaggi e funghi,8
+llama3.2-iter1,foods,cibi,pizza,quattro formaggi e prosciutto e funghi,quattro formaggi e prosciutto e funghi,9
+llama3.2-iter1,foods,cibi,pizza,quattro formaggi e prosciutto e funghi e spinaci,quattro formaggi e prosciutto e funghi e spinaci,10
+llama3.2-iter1,furniture,mobili,poltrona,divano,divano,1
+llama3.2-iter1,furniture,mobili,poltrona,divanetto,divanetto,2
+llama3.2-iter1,furniture,mobili,poltrona,poltrona a bracciuoli,a bracciuoli,3
+llama3.2-iter1,furniture,mobili,poltrona,poltrona a cuscini,a cuscini,4
+llama3.2-iter1,housing buildings,edifici residenziali,porta,porta d'ingresso,d'ingresso,1
+llama3.2-iter1,housing buildings,edifici residenziali,porta,porta di servizio,di servizio,2
+llama3.2-iter1,housing buildings,edifici residenziali,porta,porta di emergenza,di emergenza,3
+llama3.2-iter1,housing buildings,edifici residenziali,porta,porta di scolo,di scolo,4
+llama3.2-iter1,housing buildings,edifici residenziali,porta,porta di ventilazione,di ventilazione,5
+llama3.2-iter1,housing buildings,edifici residenziali,porta,porta di comunicazione,di comunicazione,6
+llama3.2-iter1,housing buildings,edifici residenziali,porta,porta di servizio per biciclette,di servizio per biciclette,7
+llama3.2-iter1,housing buildings,edifici residenziali,porta,porta di servizio per biciclette in bicicletta,di servizio per biciclette in bicicletta,8
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,portafotografia,casco,casco,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,portafotografia,cassetta,cassetta,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,portafotografia,schermo,schermo,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,portafotografia,teleobiettivo,teleobiettivo,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,portafotografia,flash,flash,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,portafotografia,supporto,supporto,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,posacenere,bidone,bidone,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,posacenere,contenitore,contenitore,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,posacenere,scatola,scatola,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,posacenere,cassone,cassone,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,posacenere,cassetta,cassetta,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,posacenere,contenitore per rifiuti,contenitore per rifiuti,6
+llama3.2-iter1,stationery,cancelleria,quaderno,quaderno di scuola,di scuola,1
+llama3.2-iter1,stationery,cancelleria,quaderno,quaderno di lavoro,di lavoro,2
+llama3.2-iter1,stationery,cancelleria,quaderno,quaderno di viaggio,di viaggio,3
+llama3.2-iter1,stationery,cancelleria,quaderno,quaderno di appunti,di appunti,4
+llama3.2-iter1,stationery,cancelleria,quaderno,quaderno di disegno,di disegno,5
+llama3.2-iter1,stationery,cancelleria,quaderno,quaderno di ricordi,di ricordi,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro d'arte,d'arte,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro fotografico,fotografico,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro di tela,di tela,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro in legno,in legno,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro in vetro,in vetro,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro di cartone,di cartone,6
+llama3.2-iter1,plants,piante,quercia,albero,albero,1
+llama3.2-iter1,plants,piante,quercia,legno,legno,2
+llama3.2-iter1,plants,piante,quercia,scultura,scultura,3
+llama3.2-iter1,plants,piante,quercia,mobili,mobili,4
+llama3.2-iter1,plants,piante,quercia,mobiliatura,mobiliatura,5
+llama3.2-iter1,plants,piante,quercia,intarsia,intarsia,6
+llama3.2-iter1,plants,piante,quercia,vernice,vernice,7
+llama3.2-iter1,hobbies,passatempi,racchetta,racchetta da tennis,da tennis,1
+llama3.2-iter1,hobbies,passatempi,racchetta,racchetta da squash,da squash,2
+llama3.2-iter1,hobbies,passatempi,racchetta,racchetta da badminton,da badminton,3
+llama3.2-iter1,hobbies,passatempi,racchetta,racchetta da pallavolo,da pallavolo,4
+llama3.2-iter1,hobbies,passatempi,racchetta,racchetta da calcio,da calcio,5
+llama3.2-iter1,hobbies,passatempi,racchetta,racchetta da pallamano,da pallamano,6
+llama3.2-iter1,stationery,cancelleria,righello,righello di legno,di legno,1
+llama3.2-iter1,stationery,cancelleria,righello,righello di metallo,di metallo,2
+llama3.2-iter1,stationery,cancelleria,righello,righello di plastica,di plastica,3
+llama3.2-iter1,stationery,cancelleria,righello,righello di vetro,di vetro,4
+llama3.2-iter1,housing buildings,edifici residenziali,ripostiglio,cassettone,cassettone,1
+llama3.2-iter1,housing buildings,edifici residenziali,ripostiglio,cassettiera,cassettiera,2
+llama3.2-iter1,housing buildings,edifici residenziali,ripostiglio,ripostiglio a muro,a muro,3
+llama3.2-iter1,housing buildings,edifici residenziali,ripostiglio,ripostiglio mobile,mobile,4
+llama3.2-iter1,housing buildings,edifici residenziali,ripostiglio,ripostiglio in legno,in legno,5
+llama3.2-iter1,housing buildings,edifici residenziali,ripostiglio,ripostiglio in metallo,in metallo,6
+llama3.2-iter1,housing buildings,edifici residenziali,ripostiglio,ripostiglio in plastica,in plastica,7
+llama3.2-iter1,housing buildings,edifici residenziali,ripostiglio,ripostiglio a rotelle,a rotelle,8
+llama3.2-iter1,foods,cibi,riso,riso integrale,integrale,1
+llama3.2-iter1,foods,cibi,riso,riso bianco,bianco,2
+llama3.2-iter1,foods,cibi,riso,riso rosso,rosso,3
+llama3.2-iter1,foods,cibi,riso,riso glutinoso,glutinoso,4
+llama3.2-iter1,foods,cibi,riso,riso basmati,basmati,5
+llama3.2-iter1,foods,cibi,riso,riso arancione,arancione,6
+llama3.2-iter1,plants,piante,salice,salice di legno,di legno,1
+llama3.2-iter1,plants,piante,salice,salice di metallo,di metallo,2
+llama3.2-iter1,plants,piante,salice,salice di plastica,di plastica,3
+llama3.2-iter1,plants,piante,salice,salice di vetro,di vetro,4
+llama3.2-iter1,plants,piante,salice,salice di fibra di vetro,di fibra di vetro,5
+llama3.2-iter1,housing buildings,edifici residenziali,scala,scala mobile,mobile,1
+llama3.2-iter1,housing buildings,edifici residenziali,scala,scala a chiocciola,a chiocciola,2
+llama3.2-iter1,housing buildings,edifici residenziali,scala,scala a piastrelle,a piastrelle,3
+llama3.2-iter1,housing buildings,edifici residenziali,scala,scala a tredini,a tredini,4
+llama3.2-iter1,housing buildings,edifici residenziali,scala,scala a pietra,a pietra,5
+llama3.2-iter1,housing buildings,edifici residenziali,scala,scala a muro,a muro,6
+llama3.2-iter1,housing buildings,edifici residenziali,scala,scala a spirale,a spirale,7
+llama3.2-iter1,clothes,vestiti,scarpa,scarpa da ballo,da ballo,1
+llama3.2-iter1,clothes,vestiti,scarpa,scarpa da ginnastica,da ginnastica,2
+llama3.2-iter1,clothes,vestiti,scarpa,scarpa da corsa,da corsa,3
+llama3.2-iter1,clothes,vestiti,scarpa,scarpa da trekking,da trekking,4
+llama3.2-iter1,clothes,vestiti,scarpa,scarpa da neve,da neve,5
+llama3.2-iter1,clothes,vestiti,scarpa,scarpa da sci,da sci,6
+llama3.2-iter1,clothes,vestiti,scarpa,scarpa da calcio,da calcio,7
+llama3.2-iter1,clothes,vestiti,scarpa,scarpa da tennis,da tennis,8
+llama3.2-iter1,clothes,vestiti,scarpa,scarpa da golf,da golf,9
+llama3.2-iter1,clothes,vestiti,scarpa,scarpa da mare,da mare,10
+llama3.2-iter1,body parts,parti del corpo,schiena,colonna vertebrale,colonna vertebrale,1
+llama3.2-iter1,body parts,parti del corpo,schiena,muscolo lombarico,muscolo lombarico,2
+llama3.2-iter1,body parts,parti del corpo,schiena,muscolo eretto,muscolo eretto,3
+llama3.2-iter1,body parts,parti del corpo,schiena,muscolo iliaco,muscolo iliaco,4
+llama3.2-iter1,body parts,parti del corpo,schiena,muscolo quadriceps,muscolo quadriceps,5
+llama3.2-iter1,body parts,parti del corpo,schiena,muscolo gluteo,muscolo gluteo,6
+llama3.2-iter1,clothes,vestiti,sciarpa,cappuccio,cappuccio,1
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti,guanti,2
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da neve,guanti da neve,3
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da sci,guanti da sci,4
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da sci alpino,guanti da sci alpino,5
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da sci da corsa,guanti da sci da corsa,6
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da sci da fondo,guanti da sci da fondo,7
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da sci da slalom,guanti da sci da slalom,8
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da sci da stile,guanti da sci da stile,9
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da sci da tempo libero,guanti da sci da tempo libero,10
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da sci da volo,guanti da sci da volo,11
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da sci da freestyle,guanti da sci da freestyle,12
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da sci da snowboard,guanti da sci da snowboard,13
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da sci da snowboard freestyle,guanti da sci da snowboard freestyle,14
+llama3.2-iter1,clothes,vestiti,sciarpa,guanti da sci da snowboard all-star,guanti da sci da snowboard all-star,15
+llama3.2-iter1,animals,animali,scimmia,capuchino,capuchino,1
+llama3.2-iter1,animals,animali,scimmia,mandrillo,mandrillo,2
+llama3.2-iter1,animals,animali,scimmia,scimpanzé,scimpanzé,3
+llama3.2-iter1,animals,animali,scimmia,gorilla,gorilla,4
+llama3.2-iter1,animals,animali,scimmia,langurio,langurio,5
+llama3.2-iter1,kitchenware,utensili da cucina,scolapasta,macchina da cucina,macchina da cucina,1
+llama3.2-iter1,kitchenware,utensili da cucina,scolapasta,pentola,pentola,2
+llama3.2-iter1,kitchenware,utensili da cucina,scolapasta,padella,padella,3
+llama3.2-iter1,kitchenware,utensili da cucina,scolapasta,teglia,teglia,4
+llama3.2-iter1,kitchenware,utensili da cucina,scolapasta,ciotola,ciotola,5
+llama3.2-iter1,stationery,cancelleria,scolorina,vernice,vernice,1
+llama3.2-iter1,stationery,cancelleria,scolorina,verniciatura,verniciatura,2
+llama3.2-iter1,stationery,cancelleria,scolorina,verniciatore,verniciatore,3
+llama3.2-iter1,stationery,cancelleria,scolorina,verniciatore a mano,verniciatore a mano,4
+llama3.2-iter1,stationery,cancelleria,scolorina,verniciatore a spruzzo,verniciatore a spruzzo,5
+llama3.2-iter1,stationery,cancelleria,scolorina,verniciatore a caldo,verniciatore a caldo,6
+llama3.2-iter1,vehicles,veicoli,scooter,scooter a due ruote,a due ruote,1
+llama3.2-iter1,vehicles,veicoli,scooter,scooter a tre ruote,a tre ruote,2
+llama3.2-iter1,vehicles,veicoli,scooter,scooter a quattro ruote,a quattro ruote,3
+llama3.2-iter1,vehicles,veicoli,scooter,scooter elettrico,elettrico,4
+llama3.2-iter1,vehicles,veicoli,scooter,scooter a motore,a motore,5
+llama3.2-iter1,vehicles,veicoli,scooter,scooter da neve,da neve,6
+llama3.2-iter1,vehicles,veicoli,scooter,scooter da montagna,da montagna,7
+llama3.2-iter1,vehicles,veicoli,scooter,scooter da corsa,da corsa,8
+llama3.2-iter1,furniture,mobili,scrivania,cassettiera,cassettiera,1
+llama3.2-iter1,furniture,mobili,scrivania,scrivania portatile,portatile,2
+llama3.2-iter1,furniture,mobili,scrivania,scrivania a rotelle,a rotelle,3
+llama3.2-iter1,furniture,mobili,scrivania,scrivania con tavolo,con tavolo,4
+llama3.2-iter1,furniture,mobili,scrivania,scrivania con cassettone,con cassettone,5
+llama3.2-iter1,furniture,mobili,sedia,sedia a gambe,a gambe,1
+llama3.2-iter1,furniture,mobili,sedia,sedia a rotelle,a rotelle,2
+llama3.2-iter1,furniture,mobili,sedia,sedia a sdraio,a sdraio,3
+llama3.2-iter1,furniture,mobili,sedia,sedia a cuscino,a cuscino,4
+llama3.2-iter1,furniture,mobili,sedia,sedia a braccio,a braccio,5
+llama3.2-iter1,furniture,mobili,sedia,sedia a slitta,a slitta,6
+llama3.2-iter1,furniture,mobili,sedia,sedia a sdraio con braccio,a sdraio con braccio,7
+llama3.2-iter1,animals,animali,serpente,vipera,vipera,1
+llama3.2-iter1,animals,animali,serpente,adder,adder,2
+llama3.2-iter1,animals,animali,serpente,cobra,cobra,3
+llama3.2-iter1,animals,animali,serpente,anaconda,anaconda,4
+llama3.2-iter1,animals,animali,serpente,boa constrictore,boa constrictore,5
+llama3.2-iter1,animals,animali,serpente,serpente alato,alato,6
+llama3.2-iter1,animals,animali,serpente,serpente a sonagli,a sonagli,7
+llama3.2-iter1,animals,animali,serpente,serpente di mare,di mare,8
+llama3.2-iter1,clothes,vestiti,slip,guanto,guanto,1
+llama3.2-iter1,clothes,vestiti,slip,cappello,cappello,2
+llama3.2-iter1,clothes,vestiti,slip,scarpa,scarpa,3
+llama3.2-iter1,housing buildings,edifici residenziali,soffitto,soffitto a volta,a volta,1
+llama3.2-iter1,housing buildings,edifici residenziali,soffitto,soffitto a pavimento,a pavimento,2
+llama3.2-iter1,housing buildings,edifici residenziali,soffitto,soffitto a cassetto,a cassetto,3
+llama3.2-iter1,housing buildings,edifici residenziali,soffitto,soffitto a traliccio,a traliccio,4
+llama3.2-iter1,housing buildings,edifici residenziali,soffitto,soffitto a tappeto,a tappeto,5
+llama3.2-iter1,housing buildings,edifici residenziali,soffitto,soffitto in legno,in legno,6
+llama3.2-iter1,housing buildings,edifici residenziali,soffitto,soffitto in vetro,in vetro,7
+llama3.2-iter1,housing buildings,edifici residenziali,soffitto,soffitto in stucco,in stucco,8
+llama3.2-iter1,housing buildings,edifici residenziali,soggiorno,divano,divano,1
+llama3.2-iter1,housing buildings,edifici residenziali,soggiorno,poltrone,poltrone,2
+llama3.2-iter1,housing buildings,edifici residenziali,soggiorno,tavolo,tavolo,3
+llama3.2-iter1,housing buildings,edifici residenziali,soggiorno,tv,tv,4
+llama3.2-iter1,housing buildings,edifici residenziali,soggiorno,camino,camino,5
+llama3.2-iter1,housing buildings,edifici residenziali,soggiorno,libreria,libreria,6
+llama3.2-iter1,body parts,parti del corpo,spalla,spalla umana,umana,1
+llama3.2-iter1,body parts,parti del corpo,spalla,spalla di animale,di animale,2
+llama3.2-iter1,body parts,parti del corpo,spalla,spalla di un oggetto,di un oggetto,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,specchio,specchio da parete,da parete,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,specchio,specchio portatile,portatile,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,specchio,specchio da bagno,da bagno,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,specchio,specchio da cucina,da cucina,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,specchio,specchio da studio,da studio,5
+llama3.2-iter1,stationery,cancelleria,spillatrice,aspirapolvere,aspirapolvere,1
+llama3.2-iter1,stationery,cancelleria,spillatrice,aspirapolvere con aspiratore,aspirapolvere con aspiratore,2
+llama3.2-iter1,stationery,cancelleria,spillatrice,aspirapolvere con aspiratore e aspirapolvere,aspirapolvere con aspiratore e aspirapolvere,3
+llama3.2-iter1,stationery,cancelleria,spillatrice,aspirapolvere con aspiratore e aspirapolvere e aspirapolvere,aspirapolvere con aspiratore e aspirapolvere e aspirapolvere,4
+llama3.2-iter1,stationery,cancelleria,spillatrice,aspirapolvere con aspiratore e aspirapolvere e aspirapolvere e aspirapolvere e aspirapolvere,aspirapolvere con aspiratore e aspirapolvere e aspirapolvere e aspirapolvere e aspirapolvere,5
+llama3.2-iter1,clothes,vestiti,t-shirt,maglia,maglia,1
+llama3.2-iter1,clothes,vestiti,t-shirt,camicia,camicia,2
+llama3.2-iter1,clothes,vestiti,t-shirt,camisola,camisola,3
+llama3.2-iter1,clothes,vestiti,t-shirt,polo,polo,4
+llama3.2-iter1,clothes,vestiti,t-shirt,camicia da ballo,camicia da ballo,5
+llama3.2-iter1,stationery,cancelleria,taccuino,diario,diario,1
+llama3.2-iter1,stationery,cancelleria,taccuino,agenda,agenda,2
+llama3.2-iter1,stationery,cancelleria,taccuino,taccuino di viaggio,di viaggio,3
+llama3.2-iter1,stationery,cancelleria,taccuino,taccuino di cucina,di cucina,4
+llama3.2-iter1,stationery,cancelleria,taccuino,taccuino di viaggio per bambini,di viaggio per bambini,5
+llama3.2-iter1,stationery,cancelleria,taccuino,taccuino per appunti,per appunti,6
+llama3.2-iter1,kitchenware,utensili da cucina,tagliere,tagliere per verdure,per verdure,1
+llama3.2-iter1,kitchenware,utensili da cucina,tagliere,tagliere per formaggi,per formaggi,2
+llama3.2-iter1,kitchenware,utensili da cucina,tagliere,tagliere per frutta,per frutta,3
+llama3.2-iter1,kitchenware,utensili da cucina,tagliere,tagliere per pane,per pane,4
+llama3.2-iter1,kitchenware,utensili da cucina,tagliere,tagliere per dolci,per dolci,5
+llama3.2-iter1,kitchenware,utensili da cucina,tagliere,tagliere per fette di carne,per fette di carne,6
+llama3.2-iter1,kitchenware,utensili da cucina,tagliere,tagliere per insalate,per insalate,7
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto da salotto,da salotto,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto da cucina,da cucina,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto da bagno,da bagno,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto da giardino,da giardino,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto da ufficio,da ufficio,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto da camera da letto,da camera da letto,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto da soggiorno,da soggiorno,7
+llama3.2-iter1,furniture,mobili,tavolo,tavolo da pranzo,da pranzo,1
+llama3.2-iter1,furniture,mobili,tavolo,tavolo da cucina,da cucina,2
+llama3.2-iter1,furniture,mobili,tavolo,tavolo da lavoro,da lavoro,3
+llama3.2-iter1,furniture,mobili,tavolo,tavolo da gioco,da gioco,4
+llama3.2-iter1,furniture,mobili,tavolo,tavolo da scrivania,da scrivania,5
+llama3.2-iter1,furniture,mobili,tavolo,tavolo da bar,da bar,6
+llama3.2-iter1,kitchenware,utensili da cucina,teglia,teglia per pane,per pane,1
+llama3.2-iter1,kitchenware,utensili da cucina,teglia,teglia per focacce,per focacce,2
+llama3.2-iter1,kitchenware,utensili da cucina,teglia,teglia per pizza,per pizza,3
+llama3.2-iter1,kitchenware,utensili da cucina,teglia,teglia per focaccine,per focaccine,4
+llama3.2-iter1,kitchenware,utensili da cucina,teglia,teglia per biscotti,per biscotti,5
+llama3.2-iter1,kitchenware,utensili da cucina,teglia,teglia per dolci,per dolci,6
+llama3.2-iter1,hobbies,passatempi,televisione,tv a schermo piatto,tv a schermo piatto,1
+llama3.2-iter1,hobbies,passatempi,televisione,tv a schermo curvo,tv a schermo curvo,2
+llama3.2-iter1,hobbies,passatempi,televisione,tv led,tv led,3
+llama3.2-iter1,hobbies,passatempi,televisione,tv oled,tv oled,4
+llama3.2-iter1,hobbies,passatempi,televisione,tv plasma,tv plasma,5
+llama3.2-iter1,hobbies,passatempi,televisione,tv 3d,tv 3d,6
+llama3.2-iter1,hobbies,passatempi,televisione,tv smart,tv smart,7
+llama3.2-iter1,hobbies,passatempi,televisione,tv streaming,tv streaming,8
+llama3.2-iter1,hobbies,passatempi,televisione,tv satellitare,tv satellitare,9
+llama3.2-iter1,hobbies,passatempi,televisione,tv cable,tv cable,10
+llama3.2-iter1,hobbies,passatempi,televisione,tv digitale,tv digitale,11
+llama3.2-iter1,stationery,cancelleria,temperino,candelabro,candelabro,1
+llama3.2-iter1,stationery,cancelleria,temperino,lampada,lampada,2
+llama3.2-iter1,stationery,cancelleria,temperino,lampada a sospensione,lampada a sospensione,3
+llama3.2-iter1,stationery,cancelleria,temperino,lampada da tavolo,lampada da tavolo,4
+llama3.2-iter1,stationery,cancelleria,temperino,lampada da letto,lampada da letto,5
+llama3.2-iter1,stationery,cancelleria,temperino,lampada da cucina,lampada da cucina,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,tenda,tenda da cucina,da cucina,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,tenda,tenda da giardino,da giardino,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,tenda,tenda da stanzia,da stanzia,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,tenda,tenda da spiaggia,da spiaggia,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,tenda,tenda da nido,da nido,5
+llama3.2-iter1,housing buildings,edifici residenziali,terrazzo,pavimento,pavimento,1
+llama3.2-iter1,housing buildings,edifici residenziali,terrazzo,rivestimento,rivestimento,2
+llama3.2-iter1,housing buildings,edifici residenziali,terrazzo,intonaco,intonaco,3
+llama3.2-iter1,housing buildings,edifici residenziali,terrazzo,calcestruzzo,calcestruzzo,4
+llama3.2-iter1,housing buildings,edifici residenziali,terrazzo,pietra,pietra,5
+llama3.2-iter1,housing buildings,edifici residenziali,terrazzo,cemento,cemento,6
+llama3.2-iter1,body parts,parti del corpo,testa,cranio,cranio,1
+llama3.2-iter1,body parts,parti del corpo,testa,testa di persona,di persona,2
+llama3.2-iter1,body parts,parti del corpo,testa,testa di animale,di animale,3
+llama3.2-iter1,body parts,parti del corpo,testa,testa di persona in busto,di persona in busto,4
+llama3.2-iter1,body parts,parti del corpo,testa,testa di persona in cappello,di persona in cappello,5
+llama3.2-iter1,body parts,parti del corpo,testa,testa di persona in foto,di persona in foto,6
+llama3.2-iter1,body parts,parti del corpo,testa,testa di persona in scultura,di persona in scultura,7
+llama3.2-iter1,body parts,parti del corpo,testa,testa di persona in arte,di persona in arte,8
+llama3.2-iter1,body parts,parti del corpo,testa,testa di persona in simbolo,di persona in simbolo,9
+llama3.2-iter1,housing buildings,edifici residenziali,tetto,tetto a punta,a punta,1
+llama3.2-iter1,housing buildings,edifici residenziali,tetto,tetto a paglia,a paglia,2
+llama3.2-iter1,housing buildings,edifici residenziali,tetto,tetto a copertura,a copertura,3
+llama3.2-iter1,housing buildings,edifici residenziali,tetto,tetto a copertura in legno,a copertura in legno,4
+llama3.2-iter1,housing buildings,edifici residenziali,tetto,tetto a copertura in cemento,a copertura in cemento,5
+llama3.2-iter1,housing buildings,edifici residenziali,tetto,tetto a copertura in plastica,a copertura in plastica,6
+llama3.2-iter1,housing buildings,edifici residenziali,tetto,tetto a copertura in metallo,a copertura in metallo,7
+llama3.2-iter1,housing buildings,edifici residenziali,tetto,tetto a copertura in vetro,a copertura in vetro,8
+llama3.2-iter1,housing buildings,edifici residenziali,tetto,tetto a copertura in fibra di vetro,a copertura in fibra di vetro,9
+llama3.2-iter1,animals,animali,tigre,tigre del bengala,del bengala,1
+llama3.2-iter1,animals,animali,tigre,tigre del caspico,del caspico,2
+llama3.2-iter1,animals,animali,tigre,tigre del sud-cina,del sud-cina,3
+llama3.2-iter1,animals,animali,tigre,tigre del sud-est asiatico,del sud-est asiatico,4
+llama3.2-iter1,animals,animali,tigre,tigre del malais,del malais,5
+llama3.2-iter1,animals,animali,tigre,tigre del sumatra,del sumatra,6
+llama3.2-iter1,animals,animali,topo,formiche,formiche,1
+llama3.2-iter1,animals,animali,topo,scarafaggi,scarafaggi,2
+llama3.2-iter1,animals,animali,topo,ragni,ragni,3
+llama3.2-iter1,animals,animali,topo,aracnidi,aracnidi,4
+llama3.2-iter1,animals,animali,topo,mosche,mosche,5
+llama3.2-iter1,animals,animali,topo,mosche di vela,mosche di vela,6
+llama3.2-iter1,vehicles,veicoli,traghetto,traghetto a motore,a motore,1
+llama3.2-iter1,vehicles,veicoli,traghetto,traghetto a remi,a remi,2
+llama3.2-iter1,vehicles,veicoli,traghetto,traghetto a vapore,a vapore,3
+llama3.2-iter1,vehicles,veicoli,traghetto,traghetto a motoscafo,a motoscafo,4
+llama3.2-iter1,vehicles,veicoli,traghetto,traghetto a motoschina,a motoschina,5
+llama3.2-iter1,vehicles,veicoli,tram,tram a trazione elettrica,a trazione elettrica,1
+llama3.2-iter1,vehicles,veicoli,tram,tram a trazione a vapore,a trazione a vapore,2
+llama3.2-iter1,vehicles,veicoli,tram,tram a trazione a vapore elettrica,a trazione a vapore elettrica,3
+llama3.2-iter1,vehicles,veicoli,tram,tram a trazione a gas,a trazione a gas,4
+llama3.2-iter1,vehicles,veicoli,tram,tram a trazione a carbone,a trazione a carbone,5
+llama3.2-iter1,vehicles,veicoli,trattore,trattore agricolo,agricolo,1
+llama3.2-iter1,vehicles,veicoli,trattore,trattore per la manutenzione,per la manutenzione,2
+llama3.2-iter1,vehicles,veicoli,trattore,trattore per la pesca,per la pesca,3
+llama3.2-iter1,vehicles,veicoli,trattore,trattore per la forestazione,per la forestazione,4
+llama3.2-iter1,vehicles,veicoli,trattore,trattore per la costruzione,per la costruzione,5
+llama3.2-iter1,vehicles,veicoli,trattore,trattore per la demolizione,per la demolizione,6
+llama3.2-iter1,vehicles,veicoli,trattore,trattore per la raccolta rifiuti,per la raccolta rifiuti,7
+llama3.2-iter1,vehicles,veicoli,trattore,trattore per la manutenzione stradale,per la manutenzione stradale,8
+llama3.2-iter1,vehicles,veicoli,trattore,trattore per la manutenzione idraulica,per la manutenzione idraulica,9
+llama3.2-iter1,vehicles,veicoli,treno,treno a vapore,a vapore,1
+llama3.2-iter1,vehicles,veicoli,treno,treno elettrico,elettrico,2
+llama3.2-iter1,vehicles,veicoli,treno,treno a carbone,a carbone,3
+llama3.2-iter1,vehicles,veicoli,treno,treno a gas,a gas,4
+llama3.2-iter1,vehicles,veicoli,treno,treno a diesel,a diesel,5
+llama3.2-iter1,vehicles,veicoli,treno,treno ad alta velocità,ad alta velocità,6
+llama3.2-iter1,vehicles,veicoli,treno,treno ferroviario,ferroviario,7
+llama3.2-iter1,vehicles,veicoli,treno,treno merci,merci,8
+llama3.2-iter1,vehicles,veicoli,treno,treno passeggeri,passeggeri,9
+llama3.2-iter1,vehicles,veicoli,treno,treno di trasporto di merci,di trasporto di merci,10
+llama3.2-iter1,plants,piante,tulipano,tulipano di bressa,di bressa,1
+llama3.2-iter1,plants,piante,tulipano,tulipano di firenze,di firenze,2
+llama3.2-iter1,plants,piante,tulipano,tulipano di giardino,di giardino,3
+llama3.2-iter1,plants,piante,tulipano,tulipano di saffron,di saffron,4
+llama3.2-iter1,plants,piante,tulipano,tulipano di tenerife,di tenerife,5
+llama3.2-iter1,plants,piante,ulivo,frutto,frutto,1
+llama3.2-iter1,plants,piante,ulivo,albero,albero,2
+llama3.2-iter1,plants,piante,ulivo,vigneto,vigneto,3
+llama3.2-iter1,plants,piante,ulivo,coltivazione,coltivazione,4
+llama3.2-iter1,foods,cibi,uovo,uovo di gallina,di gallina,1
+llama3.2-iter1,foods,cibi,uovo,uovo di quaglia,di quaglia,2
+llama3.2-iter1,foods,cibi,uovo,uovo di tartaruga,di tartaruga,3
+llama3.2-iter1,foods,cibi,uovo,uovo di pesci,di pesci,4
+llama3.2-iter1,foods,cibi,uovo,uovo di tartufo,di tartufo,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,vaso,bicchiere,bicchiere,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,vaso,tazza,tazza,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,vaso,vaso da notte,da notte,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,vaso,vaso da fiori,da fiori,4
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,vaso,vaso da piante,da piante,5
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,vaso,ciotola,ciotola,6
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,vaso,ciotola da cucina,ciotola da cucina,7
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,vaso,ciotola per il bagno,ciotola per il bagno,8
+llama3.2-iter1,foods,cibi,verdura,carote,carote,1
+llama3.2-iter1,foods,cibi,verdura,zucchine,zucchine,2
+llama3.2-iter1,foods,cibi,verdura,melone,melone,3
+llama3.2-iter1,foods,cibi,verdura,pomodori,pomodori,4
+llama3.2-iter1,foods,cibi,verdura,peperoni,peperoni,5
+llama3.2-iter1,foods,cibi,verdura,spinaci,spinaci,6
+llama3.2-iter1,foods,cibi,verdura,broccoli,broccoli,7
+llama3.2-iter1,foods,cibi,verdura,cavolfiori,cavolfiori,8
+llama3.2-iter1,foods,cibi,verdura,asparagi,asparagi,9
+llama3.2-iter1,foods,cibi,verdura,melanzane,melanzane,10
+llama3.2-iter1,foods,cibi,verdura,finocchio,finocchio,11
+llama3.2-iter1,hobbies,passatempi,videogioco,action,action,1
+llama3.2-iter1,hobbies,passatempi,videogioco,avventura,avventura,2
+llama3.2-iter1,hobbies,passatempi,videogioco,strategia,strategia,3
+llama3.2-iter1,hobbies,passatempi,videogioco,sport,sport,4
+llama3.2-iter1,hobbies,passatempi,videogioco,simulazione,simulazione,5
+llama3.2-iter1,hobbies,passatempi,videogioco,puzzle,puzzle,6
+llama3.2-iter1,hobbies,passatempi,videogioco,avventura grafica,avventura grafica,7
+llama3.2-iter1,hobbies,passatempi,videogioco,horror,horror,8
+llama3.2-iter1,hobbies,passatempi,videogioco,educativo,educativo,9
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,vite,vite da tavola,da tavola,1
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,vite,vite da vino,da vino,2
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,vite,vite per insulcatura,per insulcatura,3
+llama3.2-iter1,furnishings/fittings,arredamenti/accessori,vite,vite per attrezzi,per attrezzi,4

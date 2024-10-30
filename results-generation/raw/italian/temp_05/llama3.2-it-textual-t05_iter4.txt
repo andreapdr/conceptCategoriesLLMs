@@ -1,0 +1,1569 @@
+`abete`: 
+* abete americano
+* abete balsamina
+* abete canadese
+* abete incrociato
+* abete montano
+* abete rosso
+$$$$
+`aereo`: 
+* aereo passeggeri
+* aereo militare
+* aereo da trasporto
+* aereo da combattimento
+* aereo da pattugliamento
+* aereo da osservazione
+* aereo da carico
+* aereo da ricognizione
+* aereo da trasporto a lungo raggio
+* aereo da trasporto aereo
+$$$$
+`agenda`: 
+* calendario
+* piano
+* elenco
+* lista
+* tabellone
+* taccuino
+$$$$
+`appendiabiti`: 
+* cassettone
+* cassettiera
+* cassettino
+* cassettone a due ante
+* cassettone a tre ante
+* cassettone con cassetto per abiti
+$$$$
+`armadio`: 
+* armadio a vetro
+* armadio a muro
+* armadio da letto
+* armadio da cucina
+* armadio per abiti
+* armadio per bambini
+* armadio per bagagli
+* armadio per attrezzature sportive
+$$$$
+`astuccio`: 
+* borsa
+* cappello
+* guanti
+* guanto
+* cintura
+* collare
+$$$$
+`attrezzo`: 
+* forbici
+* matita
+* pennello
+* pennarello
+* rullo
+* forbici da cucito
+* forbici da pratica
+$$$$
+`autobus`: 
+* autobus urbano
+* autobus interurbano
+* autobus notturno
+* autobus a lunga distanza
+* autobus di linea
+* autobus di servizio
+$$$$
+`automobile`: 
+* auto
+* motociclo
+* scooter
+* motociclo da neve
+* autobus
+* autobus a lunga percorrenza
+* autobus a lungo raggio
+* autobus urbano
+* autobus interurbano
+* autobus turistico
+$$$$
+`bagno`: 
+* vasca da bagno
+* doccia
+* bidet
+* lavabo
+* WC
+$$$$
+`balcone`: 
+* balcone esterno
+* balcone interno
+* terrazza
+* loggia
+* veranda
+* tetto
+$$$$
+`basilico`: 
+* Aglio
+* Prezzemolo
+* Rosmarino
+* Salvia
+* Timo
+* Origano
+* Prezzemolo
+* Salsa di basilico
+$$$$
+`bicchiere`: 
+* bicchiere da vino
+* bicchiere da caffè
+* bicchiere da acqua
+* bicchiere per soda
+* bicchiere per acqua minerale
+* bicchiere per frutta
+* bicchiere per cocktail
+* bicchiere per yogurt
+$$$$
+`bicicletta`: 
+* mountain bike
+* bicicletta da strada
+* bicicletta da pista
+* bicicletta da montagna
+* bicicletta da città
+* bicicletta da neve
+* bicicletta da corsa
+* bicicletta da bambini
+$$$$
+`bocca`: 
+* bocca
+* naso
+* lingua
+* orecchie
+* labbra
+$$$$
+`braccio`: 
+* braccio umano
+* braccio di un animale
+* braccio di una macchina
+* braccio di una struttura
+* braccio di una nave
+$$$$
+`cactus`: 
+* cactus comune
+* cactus a spine
+* cactus di Areccactus
+* cactus di sagittario
+* cactus di aloe
+$$$$
+`calza`: 
+* calzini
+* calze
+* cappelli
+* guanti
+$$$$
+`camera`: 
+* camera da letto
+* camera da bagno
+* camera da lavoro
+* camera da studio
+* camera da lettura
+* camera da gioco
+$$$$
+`camicia`: 
+* polo
+* camicia da ballo
+* camicia da cricket
+* camicia da tennis
+* camicia da golf
+$$$$
+`camion`: 
+* camion di pompaggio
+* camion di pompaggio a pressione
+* camion di pompaggio a pompa
+* camion di pompaggio a pompa a stantuffo
+* camion di pompaggio a pompa centrifuga
+* camion di pompaggio a pompa centrifuga
+* camion di pompaggio a pompa centrifuga a stantuffo
+* camion di pompaggio a pompa centrifuga a pompa
+* camion di pompaggio a pompa centrifuga a pompa a stantuffo
+* camion di pompaggio a pompa centrifuga a pompa a pompa
+*
+$$$$
+`candelabro`: 
+* candelabro a braccioli
+* candelabro a stili
+* candelabro a candelabri
+* candelabro a colonne
+* candelabro a tazze
+$$$$
+`cane`: 
+* bulldog
+* pug
+* chihuahua
+* dachshund
+* golden retriever
+* labrador
+* poodle
+* retriever
+* shih tzu
+$$$$
+`canottiera`: 
+* canoa
+* vela
+* kayak
+* ponte
+* imbarca
+* gondola
+$$$$
+`capello`: 
+* cioccolato
+* biondo
+* castano
+* nero
+* grigio
+* rosso
+$$$$
+`cappello`: 
+* berretto
+* panama
+* top
+* fedora
+* sombrero
+* turbante
+* uccello
+* copricapo
+$$$$
+`cappotto`: 
+* giacca
+* mantello
+* sciarpa
+* cappuccio
+$$$$
+`carne`: 
+* manzo
+* maiale
+* vitello
+* agnello
+* tacchino
+* maiale selvatico
+* pollo
+* tacchino cotto
+$$$$
+`carrozza`: 
+* vettura
+* treno
+* autobus
+* autobus urbano
+* autobus interurbano
+* treno a vapore
+* treno a elettrico
+* treno a gas
+* treno a diesel
+* treno ad alta velocità
+* treno ferroviario
+$$$$
+`carte`: 
+* carte di credito
+* carte di debito
+* carte di identità
+* carte di prepagate
+* carte di trasporto
+* carte di abbonamento
+$$$$
+`cassettiera`: 
+* cassettiera
+* cassettiera a ruote
+* cassettiera elettrica
+* cassettiera a manubrio
+* cassettiera portatile
+$$$$
+`cavallo`: 
+* destriero
+* cavallo da gara
+* cavallo da lavoro
+* cavallo da soma
+* cavallo da montagna
+$$$$
+`cd`: 
+* album
+* singolo
+* EP
+* compilation
+* mixtape
+$$$$
+`centrotavola`: 
+* ceramica
+* legno
+* metallo
+* vetro
+* cristallo
+* marmo
+$$$$
+`cereale`: 
+* farina
+* riso
+* avena
+* mais
+* quinoa
+* orzo
+$$$$
+`cervello`: 
+* cerebro
+* meningi
+* encefalo
+* neuroni
+* gliale
+$$$$
+`chitarra`: 
+* classica
+* acustica
+* elettrica
+* basso
+* steel
+* pedal steel
+* lap steel
+* ukulele
+$$$$
+`ciclamino`: 
+* Rosa
+* Viola
+* Lavanda
+* Iris
+* Lilà
+* Fritillaria
+$$$$
+`ciliegio`: 
+* ciliegia
+* ciliegia di Bosco
+* ciliegia di Sibilla
+* ciliegia di Alba
+* ciliegia di Genova
+* ciliegia di Reine
+* ciliegia di Bosc
+* ciliegia di Castagno
+* ciliegia di Prato
+$$$$
+`cioccolato`: 
+* cioccolata
+* cioccolatini
+* cioccolatini per biscotti
+* cioccolata calda
+* cioccolata fredda
+* cioccolata al latte
+* cioccolata al cioccolato
+* cioccolato fondente
+* cioccolato bianco
+* cioccolato nero
+$$$$
+`colla`: 
+* adesivo
+* colla per pelle
+* colla per legno
+* colla per vetro
+* colla per tessuti
+* colla per cartone
+* colla per metallo
+* colla per plastica
+* colla per gomma
+* colla epoxidica
+* colla acrilica
+* colla poliuretana
+$$$$
+`collo`: 
+* bocca
+* orecchio
+* naso
+* laringe
+* trachea
+* bronchi
+* polmoni
+$$$$
+`colonna`: 
+* Palazzo
+* Torre
+* Monumento
+* Sedia
+* Ponte
+* Palazzo di giustizia
+$$$$
+`coltello`: 
+* Coltello da cucina
+* Coltello da pesca
+* Coltello da caccia
+* Coltello da taglio
+* Coltello da lavoro
+* Coltello da cucina da giardino
+$$$$
+`comodino`: 
+* letto
+* divano
+* sofa
+* poltrona
+* cuscino
+$$$$
+`computer`: 
+* desktop
+* laptop
+* tablet
+* smartphone
+* server
+$$$$
+`comò`: 
+* cassettone
+* tavolino
+* comodino
+* cassettiera
+$$$$
+`coniglio`: 
+* Lepre
+* Cinghiale
+* Ibex
+* Capra
+* Muntiacus
+$$$$
+`cornice`: 
+* cornice in legno
+* cornice in metallo
+* cornice in vetro
+* cornice in plastica
+* cornice in stucco
+* cornice in cartongesso
+* cornice in falso soffitto
+* cornice in raso
+$$$$
+`credenza`: 
+* Banca
+* Istituto di credito
+* Cassa di risparmio
+* Assicurativa
+* Assicurazione
+* Mutuo
+* Prestito
+$$$$
+`cruciverba`: 
+* puzzle
+* anagramma
+* indovinello
+* acrostico
+* anagramma palindromico
+* cruciverba
+$$$$
+`cucchiaio`: 
+* cucchiaio di legno
+* cucchiaio di plastica
+* cucchiaio di metallo
+* cucchiaio da tavola
+* cucchiaio da cucina
+* cucchiaio da dolci
+* cucchiaio da yogurt
+* cucchiaio da gelato
+$$$$
+`cucina`: 
+* forno
+* frigorifero
+* lavastoviglie
+* lavatrice
+* stoviglie
+* macchina da caffè
+* frullatore
+* mixer
+* pentola
+$$$$
+`cuore`: 
+* cuore umano
+* cuore animale
+* cuore di pietra
+$$$$
+`cuscino`: 
+* cuscino da letto
+* cuscino da poltrona
+* cuscino da poltrona esterno
+* cuscino da ufficio
+* cuscino da giardino
+* cuscino da piscina
+$$$$
+`delfino`: 
+* delfino comune
+* delfino del Mediterraneo
+* delfino del Giappone
+* delfino antartico
+$$$$
+`divano`: 
+* divano a braccuoli
+* divano a poggiatecca
+* divano a cuscini
+* divano a schiena
+* divano a sedia
+* divano a cuscini e schiena
+* divano a braccuoli e cuscini
+* divano a braccuoli e schiena
+$$$$
+`edera`: 
+* edera comune
+* edera gigante
+* edera nana
+* edera spinosa
+$$$$
+`elefante`: 
+* elefante africano
+* elefante asiatico
+* elefante di Sumatra
+* elefante di Borneo
+* elefante di Siam
+$$$$
+`elicottero`: 
+* helicottero
+* elicottero
+* drago
+* aereo da trasporto
+* elicottero militare
+* elicottero da ricerca
+$$$$
+`evidenziatore`: 
+* pennarelli
+* pennarelli a penna
+* pennarelli a matita
+* pennarelli a pastello
+* pennarelli a pastello a olio
+* pennarelli a grafite
+* pennarelli a carboncino
+$$$$
+`felpa`: 
+* pelliccia
+* lana
+* cotone
+* seta
+* cashmere
+$$$$
+`ficus`: 
+* Ficus benghalensis
+* Ficus carica
+* Ficus benjamina
+* Ficus religiosa
+$$$$
+`finestra`: 
+* finestra a muro
+* finestra a sospensione
+* finestra scorrevole
+* finestra a tenda
+* finestra a muro a ventole
+* finestra a tenda a muro
+* finestra a tenda a muro a ventole
+* finestra a tenda a muro a ventole a muro
+* finestra a tenda a muro a ventole a muro
+$$$$
+`fioriera`: 
+* vaso
+* ciotola
+* vaso di vetro
+* vaso di ceramica
+* contenitore di vetro
+* scatola di vetro
+$$$$
+`foglio`: 
+* carta
+* carta igienica
+* foglio di carta per scrittura
+* foglio di velluto
+$$$$
+`forbice`: 
+* forbice da giardino
+* forbice da orto
+* forbice a mano
+* forbice elettrico
+$$$$
+`forchetta`: 
+* forchetta da tavolo
+* forchetta da cucina
+* forchetta da bar
+$$$$
+`formaggio`: 
+* Parmigiano
+* Gorgonzola
+* Mozzarella
+* Ricotta
+* Provolone
+* Gouda
+* Feta
+$$$$
+`fotografia`: 
+* fotografo
+* fotografia aeree
+* fotografia da studio
+* fotografia di guerra
+* fotografia di natura
+* fotografia sportiva
+* fotografia di moda
+* fotografia di documentazione
+* fotografia di ritratto
+* fotografia di paesaggio
+* fotografia di notte
+* fotografia di fuoco
+$$$$
+`frutta`: 
+* banana
+* arancia
+* mela
+* pesca
+* albicocca
+* pescaia
+$$$$
+`furgone`: 
+* furgone a gas
+* furgone elettrico
+* furgone a batteria
+* furgone utilitario
+* furgone commerciale
+* furgone speciale
+* furgone di emergenza
+$$$$
+`gallo`: 
+* Gallo selvatico
+* Gallo domestico
+$$$$
+`gamba`: 
+* bicicletta
+* tavolo
+* letto
+* scrivania
+* poltrona
+* tavolo da gioco
+$$$$
+`gatto`: 
+* gatto domestico
+* gatto selvatico
+* gatto da compagnia
+* gatto da caccia
+* gatto da guardia
+* gatto da pelliccia
+$$$$
+`geranio`: 
+* Rosa
+* Viola
+* Lilaccio
+* Giallo
+* Bianco
+* Rosso
+$$$$
+`giacca`: 
+* pantaloni
+* shorts
+* pantaloni da ballo
+* pantaloni da ginnastica
+* pantaloni da lavoro
+* pantaloni da neve
+$$$$
+`gilet`: 
+* di cotone
+* di lana
+* di velluto
+* di seta
+* di denim
+$$$$
+`gioco da tavola`: 
+* Monoposto
+* Scacchi
+* Scacchino
+* Mancala
+* Bridge
+* Poker
+* Bingo
+* Ludo
+* Risiko
+* Scrabble
+$$$$
+`giornale`: 
+* quotidiani
+* settimanali
+* mensili
+* mensili specializzati
+$$$$
+`giraffa`: 
+* giraffa nubiana
+* giraffa maschile
+* giraffa femminile
+* giraffa selvatica
+* giraffa in cattività
+$$$$
+`girasole`: 
+* Giardini
+* Giardini botanici
+* Giardini pubblici
+* Giardini privati
+* Giardini di residenza
+* Giardini di azienda
+$$$$
+`giubotto`: 
+* giubotto di stoffa
+* giubotto di cotone
+* giubotto di lino
+* giubotto di seta
+* giubotto di pelle
+* giubotto di velluto
+$$$$
+`gomma`: 
+* gomma auto
+* gomma da ruota
+* gomma da pavimento
+* gomma da cancelleria
+* gomma da caffè
+$$$$
+`gonna`: 
+* gonna corta
+* gonna lunga
+* gonna a pannoloni
+* gonna a pannoloni con tasche
+* gonna da ballo
+* gonna da sera
+* gonna da sport
+* gonna da lavoro
+$$$$
+`graffetta`: 
+* Carta grattugiata
+* Pasta grattugiata
+* Zucchero grattugiato
+* Parmigiano grattugiato
+* Carne grattugiata
+$$$$
+`guanti`: 
+* guanti da lavoro
+* guanti da neve
+* guanti da sci
+* guanti da cucina
+* guanti da pittore
+* guanti da laboratorio
+* guanti da esercizio
+$$$$
+`insalata`: 
+* Insalata mista
+* Insalata caprese
+* Insalata di rucola
+* Insalata di avocado
+* Insalata di pollo
+* Insalata di lenticchie
+* Insalata di carote
+* Insalata di avocado e pomodoro
+* Insalata di zucchine
+* Insalata di melanzane
+* Insalata di cetriolo
+$$$$
+`lampada`: 
+* lampada a olio
+* lampada a LED
+* lampada a luce a incandescenza
+* lampada a neon
+* lampada a luce a infrarossa
+* lampada da tavolo
+* lampada da letto
+* lampada da cucina
+* lampada da bagno
+* lampada da corridoio
+$$$$
+`lampadario`: 
+* lampada
+* lampada a olio
+* lampada a incandescenza
+* lampada a LED
+* lampada a fluorescenza
+* lampada a infrarossi
+* lampada a luce a infrarossi
+$$$$
+`latte`: 
+* latte fresco
+* latte in polvere
+* latte in barriques
+* latte scremato
+* latte condensato
+* latte in flusso
+$$$$
+`legume`: 
+* lenticchie
+* fagioli
+* piselli
+* ceci
+* fagioli neri
+* fagioli rossi
+* fagioli neri
+* soia
+* ceci
+* lenticchie
+* fagioli neri
+$$$$
+`leone`: 
+* leone reale
+* leone di savana
+* leone di montagna
+* leone di foresta
+* leone asiatico
+* leone africano
+* leone di Cina
+$$$$
+`letto`: 
+* divano
+* sofa
+* poltrona
+* cuscino
+* letto
+$$$$
+`lettore`: 
+* lettore CD
+* lettore DVD
+* lettore Blu-ray
+* lettore USB
+* lettore di schede SD
+* lettore di schede microSD
+* lettore di schede CF
+$$$$
+`libreria`: 
+* libreria
+* libreria di seconda mano
+* libreria online
+* libreria di musica
+* libreria di libri usati
+* libreria di libri nuovi
+* libreria di fumetti
+* libreria di articoli di scrittura
+* libreria di libri per bambini
+* libreria di libri per adulti
+$$$$
+`libro`: 
+* Romanzo
+* Saggio
+* Poema
+* Diario
+* Enciclopedia
+* Testo universitario
+* Fumetto
+$$$$
+`lucertola`: 
+* lucertola comune
+* lucertola di mare
+* lucertola di terra
+* lucertola alpina
+* lucertola di montagna
+* lucertola di palude
+$$$$
+`maglia`: 
+* maglia da donna
+* maglia da uomo
+* maglia a maniche corte
+* maglia a maniche lunghe
+* maglia a collo incolto
+* maglia a collo alto
+* maglia da golf
+* maglia da nuoto
+$$$$
+`maiale`: 
+* vitello
+* vitellino
+* porcino
+$$$$
+`mano`: 
+* dita
+* palma
+* pollice
+* indice
+* medio
+* anulare
+* mignolo
+* pollice esterno
+$$$$
+`margherita`: 
+* pizza margherita
+* gelato margherita
+* limone
+* basilico
+$$$$
+`matita`: 
+* matita stilografica
+* matita da disegno
+* matita da scrittura
+* matita da colorare
+* matita per incisione
+$$$$
+`mestolo`: 
+* bicchiere
+* tazza
+* bicchierino
+* vaso
+* tazza da caffè
+$$$$
+`metro`: 
+* misuratore di distanze
+* misuratore di larghezza
+* misuratore di lunghezza
+* misuratore di altezza
+* misuratore di volume
+$$$$
+`mimosa`: 
+* fiori
+* piatto
+* ciotola
+$$$$
+`motocicletta`: 
+* scooter
+* motocicletta sportiva
+* motocicletta da turismo
+* motocicletta da strada
+* motocicletta da montagna
+* motocicletta da neve
+$$$$
+`mucca`: 
+* mucca
+* mulino
+* mulattiera
+$$$$
+`muro`: 
+* muro di cinta
+* muro di contenimento
+* muro di separazione
+* muro di sostegno
+* muro di protezione
+* muro di confine
+* muro di fondazione
+* muro di sostegno
+* muro di scuola
+* muro di recinzione
+* muro di cinta recinzione
+* muro di protezione da incendio
+* muro di protezione da terremoto
+* muro di isolamento acustico
+$$$$
+`naso`: 
+* naso umano
+* naso animale
+* naso di gatto
+* naso di cane
+$$$$
+`nave`: 
+* nave da guerra
+* nave da carico
+* nave da passeggeri
+* nave da ricerca
+* nave da salvataggio
+* nave da pattuglia
+* nave da combattimento
+* nave da addestramento
+* nave da esplorazione
+* nave da trasporto
+* nave da sperimentazione
+* nave da ricerca oceanografica
+* nave da pesca
+$$$$
+`occhio`: 
+* occhio destro
+* occhio sinistro
+* occhio artificiale
+* occhio di gatto
+$$$$
+`orchidea`: 
+* Albero
+* Fioritura
+* Seme
+* Pianta
+* Coltivazione
+* Specie
+$$$$
+`orecchio`: 
+* orecchio interno
+* orecchio esterno
+* orecchiette
+$$$$
+`orologio`: 
+* orologio da polso
+* orologio da parete
+* orologio digitale
+* orologio analogico
+* orologio da taschino
+* orologio da braccio
+* orologio da cucina
+$$$$
+`orso`: 
+* orso grigio
+* orso polare
+* orso bruno
+* orso nero
+* orso arctic
+* orso asiatico
+$$$$
+`padella`: 
+* cucchiaio
+* coltello
+* spatola
+* cucchiaioli
+* schiacciapatate
+$$$$
+`palla`: 
+* pallone
+* pallacanestro
+* pallavolo
+* pallamano
+* pallacanestro
+* pallanuoto
+* pallavolley
+* pallamano femminile
+$$$$
+`pancia`: 
+* Borsa
+* Sacchetto
+* Sacchettino
+* Cassetto
+* Cassettino
+* Sacchetto di carta
+$$$$
+`pane`: 
+* pane integrale
+* pane bianco
+* pane di segale
+* pane di grano tenero
+* pane di riso
+* pane di farina di avena
+* pane di mais
+$$$$
+`pantalone`: 
+* pantaloni
+* pantaloncini
+* pantaloni da ballo
+* pantaloncini da ginnastica
+* pantaloni da sci
+* pantaloncini da sci
+$$$$
+`pasta`: 
+* spaghetti
+* fettuccine
+* lasagna
+* rigatoni
+* maccheroni
+* penne
+* tortellini
+* ravioli
+* linguine
+* trofie
+* paccheri
+$$$$
+`pastello`: 
+* pastello a mano
+* pastello elettrico
+* pastello a luce
+* pastello a stuzzicadenti
+* pastello a maglia
+$$$$
+`pavimento`: 
+* mosaico
+* legno
+* piastrelle
+* pavimentazione in cemento
+* pavimento in pietra
+* pavimento in vetro
+* pavimento in tessuto
+* pavimento in gomma
+$$$$
+`penna`: 
+* penna a inchiostro
+* penna a gomma
+* penna a matita
+* penna a pastello
+* penna a grafite
+* penna a righello
+$$$$
+`pennello`: 
+* pennello a mano
+* pennello elettrico
+* pennello a seta
+* pennello sintetico
+$$$$
+`pentola`: 
+* pentola da cucina
+* pentola a pressione
+* pentola a coperchio
+* pentola da stufa
+* pentola da legno
+* pentola a ferro
+* pentola da stufa a gas
+$$$$
+`pesce`: 
+* Squalo
+* Tronco
+* Anguilla
+* Salmone
+* Merluzzo
+* Aragosta
+* Anatra
+* Trota
+$$$$
+`piatto`: 
+* piatto da tavola
+* piatto da cucina
+* piatto da bar
+* piatto da pranzo
+* piatto da cena
+* piatto da dessert
+* piatto da dolce
+* piatto da snack
+$$$$
+`piede`: 
+* dito
+* piede destro
+* piede sinistro
+* piede destro esterno
+* piede destro interno
+* piede sinistro esterno
+* piede sinistro interno
+* piede destro destro
+* piede sinistro destro
+$$$$
+`pino`: 
+* Abete
+* Betulla
+* Cedro
+* Cipresso
+* Faggio
+* Quercia
+$$$$
+`pizza`: 
+* margherita
+* quattro formaggi
+* prosciutto e funghi
+* capricciosa
+* quattro stagioni
+* margherita al funghi
+* quattro formaggi e prosciutto
+$$$$
+`poltrona`: 
+* divano
+* sofa
+* poltrona
+* poltrona da lettura
+* poltrona da gioco
+$$$$
+`porta`: 
+* porta d'ingresso
+* porta di servizio
+* porta di uscita
+* porta di emergenza
+* porta di scolo
+* porta di comunicazione
+* porta di servizi
+$$$$
+`portafotografia`: 
+* casco per portafotografia
+* cassetta di scatto
+* schermo retrovisivo
+* cappuccio
+* scatto a mano
+$$$$
+`posacenere`: 
+* cisterna
+* bidone
+* scatola
+* contenitore
+* recipiente
+$$$$
+`quaderno`: 
+* quaderno di classe
+* quaderno di scuola
+* quaderno di lavoro
+* quaderno di diario
+* quaderno di appunti
+* quaderno di studio
+* quaderno di ricordi
+$$$$
+`quadro`: 
+* quadro a muro
+* quadro di tela
+* quadro di legno
+* quadro di cartone
+* quadro di vetro
+* quadro di legno in rame
+* quadro di tela su tela
+$$$$
+`quercia`: 
+* Quercia di faggio
+* Quercia di monte
+* Quercia di quercia
+* Quercia di castagno
+* Quercia di roverina
+* Quercia di sorbo
+$$$$
+`racchetta`: 
+* racchetta da tennis
+* racchetta da squash
+* racchetta da badminton
+* racchetta da paletta
+* racchetta da calcio
+* racchetta da softball
+* racchetta da baseball
+$$$$
+`righello`: 
+* campanello
+* allarme
+* sirena
+* ronfio
+* segnalatore
+$$$$
+`ripostiglio`: 
+* cassettone
+* scaffale
+* cassa di legno
+* ripiano
+* cassa di metallo
+* scatola
+$$$$
+`riso`: 
+* riso integrale
+* riso bianco
+* riso rosso
+* riso glutinoso
+* riso basmati
+* riso arancione
+* riso di riso glutinoso
+$$$$
+`rosa`: 
+* Rosa (fiori)
+* Rosa ( colore)
+* Rosa (piante)
+* Rosa (nome proprio)
+* Rosa (nome di persona)
+* Rosa (nome di luogo)
+$$$$
+`salice`: 
+* salice da pesca
+* salice da terra
+* salice da canale
+* salice da palude
+$$$$
+`scala`: 
+* scala mobile
+* scala fissa
+* scala a chiocciola
+* scala a piattaforma
+* scala a muro
+* scala a spirale
+$$$$
+`scarpa`: 
+* scarpa da ballo
+* scarpa da ginnastica
+* scarpa da trekking
+* scarpa da corsa
+* scarpa da neve
+* scarpa da sci
+* scarpa da calcio
+* scarpa da baseball
+* scarpa da cricket
+* scarpa da pallavolo
+* scarpa da tennis
+$$$$
+`schiena`: 
+* coda
+* colonna vertebrale
+* vertebre
+* muscoli della schiena
+* flessori della schiena
+* eretti della schiena
+$$$$
+`sciarpa`: 
+* cappuccio
+* mantello
+* sciarpa
+* guanti
+* berretto
+$$$$
+`scimmia`: 
+* capuchino
+* mandrillo
+* colobo
+* langura
+* capuchin
+* babuino
+$$$$
+`scolapasta`: 
+* scolapasta per pasta al forno
+* scolapasta per zuppa
+* scolapasta per frittata
+* scolapasta per insalata
+* scolapasta per gelato
+$$$$
+`scolorina`: 
+* Vernice
+* Verniciatura
+* Colorante
+* Inchiostro
+* Verniciatura per legno
+* Verniciatura per metallo
+$$$$
+`scooter`: 
+* scooter a due ruote
+* scooter a tre ruote
+* scooter a quattro ruote
+* scooter a motore
+* scooter elettrico
+* scooter a motore a gas
+$$$$
+`scrivania`: 
+* scrivania
+* tavolo da lavoro
+* cassettiera
+* scaffale
+* cassettone
+* scrivanie
+$$$$
+`sedia`: 
+* sedia a gambe
+* sedia a rotelle
+* sedia a cuscino
+* sedia a bracciuoli
+* sedia a sdraio
+* sedia a sdraio con schienale
+* sedia a sdraio con schienale inclinabile
+$$$$
+`serpente`: 
+* Vipera
+* Serpente marino
+* Serpente a sonagli
+* Serpente alato
+* Serpente a coda biforcuta
+* Serpente di terra
+* Serpente di mare
+$$$$
+`slip`: 
+* Slip (o scivolo)
+* Scivolo di salita
+* Scivolo di discesa
+* Scivolo per bambini
+$$$$
+`soffitto`: 
+* soffitto in legno
+* soffitto in plastica
+* soffitto in stucco
+* soffitto in vetro
+* soffitto in tessuto
+* soffitto a volta
+* soffitto a pavimento
+* soffitto a cassetto
+$$$$
+`soggiorno`: 
+* divano
+* poltrone
+* tavolo
+* TV
+* divansettimana
+* lettore DVD
+$$$$
+`spalla`: 
+* spalla anteriore
+* spalla posteriore
+* spalla alpina
+* spalla di un animale
+* spalla di un'arma
+* spalla di un cavalcatore
+* spalla di un albero
+$$$$
+`specchio`: 
+* specchio da parete
+* specchio portatile
+* specchio da bagno
+* specchio da letto
+$$$$
+`spillatrice`: 
+* lavastoviglie
+* lavatrice
+* frullatore
+* mixer
+* frullapasta
+* tostapane
+$$$$
+`t-shirt`: 
+* polo
+* maglia
+* camicia
+* camisola
+* t-shirt
+$$$$
+`taccuino`: 
+* Quaderno
+* Cartaceo
+* Foglio di carta
+* Block note
+* Notebook
+* Diario
+$$$$
+`tagliere`: 
+* Tagliere di legno
+* Tagliere in vetro
+* Tagliere in metallo
+* Tagliere in plastica
+* Tagliere a rotelle
+* Tagliere a mani
+* Tagliere a motore
+$$$$
+`tappeto`: 
+* tappeto da giardino
+* tappeto da cucina
+* tappeto da bagno
+* tappeto da sala da pranzo
+* tappeto da salotto
+* tappeto da camera da letto
+$$$$
+`tavolo`: 
+* tavolo da pranzo
+* tavolo da cucina
+* tavolo da lavoro
+* tavolo da gioco
+* tavolo da scrivania
+* tavolo da bar
+$$$$
+`teglia`: 
+* teglia a gas
+* teglia a legna
+* teglia elettrica
+* teglia a induzione
+* teglia a petrolio
+$$$$
+`televisione`: 
+* schermo LED
+* schermo OLED
+* schermo plasma
+* schermo LCD
+* schermo 3D
+* schermo 4K
+* schermo 8K
+* TV smart
+* TV streaming
+* TV satellitare
+* TV cable
+* TV digitale
+$$$$
+`temperino`: 
+* cera
+* vernice
+* resina
+* cera per ombrelli
+* cera per cappelli
+* cera per pavimenti
+$$$$
+`tenda`: 
+* tenda da cucina
+* tenda da camera da letto
+* tenda da spiaggia
+* tenda da stazione
+* tenda da palco
+* tenda da giardino
+$$$$
+`terrazzo`: 
+* Piatto
+* Tavola
+* Soggiorno
+* Cucina
+* Balcone
+$$$$
+`testa`: 
+* cranio
+* fronte
+* testa di cavallo
+* testa di pesce
+$$$$
+`tetto`: 
+* tetto a punta
+* tetto piatto
+* tetto a falda
+* tetto a copertura
+* tetto a spiovente
+* tetto a copertura in legno
+* tetto in tegole
+$$$$
+`tigre`: 
+* Tigre del Sudafrica
+* Tigre del Caspienne
+* Tigre del Bengala
+* Tigre del Sud-Cina
+* Tigre del Sud-est asiatico
+* Tigre del Nord-est asiatico
+$$$$
+`topo`: 
+* topo di terra
+* topo di mare
+* topo volante
+* topo di laboratorio
+$$$$
+`traghetto`: 
+* traghetto a motore
+* traghetto a vela
+* traghetto a remi
+$$$$
+`tram`: 
+* tram
+* autobus
+* treno
+* autobus notturno
+$$$$
+`trattore`: 
+* Trattore agricolo
+* Trattore di recupero
+* Trattore di pesca
+* Trattore di carico
+* Trattore di pompaggio
+$$$$
+`treno`: 
+* Treno a vapore
+* Treno a elettrico
+* Treno a diesel
+* Treno ad alta velocità
+* Treno ferroviario
+* Treno merci
+* Treno passeggeri
+* Treno di trasporto
+* Treno di emergenza
+$$$$
+`tulipano`: 
+* Tulipano d'Inghilterra
+* Tulipano di Tula
+* Tulipano di Darwin
+* Tulipano di Kamerun
+* Tulipano di Schönbeck
+* Tulipano di Schubert
+* Tulipano di Breda
+* Tulipano di Holland
+$$$$
+`ulivo`: 
+* Frutto
+* Albero
+$$$$
+`uovo`: 
+* uovo di gallina
+* uovo di pavone
+* uovo di tartaruga
+$$$$
+`vaso`: 
+* bicchiere
+* vaso da notte
+* vaso da fiori
+* vaso da colazione
+* vaso da cucina
+* vaso da bagno
+* vaso da pioggia
+$$$$
+`verdura`: 
+* pomodoro
+* carota
+* zucchina
+* peperone
+* melone
+* cetriolo
+* spinaci
+* carciofi
+* cipolle
+* sedano
+* radicchio
+$$$$
+`videogioco`: 
+* Action
+* Avventura
+* Simulazione
+* Sport
+* Strategia
+* Puzzle
+* Avventura grafica
+* Survival
+* Horror
+* Strategia in tempo reale
+* Role-playing
+$$$$
+`vite`: 
+* Vite da tavola
+* Vite da vino
+* Vite per insulcatura
+* Vite per lacciatura
+* Vite per attrezzi
+$$$$

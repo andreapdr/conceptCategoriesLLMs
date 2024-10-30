@@ -1,0 +1,1404 @@
+participant,category,category_it,concept,exemplar,clean_exemplar,rank
+idefics2-iter1,plants,piante,abete,acacia,acacia,1
+idefics2-iter1,plants,piante,abete,acer,acer,2
+idefics2-iter1,plants,piante,abete,birch,birch,3
+idefics2-iter1,plants,piante,abete,cedar,cedar,4
+idefics2-iter1,plants,piante,abete,elm,elm,5
+idefics2-iter1,plants,piante,abete,maple,maple,6
+idefics2-iter1,plants,piante,abete,oak,oak,7
+idefics2-iter1,plants,piante,abete,pine,pine,8
+idefics2-iter1,plants,piante,abete,redwood,redwood,9
+idefics2-iter1,plants,piante,abete,sequoia,sequoia,10
+idefics2-iter1,plants,piante,abete,willow,willow,11
+idefics2-iter1,vehicles,veicoli,aereo,aeroplano,aeroplano,1
+idefics2-iter1,vehicles,veicoli,aereo,elicottero,elicottero,2
+idefics2-iter1,vehicles,veicoli,aereo,aerostato,aerostato,3
+idefics2-iter1,vehicles,veicoli,aereo,aerostato dirigibile,aerostato dirigibile,4
+idefics2-iter1,vehicles,veicoli,aereo,aerostato non dirigibile,aerostato non dirigibile,5
+idefics2-iter1,vehicles,veicoli,aereo,aerostato montato,aerostato montato,6
+idefics2-iter1,vehicles,veicoli,aereo,aerostato non montato,aerostato non montato,7
+idefics2-iter1,stationery,cancelleria,agenda,calendario,calendario,1
+idefics2-iter1,stationery,cancelleria,agenda,diario,diario,2
+idefics2-iter1,stationery,cancelleria,agenda,organizzatore,organizzatore,3
+idefics2-iter1,stationery,cancelleria,agenda,calendario digitale,calendario digitale,4
+idefics2-iter1,stationery,cancelleria,agenda,calendario online,calendario online,5
+idefics2-iter1,stationery,cancelleria,agenda,calendario per smartphone,calendario per smartphone,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,appendiabiti,jeans,jeans,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,appendiabiti,pantaloni,pantaloni,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,appendiabiti,camise,camise,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,appendiabiti,giacche,giacche,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,appendiabiti,vestiti,vestiti,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,appendiabiti,abiti,abiti,6
+idefics2-iter1,furniture,mobili,armadio,armario,armario,1
+idefics2-iter1,furniture,mobili,armadio,scaffale,scaffale,2
+idefics2-iter1,furniture,mobili,armadio,scaffale per biciclette,scaffale per biciclette,3
+idefics2-iter1,furniture,mobili,armadio,scaffale per scarpe,scaffale per scarpe,4
+idefics2-iter1,furniture,mobili,armadio,scaffale per abbigliamento,scaffale per abbigliamento,5
+idefics2-iter1,furniture,mobili,armadio,scaffale per libri,scaffale per libri,6
+idefics2-iter1,stationery,cancelleria,astuccio,astuccio per caffè,per caffè,1
+idefics2-iter1,stationery,cancelleria,astuccio,astuccio per tè,per tè,2
+idefics2-iter1,stationery,cancelleria,astuccio,astuccio per caffè e tè,per caffè e tè,3
+idefics2-iter1,stationery,cancelleria,astuccio,astuccio per caffè e tè e cioccolata,per caffè e tè e cioccolata,4
+idefics2-iter1,hobbies,passatempi,attrezzo,scopa,scopa,1
+idefics2-iter1,hobbies,passatempi,attrezzo,spugna,spugna,2
+idefics2-iter1,hobbies,passatempi,attrezzo,spugna per lavaggio,spugna per lavaggio,3
+idefics2-iter1,hobbies,passatempi,attrezzo,spugna per pulitura,spugna per pulitura,4
+idefics2-iter1,hobbies,passatempi,attrezzo,spugna per pulit,spugna per pulit,5
+idefics2-iter1,vehicles,veicoli,autobus,pullman,pullman,1
+idefics2-iter1,vehicles,veicoli,autobus,pullman-standard,pullman-standard,2
+idefics2-iter1,vehicles,veicoli,autobus,pullman-sleeper,pullman-sleeper,3
+idefics2-iter1,vehicles,veicoli,autobus,pullman-palace,pullman-palace,4
+idefics2-iter1,vehicles,veicoli,autobus,pullman-park,pullman-park,5
+idefics2-iter1,vehicles,veicoli,autobus,pullman-ranger,pullman-ranger,6
+idefics2-iter1,vehicles,veicoli,autobus,pullman-roadster,pullman-roadster,7
+idefics2-iter1,vehicles,veicoli,autobus,pullman-limousine,pullman-limousine,8
+idefics2-iter1,vehicles,veicoli,autobus,pullman-landau,pullman-landau,9
+idefics2-iter1,vehicles,veicoli,autobus,pullman-landau-limousine,pullman-landau-limousine,10
+idefics2-iter1,vehicles,veicoli,autobus,pullman-landau-limousine-sleeper,pullman-landau-limousine-sleeper,11
+idefics2-iter1,vehicles,veicoli,autobus,pullman-landau-limousine-sleeper-roadster,pullman-landau-limousine-sleeper-roadster,12
+idefics2-iter1,vehicles,veicoli,autobus,pullman-landau-limousine-sleeper-roadster-sleeper,pullman-landau-limousine-sleeper-roadster-sleeper,13
+idefics2-iter1,vehicles,veicoli,autobus,pullman-landau-limousine-sleeper-roadster-sleeper-roadster,pullman-landau-limousine-sleeper-roadster-sleeper-roadster,14
+idefics2-iter1,vehicles,veicoli,autobus,pullman-landau-limousine-sleeper-roadster-sleeper-roadster-sleeper,pullman-landau-limousine-sleeper-roadster-sleeper-roadster-sleeper,15
+idefics2-iter1,vehicles,veicoli,autobus,pullman-landau-limousine-sleeper-roadster-sleeper-roadster-sleeper-roadster,pullman-landau-limousine-sleeper-roadster-sleeper-roadster-sleeper-roadster,16
+idefics2-iter1,vehicles,veicoli,autobus,pullman-landau-limousine-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper,pullman-landau-limousine-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper,17
+idefics2-iter1,vehicles,veicoli,autobus,pullman-landau-limousine-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-r,pullman-landau-limousine-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-roadster-sleeper-r,18
+idefics2-iter1,vehicles,veicoli,automobile,auto,auto,1
+idefics2-iter1,vehicles,veicoli,automobile,motociclette,motociclette,2
+idefics2-iter1,vehicles,veicoli,automobile,camion,camion,3
+idefics2-iter1,vehicles,veicoli,automobile,furgonette,furgonette,4
+idefics2-iter1,vehicles,veicoli,automobile,autobus,autobus,5
+idefics2-iter1,vehicles,veicoli,automobile,autocarro,autocarro,6
+idefics2-iter1,housing buildings,edifici residenziali,bagno,vaso da bagno,vaso da ,1
+idefics2-iter1,housing buildings,edifici residenziali,bagno,doccia,doccia,2
+idefics2-iter1,housing buildings,edifici residenziali,bagno,vaso da doccia,vaso da doccia,3
+idefics2-iter1,housing buildings,edifici residenziali,bagno,vaso da lavandaggio,vaso da lavandaggio,4
+idefics2-iter1,housing buildings,edifici residenziali,bagno,vaso da,vaso da,5
+idefics2-iter1,housing buildings,edifici residenziali,balcone,terrazza,terrazza,1
+idefics2-iter1,housing buildings,edifici residenziali,balcone,loggia,loggia,2
+idefics2-iter1,housing buildings,edifici residenziali,balcone,terrazzino,terrazzino,3
+idefics2-iter1,housing buildings,edifici residenziali,balcone,terrazzino,terrazzino,4
+idefics2-iter1,plants,piante,basilico,basilico piccante,piccante,1
+idefics2-iter1,plants,piante,basilico,basilico dolce,dolce,2
+idefics2-iter1,plants,piante,basilico,basilico bianco,bianco,3
+idefics2-iter1,plants,piante,basilico,basilico nero,nero,4
+idefics2-iter1,plants,piante,basilico,basilico rosso,rosso,5
+idefics2-iter1,kitchenware,utensili da cucina,bicchiere,tazza,tazza,1
+idefics2-iter1,kitchenware,utensili da cucina,bicchiere,tulipano,tulipano,2
+idefics2-iter1,kitchenware,utensili da cucina,bicchiere,coppa,coppa,3
+idefics2-iter1,kitchenware,utensili da cucina,bicchiere,bicchiere da caffè,da caffè,4
+idefics2-iter1,kitchenware,utensili da cucina,bicchiere,bicchiere da vino,da vino,5
+idefics2-iter1,vehicles,veicoli,bicicletta,mountain bike,mountain bike,1
+idefics2-iter1,vehicles,veicoli,bicicletta,bicycle,bicycle,2
+idefics2-iter1,vehicles,veicoli,bicicletta,road bike,road bike,3
+idefics2-iter1,vehicles,veicoli,bicicletta,hybrid bicycle,hybrid bicycle,4
+idefics2-iter1,vehicles,veicoli,bicicletta,recumbent bicycle,recumbent bicycle,5
+idefics2-iter1,vehicles,veicoli,bicicletta,electric bicycle,electric bicycle,6
+idefics2-iter1,vehicles,veicoli,bicicletta,cargo bicycle,cargo bicycle,7
+idefics2-iter1,vehicles,veicoli,bicicletta,bicycle trailer,bicycle trailer,8
+idefics2-iter1,vehicles,veicoli,bicicletta,bicycle accessories,bicycle accessories,9
+idefics2-iter1,body parts,parti del corpo,bocca,bocca inferiore,inferiore,1
+idefics2-iter1,body parts,parti del corpo,bocca,bocca superiore,superiore,2
+idefics2-iter1,body parts,parti del corpo,bocca,labbra,labbra,3
+idefics2-iter1,body parts,parti del corpo,bocca,denti,denti,4
+idefics2-iter1,body parts,parti del corpo,bocca,lingua,lingua,5
+idefics2-iter1,body parts,parti del corpo,bocca,palato,palato,6
+idefics2-iter1,body parts,parti del corpo,braccio,braccio umano,umano,1
+idefics2-iter1,body parts,parti del corpo,braccio,braccio robotico,robotico,2
+idefics2-iter1,body parts,parti del corpo,braccio,braccio artificiale,artificiale,3
+idefics2-iter1,body parts,parti del corpo,braccio,braccio meccanico,meccanico,4
+idefics2-iter1,body parts,parti del corpo,braccio,braccio di legno,di legno,5
+idefics2-iter1,body parts,parti del corpo,braccio,braccio di metallo,di metallo,6
+idefics2-iter1,plants,piante,cactus,cactaceae,cactaceae,1
+idefics2-iter1,plants,piante,cactus,cactus artichoke,artichoke,2
+idefics2-iter1,plants,piante,cactus,cactus pear,pear,3
+idefics2-iter1,plants,piante,cactus,cactus tree,tree,4
+idefics2-iter1,plants,piante,cactus,cactus plant,plant,5
+idefics2-iter1,clothes,vestiti,calza,calza da sport,da sport,1
+idefics2-iter1,clothes,vestiti,calza,calza da ginnastica,da ginnastica,2
+idefics2-iter1,clothes,vestiti,calza,calza da lavoro,da lavoro,3
+idefics2-iter1,clothes,vestiti,calza,calza da stivali,da stivali,4
+idefics2-iter1,clothes,vestiti,calza,calza da sandali,da sandali,5
+idefics2-iter1,clothes,vestiti,calza,calza da scarpe,da scarpe,6
+idefics2-iter1,housing buildings,edifici residenziali,camera,dslr,dslr,1
+idefics2-iter1,housing buildings,edifici residenziali,camera,compatt,compatt,2
+idefics2-iter1,housing buildings,edifici residenziali,camera,telefono cellulare,telefono cellulare,3
+idefics2-iter1,housing buildings,edifici residenziali,camera,fotocamera digitale,foto digitale,4
+idefics2-iter1,housing buildings,edifici residenziali,camera,fotocamera analogica,foto analogica,5
+idefics2-iter1,housing buildings,edifici residenziali,camera,fotocamera digitale mirrorless,foto digitale mirrorless,6
+idefics2-iter1,clothes,vestiti,camicia,camicia da notte,da notte,1
+idefics2-iter1,clothes,vestiti,camicia,camicia da lavoro,da lavoro,2
+idefics2-iter1,clothes,vestiti,camicia,camicia da bagnasciuga,da bagnasciuga,3
+idefics2-iter1,clothes,vestiti,camicia,camicia da bagnasciuga,da bagnasciuga,4
+idefics2-iter1,vehicles,veicoli,camion,camioncino,cino,1
+idefics2-iter1,vehicles,veicoli,camion,camioncino a due assi,cino a due assi,2
+idefics2-iter1,vehicles,veicoli,camion,camioncino a tre assi,cino a tre assi,3
+idefics2-iter1,vehicles,veicoli,camion,camioncino a quattro assi,cino a quattro assi,4
+idefics2-iter1,vehicles,veicoli,camion,camioncino a cinque assi,cino a cinque assi,5
+idefics2-iter1,vehicles,veicoli,camion,camioncino a sei assi,cino a sei assi,6
+idefics2-iter1,vehicles,veicoli,camion,camioncino a sette assi,cino a sette assi,7
+idefics2-iter1,vehicles,veicoli,camion,camioncino a otto assi,cino a otto assi,8
+idefics2-iter1,vehicles,veicoli,camion,camioncino a nove assi,cino a nove assi,9
+idefics2-iter1,vehicles,veicoli,camion,camioncino a dieci assi,cino a dieci assi,10
+idefics2-iter1,vehicles,veicoli,camion,camioncino a undici assi,cino a undici assi,11
+idefics2-iter1,vehicles,veicoli,camion,camioncino a dodici assi,cino a dodici assi,12
+idefics2-iter1,vehicles,veicoli,camion,camioncino a tredici assi,cino a tredici assi,13
+idefics2-iter1,vehicles,veicoli,camion,camioncino a quattordici assi,cino a quattordici assi,14
+idefics2-iter1,vehicles,veicoli,camion,camioncino a quindici assi,cino a quindici assi,15
+idefics2-iter1,vehicles,veicoli,camion,camioncino a sedici assi,cino a sedici assi,16
+idefics2-iter1,vehicles,veicoli,camion,camioncino a diciassette assi,cino a diciassette assi,17
+idefics2-iter1,vehicles,veicoli,camion,camioncino a diciotto assi,cino a diciotto assi,18
+idefics2-iter1,vehicles,veicoli,camion,camioncino a diciannove assi,cino a diciannove assi,19
+idefics2-iter1,vehicles,veicoli,camion,camioncino a venti assi,cino a venti assi,20
+idefics2-iter1,vehicles,veicoli,camion,camioncino a venticinque assi,cino a venticinque assi,21
+idefics2-iter1,vehicles,veicoli,camion,camioncino a ventisette assi,cino a ventisette assi,22
+idefics2-iter1,vehicles,veicoli,camion,camioncino a ventotto assi,cino a ventotto assi,23
+idefics2-iter1,vehicles,veicoli,camion,camioncino a ventinove assi,cino a ventinove assi,24
+idefics2-iter1,vehicles,veicoli,camion,camioncino a trenta assi,cino a trenta assi,25
+idefics2-iter1,vehicles,veicoli,camion,camioncino a trentacinque assi,cino a trentacinque assi,26
+idefics2-iter1,vehicles,veicoli,camion,camioncino a trentasei assi,cino a trentasei assi,27
+idefics2-iter1,vehicles,veicoli,camion,camioncino a trentanove assi,cino a trentanove assi,28
+idefics2-iter1,vehicles,veicoli,camion,camioncino a quaranta assi,cino a quaranta assi,29
+idefics2-iter1,vehicles,veicoli,camion,camioncino a quarantacinque assi,cino a quarantacinque assi,30
+idefics2-iter1,vehicles,veicoli,camion,camioncino a quarantasei assi,cino a quarantasei assi,31
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a tre braccia,a tre braccia,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a quattro braccia,a quattro braccia,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a cinque braccia,a cinque braccia,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a sei braccia,a sei braccia,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a sette braccia,a sette braccia,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a otto braccia,a otto braccia,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a nove braccia,a nove braccia,7
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a dieci braccia,a dieci braccia,8
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a undici braccia,a undici braccia,9
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a dodici braccia,a dodici braccia,10
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a tredici braccia,a tredici braccia,11
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a quattordici braccia,a quattordici braccia,12
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a quindici braccia,a quindici braccia,13
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a sedici braccia,a sedici braccia,14
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a diciassette braccia,a diciassette braccia,15
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a diciotto braccia,a diciotto braccia,16
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a diciannove braccia,a diciannove braccia,17
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a venti braccia,a venti braccia,18
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a venticinque braccia,a venticinque braccia,19
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a ventisette braccia,a ventisette braccia,20
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a ventotto braccia,a ventotto braccia,21
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a ventinove braccia,a ventinove braccia,22
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a trenta braccia,a trenta braccia,23
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a trentacinque braccia,a trentacinque braccia,24
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a trentasei braccia,a trentasei braccia,25
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a trentanove braccia,a trentanove braccia,26
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a quaranta braccia,a quaranta braccia,27
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,candelabro,candelabro a quarantacinque,a quarantacinque,28
+idefics2-iter1,animals,animali,cane,bulldog,bulldog,1
+idefics2-iter1,animals,animali,cane,pug,pug,2
+idefics2-iter1,animals,animali,cane,labrador,labrador,3
+idefics2-iter1,animals,animali,cane,golden retriever,golden retriever,4
+idefics2-iter1,animals,animali,cane,pitbull,pitbull,5
+idefics2-iter1,animals,animali,cane,shih tzu,shih tzu,6
+idefics2-iter1,animals,animali,cane,dachshund,dachshund,7
+idefics2-iter1,animals,animali,cane,boxer,boxer,8
+idefics2-iter1,animals,animali,cane,beagle,beagle,9
+idefics2-iter1,animals,animali,cane,chihuahua,chihuahua,10
+idefics2-iter1,animals,animali,cane,collie,collie,11
+idefics2-iter1,animals,animali,cane,cocker spaniel,cocker spaniel,12
+idefics2-iter1,animals,animali,cane,doberman,doberman,13
+idefics2-iter1,animals,animali,cane,german shepherd,german shepherd,14
+idefics2-iter1,animals,animali,cane,great dane,great dane,15
+idefics2-iter1,animals,animali,cane,jack russell,jack russell,16
+idefics2-iter1,animals,animali,cane,mastiff,mastiff,17
+idefics2-iter1,animals,animali,cane,pekingese,pekingese,18
+idefics2-iter1,animals,animali,cane,pomeranian,pomeranian,19
+idefics2-iter1,animals,animali,cane,rottweiler,rottweiler,20
+idefics2-iter1,animals,animali,cane,siberian husky,siberian husky,21
+idefics2-iter1,animals,animali,cane,terrier,terrier,22
+idefics2-iter1,animals,animali,cane,yorkshire terrier,yorkshire terrier,23
+idefics2-iter1,clothes,vestiti,canottiera,canottiera da bagnato,da bagnato,1
+idefics2-iter1,clothes,vestiti,canottiera,canottiera da ginnastica,da ginnastica,2
+idefics2-iter1,clothes,vestiti,canottiera,canottiera da piscina,da piscina,3
+idefics2-iter1,clothes,vestiti,canottiera,canottiera da tennis,da tennis,4
+idefics2-iter1,clothes,vestiti,canottiera,canottiera da lavoro,da lavoro,5
+idefics2-iter1,body parts,parti del corpo,capello,boccoli,boccoli,1
+idefics2-iter1,body parts,parti del corpo,capello,b,b,2
+idefics2-iter1,clothes,vestiti,cappello,berretta,berretta,1
+idefics2-iter1,clothes,vestiti,cappello,cappello da baseball,da baseball,2
+idefics2-iter1,clothes,vestiti,cappello,cappello da borsa,da borsa,3
+idefics2-iter1,clothes,vestiti,cappello,cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da capp,da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da cappello da capp,4
+idefics2-iter1,clothes,vestiti,cappotto,cappotto da uomo,da uomo,1
+idefics2-iter1,clothes,vestiti,cappotto,cappotto da donna,da donna,2
+idefics2-iter1,clothes,vestiti,cappotto,cappotto da bambino,da bambino,3
+idefics2-iter1,clothes,vestiti,cappotto,cappotto da sport,da sport,4
+idefics2-iter1,clothes,vestiti,cappotto,cappotto da lavoro,da lavoro,5
+idefics2-iter1,clothes,vestiti,cappotto,cappotto da viaggio,da viaggio,6
+idefics2-iter1,foods,cibi,carne,bovino,bovino,1
+idefics2-iter1,foods,cibi,carne,suino,suino,2
+idefics2-iter1,foods,cibi,carne,pesce,pesce,3
+idefics2-iter1,foods,cibi,carne,uccello,uccello,4
+idefics2-iter1,foods,cibi,carne,bovino,bovino,5
+idefics2-iter1,vehicles,veicoli,carrozza,carrozza passeggeri,passeggeri,1
+idefics2-iter1,vehicles,veicoli,carrozza,carrozza merci,merci,2
+idefics2-iter1,vehicles,veicoli,carrozza,carrozza per trasporto di persone,per trasporto di persone,3
+idefics2-iter1,vehicles,veicoli,carrozza,carrozza per trasporto di merci,per trasporto di merci,4
+idefics2-iter1,vehicles,veicoli,carrozza,carrozza per trasporto di passeggeri e merci,per trasporto di passeggeri e merci,5
+idefics2-iter1,hobbies,passatempi,carte,carta da gioco,carta da gioco,1
+idefics2-iter1,hobbies,passatempi,carte,carta da visita,carta da visita,2
+idefics2-iter1,hobbies,passatempi,carte,carta di credito,carta di credito,3
+idefics2-iter1,hobbies,passatempi,carte,carta di debito,carta di debito,4
+idefics2-iter1,hobbies,passatempi,carte,carta di sconto,carta di sconto,5
+idefics2-iter1,hobbies,passatempi,carte,carta di regalo,carta di regalo,6
+idefics2-iter1,furniture,mobili,cassettiera,cassette,cassette,1
+idefics2-iter1,furniture,mobili,cassettiera,cassette vhs,cassette vhs,2
+idefics2-iter1,furniture,mobili,cassettiera,cassette cd,cassette cd,3
+idefics2-iter1,furniture,mobili,cassettiera,cassette dvd,cassette dvd,4
+idefics2-iter1,furniture,mobili,cassettiera,cassette blu-ray,cassette blu-ray,5
+idefics2-iter1,animals,animali,cavallo,pony,pony,1
+idefics2-iter1,animals,animali,cavallo,stallione,stallione,2
+idefics2-iter1,animals,animali,cavallo,stallione da corsa,stallione da corsa,3
+idefics2-iter1,animals,animali,cavallo,stallione da lavoro,stallione da lavoro,4
+idefics2-iter1,animals,animali,cavallo,st,st,5
+idefics2-iter1,hobbies,passatempi,cd,cd singolo,singolo,1
+idefics2-iter1,hobbies,passatempi,cd,cd box set,box set,2
+idefics2-iter1,hobbies,passatempi,cd,cd album,album,3
+idefics2-iter1,hobbies,passatempi,cd,cd compilation,compilation,4
+idefics2-iter1,hobbies,passatempi,cd,cd live,live,5
+idefics2-iter1,hobbies,passatempi,cd,cd import,import,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,tavola,tavola,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,sedie,sedie,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,tavolini,tavolini,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,tavolini da cucina,tavolini da cucina,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,tavolini da cucina da tavola,tavolini da cucina da tavola,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,centrotavola,tavolini da cucina da tavola con tavolino da cucina,tavolini da cucina da tavola con tavolino da cucina,6
+idefics2-iter1,foods,cibi,cereale,bianco,bianco,1
+idefics2-iter1,foods,cibi,cereale,multigrano,multigrano,2
+idefics2-iter1,foods,cibi,cereale,integrale,integrale,3
+idefics2-iter1,foods,cibi,cereale,farina,farina,4
+idefics2-iter1,foods,cibi,cereale,pane,pane,5
+idefics2-iter1,foods,cibi,cereale,muffin,muffin,6
+idefics2-iter1,foods,cibi,cereale,croissant,croissant,7
+idefics2-iter1,foods,cibi,cereale,biscotti,biscotti,8
+idefics2-iter1,foods,cibi,cereale,cioccolato,cioccolato,9
+idefics2-iter1,foods,cibi,cereale,yogurt,yogurt,10
+idefics2-iter1,body parts,parti del corpo,cervello,cerebro,cerebro,1
+idefics2-iter1,body parts,parti del corpo,cervello,midbrain,midbrain,2
+idefics2-iter1,body parts,parti del corpo,cervello,pons,pons,3
+idefics2-iter1,body parts,parti del corpo,cervello,cerebellum,cerebellum,4
+idefics2-iter1,body parts,parti del corpo,cervello,hippocampus,hippocampus,5
+idefics2-iter1,body parts,parti del corpo,cervello,amigdala,amigdala,6
+idefics2-iter1,body parts,parti del corpo,cervello,thalamus,thalamus,7
+idefics2-iter1,body parts,parti del corpo,cervello,hypothalamus,hypothalamus,8
+idefics2-iter1,body parts,parti del corpo,cervello,pituitary gland,pituitary gland,9
+idefics2-iter1,body parts,parti del corpo,cervello,pineal gland,pineal gland,10
+idefics2-iter1,body parts,parti del corpo,cervello,basal ganglia,basal ganglia,11
+idefics2-iter1,body parts,parti del corpo,cervello,cerebral cortex,cerebral cortex,12
+idefics2-iter1,body parts,parti del corpo,cervello,limbic system,limbic system,13
+idefics2-iter1,body parts,parti del corpo,cervello,reticular formation,reticular formation,14
+idefics2-iter1,body parts,parti del corpo,cervello,brainstem,brainstem,15
+idefics2-iter1,hobbies,passatempi,chitarra,chitarra acustica,acustica,1
+idefics2-iter1,hobbies,passatempi,chitarra,chitarra elettrica,elettrica,2
+idefics2-iter1,hobbies,passatempi,chitarra,chitarra basso,basso,3
+idefics2-iter1,hobbies,passatempi,chitarra,chitarra a 12 corde,a 12 corde,4
+idefics2-iter1,hobbies,passatempi,chitarra,chitarra a 6 corde,a 6 corde,5
+idefics2-iter1,hobbies,passatempi,chitarra,chitarra a 4 corde,a 4 corde,6
+idefics2-iter1,plants,piante,ciclamino,pet,pet,1
+idefics2-iter1,plants,piante,ciclamino,pvc,pvc,2
+idefics2-iter1,plants,piante,ciclamino,polietilene,polietilene,3
+idefics2-iter1,plants,piante,ciclamino,polistirene,polistirene,4
+idefics2-iter1,plants,piante,ciclamino,polipropilene,polipropilene,5
+idefics2-iter1,plants,piante,ciclamino,polietilene tereftalato,polietilene tereftalato,6
+idefics2-iter1,plants,piante,ciliegio,acacia,acacia,1
+idefics2-iter1,plants,piante,ciliegio,acer,acer,2
+idefics2-iter1,plants,piante,ciliegio,amorfo,amorfo,3
+idefics2-iter1,plants,piante,ciliegio,arbor,arbor,4
+idefics2-iter1,plants,piante,ciliegio,arbuto,arbuto,5
+idefics2-iter1,plants,piante,ciliegio,arbusto,arbusto,6
+idefics2-iter1,plants,piante,ciliegio,arboreo,arboreo,7
+idefics2-iter1,plants,piante,ciliegio,arboreo,arboreo,8
+idefics2-iter1,foods,cibi,cioccolato,bianco,bianco,1
+idefics2-iter1,foods,cibi,cioccolato,nero,nero,2
+idefics2-iter1,foods,cibi,cioccolato,bianco e nero,bianco e nero,3
+idefics2-iter1,foods,cibi,cioccolato,bianco e crema,bianco e crema,4
+idefics2-iter1,foods,cibi,cioccolato,crema,crema,5
+idefics2-iter1,foods,cibi,cioccolato,bianco e crema con noci,bianco e crema con noci,6
+idefics2-iter1,foods,cibi,cioccolato,bianco e crema con noci e cioccolato,bianco e crema con noci e ,7
+idefics2-iter1,foods,cibi,cioccolato,bianco e crema con noci e cioccolato con amore,bianco e crema con noci e  con amore,8
+idefics2-iter1,foods,cibi,cioccolato,bianco e crema con noci e cioccolato con amore e caramello,bianco e crema con noci e  con amore e caramello,9
+idefics2-iter1,foods,cibi,cioccolato,bianco e crema con noci e cioccolato con amore e caramello e cacao,bianco e crema con noci e  con amore e caramello e cacao,10
+idefics2-iter1,foods,cibi,cioccolato,bianco e crema con noci e cioccolato con amore e caramello e cacao e caramello,bianco e crema con noci e  con amore e caramello e cacao e caramello,11
+idefics2-iter1,foods,cibi,cioccolato,bianco e crema con noci e cioccolato con amore e caramello e cacao e caramello e cioccolato,bianco e crema con noci e  con amore e caramello e cacao e caramello e cioccolato,12
+idefics2-iter1,foods,cibi,cioccolato,bianco e crema con noci e cioccolato con amore e caramello e cacao e caramello e cioccolato e caramello,bianco e crema con noci e  con amore e caramello e cacao e caramello e cioccolato e caramello,13
+idefics2-iter1,foods,cibi,cioccolato,bianco e crema con noci e cioccolato con amore e caramello e cacao e caramello e cioccolato e caramello e cioccolato e caramello,bianco e crema con noci e  con amore e caramello e cacao e caramello e cioccolato e caramello e cioccolato e caramello,14
+idefics2-iter1,foods,cibi,cioccolato,bianco e crema con noci e cioccolato con amore e caramello e cacao e caramello e cioccolato e caramello e cioccolato e caramello e cioccolato e caramello,bianco e crema con noci e  con amore e caramello e cacao e caramello e cioccolato e caramello e cioccolato e caramello e cioccolato e caramello,15
+idefics2-iter1,stationery,cancelleria,colla,adesivo,adesivo,1
+idefics2-iter1,stationery,cancelleria,colla,adesivo a base di resina,adesivo a base di resina,2
+idefics2-iter1,stationery,cancelleria,colla,adesivo a base di silicone,adesivo a base di silicone,3
+idefics2-iter1,stationery,cancelleria,colla,adesivo a base di acrilico,adesivo a base di acrilico,4
+idefics2-iter1,stationery,cancelleria,colla,adesivo a base di gomma,adesivo a base di gomma,5
+idefics2-iter1,stationery,cancelleria,colla,adesivo a base di poliuretano,adesivo a base di poliuretano,6
+idefics2-iter1,body parts,parti del corpo,collo,collo vertebrale,vertebrale,1
+idefics2-iter1,body parts,parti del corpo,collo,collo cervicale,cervicale,2
+idefics2-iter1,body parts,parti del corpo,collo,collo cervicale superiori,cervicale superiori,3
+idefics2-iter1,body parts,parti del corpo,collo,collo cervicale inferiori,cervicale inferiori,4
+idefics2-iter1,body parts,parti del corpo,collo,collo cervicale laterali,cervicale laterali,5
+idefics2-iter1,body parts,parti del corpo,collo,collo cervicale intermedi,cervicale intermedi,6
+idefics2-iter1,housing buildings,edifici residenziali,colonna,colonna di supporto,di supporto,1
+idefics2-iter1,housing buildings,edifici residenziali,colonna,colonna di trasmissione,di trasmissione,2
+idefics2-iter1,housing buildings,edifici residenziali,colonna,colonna di sorreggimento,di sorreggimento,3
+idefics2-iter1,housing buildings,edifici residenziali,colonna,colonna di rinforzo,di rinforzo,4
+idefics2-iter1,housing buildings,edifici residenziali,colonna,colonna di trasporto,di trasporto,5
+idefics2-iter1,housing buildings,edifici residenziali,colonna,colonna di rinforzo,di rinforzo,6
+idefics2-iter1,kitchenware,utensili da cucina,coltello,coltello da cucina,da cucina,1
+idefics2-iter1,kitchenware,utensili da cucina,coltello,coltello da cucina da taglio,da cucina da taglio,2
+idefics2-iter1,kitchenware,utensili da cucina,coltello,coltello da cucina da taglio a serrature,da cucina da taglio a serrature,3
+idefics2-iter1,kitchenware,utensili da cucina,coltello,coltello da cucina da taglio a serrature a mano,da cucina da taglio a serrature a mano,4
+idefics2-iter1,kitchenware,utensili da cucina,coltello,coltello da cucina da taglio a serrature a mano con manico,da cucina da taglio a serrature a mano con manico,5
+idefics2-iter1,kitchenware,utensili da cucina,coltello,coltello da cucina da taglio a serrature a mano con manico e mano ergonomica,da cucina da taglio a serrature a mano con manico e mano ergonomica,6
+idefics2-iter1,kitchenware,utensili da cucina,coltello,coltello da cucina da taglio a serrature a mano con manico e mano ergonomica con manico ergonomico,da cucina da taglio a serrature a mano con manico e mano ergonomica con manico ergonomico,7
+idefics2-iter1,kitchenware,utensili da cucina,coltello,coltello da cucina da taglio a serrature a mano con manico e mano ergonomico con manico ergonomico con manico ergonomico,da cucina da taglio a serrature a mano con manico e mano ergonomico con manico ergonomico con manico ergonomico,8
+idefics2-iter1,kitchenware,utensili da cucina,coltello,coltello da cucina da taglio a serrature a mano con manico e mano ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino er,da cucina da taglio a serrature a mano con manico e mano ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino ergonomico con manino er,9
+idefics2-iter1,furniture,mobili,comodino,cassette,cassette,1
+idefics2-iter1,furniture,mobili,comodino,scatole,scatole,2
+idefics2-iter1,furniture,mobili,comodino,scatole per cassette,scatole per cassette,3
+idefics2-iter1,furniture,mobili,comodino,scatole per cd,scatole per cd,4
+idefics2-iter1,furniture,mobili,comodino,scatole per dvd,scatole per dvd,5
+idefics2-iter1,furniture,mobili,comodino,scatole per dischi,scatole per dischi,6
+idefics2-iter1,furniture,mobili,comodino,scatole per fasce,scatole per fasce,7
+idefics2-iter1,furniture,mobili,comodino,scatole per fasce per cd,scatole per fasce per cd,8
+idefics2-iter1,furniture,mobili,comodino,scatole per fasce per dvd,scatole per fasce per dvd,9
+idefics2-iter1,furniture,mobili,comodino,scatole per fasce per dischi,scatole per fasce per dischi,10
+idefics2-iter1,furniture,mobili,comodino,scatole per fasce per film,scatole per fasce per film,11
+idefics2-iter1,furniture,mobili,comodino,scatole per fasce per film 3d,scatole per fasce per film 3d,12
+idefics2-iter1,furniture,mobili,comodino,scatole per fasce per film 70mm,scatole per fasce per film 70mm,13
+idefics2-iter1,furniture,mobili,comodino,scatole per fasce per film 8mm,scatole per fasce per film 8mm,14
+idefics2-iter1,furniture,mobili,comodino,scatole per fasce per film 16mm,scatole per fasce per film 16mm,15
+idefics2-iter1,furniture,mobili,comodino,scatole per fasce per film 35mm,scatole per fasce per film 35mm,16
+idefics2-iter1,furniture,mobili,comodino,scatole per fasce per film 70,scatole per fasce per film 70,17
+idefics2-iter1,hobbies,passatempi,computer,desktop,desktop,1
+idefics2-iter1,hobbies,passatempi,computer,laptop,laptop,2
+idefics2-iter1,hobbies,passatempi,computer,tablet,tablet,3
+idefics2-iter1,hobbies,passatempi,computer,smartphone,smartphone,4
+idefics2-iter1,hobbies,passatempi,computer,server,server,5
+idefics2-iter1,hobbies,passatempi,computer,mainframe,mainframe,6
+idefics2-iter1,furniture,mobili,comò,comò a cassette,a cassette,1
+idefics2-iter1,furniture,mobili,comò,comò a cassette a cassette,a cassette a cassette,2
+idefics2-iter1,furniture,mobili,comò,comò a cassette a cassette a cassette,a cassette a cassette a cassette,3
+idefics2-iter1,furniture,mobili,comò,comò a cassette a cassette a cassette a cassette,a cassette a cassette a cassette a cassette,4
+idefics2-iter1,furniture,mobili,comò,comò a cassette a cassette a cassette a cassette a cassette,a cassette a cassette a cassette a cassette a cassette,5
+idefics2-iter1,furniture,mobili,comò,comò a cassette a cassette a cassette a cassette a cassette a cassette,a cassette a cassette a cassette a cassette a cassette a cassette,6
+idefics2-iter1,furniture,mobili,comò,comò a cassette a cassette a cassette a cassette a cassette a cassette a cassette,a cassette a cassette a cassette a cassette a cassette a cassette a cassette,7
+idefics2-iter1,furniture,mobili,comò,comò a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette,a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette,8
+idefics2-iter1,furniture,mobili,comò,comò a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette,a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette,9
+idefics2-iter1,furniture,mobili,comò,comò a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette,a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette,10
+idefics2-iter1,furniture,mobili,comò,comò a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette,a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette,11
+idefics2-iter1,furniture,mobili,comò,comò a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cass,a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cassette a cass,12
+idefics2-iter1,animals,animali,coniglio,coniglio selvatico,selvatico,1
+idefics2-iter1,animals,animali,coniglio,coniglio domestico,domestico,2
+idefics2-iter1,animals,animali,coniglio,coniglio d'acqua,d'acqua,3
+idefics2-iter1,animals,animali,coniglio,coniglio d'acqua selvatico,d'acqua selvatico,4
+idefics2-iter1,animals,animali,coniglio,coniglio d'acqua domestico,d'acqua domestico,5
+idefics2-iter1,animals,animali,coniglio,coniglio d'acqua selvatico domestico,d'acqua selvatico domestico,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cornice,cornice interna,interna,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cornice,cornice esterna,esterna,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cornice,cornice in legno,in legno,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cornice,cornice in cemento,in cemento,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cornice,cornice in pietra,in pietra,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cornice,cornice in metallo,in metallo,6
+idefics2-iter1,furniture,mobili,credenza,buffet,buffet,1
+idefics2-iter1,furniture,mobili,credenza,cassette,cassette,2
+idefics2-iter1,furniture,mobili,credenza,cassette a scompartimenti,cassette a scompartimenti,3
+idefics2-iter1,furniture,mobili,credenza,cassette a scompartimenti a sestante,cassette a scompartimenti a sestante,4
+idefics2-iter1,furniture,mobili,credenza,cassette a scompartimenti a sestante a scompartimento,cassette a scompartimenti a sestante a scompartimento,5
+idefics2-iter1,furniture,mobili,credenza,cassette a scompartimenti a sestante a scompartimento a scompartimento,cassette a scompartimenti a sestante a scompartimento a scompartimento,6
+idefics2-iter1,furniture,mobili,credenza,cassette a scompartimenti a sestante a scompartimento a scompartimento a scompartimento,cassette a scompartimenti a sestante a scompartimento a scompartimento a scompartimento,7
+idefics2-iter1,furniture,mobili,credenza,cassette a scompartimenti a scompartimento a scompartimento a scompartimento a scompartimento,cassette a scompartimenti a scompartimento a scompartimento a scompartimento a scompartimento,8
+idefics2-iter1,furniture,mobili,credenza,cassette a scompartimenti a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento,cassette a scompartimenti a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento,9
+idefics2-iter1,furniture,mobili,credenza,cassette a scompartimenti a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento,cassette a scompartimenti a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento,10
+idefics2-iter1,furniture,mobili,credenza,cassette a scompartimenti a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompart,cassette a scompartimenti a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompartimento a scompart,11
+idefics2-iter1,hobbies,passatempi,cruciverba,parola,parola,1
+idefics2-iter1,hobbies,passatempi,cruciverba,risposta,risposta,2
+idefics2-iter1,hobbies,passatempi,cruciverba,enigma,enigma,3
+idefics2-iter1,hobbies,passatempi,cruciverba,riddle,riddle,4
+idefics2-iter1,hobbies,passatempi,cruciverba,puzzle,puzzle,5
+idefics2-iter1,hobbies,passatempi,cruciverba,enigma,enigma,6
+idefics2-iter1,kitchenware,utensili da cucina,cucchiaio,cucchiaio da bocca,da bocca,1
+idefics2-iter1,kitchenware,utensili da cucina,cucchiaio,cucchiaio da bocca per bambini,da bocca per bambini,2
+idefics2-iter1,kitchenware,utensili da cucina,cucchiaio,cucchiaio da bocca per adulti,da bocca per adulti,3
+idefics2-iter1,kitchenware,utensili da cucina,cucchiaio,cucchiaio da boc,da boc,4
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina americana,americana,1
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina italiana,italiana,2
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina cinese,cinese,3
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina indiana,indiana,4
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina messicana,messicana,5
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina greca,greca,6
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina siciliana,siciliana,7
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina francese,francese,8
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina spagnola,spagnola,9
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina russa,russa,10
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina taiwanese,taiwanese,11
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina coreana,coreana,12
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina giapponese,giapponese,13
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina indonesiana,indonesiana,14
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina filippina,filippina,15
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina thailandese,thailandese,16
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina vietnamita,vietnamita,17
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina cilena,cilena,18
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina brasiliana,brasiliana,19
+idefics2-iter1,housing buildings,edifici residenziali,cucina,cucina argentina,argentina,20
+idefics2-iter1,housing buildings,edifici residenziali,cucina,c,c,21
+idefics2-iter1,body parts,parti del corpo,cuore,ventricolo sinistro,ventricolo sinistro,1
+idefics2-iter1,body parts,parti del corpo,cuore,ventricolo destro,ventricolo destro,2
+idefics2-iter1,body parts,parti del corpo,cuore,atrio sinistro,atrio sinistro,3
+idefics2-iter1,body parts,parti del corpo,cuore,atrio destro,atrio destro,4
+idefics2-iter1,body parts,parti del corpo,cuore,tricuspidale valva,tricuspidale valva,5
+idefics2-iter1,body parts,parti del corpo,cuore,mitrali valva,mitrali valva,6
+idefics2-iter1,body parts,parti del corpo,cuore,aorta,aorta,7
+idefics2-iter1,body parts,parti del corpo,cuore,mitrali valva,mitrali valva,8
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino da letto,da letto,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino per la testa,per la testa,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino per il collo,per il collo,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino per il piede,per il piede,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino per la schiena,per la schiena,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino per la spina dorsale,per la spina dorsale,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino per la schiena e la spina dorsale,per la schiena e la spina dorsale,7
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino per la schiena e la spina dorsale con supporto per il collo,per la schiena e la spina dorsale con supporto per il collo,8
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino per la schiena e la spina dorsale con supporto per il piede,per la schiena e la spina dorsale con supporto per il piede,9
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,cuscino per la schiena e la spina dorsale con supporto per il piede e il collo,per la schiena e la spina dorsale con supporto per il piede e il collo,10
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,"cuscino per la schiena e la spina dorsale con supporto per il piede, il collo e la testa","per la schiena e la spina dorsale con supporto per il piede, il collo e la testa",11
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,"cuscino per la schiena e la spina dorsale con supporto per il piede, il collo e la testa e il braccio","per la schiena e la spina dorsale con supporto per il piede, il collo e la testa e il braccio",12
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,"cuscino per la schiena e la spina dorsale con supporto per il piede, il collo e la testa e il braccio e il ginocchio","per la schiena e la spina dorsale con supporto per il piede, il collo e la testa e il braccio e il ginocchio",13
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,cuscino,"cuscino per la schiena e la spina dorsale con supporto per il piede, il collo e la testa e il braccio e il ginocchio e il braccio","per la schiena e la spina dorsale con supporto per il piede, il collo e la testa e il braccio e il ginocchio e il braccio",14
+idefics2-iter1,animals,animali,delfino,delfino del pacifico,del pacifico,1
+idefics2-iter1,animals,animali,delfino,delfino del mar del nord,del mar del nord,2
+idefics2-iter1,animals,animali,delfino,delfino del mar del baltico,del mar del baltico,3
+idefics2-iter1,animals,animali,delfino,delfino del mar del giappone,del mar del giappone,4
+idefics2-iter1,animals,animali,delfino,delfino del mar del nord atlantico,del mar del nord atlantico,5
+idefics2-iter1,furniture,mobili,divano,divano da gioco,da gioco,1
+idefics2-iter1,furniture,mobili,divano,divano da gioco con tavolo,da gioco con tavolo,2
+idefics2-iter1,furniture,mobili,divano,divano da gioco con tavolo e sedie,da gioco con tavolo e sedie,3
+idefics2-iter1,furniture,mobili,divano,divano da gioco con tavolo e sedie e tavolo,da gioco con tavolo e sedie e tavolo,4
+idefics2-iter1,plants,piante,edera,acacia,acacia,1
+idefics2-iter1,plants,piante,edera,arbutus,arbutus,2
+idefics2-iter1,plants,piante,edera,cedro,cedro,3
+idefics2-iter1,plants,piante,edera,cipresso,cipresso,4
+idefics2-iter1,plants,piante,edera,ciliegio,ciliegio,5
+idefics2-iter1,plants,piante,edera,fagus,fagus,6
+idefics2-iter1,plants,piante,edera,ginkgo,ginkgo,7
+idefics2-iter1,plants,piante,edera,gleditsia,gleditsia,8
+idefics2-iter1,plants,piante,edera,grevillia,grevillia,9
+idefics2-iter1,plants,piante,edera,ipomoea,ipomoea,10
+idefics2-iter1,plants,piante,edera,liquidambar,liquidambar,11
+idefics2-iter1,plants,piante,edera,mimosa,mimosa,12
+idefics2-iter1,plants,piante,edera,moro,moro,13
+idefics2-iter1,plants,piante,edera,nerprun,nerprun,14
+idefics2-iter1,plants,piante,edera,olivo,olivo,15
+idefics2-iter1,plants,piante,edera,pino,pino,16
+idefics2-iter1,plants,piante,edera,pino cembro,pino cembro,17
+idefics2-iter1,plants,piante,edera,pino cipressino,pino cipressino,18
+idefics2-iter1,plants,piante,edera,pino rosso,pino rosso,19
+idefics2-iter1,plants,piante,edera,pino silvestre,pino silvestre,20
+idefics2-iter1,plants,piante,edera,pino verde,pino verde,21
+idefics2-iter1,plants,piante,edera,quercia,quercia,22
+idefics2-iter1,plants,piante,edera,salice,salice,23
+idefics2-iter1,plants,piante,edera,sambuco,sambuco,24
+idefics2-iter1,plants,piante,edera,tasso,tasso,25
+idefics2-iter1,plants,piante,edera,ulivo,ulivo,26
+idefics2-iter1,animals,animali,elefante,african elephant,african elephant,1
+idefics2-iter1,animals,animali,elefante,asian elephant,asian elephant,2
+idefics2-iter1,animals,animali,elefante,indian elephant,indian elephant,3
+idefics2-iter1,animals,animali,elefante,bornean elephant,bornean elephant,4
+idefics2-iter1,animals,animali,elefante,sumatran elephant,sumatran elephant,5
+idefics2-iter1,animals,animali,elefante,sri lankan elephant,sri lankan elephant,6
+idefics2-iter1,vehicles,veicoli,elicottero,elicottero da combattimento,da combattimento,1
+idefics2-iter1,vehicles,veicoli,elicottero,elicottero da trasporto,da trasporto,2
+idefics2-iter1,vehicles,veicoli,elicottero,elicottero da ricognizione,da ricognizione,3
+idefics2-iter1,vehicles,veicoli,elicottero,elicottero da ricerca,da ricerca,4
+idefics2-iter1,vehicles,veicoli,elicottero,elicottero da soccorso,da soccorso,5
+idefics2-iter1,stationery,cancelleria,evidenziatore,marker,marker,1
+idefics2-iter1,stationery,cancelleria,evidenziatore,penna,penna,2
+idefics2-iter1,stationery,cancelleria,evidenziatore,stilografo,stilografo,3
+idefics2-iter1,stationery,cancelleria,evidenziatore,stilografo a inchiostro,stilografo a inchiostro,4
+idefics2-iter1,stationery,cancelleria,evidenziatore,stilografo a carta,stilografo a carta,5
+idefics2-iter1,clothes,vestiti,felpa,borsa,borsa,1
+idefics2-iter1,clothes,vestiti,felpa,scarpe,scarpe,2
+idefics2-iter1,clothes,vestiti,felpa,cappello,cappello,3
+idefics2-iter1,clothes,vestiti,felpa,cuffia,cuffia,4
+idefics2-iter1,clothes,vestiti,felpa,guantino,guantino,5
+idefics2-iter1,clothes,vestiti,felpa,gomma,gomma,6
+idefics2-iter1,plants,piante,ficus,ficus benjamina,benjamina,1
+idefics2-iter1,plants,piante,ficus,ficus elastica,elastica,2
+idefics2-iter1,plants,piante,ficus,ficus pumila,pumila,3
+idefics2-iter1,plants,piante,ficus,ficus carica,carica,4
+idefics2-iter1,plants,piante,ficus,ficus gummifera,gummifera,5
+idefics2-iter1,plants,piante,ficus,ficus lutea,lutea,6
+idefics2-iter1,housing buildings,edifici residenziali,finestra,finestra aperta,aperta,1
+idefics2-iter1,housing buildings,edifici residenziali,finestra,finestra chiusa,chiusa,2
+idefics2-iter1,housing buildings,edifici residenziali,finestra,finestra chiusa,chiusa,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,fioriera,fiori,fiori,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,fioriera,pianta,pianta,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,fioriera,arboreo,arboreo,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,fioriera,arbusto,arbusto,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,fioriera,erba,erba,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,fioriera,albero,albero,6
+idefics2-iter1,stationery,cancelleria,foglio,carta,carta,1
+idefics2-iter1,stationery,cancelleria,foglio,carta da scrittura,carta da scrittura,2
+idefics2-iter1,stationery,cancelleria,foglio,carta da rilevare,carta da rilevare,3
+idefics2-iter1,stationery,cancelleria,foglio,carta da rilevare a mano,carta da rilevare a mano,4
+idefics2-iter1,stationery,cancelleria,foglio,carta da rilevare a stampo,carta da rilevare a stampo,5
+idefics2-iter1,stationery,cancelleria,foglio,carta da rilevare a stampo a colori,carta da rilevare a stampo a colori,6
+idefics2-iter1,stationery,cancelleria,foglio,carta da rilevare a stampo a colori a mano,carta da rilevare a stampo a colori a mano,7
+idefics2-iter1,stationery,cancelleria,foglio,carta da rilevare a stamp,carta da rilevare a stamp,8
+idefics2-iter1,kitchenware,utensili da cucina,forbice,forbice da taglio,da taglio,1
+idefics2-iter1,kitchenware,utensili da cucina,forbice,forbice da taglio e taglia,da taglio e taglia,2
+idefics2-iter1,kitchenware,utensili da cucina,forbice,forbice da taglio e taglia e taglia e taglia,da taglio e taglia e taglia e taglia,3
+idefics2-iter1,kitchenware,utensili da cucina,forbice,forbice da taglio e taglia e taglia e taglia e taglia e taglia,da taglio e taglia e taglia e taglia e taglia e taglia,4
+idefics2-iter1,kitchenware,utensili da cucina,forbice,forbice da taglio e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e,da taglio e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e,5
+idefics2-iter1,kitchenware,utensili da cucina,forchetta,forchetta da cucina,da cucina,1
+idefics2-iter1,kitchenware,utensili da cucina,forchetta,forchetta da tavola,da tavola,2
+idefics2-iter1,kitchenware,utensili da cucina,forchetta,forchetta da tavola,da tavola,3
+idefics2-iter1,foods,cibi,formaggio,brie,brie,1
+idefics2-iter1,foods,cibi,formaggio,camembert,camembert,2
+idefics2-iter1,foods,cibi,formaggio,cheddar,cheddar,3
+idefics2-iter1,foods,cibi,formaggio,edam,edam,4
+idefics2-iter1,foods,cibi,formaggio,feta,feta,5
+idefics2-iter1,foods,cibi,formaggio,gorgonzola,gorgonzola,6
+idefics2-iter1,foods,cibi,formaggio,mozzarella,mozzarella,7
+idefics2-iter1,foods,cibi,formaggio,parmigiano reggiano,parmigiano reggiano,8
+idefics2-iter1,foods,cibi,formaggio,pecorino,pecorino,9
+idefics2-iter1,foods,cibi,formaggio,provolone,provolone,10
+idefics2-iter1,foods,cibi,formaggio,ricotta,ricotta,11
+idefics2-iter1,foods,cibi,formaggio,roquefort,roquefort,12
+idefics2-iter1,foods,cibi,formaggio,stilton,stilton,13
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,fotocamera,fotocamera,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,telefono cellulare,telefono cellulare,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,tablet,tablet,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,computer,computer,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,fotografia,smartphone,smartphone,5
+idefics2-iter1,foods,cibi,frutta,mela,mela,1
+idefics2-iter1,foods,cibi,frutta,mango,mango,2
+idefics2-iter1,foods,cibi,frutta,banana,banana,3
+idefics2-iter1,foods,cibi,frutta,ciliegie,ciliegie,4
+idefics2-iter1,foods,cibi,frutta,uva,uva,5
+idefics2-iter1,foods,cibi,frutta,pere,pere,6
+idefics2-iter1,foods,cibi,frutta,cachi,cachi,7
+idefics2-iter1,foods,cibi,frutta,mandorle,mandorle,8
+idefics2-iter1,foods,cibi,frutta,mirti,mirti,9
+idefics2-iter1,foods,cibi,frutta,caramelle,caramelle,10
+idefics2-iter1,vehicles,veicoli,furgone,camion,camion,1
+idefics2-iter1,vehicles,veicoli,furgone,pickup,pickup,2
+idefics2-iter1,vehicles,veicoli,furgone,van,van,3
+idefics2-iter1,vehicles,veicoli,furgone,autobus,autobus,4
+idefics2-iter1,vehicles,veicoli,furgone,autocarro,autocarro,5
+idefics2-iter1,animals,animali,gallo,gallina,na,1
+idefics2-iter1,animals,animali,gallo,petti gallo,petti ,2
+idefics2-iter1,animals,animali,gallo,gallo selvatico,selvatico,3
+idefics2-iter1,animals,animali,gallo,gallo selvatico americano,selvatico americano,4
+idefics2-iter1,animals,animali,gallo,gallo selvatico europeo,selvatico europeo,5
+idefics2-iter1,animals,animali,gallo,gallo selvatico asiatico,selvatico asiatico,6
+idefics2-iter1,animals,animali,gallo,gallo selvatico africano,selvatico africano,7
+idefics2-iter1,animals,animali,gallo,gallo selvatico australiano,selvatico australiano,8
+idefics2-iter1,animals,animali,gallo,gallo selvatico sudamericano,selvatico sudamericano,9
+idefics2-iter1,animals,animali,gallo,gallo selvatico nordamericano,selvatico nordamericano,10
+idefics2-iter1,animals,animali,gallo,gallo selvatico centroamericano,selvatico centroamericano,11
+idefics2-iter1,body parts,parti del corpo,gamba,gamba destra,destra,1
+idefics2-iter1,body parts,parti del corpo,gamba,gamba sinistra,sinistra,2
+idefics2-iter1,body parts,parti del corpo,gamba,gamba interna,interna,3
+idefics2-iter1,body parts,parti del corpo,gamba,gamba esterna,esterna,4
+idefics2-iter1,body parts,parti del corpo,gamba,gamba superficiale,superficiale,5
+idefics2-iter1,body parts,parti del corpo,gamba,gamba profonda,profonda,6
+idefics2-iter1,animals,animali,gatto,gatto domestico,domestico,1
+idefics2-iter1,animals,animali,gatto,gatto selvatico,selvatico,2
+idefics2-iter1,animals,animali,gatto,gatto di casa,di casa,3
+idefics2-iter1,animals,animali,gatto,gatto di strada,di strada,4
+idefics2-iter1,animals,animali,gatto,gatto di stalla,di stalla,5
+idefics2-iter1,animals,animali,gatto,gatto di caccia,di caccia,6
+idefics2-iter1,plants,piante,geranio,geranium sanguineum,geranium sanguineum,1
+idefics2-iter1,plants,piante,geranio,geranium phaeum,geranium phaeum,2
+idefics2-iter1,plants,piante,geranio,geranium sessile,geranium sessile,3
+idefics2-iter1,plants,piante,geranio,geranium pyrenaicum,geranium pyrenaicum,4
+idefics2-iter1,plants,piante,geranio,geranium robertianum,geranium robertianum,5
+idefics2-iter1,plants,piante,geranio,geranium wallichianum,geranium wallichianum,6
+idefics2-iter1,clothes,vestiti,giacca,casual,casual,1
+idefics2-iter1,clothes,vestiti,giacca,sport,sport,2
+idefics2-iter1,clothes,vestiti,giacca,business,business,3
+idefics2-iter1,clothes,vestiti,giacca,formal,formal,4
+idefics2-iter1,clothes,vestiti,giacca,denim,denim,5
+idefics2-iter1,clothes,vestiti,giacca,leather,leather,6
+idefics2-iter1,clothes,vestiti,gilet,gilet da moto,da moto,1
+idefics2-iter1,clothes,vestiti,gilet,gilet da ciclismo,da ciclismo,2
+idefics2-iter1,clothes,vestiti,gilet,gilet da corsa,da corsa,3
+idefics2-iter1,clothes,vestiti,gilet,gilet da bicicletta,da bicicletta,4
+idefics2-iter1,clothes,vestiti,gilet,gilet da corsa,da corsa,5
+idefics2-iter1,hobbies,passatempi,gioco da tavola,scacchiere,scacchiere,1
+idefics2-iter1,hobbies,passatempi,gioco da tavola,domino,domino,2
+idefics2-iter1,hobbies,passatempi,gioco da tavola,poker,poker,3
+idefics2-iter1,hobbies,passatempi,gioco da tavola,bridge,bridge,4
+idefics2-iter1,hobbies,passatempi,gioco da tavola,monopoly,monopoly,5
+idefics2-iter1,hobbies,passatempi,giornale,corriere della sera,corriere della sera,1
+idefics2-iter1,hobbies,passatempi,giornale,la repubblica,la repubblica,2
+idefics2-iter1,hobbies,passatempi,giornale,il giornale,il ,3
+idefics2-iter1,hobbies,passatempi,giornale,la stampa,la stampa,4
+idefics2-iter1,hobbies,passatempi,giornale,il fatto quotidiano,il fatto quotidiano,5
+idefics2-iter1,hobbies,passatempi,giornale,il corriere della sera,il corriere della sera,6
+idefics2-iter1,animals,animali,giraffa,giraffa nera,nera,1
+idefics2-iter1,animals,animali,giraffa,giraffa rossa,rossa,2
+idefics2-iter1,animals,animali,giraffa,giraffa bianca,bianca,3
+idefics2-iter1,animals,animali,giraffa,giraffa gialla,gialla,4
+idefics2-iter1,animals,animali,giraffa,giraffa blu,blu,5
+idefics2-iter1,plants,piante,girasole,girasole gigante,gigante,1
+idefics2-iter1,plants,piante,girasole,girasole a fiore,a fiore,2
+idefics2-iter1,plants,piante,girasole,girasole a foglia,a foglia,3
+idefics2-iter1,plants,piante,girasole,girasole a fiori,a fiori,4
+idefics2-iter1,plants,piante,girasole,girasole a foglie,a foglie,5
+idefics2-iter1,clothes,vestiti,giubotto,giubotto da lavoro,da lavoro,1
+idefics2-iter1,clothes,vestiti,giubotto,giubotto da ginnastica,da ginnastica,2
+idefics2-iter1,clothes,vestiti,giubotto,giubotto da bicicletta,da bicicletta,3
+idefics2-iter1,clothes,vestiti,giubotto,giubotto da moto,da moto,4
+idefics2-iter1,clothes,vestiti,giubotto,giubotto da motociclo,da motociclo,5
+idefics2-iter1,clothes,vestiti,giubotto,giubotto da scooter,da scooter,6
+idefics2-iter1,clothes,vestiti,giubotto,giubotto da motociclo,da motociclo,7
+idefics2-iter1,stationery,cancelleria,gomma,pneumatico,pneumatico,1
+idefics2-iter1,stationery,cancelleria,gomma,pneumatico per bicicletta,pneumatico per bicicletta,2
+idefics2-iter1,stationery,cancelleria,gomma,pneumatico per auto,pneumatico per auto,3
+idefics2-iter1,stationery,cancelleria,gomma,pneumatico per camion,pneumatico per camion,4
+idefics2-iter1,stationery,cancelleria,gomma,pneumatico per motociclo,pneumatico per motociclo,5
+idefics2-iter1,stationery,cancelleria,gomma,pneumatico per moto,pneumatico per moto,6
+idefics2-iter1,stationery,cancelleria,gomma,pneumatico per moto,pneumatico per moto,7
+idefics2-iter1,clothes,vestiti,gonna,vai,vai,1
+idefics2-iter1,clothes,vestiti,gonna,vado,vado,2
+idefics2-iter1,clothes,vestiti,gonna,ando,ando,3
+idefics2-iter1,clothes,vestiti,gonna,vai,vai,4
+idefics2-iter1,stationery,cancelleria,graffetta,tag,tag,1
+idefics2-iter1,stationery,cancelleria,graffetta,grafiti,grafiti,2
+idefics2-iter1,stationery,cancelleria,graffetta,stencil,stencil,3
+idefics2-iter1,stationery,cancelleria,graffetta,calligrafia,calligrafia,4
+idefics2-iter1,stationery,cancelleria,graffetta,lettering,lettering,5
+idefics2-iter1,stationery,cancelleria,graffetta,street art,street art,6
+idefics2-iter1,clothes,vestiti,guanti,guanti da lavoro,da lavoro,1
+idefics2-iter1,clothes,vestiti,guanti,guanti da bicchiere,da bicchiere,2
+idefics2-iter1,clothes,vestiti,guanti,guanti da cucina,da cucina,3
+idefics2-iter1,foods,cibi,insalata,insalata mista,mista,1
+idefics2-iter1,foods,cibi,insalata,insalata di verdure,di verdure,2
+idefics2-iter1,foods,cibi,insalata,insalata di carne,di carne,3
+idefics2-iter1,foods,cibi,insalata,insalata di pesce,di pesce,4
+idefics2-iter1,foods,cibi,insalata,insalata di frutta,di frutta,5
+idefics2-iter1,foods,cibi,insalata,insalata di patate,di patate,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada a incandescenza,a incandescenza,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada led,led,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada fluorescente,fluorescente,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada halogena,halogena,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada a bassa pressione,a bassa pressione,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,lampada,lampada a bassa tensione,a bassa tensione,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampada,lampada,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampadina,lampadina,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampadina da tavolo,lampadina da tavolo,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampadina da parete,lampadina da parete,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampadina da soffitto,lampadina da soffitto,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,lampadario,lampadina da muro,lampadina da muro,6
+idefics2-iter1,foods,cibi,latte,latte di bovino,di bovino,1
+idefics2-iter1,foods,cibi,latte,latte di formaggio,di formaggio,2
+idefics2-iter1,foods,cibi,latte,latte di soia,di soia,3
+idefics2-iter1,foods,cibi,latte,latte di coco,di coco,4
+idefics2-iter1,foods,cibi,latte,latte di riso,di riso,5
+idefics2-iter1,foods,cibi,latte,latte di almond,di almond,6
+idefics2-iter1,foods,cibi,legume,fagioli,fagioli,1
+idefics2-iter1,foods,cibi,legume,fave,fave,2
+idefics2-iter1,foods,cibi,legume,lenticchie,lenticchie,3
+idefics2-iter1,foods,cibi,legume,piselli,piselli,4
+idefics2-iter1,foods,cibi,legume,fagiolini,fagiolini,5
+idefics2-iter1,foods,cibi,legume,fagiolini bianchi,fagiolini bianchi,6
+idefics2-iter1,foods,cibi,legume,fagiolini neri,fagiolini neri,7
+idefics2-iter1,foods,cibi,legume,fagiolini rossi,fagiolini rossi,8
+idefics2-iter1,foods,cibi,legume,fagiolini verdi,fagiolini verdi,9
+idefics2-iter1,foods,cibi,legume,fagiolini gialli,fagiolini gialli,10
+idefics2-iter1,foods,cibi,legume,fagiolini bianchi,fagiolini bianchi,11
+idefics2-iter1,animals,animali,leone,leonessa,ssa,1
+idefics2-iter1,animals,animali,leone,leoncino,leoncino,2
+idefics2-iter1,animals,animali,leone,leone marino,marino,3
+idefics2-iter1,animals,animali,leone,leone dorato,dorato,4
+idefics2-iter1,furniture,mobili,letto,libro,libro,1
+idefics2-iter1,furniture,mobili,letto,carta,carta,2
+idefics2-iter1,furniture,mobili,letto,tablet,tablet,3
+idefics2-iter1,furniture,mobili,letto,telefono,telefono,4
+idefics2-iter1,furniture,mobili,letto,computer,computer,5
+idefics2-iter1,furniture,mobili,letto,telefonino,telefonino,6
+idefics2-iter1,hobbies,passatempi,lettore,libro,libro,1
+idefics2-iter1,hobbies,passatempi,lettore,tablet,tablet,2
+idefics2-iter1,hobbies,passatempi,lettore,smartphone,smartphone,3
+idefics2-iter1,hobbies,passatempi,lettore,computer,computer,4
+idefics2-iter1,hobbies,passatempi,lettore,e-book,e-book,5
+idefics2-iter1,hobbies,passatempi,lettore,audiobook,audiobook,6
+idefics2-iter1,furniture,mobili,libreria,libreria online,online,1
+idefics2-iter1,furniture,mobili,libreria,libreria virtuale,virtuale,2
+idefics2-iter1,furniture,mobili,libreria,libreria di riferimento,di riferimento,3
+idefics2-iter1,furniture,mobili,libreria,libreria di stampa,di stampa,4
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo,di catalogo,5
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo online,di catalogo online,6
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo virtuale,di catalogo virtuale,7
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo di riferimento,di catalogo di riferimento,8
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo di stampa,di catalogo di stampa,9
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo di catalogo,di catalogo di catalogo,10
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo di catalogo online,di catalogo di catalogo online,11
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo di catalogo virtuale,di catalogo di catalogo virtuale,12
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo di catalogo di riferimento,di catalogo di catalogo di riferimento,13
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo di catalogo di stampa,di catalogo di catalogo di stampa,14
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo di catalogo di catalogo online,di catalogo di catalogo di catalogo online,15
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo di catalogo di catalogo virtuale,di catalogo di catalogo di catalogo virtuale,16
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo di catalogo di catalogo di riferimento,di catalogo di catalogo di catalogo di riferimento,17
+idefics2-iter1,furniture,mobili,libreria,libreria di catalogo di catalogo di catalogo di stampa,di catalogo di catalogo di catalogo di stampa,18
+idefics2-iter1,hobbies,passatempi,libro,romanzo,romanzo,1
+idefics2-iter1,hobbies,passatempi,libro,racconto,racconto,2
+idefics2-iter1,hobbies,passatempi,libro,poesia,poesia,3
+idefics2-iter1,hobbies,passatempi,libro,saggistica,saggistica,4
+idefics2-iter1,hobbies,passatempi,libro,biografia,biografia,5
+idefics2-iter1,hobbies,passatempi,libro,testo scolastico,testo scolastico,6
+idefics2-iter1,animals,animali,lucertola,gecko,gecko,1
+idefics2-iter1,animals,animali,lucertola,iguana,iguana,2
+idefics2-iter1,animals,animali,lucertola,salamandra,salamandra,3
+idefics2-iter1,animals,animali,lucertola,scinco,scinco,4
+idefics2-iter1,animals,animali,lucertola,lizard,lizard,5
+idefics2-iter1,animals,animali,lucertola,varano,varano,6
+idefics2-iter1,clothes,vestiti,maglia,maglia a maniche lunghe,a maniche lunghe,1
+idefics2-iter1,clothes,vestiti,maglia,maglia a maniche corte,a maniche corte,2
+idefics2-iter1,clothes,vestiti,maglia,maglia a maniche lunghe con maniche corte,a maniche lunghe con maniche corte,3
+idefics2-iter1,clothes,vestiti,maglia,maglia a maniche lunghe con maniche lunghe,a maniche lunghe con maniche lunghe,4
+idefics2-iter1,clothes,vestiti,maglia,maglia a maniche lunghe con maniche corte e maniche lunghe,a maniche lunghe con maniche corte e maniche lunghe,5
+idefics2-iter1,clothes,vestiti,maglia,maglia a maniche lunghe con maniche corte e maniche lunghe con maniche corte,a maniche lunghe con maniche corte e maniche lunghe con maniche corte,6
+idefics2-iter1,clothes,vestiti,maglia,maglia a maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe,a maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe,7
+idefics2-iter1,clothes,vestiti,maglia,maglia a maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con man,a maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con maniche corte e maniche lunghe con man,8
+idefics2-iter1,animals,animali,maiale,porco,porco,1
+idefics2-iter1,animals,animali,maiale,suino,suino,2
+idefics2-iter1,animals,animali,maiale,cinghiale,cinghiale,3
+idefics2-iter1,animals,animali,maiale,capra,capra,4
+idefics2-iter1,animals,animali,maiale,cervo,cervo,5
+idefics2-iter1,body parts,parti del corpo,mano,mano destra,destra,1
+idefics2-iter1,body parts,parti del corpo,mano,mano sinistra,sinistra,2
+idefics2-iter1,body parts,parti del corpo,mano,man,man,3
+idefics2-iter1,plants,piante,margherita,pizza,pizza,1
+idefics2-iter1,plants,piante,margherita,pizza al taglio,pizza al taglio,2
+idefics2-iter1,plants,piante,margherita,pizza al forno,pizza al forno,3
+idefics2-iter1,plants,piante,margherita,pizza al forno a legna,pizza al forno a legna,4
+idefics2-iter1,plants,piante,margherita,pizza al forno a pietra,pizza al forno a pietra,5
+idefics2-iter1,plants,piante,margherita,pizza al forno a pietra a legna,pizza al forno a pietra a legna,6
+idefics2-iter1,plants,piante,margherita,pizza al forno a pietra a legna a taglio,pizza al forno a pietra a legna a taglio,7
+idefics2-iter1,plants,piante,margherita,pizza al forno a pietra a taglio a legna,pizza al forno a pietra a taglio a legna,8
+idefics2-iter1,plants,piante,margherita,pizza al forno a pietra a taglio a legna a taglio,pizza al forno a pietra a taglio a legna a taglio,9
+idefics2-iter1,plants,piante,margherita,pizza al forno a pietra a taglio a legna a taglio a taglio,pizza al forno a pietra a taglio a legna a taglio a taglio,10
+idefics2-iter1,plants,piante,margherita,pizza al forno a pietra a taglio a legna a taglio a taglio a taglio,pizza al forno a pietra a taglio a legna a taglio a taglio a taglio,11
+idefics2-iter1,plants,piante,margherita,pizza al forno a pietra a taglio a legna a taglio a,pizza al forno a pietra a taglio a legna a taglio a,12
+idefics2-iter1,stationery,cancelleria,matita,matita a gomma,a gomma,1
+idefics2-iter1,stationery,cancelleria,matita,matita a gomma a grana,a gomma a grana,2
+idefics2-iter1,stationery,cancelleria,matita,matita a gomma a grana a gomma,a gomma a grana a gomma,3
+idefics2-iter1,stationery,cancelleria,matita,matita a gomma a grana a gomma a grana,a gomma a grana a gomma a grana,4
+idefics2-iter1,stationery,cancelleria,matita,matita a gomma a grana a gomma a grana a gomma,a gomma a grana a gomma a grana a gomma,5
+idefics2-iter1,stationery,cancelleria,matita,matita a gomma a grana a gomma a grana a gomma a grana,a gomma a grana a gomma a grana a gomma a grana,6
+idefics2-iter1,stationery,cancelleria,matita,matita a gomma a grana a gomma a grana a gomma a grana a gomma,a gomma a grana a gomma a grana a gomma a grana a gomma,7
+idefics2-iter1,stationery,cancelleria,matita,matita a gomma a grana a gomma a grana a gomma a grana a gomma a grana,a gomma a grana a gomma a grana a gomma a grana a gomma a grana,8
+idefics2-iter1,stationery,cancelleria,matita,matita a gom,a gom,9
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido solforico,acido solforico,1
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido cloridrico,acido cloridrico,2
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido azotico,acido azotico,3
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido idrossido,acido idrossido,4
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido fosforico,acido fosforico,5
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido acetico,acido acetico,6
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido citrico,acido citrico,7
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido tartarico,acido tartarico,8
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido formico,acido formico,9
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido maleico,acido maleico,10
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido salicilico,acido salicilico,11
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido benzoico,acido benzoico,12
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido p-amino benzoico,acido p-amino benzoico,13
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido p-amino salicilico,acido p-amino salicilico,14
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido p-amino hippurico,acido p-amino hippurico,15
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido p-amino mandelico,acido p-amino mandelico,16
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido p-amino fenilacetico,acido p-amino fenilacetico,17
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido p-amino benzoato,acido p-amino benzoato,18
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido p-amino benzilico,acido p-amino benzilico,19
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,acido p-amino cinnamico,acido p-amino cinnamico,20
+idefics2-iter1,kitchenware,utensili da cucina,mestolo,ac,ac,21
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,metro,metro della linea 1,della linea 1,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,metro,metro della linea 2,della linea 2,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,metro,metro della linea 3,della linea 3,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,metro,metro della linea 4,della linea 4,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,metro,metro della linea 5,della linea 5,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,metro,metro della linea 6,della linea 6,6
+idefics2-iter1,plants,piante,mimosa,mimosa acuminata,acuminata,1
+idefics2-iter1,plants,piante,mimosa,mimosa pudica,pudica,2
+idefics2-iter1,plants,piante,mimosa,mimosa sylvestris,sylvestris,3
+idefics2-iter1,plants,piante,mimosa,mimosa scabra,scabra,4
+idefics2-iter1,plants,piante,mimosa,mimosa americana,americana,5
+idefics2-iter1,plants,piante,mimosa,mimosa taui,taui,6
+idefics2-iter1,vehicles,veicoli,motocicletta,harley-davidson,harley-davidson,1
+idefics2-iter1,vehicles,veicoli,motocicletta,honda,honda,2
+idefics2-iter1,vehicles,veicoli,motocicletta,yamaha,yamaha,3
+idefics2-iter1,vehicles,veicoli,motocicletta,suzuki,suzuki,4
+idefics2-iter1,vehicles,veicoli,motocicletta,kawasaki,kawasaki,5
+idefics2-iter1,vehicles,veicoli,motocicletta,bmw,bmw,6
+idefics2-iter1,animals,animali,mucca,bovino,bovino,1
+idefics2-iter1,animals,animali,mucca,bovino domestico,bovino domestico,2
+idefics2-iter1,animals,animali,mucca,bovino selvatico,bovino selvatico,3
+idefics2-iter1,animals,animali,mucca,bovino selvatico europeo,bovino selvatico europeo,4
+idefics2-iter1,animals,animali,mucca,bovino selvatico asiatico,bovino selvatico asiatico,5
+idefics2-iter1,animals,animali,mucca,bovino selvatico africano,bovino selvatico africano,6
+idefics2-iter1,animals,animali,mucca,bovino selvatico americano,bovino selvatico americano,7
+idefics2-iter1,animals,animali,mucca,bovino selvatico australiano,bovino selvatico australiano,8
+idefics2-iter1,animals,animali,mucca,bovino selvatico sudamericano,bovino selvatico sudamericano,9
+idefics2-iter1,animals,animali,mucca,bovino selvatico sudanese,bovino selvatico sudanese,10
+idefics2-iter1,animals,animali,mucca,bovino selvatico indiano,bovino selvatico indiano,11
+idefics2-iter1,animals,animali,mucca,bovino selvatico cinese,bovino selvatico cinese,12
+idefics2-iter1,animals,animali,mucca,bovino selvatico turco,bovino selvatico turco,13
+idefics2-iter1,animals,animali,mucca,bovino selvatico iraniano,bovino selvatico iraniano,14
+idefics2-iter1,animals,animali,mucca,bovino selvatico iracheno,bovino selvatico iracheno,15
+idefics2-iter1,animals,animali,mucca,bovino selvatico siriano,bovino selvatico siriano,16
+idefics2-iter1,animals,animali,mucca,bovino selvatico egiziano,bovino selvatico egiziano,17
+idefics2-iter1,animals,animali,mucca,bovino selvatico somalo,bovino selvatico somalo,18
+idefics2-iter1,animals,animali,mucca,bovino selvatico keniano,bovino selvatico keniano,19
+idefics2-iter1,animals,animali,mucca,bovino selv,bovino selv,20
+idefics2-iter1,housing buildings,edifici residenziali,muro,muro di cinta,di cinta,1
+idefics2-iter1,housing buildings,edifici residenziali,muro,muro di sicurezza,di sicurezza,2
+idefics2-iter1,housing buildings,edifici residenziali,muro,muro di controllo,di controllo,3
+idefics2-iter1,housing buildings,edifici residenziali,muro,muro di separazione,di separazione,4
+idefics2-iter1,housing buildings,edifici residenziali,muro,muro di supporto,di supporto,5
+idefics2-iter1,housing buildings,edifici residenziali,muro,muro di contenimento,di contenimento,6
+idefics2-iter1,body parts,parti del corpo,naso,bocca,bocca,1
+idefics2-iter1,body parts,parti del corpo,naso,orecchie,orecchie,2
+idefics2-iter1,body parts,parti del corpo,naso,labbra,labbra,3
+idefics2-iter1,body parts,parti del corpo,naso,palato,palato,4
+idefics2-iter1,body parts,parti del corpo,naso,mascella,mascella,5
+idefics2-iter1,vehicles,veicoli,nave,nave da crociera,da crociera,1
+idefics2-iter1,vehicles,veicoli,nave,nave da guerra,da guerra,2
+idefics2-iter1,vehicles,veicoli,nave,nave da pesca,da pesca,3
+idefics2-iter1,vehicles,veicoli,nave,nave da carico,da carico,4
+idefics2-iter1,vehicles,veicoli,nave,nave da passeggiate,da passeggiate,5
+idefics2-iter1,vehicles,veicoli,nave,nave da esplorazione,da esplorazione,6
+idefics2-iter1,body parts,parti del corpo,occhio,occhio sinistro,sinistro,1
+idefics2-iter1,body parts,parti del corpo,occhio,occhio destro,destro,2
+idefics2-iter1,body parts,parti del corpo,occhio,occhio sinistro-occhio destro,sinistro-occhio destro,3
+idefics2-iter1,body parts,parti del corpo,occhio,occhio cieco,cieco,4
+idefics2-iter1,body parts,parti del corpo,occhio,occhio di pesca,di pesca,5
+idefics2-iter1,body parts,parti del corpo,occhio,occhio di gatto,di gatto,6
+idefics2-iter1,plants,piante,orchidea,orchis,orchis,1
+idefics2-iter1,plants,piante,orchidea,cymbidium,cymbidium,2
+idefics2-iter1,plants,piante,orchidea,phalaenopsis,phalaenopsis,3
+idefics2-iter1,plants,piante,orchidea,dendrobium,dendrobium,4
+idefics2-iter1,plants,piante,orchidea,oncidium,oncidium,5
+idefics2-iter1,plants,piante,orchidea,paphiopedilum,paphiopedilum,6
+idefics2-iter1,body parts,parti del corpo,orecchio,orecchio destro,destro,1
+idefics2-iter1,body parts,parti del corpo,orecchio,orecchio sinistro,sinistro,2
+idefics2-iter1,body parts,parti del corpo,orecchio,orecchio interno,interno,3
+idefics2-iter1,body parts,parti del corpo,orecchio,orecchio esterno,esterno,4
+idefics2-iter1,body parts,parti del corpo,orecchio,orecchio mediale,mediale,5
+idefics2-iter1,body parts,parti del corpo,orecchio,orecchio laterale,laterale,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,orologio,orologio analogico,analogico,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,orologio,orologio digitale,digitale,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,orologio,orologio smartwatch,smartwatch,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,orologio,orologio per bicicletta,per bicicletta,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,orologio,orologio per auto,per auto,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,orologio,orologio per moto,per moto,6
+idefics2-iter1,animals,animali,orso,orso bruno,bruno,1
+idefics2-iter1,animals,animali,orso,orso polare,polare,2
+idefics2-iter1,animals,animali,orso,orso d'alaska,d'alaska,3
+idefics2-iter1,animals,animali,orso,orso d'europa,d'europa,4
+idefics2-iter1,animals,animali,orso,orso d'asia,d'asia,5
+idefics2-iter1,animals,animali,orso,orso d'africa,d'africa,6
+idefics2-iter1,animals,animali,orso,orso d'australia,d'australia,7
+idefics2-iter1,animals,animali,orso,orso d'america,d'america,8
+idefics2-iter1,animals,animali,orso,orso d'antartide,d'antartide,9
+idefics2-iter1,kitchenware,utensili da cucina,padella,padella da cucina,da cucina,1
+idefics2-iter1,kitchenware,utensili da cucina,padella,padella da cucina da forno,da cucina da forno,2
+idefics2-iter1,kitchenware,utensili da cucina,padella,padella da cucina da forno con manico,da cucina da forno con manico,3
+idefics2-iter1,kitchenware,utensili da cucina,padella,padella da cucina da forno con manico e manico regolabile,da cucina da forno con manico e manico regolabile,4
+idefics2-iter1,kitchenware,utensili da cucina,padella,padella da cucina da forno con manico e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile,da cucina da forno con manico e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile,5
+idefics2-iter1,hobbies,passatempi,palla,calcio,calcio,1
+idefics2-iter1,hobbies,passatempi,palla,tennis,tennis,2
+idefics2-iter1,hobbies,passatempi,palla,baseball,baseball,3
+idefics2-iter1,hobbies,passatempi,palla,pallavollo,vollo,4
+idefics2-iter1,hobbies,passatempi,palla,rugby,rugby,5
+idefics2-iter1,hobbies,passatempi,palla,pallacanestro,canestro,6
+idefics2-iter1,body parts,parti del corpo,pancia,stomaco,stomaco,1
+idefics2-iter1,body parts,parti del corpo,pancia,intestino,intestino,2
+idefics2-iter1,body parts,parti del corpo,pancia,duodeno,duodeno,3
+idefics2-iter1,body parts,parti del corpo,pancia,ileo,ileo,4
+idefics2-iter1,body parts,parti del corpo,pancia,colon,colon,5
+idefics2-iter1,body parts,parti del corpo,pancia,appendice,appendice,6
+idefics2-iter1,foods,cibi,pane,pane integrale,integrale,1
+idefics2-iter1,foods,cibi,pane,pane multigrano,multigrano,2
+idefics2-iter1,foods,cibi,pane,pane di frutta,di frutta,3
+idefics2-iter1,foods,cibi,pane,pane di avena,di avena,4
+idefics2-iter1,foods,cibi,pane,pane di farina,di farina,5
+idefics2-iter1,foods,cibi,pane,pane di grano,di grano,6
+idefics2-iter1,foods,cibi,pane,pane di mais,di mais,7
+idefics2-iter1,foods,cibi,pane,pane di orzo,di orzo,8
+idefics2-iter1,foods,cibi,pane,pane di patate,di patate,9
+idefics2-iter1,foods,cibi,pane,pane di riso,di riso,10
+idefics2-iter1,foods,cibi,pane,pane di yogurt,di yogurt,11
+idefics2-iter1,foods,cibi,pane,pane di ceci,di ceci,12
+idefics2-iter1,foods,cibi,pane,pane di amido,di amido,13
+idefics2-iter1,foods,cibi,pane,pane di amido di mais,di amido di mais,14
+idefics2-iter1,foods,cibi,pane,pane di amido di patate,di amido di patate,15
+idefics2-iter1,foods,cibi,pane,pane di amido di riso,di amido di riso,16
+idefics2-iter1,foods,cibi,pane,pane di amido di yogurt,di amido di yogurt,17
+idefics2-iter1,foods,cibi,pane,pane di amido di ceci,di amido di ceci,18
+idefics2-iter1,foods,cibi,pane,pane di amido di orzo,di amido di orzo,19
+idefics2-iter1,foods,cibi,pane,pane di am,di am,20
+idefics2-iter1,clothes,vestiti,pantalone,pantalone rosso,rosso,1
+idefics2-iter1,clothes,vestiti,pantalone,pantalone blu,blu,2
+idefics2-iter1,clothes,vestiti,pantalone,pantalone nero,nero,3
+idefics2-iter1,clothes,vestiti,pantalone,pantalone bianco,bianco,4
+idefics2-iter1,clothes,vestiti,pantalone,pantalone giallo,giallo,5
+idefics2-iter1,foods,cibi,pasta,pasta a fettuccia,a fettuccia,1
+idefics2-iter1,foods,cibi,pasta,pasta a tagliatelle,a tagliatelle,2
+idefics2-iter1,foods,cibi,pasta,pasta a spaghetti,a spaghetti,3
+idefics2-iter1,foods,cibi,pasta,pasta a linguine,a linguine,4
+idefics2-iter1,foods,cibi,pasta,pasta a rotini,a rotini,5
+idefics2-iter1,foods,cibi,pasta,pasta a farfalle,a farfalle,6
+idefics2-iter1,foods,cibi,pasta,pasta a penne,a penne,7
+idefics2-iter1,foods,cibi,pasta,pasta a ziti,a ziti,8
+idefics2-iter1,foods,cibi,pasta,pasta a bucatini,a bucatini,9
+idefics2-iter1,foods,cibi,pasta,pasta a rigatoni,a rigatoni,10
+idefics2-iter1,foods,cibi,pasta,pasta a shells,a shells,11
+idefics2-iter1,foods,cibi,pasta,pasta a macaroni,a macaroni,12
+idefics2-iter1,foods,cibi,pasta,pasta a cavatappi,a cavatappi,13
+idefics2-iter1,stationery,cancelleria,pastello,pasta,pasta,1
+idefics2-iter1,stationery,cancelleria,pastello,pane,pane,2
+idefics2-iter1,stationery,cancelleria,pastello,pizza,pizza,3
+idefics2-iter1,stationery,cancelleria,pastello,calzoni,calzoni,4
+idefics2-iter1,stationery,cancelleria,pastello,crostini,crostini,5
+idefics2-iter1,stationery,cancelleria,pastello,focaccia,focaccia,6
+idefics2-iter1,housing buildings,edifici residenziali,pavimento,cemento,cemento,1
+idefics2-iter1,housing buildings,edifici residenziali,pavimento,pietra,pietra,2
+idefics2-iter1,housing buildings,edifici residenziali,pavimento,legno,legno,3
+idefics2-iter1,housing buildings,edifici residenziali,pavimento,pavimento in resina,in resina,4
+idefics2-iter1,housing buildings,edifici residenziali,pavimento,pavimento in ceramica,in ceramica,5
+idefics2-iter1,housing buildings,edifici residenziali,pavimento,pavimento in pietra,in pietra,6
+idefics2-iter1,stationery,cancelleria,penna,penna a sfera,a sfera,1
+idefics2-iter1,stationery,cancelleria,penna,penna a stilo,a stilo,2
+idefics2-iter1,stationery,cancelleria,penna,penna a stilo,a stilo,3
+idefics2-iter1,hobbies,passatempi,pennello,pennello a mano,a mano,1
+idefics2-iter1,hobbies,passatempi,pennello,pennello per pavimenti,per pavimenti,2
+idefics2-iter1,hobbies,passatempi,pennello,pennello per tappeti,per tappeti,3
+idefics2-iter1,hobbies,passatempi,pennello,pennello per pavimenti,per pavimenti,4
+idefics2-iter1,kitchenware,utensili da cucina,pentola,pentola da cucina,da cucina,1
+idefics2-iter1,kitchenware,utensili da cucina,pentola,pentola da cucina elettrica,da cucina elettrica,2
+idefics2-iter1,kitchenware,utensili da cucina,pentola,pentola da cucina elettrica con riscaldamento,da cucina elettrica con riscaldamento,3
+idefics2-iter1,kitchenware,utensili da cucina,pentola,pentola da cucina elettrica con riscaldamento e controllo della temperatura,da cucina elettrica con riscaldamento e controllo della temperatura,4
+idefics2-iter1,kitchenware,utensili da cucina,pentola,pentola da cucina elettrica con riscaldamento e controllo della temperatura e funzioni di regolazione,da cucina elettrica con riscaldamento e controllo della temperatura e funzioni di regolazione,5
+idefics2-iter1,foods,cibi,pesce,pesce d'acqua dolce,d'acqua dolce,1
+idefics2-iter1,foods,cibi,pesce,pesce d'acqua salata,d'acqua salata,2
+idefics2-iter1,foods,cibi,pesce,pesce d'acqua di mare,d'acqua di mare,3
+idefics2-iter1,foods,cibi,pesce,pesce d'acqua di fiume,d'acqua di fiume,4
+idefics2-iter1,foods,cibi,pesce,pesce d'acqua di laghi,d'acqua di laghi,5
+idefics2-iter1,foods,cibi,pesce,pesce d'acqua di risorgimento,d'acqua di risorgimento,6
+idefics2-iter1,foods,cibi,pesce,pesce d'acqua di pozze,d'acqua di pozze,7
+idefics2-iter1,foods,cibi,pesce,pesce d'acqua di pozze di ghiaia,d'acqua di pozze di ghiaia,8
+idefics2-iter1,foods,cibi,pesce,pesce d'acqua di pozze di sabbia,d'acqua di pozze di sabbia,9
+idefics2-iter1,foods,cibi,pesce,pesce d'acqua di pozze di silt,d'acqua di pozze di silt,10
+idefics2-iter1,foods,cibi,pesce,pesce d'acqua di pozze di limo,d'acqua di pozze di limo,11
+idefics2-iter1,foods,cibi,pesce,pesce d,d,12
+idefics2-iter1,kitchenware,utensili da cucina,piatto,piatto da cucina,da cucina,1
+idefics2-iter1,kitchenware,utensili da cucina,piatto,piatto da tavola,da tavola,2
+idefics2-iter1,kitchenware,utensili da cucina,piatto,piatto da banco,da banco,3
+idefics2-iter1,kitchenware,utensili da cucina,piatto,piatto da banco,da banco,4
+idefics2-iter1,body parts,parti del corpo,piede,piede destro,destro,1
+idefics2-iter1,body parts,parti del corpo,piede,piede sinistro,sinistro,2
+idefics2-iter1,plants,piante,pino,pinus,pinus,1
+idefics2-iter1,plants,piante,pino,picea,picea,2
+idefics2-iter1,plants,piante,pino,abies,abies,3
+idefics2-iter1,plants,piante,pino,tsuga,tsuga,4
+idefics2-iter1,plants,piante,pino,larix,larix,5
+idefics2-iter1,plants,piante,pino,cedrus,cedrus,6
+idefics2-iter1,foods,cibi,pizza,pizza classica,classica,1
+idefics2-iter1,foods,cibi,pizza,pizza quattro formaggi,quattro formaggi,2
+idefics2-iter1,foods,cibi,pizza,pizza margherita,margherita,3
+idefics2-iter1,foods,cibi,pizza,pizza di pane,di pane,4
+idefics2-iter1,foods,cibi,pizza,pizza con carne,con carne,5
+idefics2-iter1,foods,cibi,pizza,pizza con verdure,con verdure,6
+idefics2-iter1,furniture,mobili,poltrona,divano,divano,1
+idefics2-iter1,furniture,mobili,poltrona,sofà,sofà,2
+idefics2-iter1,furniture,mobili,poltrona,canapé,canapé,3
+idefics2-iter1,furniture,mobili,poltrona,seduta,seduta,4
+idefics2-iter1,furniture,mobili,poltrona,cuscino,cuscino,5
+idefics2-iter1,furniture,mobili,poltrona,sedia,sedia,6
+idefics2-iter1,housing buildings,edifici residenziali,porta,porta-documenti,-documenti,1
+idefics2-iter1,housing buildings,edifici residenziali,porta,porta-pensiero,-pensiero,2
+idefics2-iter1,housing buildings,edifici residenziali,porta,porta-pacchetti,-pacchetti,3
+idefics2-iter1,housing buildings,edifici residenziali,porta,porta-pompe,-pompe,4
+idefics2-iter1,housing buildings,edifici residenziali,porta,porta-scatole,-scatole,5
+idefics2-iter1,housing buildings,edifici residenziali,porta,porta-sogni,-sogni,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,portafotografia,canon,canon,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,portafotografia,nikon,nikon,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,portafotografia,sony,sony,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,portafotografia,fujifilm,fujifilm,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,portafotografia,kodak,kodak,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,portafotografia,leica,leica,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,posacenere,bicchiere,bicchiere,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,posacenere,tazza,tazza,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,posacenere,tavola,tavola,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,posacenere,piatto,piatto,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,posacenere,tavola,tavola,5
+idefics2-iter1,stationery,cancelleria,quaderno,notebook,notebook,1
+idefics2-iter1,stationery,cancelleria,quaderno,diario,diario,2
+idefics2-iter1,stationery,cancelleria,quaderno,agenda,agenda,3
+idefics2-iter1,stationery,cancelleria,quaderno,calendario,calendario,4
+idefics2-iter1,stationery,cancelleria,quaderno,planner,planner,5
+idefics2-iter1,stationery,cancelleria,quaderno,organizzatore,organizzatore,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro da dipingere,da dipingere,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro da disegnare,da disegnare,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro da schizzo,da schizzo,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro da cartone,da cartone,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro da cartone animato,da cartone animato,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro da cartone animato 3d,da cartone animato 3d,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,quadro,quadro da cartone animato 2d,da cartone animato 2d,7
+idefics2-iter1,plants,piante,quercia,quercia rossa,rossa,1
+idefics2-iter1,plants,piante,quercia,quercia bianca,bianca,2
+idefics2-iter1,plants,piante,quercia,quercia rosso,rosso,3
+idefics2-iter1,hobbies,passatempi,racchetta,racchetta da tennis,da tennis,1
+idefics2-iter1,hobbies,passatempi,racchetta,racchetta da squash,da squash,2
+idefics2-iter1,hobbies,passatempi,racchetta,racchetta da badminton,da badminton,3
+idefics2-iter1,hobbies,passatempi,racchetta,racchetta da ping pong,da ping pong,4
+idefics2-iter1,hobbies,passatempi,racchetta,racchetta da tennis,da tennis,5
+idefics2-iter1,stationery,cancelleria,righello,righello a coda,a coda,1
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a sesto,a coda a sesto,2
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a quattro,a coda a quattro,3
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a tre,a coda a tre,4
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a due,a coda a due,5
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo,a coda a singolo,6
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a sesto,a coda a singolo a sesto,7
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a quattro,a coda a singolo a quattro,8
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a tre,a coda a singolo a tre,9
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a due,a coda a singolo a due,10
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo,a coda a singolo a singolo,11
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo a sesto,a coda a singolo a singolo a sesto,12
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo a quattro,a coda a singolo a singolo a quattro,13
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo a tre,a coda a singolo a singolo a tre,14
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo a due,a coda a singolo a singolo a due,15
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo a singolo,a coda a singolo a singolo a singolo,16
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo a singolo a sesto,a coda a singolo a singolo a singolo a sesto,17
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo a singolo a quattro,a coda a singolo a singolo a singolo a quattro,18
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo a singolo a tre,a coda a singolo a singolo a singolo a tre,19
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo a singolo a due,a coda a singolo a singolo a singolo a due,20
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo a singolo a singolo,a coda a singolo a singolo a singolo a singolo,21
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo a singolo a singolo a sesto,a coda a singolo a singolo a singolo a singolo a sesto,22
+idefics2-iter1,stationery,cancelleria,righello,righello a coda a singolo a singolo a singolo a singolo a,a coda a singolo a singolo a singolo a singolo a,23
+idefics2-iter1,housing buildings,edifici residenziali,ripostiglio,carta,carta,1
+idefics2-iter1,housing buildings,edifici residenziali,ripostiglio,carta da telefono,carta da telefono,2
+idefics2-iter1,housing buildings,edifici residenziali,ripostiglio,carta da posta,carta da posta,3
+idefics2-iter1,housing buildings,edifici residenziali,ripostiglio,carta da regalo,carta da regalo,4
+idefics2-iter1,housing buildings,edifici residenziali,ripostiglio,carta da regalo per natale,carta da regalo per natale,5
+idefics2-iter1,housing buildings,edifici residenziali,ripostiglio,carta da regalo per compleanno,carta da regalo per compleanno,6
+idefics2-iter1,housing buildings,edifici residenziali,ripostiglio,carta da regalo per anniversario,carta da regalo per anniversario,7
+idefics2-iter1,foods,cibi,riso,arancio,arancio,1
+idefics2-iter1,foods,cibi,riso,bianco,bianco,2
+idefics2-iter1,foods,cibi,riso,nero,nero,3
+idefics2-iter1,foods,cibi,riso,rosso,rosso,4
+idefics2-iter1,foods,cibi,riso,blu,blu,5
+idefics2-iter1,foods,cibi,riso,verde,verde,6
+idefics2-iter1,plants,piante,salice,salice bianco,bianco,1
+idefics2-iter1,plants,piante,salice,salice rosso,rosso,2
+idefics2-iter1,plants,piante,salice,salice giallo,giallo,3
+idefics2-iter1,plants,piante,salice,salice verde,verde,4
+idefics2-iter1,plants,piante,salice,salice nero,nero,5
+idefics2-iter1,housing buildings,edifici residenziali,scala,scala a cassa,a cassa,1
+idefics2-iter1,housing buildings,edifici residenziali,scala,scala a cassa a sospensione,a cassa a sospensione,2
+idefics2-iter1,housing buildings,edifici residenziali,scala,scala a cassa a sospensione a cuneo,a cassa a sospensione a cuneo,3
+idefics2-iter1,housing buildings,edifici residenziali,scala,scala a cassa a sospensione a cuneo a sospensione,a cassa a sospensione a cuneo a sospensione,4
+idefics2-iter1,housing buildings,edifici residenziali,scala,scala a cassa a sospensione a cuneo a sospensione a cuneo,a cassa a sospensione a cuneo a sospensione a cuneo,5
+idefics2-iter1,housing buildings,edifici residenziali,scala,scala a cassa a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo,a cassa a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo,6
+idefics2-iter1,housing buildings,edifici residenziali,scala,scala a cassa a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo,a cassa a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo,7
+idefics2-iter1,housing buildings,edifici residenziali,scala,scala a cassa a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a,a cassa a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a cuneo a sospensione a,8
+idefics2-iter1,clothes,vestiti,scarpa,scarpa da ginnastica,da ginnastica,1
+idefics2-iter1,clothes,vestiti,scarpa,scarpa da tennis,da tennis,2
+idefics2-iter1,clothes,vestiti,scarpa,scarpa da calzature,da calzature,3
+idefics2-iter1,clothes,vestiti,scarpa,scarpa da gara,da gara,4
+idefics2-iter1,clothes,vestiti,scarpa,scarpa da bocce,da bocce,5
+idefics2-iter1,clothes,vestiti,scarpa,scarpa da pattinaggio,da pattinaggio,6
+idefics2-iter1,body parts,parti del corpo,schiena,schiena dorata,dorata,1
+idefics2-iter1,body parts,parti del corpo,schiena,schiena d'oro,d'oro,2
+idefics2-iter1,body parts,parti del corpo,schiena,schiena d'argento,d'argento,3
+idefics2-iter1,body parts,parti del corpo,schiena,schiena d'oro e d'argento,d'oro e d'argento,4
+idefics2-iter1,clothes,vestiti,sciarpa,sciarpa da neve,da neve,1
+idefics2-iter1,clothes,vestiti,sciarpa,sciarpa da bicicletta,da bicicletta,2
+idefics2-iter1,clothes,vestiti,sciarpa,sciarpa da gara,da gara,3
+idefics2-iter1,clothes,vestiti,sciarpa,sciarpa da bagnante,da bagnante,4
+idefics2-iter1,clothes,vestiti,sciarpa,sciarpa da baule,da baule,5
+idefics2-iter1,clothes,vestiti,sciarpa,sciarpa da baule,da baule,6
+idefics2-iter1,animals,animali,scimmia,babbuino,babbuino,1
+idefics2-iter1,animals,animali,scimmia,orangutan,orangutan,2
+idefics2-iter1,animals,animali,scimmia,chimpanzee,chimpanzee,3
+idefics2-iter1,animals,animali,scimmia,gorilla,gorilla,4
+idefics2-iter1,animals,animali,scimmia,siamang,siamang,5
+idefics2-iter1,animals,animali,scimmia,gibbon,gibbon,6
+idefics2-iter1,kitchenware,utensili da cucina,scolapasta,scolapasta bianca,bianca,1
+idefics2-iter1,kitchenware,utensili da cucina,scolapasta,scolapasta rossa,rossa,2
+idefics2-iter1,kitchenware,utensili da cucina,scolapasta,scolapasta blu,blu,3
+idefics2-iter1,kitchenware,utensili da cucina,scolapasta,scolapasta nera,nera,4
+idefics2-iter1,kitchenware,utensili da cucina,scolapasta,scolapasta verde,verde,5
+idefics2-iter1,kitchenware,utensili da cucina,scolapasta,scolapasta gialla,gialla,6
+idefics2-iter1,stationery,cancelleria,scolorina,scolorina per bambini,per bambini,1
+idefics2-iter1,stationery,cancelleria,scolorina,scolorina per adulti,per adulti,2
+idefics2-iter1,stationery,cancelleria,scolorina,scolorina per uomini,per uomini,3
+idefics2-iter1,stationery,cancelleria,scolorina,scolorina per donne,per donne,4
+idefics2-iter1,stationery,cancelleria,scolorina,scolorina per bambini con disabilità,per bambini con disabilità,5
+idefics2-iter1,vehicles,veicoli,scooter,vespa,vespa,1
+idefics2-iter1,vehicles,veicoli,scooter,lambretta,lambretta,2
+idefics2-iter1,vehicles,veicoli,scooter,genuine scooter company,genuine  company,3
+idefics2-iter1,vehicles,veicoli,scooter,yamaha,yamaha,4
+idefics2-iter1,vehicles,veicoli,scooter,honda,honda,5
+idefics2-iter1,vehicles,veicoli,scooter,suzuki,suzuki,6
+idefics2-iter1,vehicles,veicoli,scooter,piaggio,piaggio,7
+idefics2-iter1,vehicles,veicoli,scooter,kawasaki,kawasaki,8
+idefics2-iter1,vehicles,veicoli,scooter,harley-davidson,harley-davidson,9
+idefics2-iter1,vehicles,veicoli,scooter,bmw,bmw,10
+idefics2-iter1,vehicles,veicoli,scooter,aprilia,aprilia,11
+idefics2-iter1,vehicles,veicoli,scooter,lml,lml,12
+idefics2-iter1,vehicles,veicoli,scooter,tvs,tvs,13
+idefics2-iter1,vehicles,veicoli,scooter,mahindra,mahindra,14
+idefics2-iter1,vehicles,veicoli,scooter,hero,hero,15
+idefics2-iter1,vehicles,veicoli,scooter,hero,hero,16
+idefics2-iter1,furniture,mobili,scrivania,tavolo,tavolo,1
+idefics2-iter1,furniture,mobili,scrivania,tavolo da lavoro,tavolo da lavoro,2
+idefics2-iter1,furniture,mobili,scrivania,tavolo da cucina,tavolo da cucina,3
+idefics2-iter1,furniture,mobili,scrivania,tavolo da pranzo,tavolo da pranzo,4
+idefics2-iter1,furniture,mobili,scrivania,tavolo da cena,tavolo da cena,5
+idefics2-iter1,furniture,mobili,scrivania,tavolo da gioco,tavolo da gioco,6
+idefics2-iter1,furniture,mobili,scrivania,tavolo da biliardo,tavolo da biliardo,7
+idefics2-iter1,furniture,mobili,scrivania,tavolo da poker,tavolo da poker,8
+idefics2-iter1,furniture,mobili,scrivania,tavolo da bridge,tavolo da bridge,9
+idefics2-iter1,furniture,mobili,scrivania,tavolo da scrittura,tavolo da scrittura,10
+idefics2-iter1,furniture,mobili,scrivania,tavolo da disegno,tavolo da disegno,11
+idefics2-iter1,furniture,mobili,sedia,sedia per uomo,per uomo,1
+idefics2-iter1,furniture,mobili,sedia,sedia per donna,per donna,2
+idefics2-iter1,furniture,mobili,sedia,sedia per bambino,per bambino,3
+idefics2-iter1,furniture,mobili,sedia,sedia per ufficio,per ufficio,4
+idefics2-iter1,furniture,mobili,sedia,sedia per la cucina,per la cucina,5
+idefics2-iter1,furniture,mobili,sedia,sedia per la sala da pranzo,per la sala da pranzo,6
+idefics2-iter1,furniture,mobili,sedia,sedia per la sala da biliardo,per la sala da biliardo,7
+idefics2-iter1,furniture,mobili,sedia,sedia per la sala da musica,per la sala da musica,8
+idefics2-iter1,furniture,mobili,sedia,sedia per la sala da giochi,per la sala da giochi,9
+idefics2-iter1,furniture,mobili,sedia,sedia per la sala da cinema,per la sala da cinema,10
+idefics2-iter1,furniture,mobili,sedia,sedia per la sala da teatro,per la sala da teatro,11
+idefics2-iter1,furniture,mobili,sedia,sedia per la sala da sport,per la sala da sport,12
+idefics2-iter1,furniture,mobili,sedia,sedia per la sala da lavoro,per la sala da lavoro,13
+idefics2-iter1,furniture,mobili,sedia,sedia per la sala da lettura,per la sala da lettura,14
+idefics2-iter1,furniture,mobili,sedia,sedia per la sala da,per la sala da,15
+idefics2-iter1,animals,animali,serpente,boa,boa,1
+idefics2-iter1,animals,animali,serpente,vipera,vipera,2
+idefics2-iter1,animals,animali,serpente,cobra,cobra,3
+idefics2-iter1,animals,animali,serpente,serpente di mare,di mare,4
+idefics2-iter1,animals,animali,serpente,serpente di ghiaia,di ghiaia,5
+idefics2-iter1,animals,animali,serpente,serpente di acqua,di acqua,6
+idefics2-iter1,clothes,vestiti,slip,slip-on,-on,1
+idefics2-iter1,clothes,vestiti,slip,slip-resistant,-resistant,2
+idefics2-iter1,clothes,vestiti,slip,slip-on shoes,-on shoes,3
+idefics2-iter1,clothes,vestiti,slip,slip-on sandals,-on sandals,4
+idefics2-iter1,clothes,vestiti,slip,slip-on boots,-on boots,5
+idefics2-iter1,clothes,vestiti,slip,slip-on socks,-on socks,6
+idefics2-iter1,housing buildings,edifici residenziali,soffitto,soffitto a cassette,a cassette,1
+idefics2-iter1,housing buildings,edifici residenziali,soffitto,soffitto a tavolato,a tavolato,2
+idefics2-iter1,housing buildings,edifici residenziali,soffitto,soffitto a tettoia,a tettoia,3
+idefics2-iter1,housing buildings,edifici residenziali,soffitto,soffitto a tetto,a tetto,4
+idefics2-iter1,housing buildings,edifici residenziali,soffitto,soffitto a tetto a tavolato,a tetto a tavolato,5
+idefics2-iter1,housing buildings,edifici residenziali,soffitto,soffitto a tetto a cassette,a tetto a cassette,6
+idefics2-iter1,housing buildings,edifici residenziali,soggiorno,hotel,hotel,1
+idefics2-iter1,housing buildings,edifici residenziali,soggiorno,motel,motel,2
+idefics2-iter1,housing buildings,edifici residenziali,soggiorno,hostel,hostel,3
+idefics2-iter1,housing buildings,edifici residenziali,soggiorno,bed and breakfast,bed and breakfast,4
+idefics2-iter1,housing buildings,edifici residenziali,soggiorno,casa di vacanza,casa di vacanza,5
+idefics2-iter1,housing buildings,edifici residenziali,soggiorno,appartamento,appartamento,6
+idefics2-iter1,body parts,parti del corpo,spalla,spalla da lavoro,da lavoro,1
+idefics2-iter1,body parts,parti del corpo,spalla,spalla da borsa,da borsa,2
+idefics2-iter1,body parts,parti del corpo,spalla,spalla da viaggio,da viaggio,3
+idefics2-iter1,body parts,parti del corpo,spalla,spalla da sport,da sport,4
+idefics2-iter1,body parts,parti del corpo,spalla,spalla da ginnastica,da ginnastica,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,specchio,specchio ad angolo,ad angolo,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,specchio,specchio ad angolo con illuminazione,ad angolo con illuminazione,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,specchio,specchio ad angolo con illuminazione e rilevazione,ad angolo con illuminazione e rilevazione,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,specchio,specchio ad angolo con illuminazione e rilevazione e gestione,ad angolo con illuminazione e rilevazione e gestione,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,specchio,specchio ad angolo con illuminazione e rilevazione e gestione e rilevazione,ad angolo con illuminazione e rilevazione e gestione e rilevazione,5
+idefics2-iter1,stationery,cancelleria,spillatrice,spillatrice a cuffia,a cuffia,1
+idefics2-iter1,stationery,cancelleria,spillatrice,spillatrice a cuffia a cuffia,a cuffia a cuffia,2
+idefics2-iter1,stationery,cancelleria,spillatrice,spillatrice a cuffia a cuffia a cuffia,a cuffia a cuffia a cuffia,3
+idefics2-iter1,stationery,cancelleria,spillatrice,spillatrice a cuffia a cuffia a cuffia a cuffia,a cuffia a cuffia a cuffia a cuffia,4
+idefics2-iter1,clothes,vestiti,t-shirt,t-shirt per uomo,per uomo,1
+idefics2-iter1,clothes,vestiti,t-shirt,t-shirt per donna,per donna,2
+idefics2-iter1,clothes,vestiti,t-shirt,t-shirt per bambino,per bambino,3
+idefics2-iter1,stationery,cancelleria,taccuino,diario,diario,1
+idefics2-iter1,stationery,cancelleria,taccuino,calendario,calendario,2
+idefics2-iter1,stationery,cancelleria,taccuino,agenda,agenda,3
+idefics2-iter1,stationery,cancelleria,taccuino,organizzatore,organizzatore,4
+idefics2-iter1,stationery,cancelleria,taccuino,calendario digitale,calendario digitale,5
+idefics2-iter1,stationery,cancelleria,taccuino,calendario online,calendario online,6
+idefics2-iter1,kitchenware,utensili da cucina,tagliere,tagliere da cucina,da cucina,1
+idefics2-iter1,kitchenware,utensili da cucina,tagliere,tagliere da cucina da cucina,da cucina da cucina,2
+idefics2-iter1,kitchenware,utensili da cucina,tagliere,tagliere da cucina da cuc,da cucina da cuc,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre,a fibre,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre sintetiche,a fibre sintetiche,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre naturali,a fibre naturali,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre miste,a fibre miste,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre di lana,a fibre di lana,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre di cotone,a fibre di cotone,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre di viscosa,a fibre di viscosa,7
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre di poliuretano,a fibre di poliuretano,8
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre di poliammide,a fibre di poliammide,9
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre di polietilene,a fibre di polietilene,10
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre di polipropilene,a fibre di polipropilene,11
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre di polietilene tereftalato,a fibre di polietilene tereftalato,12
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,tappeto a fibre di polietilene tereftalato grafite,a fibre di polietilene tereftalato grafite,13
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tappeto,t,t,14
+idefics2-iter1,furniture,mobili,tavolo,tavolo da cucina,da cucina,1
+idefics2-iter1,furniture,mobili,tavolo,tavolo da pranzo,da pranzo,2
+idefics2-iter1,furniture,mobili,tavolo,tavolo da lavoro,da lavoro,3
+idefics2-iter1,furniture,mobili,tavolo,tavolo da gioco,da gioco,4
+idefics2-iter1,furniture,mobili,tavolo,tavolo da cena,da cena,5
+idefics2-iter1,furniture,mobili,tavolo,tavolo da biliardo,da biliardo,6
+idefics2-iter1,kitchenware,utensili da cucina,teglia,teglia per pane,per pane,1
+idefics2-iter1,kitchenware,utensili da cucina,teglia,teglia per pasta,per pasta,2
+idefics2-iter1,kitchenware,utensili da cucina,teglia,teglia per frittata,per frittata,3
+idefics2-iter1,kitchenware,utensili da cucina,teglia,teglia per pizza,per pizza,4
+idefics2-iter1,kitchenware,utensili da cucina,teglia,teglia per muffin,per muffin,5
+idefics2-iter1,kitchenware,utensili da cucina,teglia,teglia per cioccolata,per cioccolata,6
+idefics2-iter1,hobbies,passatempi,televisione,tv,tv,1
+idefics2-iter1,hobbies,passatempi,televisione,monitor,monitor,2
+idefics2-iter1,hobbies,passatempi,televisione,schermo,schermo,3
+idefics2-iter1,hobbies,passatempi,televisione,display,display,4
+idefics2-iter1,hobbies,passatempi,televisione,monitor lcd,monitor lcd,5
+idefics2-iter1,hobbies,passatempi,televisione,monitor led,monitor led,6
+idefics2-iter1,hobbies,passatempi,televisione,monitor oled,monitor oled,7
+idefics2-iter1,hobbies,passatempi,televisione,monitor tft,monitor tft,8
+idefics2-iter1,hobbies,passatempi,televisione,monitor lcd-led,monitor lcd-led,9
+idefics2-iter1,hobbies,passatempi,televisione,monitor lcd-oled,monitor lcd-oled,10
+idefics2-iter1,hobbies,passatempi,televisione,monitor lcd-tft,monitor lcd-tft,11
+idefics2-iter1,hobbies,passatempi,televisione,monitor lcd-tft-led,monitor lcd-tft-led,12
+idefics2-iter1,hobbies,passatempi,televisione,monitor lcd-tft-oled,monitor lcd-tft-oled,13
+idefics2-iter1,hobbies,passatempi,televisione,monitor lcd-tft-tft,monitor lcd-tft-tft,14
+idefics2-iter1,hobbies,passatempi,televisione,monitor lcd-tft-tft-led,monitor lcd-tft-tft-led,15
+idefics2-iter1,hobbies,passatempi,televisione,monitor lcd-tft-tft-oled,monitor lcd-tft-tft-oled,16
+idefics2-iter1,hobbies,passatempi,televisione,monitor lcd-tft-tft-tft,monitor lcd-tft-tft-tft,17
+idefics2-iter1,stationery,cancelleria,temperino,pizza,pizza,1
+idefics2-iter1,stationery,cancelleria,temperino,pasta,pasta,2
+idefics2-iter1,stationery,cancelleria,temperino,pane,pane,3
+idefics2-iter1,stationery,cancelleria,temperino,pasta al forno,pasta al forno,4
+idefics2-iter1,stationery,cancelleria,temperino,pasta al forno con formaggio,pasta al forno con formaggio,5
+idefics2-iter1,stationery,cancelleria,temperino,pasta al forno con carne,pasta al forno con carne,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tenda,tenda da campeggio,da campeggio,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tenda,tenda da camping,da camping,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tenda,tenda da viaggio,da viaggio,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tenda,tenda da caccia,da caccia,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tenda,tenda da pesca,da pesca,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,tenda,tenda da caccia,da caccia,6
+idefics2-iter1,housing buildings,edifici residenziali,terrazzo,pavimento,pavimento,1
+idefics2-iter1,housing buildings,edifici residenziali,terrazzo,pavimento in cemento,pavimento in cemento,2
+idefics2-iter1,housing buildings,edifici residenziali,terrazzo,pavimento in pietra,pavimento in pietra,3
+idefics2-iter1,housing buildings,edifici residenziali,terrazzo,pavimento in legno,pavimento in legno,4
+idefics2-iter1,housing buildings,edifici residenziali,terrazzo,pavimento in ceramica,pavimento in ceramica,5
+idefics2-iter1,housing buildings,edifici residenziali,terrazzo,pavimento in marmo,pavimento in marmo,6
+idefics2-iter1,body parts,parti del corpo,testa,testa umana,umana,1
+idefics2-iter1,body parts,parti del corpo,testa,testa animale,animale,2
+idefics2-iter1,body parts,parti del corpo,testa,testa vegetale,vegetale,3
+idefics2-iter1,body parts,parti del corpo,testa,testa di un robot,di un robot,4
+idefics2-iter1,body parts,parti del corpo,testa,testa di un'altra entità,di un'altra entità,5
+idefics2-iter1,housing buildings,edifici residenziali,tetto,tetto a tegole,a tegole,1
+idefics2-iter1,housing buildings,edifici residenziali,tetto,tetto a scandole,a scandole,2
+idefics2-iter1,housing buildings,edifici residenziali,tetto,tetto a tegole a scandole,a tegole a scandole,3
+idefics2-iter1,housing buildings,edifici residenziali,tetto,tetto a tegole a scandole a tetto a tegole,a tegole a scandole a tetto a tegole,4
+idefics2-iter1,housing buildings,edifici residenziali,tetto,tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole,a tegole a scandole a tetto a tegole a scandole a tetto a tegole,5
+idefics2-iter1,housing buildings,edifici residenziali,tetto,tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a teg,a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a tegole a scandole a tetto a teg,6
+idefics2-iter1,animals,animali,tigre,tigre indiana,indiana,1
+idefics2-iter1,animals,animali,tigre,tigre siberiana,siberiana,2
+idefics2-iter1,animals,animali,tigre,tigre del bengala,del bengala,3
+idefics2-iter1,animals,animali,tigre,tigre del guatemala,del guatemala,4
+idefics2-iter1,animals,animali,tigre,tigre del sumatra,del sumatra,5
+idefics2-iter1,animals,animali,tigre,tigre del siberia,del siberia,6
+idefics2-iter1,animals,animali,topo,topo domestico,domestico,1
+idefics2-iter1,animals,animali,topo,topo selvatico,selvatico,2
+idefics2-iter1,animals,animali,topo,topo selvatico americano,selvatico americano,3
+idefics2-iter1,animals,animali,topo,topo selvatico europeo,selvatico europeo,4
+idefics2-iter1,animals,animali,topo,topo selvatico asiatico,selvatico asiatico,5
+idefics2-iter1,animals,animali,topo,topo selvatico australiano,selvatico australiano,6
+idefics2-iter1,vehicles,veicoli,traghetto,traghetto a vapore,a vapore,1
+idefics2-iter1,vehicles,veicoli,traghetto,traghetto a vapore a scafo aperto,a vapore a scafo aperto,2
+idefics2-iter1,vehicles,veicoli,traghetto,traghetto a vapore a scafo chiuso,a vapore a scafo chiuso,3
+idefics2-iter1,vehicles,veicoli,traghetto,traghetto a vapore a scafo chiuso a cielo aperto,a vapore a scafo chiuso a cielo aperto,4
+idefics2-iter1,vehicles,veicoli,traghetto,traghetto a vapore a scafo chiuso a cielo chiuso,a vapore a scafo chiuso a cielo chiuso,5
+idefics2-iter1,vehicles,veicoli,traghetto,traghetto a vapore a scafo chiuso a cielo chiuso a cielo aperto,a vapore a scafo chiuso a cielo chiuso a cielo aperto,6
+idefics2-iter1,vehicles,veicoli,traghetto,traghetto a vapore a scafo chiuso a cielo chiuso a cielo aperto a scafo chiuso,a vapore a scafo chiuso a cielo chiuso a cielo aperto a scafo chiuso,7
+idefics2-iter1,vehicles,veicoli,traghetto,traghetto a vapore a scafo chiuso a cielo chiuso a cielo aperto a,a vapore a scafo chiuso a cielo chiuso a cielo aperto a,8
+idefics2-iter1,vehicles,veicoli,tram,metro,metro,1
+idefics2-iter1,vehicles,veicoli,tram,funicolare,funicolare,2
+idefics2-iter1,vehicles,veicoli,tram,monorail,monorail,3
+idefics2-iter1,vehicles,veicoli,tram,treno,treno,4
+idefics2-iter1,vehicles,veicoli,trattore,trattore a motore,a motore,1
+idefics2-iter1,vehicles,veicoli,trattore,trattore a vapore,a vapore,2
+idefics2-iter1,vehicles,veicoli,trattore,trattore a vapore a motore,a vapore a motore,3
+idefics2-iter1,vehicles,veicoli,trattore,trattore a vapore a motore a cinghia,a vapore a motore a cinghia,4
+idefics2-iter1,vehicles,veicoli,trattore,trattore a vapore a motore a cinghia a cassa,a vapore a motore a cinghia a cassa,5
+idefics2-iter1,vehicles,veicoli,trattore,trattore a vapore a motore a cinghia a cassa a cinghia a cassa,a vapore a motore a cinghia a cassa a cinghia a cassa,6
+idefics2-iter1,vehicles,veicoli,trattore,trattore a vapore a motore a cinghia a cassa a cinghia a cassa a cinghia a cassa,a vapore a motore a cinghia a cassa a cinghia a cassa a cinghia a cassa,7
+idefics2-iter1,vehicles,veicoli,trattore,trattore a vapore a motore a cinghia a cassa a cinghia a cassa a cinghia a cass,a vapore a motore a cinghia a cassa a cinghia a cassa a cinghia a cass,8
+idefics2-iter1,vehicles,veicoli,treno,treno passeggeri,passeggeri,1
+idefics2-iter1,vehicles,veicoli,treno,treno merci,merci,2
+idefics2-iter1,vehicles,veicoli,treno,treno ad alta velocità,ad alta velocità,3
+idefics2-iter1,vehicles,veicoli,treno,treno a vapore,a vapore,4
+idefics2-iter1,vehicles,veicoli,treno,treno elettrico,elettrico,5
+idefics2-iter1,vehicles,veicoli,treno,treno diesel,diesel,6
+idefics2-iter1,plants,piante,tulipano,tulipano rosso,rosso,1
+idefics2-iter1,plants,piante,tulipano,tulipano bianco,bianco,2
+idefics2-iter1,plants,piante,tulipano,tulipano giallo,giallo,3
+idefics2-iter1,plants,piante,tulipano,tulipano blu,blu,4
+idefics2-iter1,plants,piante,tulipano,tulipano rosa,rosa,5
+idefics2-iter1,plants,piante,ulivo,olio extra vergine di oliva,olio extra vergine di oliva,1
+idefics2-iter1,plants,piante,ulivo,olio extra virgin,olio extra virgin,2
+idefics2-iter1,plants,piante,ulivo,olio extra virgin olive oil,olio extra virgin olive oil,3
+idefics2-iter1,plants,piante,ulivo,olio extra vir,olio extra vir,4
+idefics2-iter1,foods,cibi,uovo,uovo di gallina,di gallina,1
+idefics2-iter1,foods,cibi,uovo,uovo di polledro,di polledro,2
+idefics2-iter1,foods,cibi,uovo,uovo di pavone,di pavone,3
+idefics2-iter1,foods,cibi,uovo,uovo di oca,di oca,4
+idefics2-iter1,foods,cibi,uovo,uovo di pinguino,di pinguino,5
+idefics2-iter1,foods,cibi,uovo,uovo di emu,di emu,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vaso,bicchiere,bicchiere,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vaso,tazza,tazza,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vaso,tulipano,tulipano,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vaso,vassoio,vassoio,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vaso,bollito,bollito,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vaso,piatto,piatto,6
+idefics2-iter1,foods,cibi,verdura,carota,carota,1
+idefics2-iter1,foods,cibi,verdura,cipolla,cipolla,2
+idefics2-iter1,foods,cibi,verdura,broccoli,broccoli,3
+idefics2-iter1,foods,cibi,verdura,cavolifiori,cavolifiori,4
+idefics2-iter1,foods,cibi,verdura,patate,patate,5
+idefics2-iter1,foods,cibi,verdura,zucchine,zucchine,6
+idefics2-iter1,hobbies,passatempi,videogioco,action,action,1
+idefics2-iter1,hobbies,passatempi,videogioco,adventure,adventure,2
+idefics2-iter1,hobbies,passatempi,videogioco,first-person shooter,first-person shooter,3
+idefics2-iter1,hobbies,passatempi,videogioco,massively multiplayer online,massively multiplayer online,4
+idefics2-iter1,hobbies,passatempi,videogioco,role-playing,role-playing,5
+idefics2-iter1,hobbies,passatempi,videogioco,simulation,simulation,6
+idefics2-iter1,hobbies,passatempi,videogioco,sports,sports,7
+idefics2-iter1,hobbies,passatempi,videogioco,strategy,strategy,8
+idefics2-iter1,hobbies,passatempi,videogioco,survival,survival,9
+idefics2-iter1,hobbies,passatempi,videogioco,third-person shooter,third-person shooter,10
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,uva,uva,1
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,arancio,arancio,2
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,mela,mela,3
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pera,pera,4
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,mango,mango,5
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,banana,banana,6
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo,pomo,7
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pesca,pesca,8
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,limone,limone,9
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,ciliegie,ciliegie,10
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,prugne,prugne,11
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,mirti,mirti,12
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo del paradiso,pomo del paradiso,13
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo rosso,pomo rosso,14
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo verde,pomo verde,15
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo d'acqua,pomo d'acqua,16
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo di ghiaia,pomo di ghiaia,17
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo di bergamotto,pomo di bergamotto,18
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo di ciliegio,pomo di ciliegio,19
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo di melo,pomo di melo,20
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo di carambola,pomo di carambola,21
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo di limone,pomo di limone,22
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo di mango,pomo di mango,23
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo di papaya,pomo di papaya,24
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo di guava,pomo di guava,25
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo di tamarindo,pomo di tamarindo,26
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo di cassia,pomo di cassia,27
+idefics2-iter1,furnishings/fittings,arredamenti/accessori,vite,pomo di cass,pomo di cass,28

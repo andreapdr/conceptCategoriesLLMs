@@ -1,0 +1,3935 @@
+`abete`: 
+* Abete rosso
+* Abete bianco
+* Abete argentato
+* Abete dei boschi
+* Abete di Nordmann
+* Abete di Oregón
+* Abete di Sitka
+* Abete di Vancouver
+* Abete di Weymouth
+* Abete di Douglas
+* Abete di Engelmann
+* Abete di Grandi Monti
+* Abete di Jeffrey
+* Abete di Menzies
+* Abete di Noble
+* Abete di Ponderosa
+* Abete di Virginia
+* Abete di Vancouver
+* Abete di Weymouth
+* Abete di Wright
+$$$$
+`aereo`: 
+* aereo di linea
+* aereo da guerra
+* aereo da trasporto
+* aereo da caccia
+* aereo da ricognizione
+* aereo da turismo
+* elicottero
+* drone
+* aereo da cargo
+* aereo da addestramento
+* aereo da soccorso
+* aereo da pattugliamento
+* aereo da ricognizione aerea
+* aereo da trasporto militare
+* aereo da trasporto civile
+* aereo da turismo leggero
+* aereo da turismo sportivo
+* aereo da turismo multomotore
+* aereo da turismo monomotore
+* aereo da turismo a elica
+* aereo da turismo a reazione
+* aereo da turismo a getto
+* aereo da turismo a pistone
+* a
+$$$$
+`agenda`: 
+* agenda cartacea
+* agenda elettronica
+* agenda online
+* agenda a spirale
+* agenda a quaderni
+* agenda a fogli mobili
+* agenda a sezioni
+* agenda a giorno
+* agenda settimanale
+* agenda mensile
+* agenda annuale
+* agenda professionale
+* agenda personale
+* agenda scolastica
+* agenda universitaria
+* agenda aziendale
+* agenda di viaggio
+* agenda di appuntamenti
+* agenda di contatti
+* agenda di indirizzi
+* agenda di indirizzi e numeri di telefono
+* agenda di indirizzi e-mail
+* agenda di indirizzi postali
+* agenda di indirizzi web
+* agenda di indirizzi social
+* agenda di indirizzi professionali
+* agenda
+$$$$
+`appendiabiti`: 
+* appendiabiti a parete
+* appendiabiti a piantana
+* appendiabiti da viaggio
+* appendiabiti da porta
+* appendiabiti da tasca
+* appendiabiti da tasca con specchio
+* appendiabiti da tasca con luce
+* appendiabiti da tasca con carica USB
+* appendiabiti da tasca con porta cellulare
+* appendiabiti da tasca con porta bottiglia
+* appendiabiti da tasca con porta occhiali
+* appendiabiti da tasca con porta chiavi
+* appendiabiti da tasca con porta monete
+* appendiabiti da tasca con porta penna
+* appendiabiti da tasca con porta orologio
+* appendiabiti da
+$$$$
+`armadio`: 
+* armadio a muro
+* armadio guardaroba
+* armadio a ponte
+* armadio a cassetti
+* armadio a colonna
+* armadio a specchio
+* armadio a scomparsa
+* armadio a vista
+* armadio a giorno
+* armadio a incasso
+* armadio a slitta
+* armadio a libro
+* armadio a ponte con specchio
+* armadio a ponte con cassetti
+* armadio a ponte con ante scorrevoli
+* armadio a ponte con ante battenti
+* armadio a ponte con ante a libro
+* armadio a ponte con ante a specchio
+* armadio a ponte con ante a giorno
+* armadio a ponte con ante a incasso
+* armadio a ponte con ante a scomparsa
+* armadio a ponte con ante sc
+$$$$
+`astuccio`: 
+* astuccio per matite
+* astuccio per penne
+* astuccio per pennarelli
+* astuccio per colori
+* astuccio per strumenti da disegno
+* astuccio per occhiali
+* astuccio per gioielli
+* astuccio per medicinali
+* astuccio per chiavi
+* astuccio per carte di credito
+* astuccio per monete
+* astuccio per accessori per capelli
+* astuccio per make-up
+* astuccio per accessori per la spiaggia
+* astuccio per accessori per la palestra
+* astuccio per accessori per la tecnologia (ad esempio caricabatterie, cavi, adattatori)
+* astuccio per accessori per la casa (ad esempio chi
+$$$$
+`attrezzo`: 
+* martello
+* chiave inglese
+* cacciavite
+* pinza
+* forbice
+* scalpello
+* livella
+* metro
+* pennello
+* spatola
+* pala
+* badile
+* zappa
+* vanga
+* piccone
+* accetta
+* sega
+* trapano
+* smerigliatrice
+* sonda
+* punteruolo
+* punteruolo
+* punteruolo
+* punteruolo
+* punteruolo
+* punteruolo
+* punteruolo
+* punteruolo
+* punteruolo
+* punteruolo
+* punteruolo
+* punteruolo
+* punteruolo
+* punteruolo
+* punteruolo
+* punteru
+$$$$
+`autobus`: 
+* Autobus urbano
+* Autobus interurbano
+* Autobus turistico
+* Autobus scolastico
+* Autobus a due piani
+* Autobus a due piani a doppio piano
+* Autobus a due piani a piano singolo
+* Autobus a due piani a piano ribassato
+* Autobus a due piani a piano rialzato
+* Autobus a due piani a piano ribassato e rialzato
+* Autobus a due piani a piano ribassato e rialzato con porta centrale
+* Autobus a due piani a piano ribassato e rialzato senza porta centrale
+* Autobus a due piani a piano ribassato e rialzato con porta centrale e senza porta centrale
+* Autobus a due piani a piano ribassato e rialzato con porta centrale
+$$$$
+`automobile`: 
+* berline
+* SUV
+* coupé
+* cabriolet
+* furgone
+* camioncino
+* monovolume
+* auto sportive
+* auto elettriche
+* auto ibride
+* auto a benzina
+* auto diesel
+$$$$
+`bagno`: 
+* vasca da bagno
+* doccia
+* water
+* lavabo
+* bidet
+* box doccia
+* armadio bagno
+* specchio bagno
+* asciugatrice
+* lavatrice
+* piastrelle bagno
+* pavimento bagno
+* illuminazione bagno
+* tende da bagno
+* tappeto bagno
+* scalda asciugamani
+* porta asciugamani
+* porta sapone
+* porta spazzolino
+* porta rotoli carta igienica
+* cassetta WC
+* water sospeso
+* water con risciacquo
+* water con sedile riscaldato
+* water con funzione bidet
+* water con funzione asciugatura
+* water con funzione illuminazione
+* water con funzione musica
+* water
+$$$$
+`balcone`: 
+* balcone a vista
+* balcone chiuso
+* balcone aperto
+* balcone panoramico
+* balcone fiorito
+* balcone attico
+* balcone sospeso
+* balcone terrazzato
+* balcone con vista mare
+* balcone con vista montagna
+$$$$
+`basilico`: 
+* Basilico dolce
+* Basilico genovese
+* Basilico nano
+* Basilico thai
+* Basilico cinese
+* Basilico indiano
+* Basilico africano
+* Basilico di San Genovese
+* Basilico di Napoletano
+* Basilico di Calabrese
+$$$$
+`bicchiere`: 
+* calice
+* tumbler
+* flûte
+* coppa
+* bicchiere da shot
+* bicchiere da vino
+* bicchiere da birra
+* bicchiere da cocktail
+* bicchiere da acqua
+* bicchiere da succo
+* bicchiere da tè
+* bicchiere da caffè
+* bicchiere da champagne
+* bicchiere da prosecco
+* bicchiere da martini
+* bicchiere da margarita
+* bicchiere da pinta
+* bicchiere da birra da 0,5 litri
+* bicchiere da birra da 1 litro
+* bicchiere da birra da 2 litri
+* bicchiere da birra da 5 litri
+* bicchiere da birra da
+$$$$
+`bicicletta`: 
+* mountain bike
+* bici da corsa
+* bici da città
+* bici da turismo
+* bici da triathlon
+* bici da cross
+* bici da BMX
+* bici da carico
+* tandem
+* bici elettrica
+* bici pieghevole
+* bici da spiaggia
+* bici da fitness
+* bici da passeggio
+* bici da corsa gravel
+* bici da ciclocross
+* bici da pista
+* bici da triathlon
+* bici da cicloturismo
+* bici da enduro
+$$$$
+`bocca`: 
+* bocca umana
+* bocca di un fiume
+* bocca di un vulcano
+* bocca di un fucile
+* bocca di un leone
+* bocca di un camino
+* bocca di un altoparlante
+* bocca di un'ostrica
+* bocca di un pesce
+* bocca di un serpente
+* bocca di un elefante
+* bocca di un cavallo
+* bocca di un cane
+* bocca di un gatto
+* bocca di un uccello
+* bocca di un pesce
+* bocca di un insetto
+* bocca di un ragno
+* bocca di un gambero
+* bocca di un polpo
+* bocca di un calamaro.
+$$$$
+`braccio`: 
+* Braccio robotico
+* Braccio artificiale
+* Braccio di un orologio
+* Braccio di un robot
+* Braccio di un essere umano
+* Braccio di una gru
+* Braccio di un robot industriale
+* Braccio di un robot collaborativo
+* Braccio di un robot da tavola
+* Braccio di un robot da scrivania
+$$$$
+`cactus`: 
+* cactus barrel
+* cactus Christmas
+* cactus fishhook
+* cactus living rock
+* cactus old man
+* cactus peyote
+* cactus saguaro
+* cactus torch
+* cactus whip
+$$$$
+`calza`: 
+* calza di cotone
+* calza di lana
+* calza di seta
+* calza di spugna
+* calza di nylon
+* calza di compressione
+* calza di riscaldamento
+* calza di gomma
+* calza di spandex
+* calza di cachemire
+* calza di filo
+* calza di spugna
+* calza di spugna
+* calza di spugna
+* calza di spugna
+* calza di spugna
+* calza di spugna
+* calza di spugna
+* calza di spugna
+* calza di spugna
+* calza di spugna
+* calza di spugna
+* calza di spugna
+*
+$$$$
+`camera`: 
+* camera da letto
+* camera da bagno
+* camera degli ospiti
+* camera da pranzo
+* camera oscura
+* camera di sicurezza
+* camera di consiglio
+* camera di commercio
+* camera di compressione
+* camera di espansione
+* camera di equilibrio
+* camera di combustione
+* camera di scoppio
+* camera a gas
+* camera iperbarica
+* camera frigorifera
+* camera di risonanza magnetica
+* camera di deprivazione sensoriale
+* camera di tortura
+* camera ardente
+$$$$
+`camicia`: 
+* camicia button-down
+* camicia Oxford
+* camicia a maniche corte
+* camicia a maniche lunghe
+* camicia a righe
+* camicia a quadri
+* camicia a fiori
+* camicia hawaiana
+* camicia di flanella
+* camicia di jeans
+* camicia di seta
+* camicia di lino
+* camicia da lavoro
+* camicia da notte
+* camicia da uomo
+* camicia da donna
+* camicia da bambino
+* camicia da smoking
+* camicia da sposa
+* camicia denim
+* camicia di cotone
+* camicia di velluto
+* camicia di pelle
+* camicia di jeans
+* camicia di lana
+* camicia di nylon
+* camicia di poliestere
+
+$$$$
+`camion`: 
+* autocarro
+* autocisterna
+* autocarro ribaltabile
+* autocarro attrezzato
+* autocarro portacontainer
+* autocarro frigorifero
+* autocarro betoniera
+* autocarro gru
+* autocarro soccorso
+* autocarro spazzatura
+* autocarro portavalori
+* autocarro portacontenitori
+* autocarro portautomezzi
+* autocarro portacontenitori refrigerati
+* autocarro portacontenitori per il trasporto di merci pericolose
+* autocarro portacontenitori per il trasporto di merci deperibili
+* autocarro portacontenitori per il trasporto di merci surgelate
+* autocarro portacontenitori per il trasporto di merci a temperatura controllata
+* autocarro portac
+$$$$
+`candelabro`: 
+* candelabro a bracci
+* candelabro a sospensione
+* candelabro da tavolo
+* candelabro da terra
+* candelabro da parete
+* candelabro da esterno
+* candelabro in ferro battuto
+* candelabro in vetro
+* candelabro in ottone
+* candelabro in argento
+* candelabro in bronzo
+* candelabro in legno
+* candelabro in marmo
+* candelabro in metallo
+* candelabro in pietra
+* candelabro in vetro soffiato
+* candelabro in stile antico
+* candelabro in stile moderno
+* candelabro in stile orientale
+* candelabro in
+$$$$
+`cane`: 
+* pastore tedesco
+* golden retriever
+* labrador
+* husky siberiano
+* bulldog
+* chihuahua
+* beagle
+* rottweiler
+* doberman
+* terrier
+* bassotto
+* husky
+* border collie
+* carlino
+* cocker spaniel
+* dalmata
+* fox terrier
+* husky
+* jack russell
+* levriero
+* mastino napoletano
+* pechinese
+* pitbull
+* pointer
+* setter
+* schnauzer
+* terrier scozzese
+* yorkshire terrier
+$$$$
+`canottiera`: 
+* canottiera a manica corta
+* canottiera a manica lunga
+* canottiera senza maniche
+* canottiera con scollo a V
+* canottiera con scollo a barca
+* canottiera con scollo rotondo
+* canottiera con spalline
+* canottiera senza spalline
+* canottiera con stampa
+* canottiera unisex
+* canottiera da uomo
+* canottiera da donna
+* canottiera da bambino
+* canottiera da neonato
+* canottiera da mare
+* canottiera da palestra
+* canottiera da lavoro
+* canottiera da notte
+* canottiera da yoga
+* canottiera da corsa
+$$$$
+`capello`: 
+* Capelli lunghi
+* Capelli corti
+* Capelli ricci
+* Capelli lisci
+* Capelli castani
+* Capelli biondi
+* Capelli rossi
+* Capelli neri
+* Capelli grigi
+* Capelli bianchi
+* Capelli radi
+* Capelli folti
+* Capelli mossi
+* Capelli crespi
+* Capelli lisci come seta
+* Capelli con riflessi
+* Capelli tinti
+* Capelli naturali
+* Capelli con extension
+* Capelli con acconciatura
+$$$$
+`cappello`: 
+* berretto
+* cappello a cilindro
+* cappello a falda larga
+* cappello a tesa larga
+* cappello da baseball
+* cappello da cowboy
+* cappello da sole
+* cappello floppy
+* cappello di paglia
+* cappello di pelliccia
+* cappello di lana
+* cappello fedora
+* cappello floppy
+* cappello hard hat
+* cappello militare
+* cappello tirolese
+* cappello a bombetta
+* cappello a cloche
+* cappello a tricorno
+* cappello a tesa stretta
+$$$$
+`cappotto`: 
+* cappotto lungo
+* cappotto corto
+* cappotto di pelle
+* cappotto di lana
+* cappotto di cotone
+* cappotto imbottito
+* cappotto con cappuccio
+* cappotto senza maniche
+* cappotto con cintura
+* cappotto con collo alto
+* cappotto con collo basso
+* cappotto con bottoni
+* cappotto con zip
+* cappotto con pelliccia
+* cappotto con cappotto
+* cappotto con cappotto
+* cappotto con cappotto
+* cappotto con cappotto
+* cappotto con cappotto
+* cappotto con cappotto
+$$$$
+`carne`: 
+* manzo
+* maiale
+* pollo
+* tacchino
+* agnello
+* vitello
+* coniglio
+* cavallo
+* cervo
+* salmone
+* tonno
+* manzo
+* maiale
+* pollo
+* tacchino
+* agnello
+* vitello
+* coniglio
+* cavallo
+* cervo
+* salmone
+* tonno
+$$$$
+`carrozza`: 
+* carrozza ferroviaria
+* carrozza da viaggio
+* carrozza da parata
+* carrozza da corsa
+* carrozza da piazza
+* carrozza da funerale
+* carrozza da teatro
+* carrozza da circo
+* carrozza da trasporto truppe
+* carrozza da bagagli
+* carrozza da ristorante
+* carrozza da osservazione
+* carrozza da salvataggio
+* carrozza da servizio
+* carrozza da lavoro
+* carrozza da trasporto merci
+* carrozza da trasporto passeggeri
+* carrozza da trasporto truppe corazzate
+* carrozza da trasporto truppe meccanizzate
+* carrozza da trasporto truppe motorizzate.
+$$$$
+`carte`: 
+* biglietto da visita
+* biglietto da lotteria
+* biglietto da banca
+* biglietto da treno
+* biglietto da aereo
+* biglietto da cinema
+* biglietto da concerti
+* biglietto da parcheggio
+* biglietto da scontrino
+* biglietto da regalo
+* biglietto da auguri
+* biglietto da invito
+* biglietto da lotto
+* biglietto da bingo
+* biglietto da poker
+* biglietto da blackjack
+* biglietto da roulette
+* biglietto da slot machine
+* biglietto da gratta e vinci
+* biglietto da scommesse
+* biglietto da lotto istantaneo
+* big
+$$$$
+`cassettiera`: 
+* cassettiera da camera da letto
+* cassettiera da ufficio
+* cassettiera da bagno
+* cassettiera da cucina
+* cassettiera per bambini
+* cassettiera per biancheria
+* cassettiera per vestiti
+* cassettiera per scarpe
+* cassettiera per giochi
+* cassettiera per documenti
+$$$$
+`cavallo`: 
+* purosangue
+* quarter horse
+* appaloosa
+* arabo
+* frisone
+* Clydesdale
+* Shetland
+* Mustang
+* Andaluso
+* Lipizzano
+$$$$
+`cd`: 
+* CD audio
+* CD di dati
+* CD-ROM
+* CD-R
+* CD-RW
+* Super Audio CD (SACD)
+* Video CD (VCD)
+* Enhanced CD (ECD)
+* CD interattivo
+* CD a singola velocità
+* CD a doppia velocità
+* CD a quadrupla velocità
+* CD a ottupla velocità
+$$$$
+`centrotavola`: 
+* composizione floreale
+* candelabro
+* centrotavola di vetro
+* centrotavola di legno
+* centrotavola di metallo
+* centrotavola di ceramica
+* centrotavola di cristallo
+* centrotavola di marmo
+* centrotavola di pietra
+* centrotavola di vetro soffiato
+* centrotavola di vetro colorato
+* centrotavola di vetro trasparente
+* centrotavola di vetro opaco
+* centrotavola di vetro smerigliato
+* centrotavola di vetro inciso
+* centrotavola di vetro dipinto
+* centrotavola di vetro decorato
+* centrotavola di vetro artigianale
+$$$$
+`cereale`: 
+* frumento
+* orzo
+* avena
+* segale
+* riso
+* mais
+* grano saraceno
+* farro
+* quinoa
+* miglio
+$$$$
+`cervello`: 
+* Neocorteccia
+* Corteccia cerebrale
+* Corteccia cerebellare
+* Talamo
+* Ipotalamo
+* Amigdala
+* Ipofisi
+* Epifisi
+* Corpo striato
+* Nucleo accumbens
+* Nucleo caudato
+* Putamen
+* Globus pallidus
+* Tronco encefalico
+* Midollo allungato
+* Pons
+* Bulbo olicerebro
+* Medulla oblongata
+* Cerebello
+* Ponti
+* Corpi mammillari
+* Ghiandola pineale
+* Gangli della base
+* Corpi striati
+* Nuclei della base
+* Nuclei della tratta ascendente reticolare attivante
+* Nuclei della tratta discendente reticolare attiv
+$$$$
+`chitarra`: 
+* chitarra acustica
+* chitarra elettrica
+* chitarra classica
+* chitarra basso
+* chitarra a 12 corde
+* chitarra resofonica
+* chitarra folk
+* chitarra flamenca
+* chitarra jazz
+* chitarra baritono
+* chitarra a 7 corde
+* chitarra a 8 corde
+* chitarra a 10 corde
+* chitarra a 12 corde
+* chitarra a 13 corde
+* chitarra a 14 corde
+* chitarra a 15 corde
+* chitarra a 16 corde
+* chitarra a 17 corde
+* chitarra a 18 corde
+* chitarra a 19 corde
+* chitarra a 20 corde
+* chitarra a 21 corde
+$$$$
+`ciclamino`: 
+* Ciclamino comune
+* Ciclamino africano
+* Ciclamino di Madagascar
+* Ciclamino di Ischia
+* Ciclamino di Spagna
+* Ciclamino di Persia
+* Ciclamino di Giava
+* Ciclamino di Kenya
+* Ciclamino di Mozambico
+* Ciclamino di Zanzibar
+* Ciclamino di Madagascar var. flammula
+* Ciclamino di Madagascar var. maculatum
+* Ciclamino di Madagascar var. tricolor
+* Ciclamino di Madagascar var. albovittatum
+* Ciclamino di Madagascar var. roseum
+* Ciclamino di Madagascar var. purpurascens
+* Ciclamino di Madagascar var. rubrum
+* Ciclamino di Madagascar var. violaceum
+* Ciclamino di Madagascar
+$$$$
+`ciliegio`: 
+* ciliegio acido
+* ciliegio dolce
+* ciliegio selvatico
+* ciliegio da tavola
+* ciliegio da marmellata
+* ciliegio da distillazione
+* ciliegio da ombra
+* ciliegio da legno
+* ciliegio da fiore
+* ciliegio da frutto secco
+* ciliegio da confettura
+* ciliegio da succo
+* ciliegio da allevamento
+* ciliegio da giardino
+* ciliegio da parco
+* ciliegio da bosco
+* ciliegio da sottobosco
+* ciliegio da sottobosco
+* ciliegio da sottobosco
+* ciliegio da sottobosco
+* ciliegio da sottobosco
+*
+$$$$
+`cioccolato`: 
+* albero del cacao
+* cioccolato al latte
+* cioccolato fondente
+* cioccolato bianco
+* cioccolatini
+* tavoletta di cioccolato
+* cioccolato fondente extra dark
+* cioccolato al latte con nocciole
+* cioccolato fondente con frutta secca
+* cioccolato bianco con pistacchi
+* cioccolato fondente con peperoncino
+* cioccolato al latte con mandorle
+* cioccolato fondente con frutti di bosco
+* cioccolato bianco con fragole
+* cioccolato al latte con noci
+* cioccolato fondente con scorza di arancia
+* cioccolato bianco
+$$$$
+`colla`: 
+* Colla a caldo
+* Colla a freddo
+* Colla a base di acqua
+* Colla a base di solvente
+* Colla a base di resina
+* Colla a base di silicone
+* Colla a base di lattice
+* Colla a base di cianoacrilato
+* Colla a base di polivinilacetato
+* Colla a base di poliestere
+* Colla a base di poliammide
+* Colla a base di polietilene
+* Colla a base di polipropilene
+* Colla a base di poliestirene
+* Colla a base di polivinilbutirale
+* Colla a base di polivinilformale
+* Colla a base di polivinilpirrolidone
+$$$$
+`collo`: 
+* camicia
+* cravatta
+* sciarpa
+* foulard
+* maglione a collo alto
+* cappotto
+* giacca
+* golf
+* t-shirt a collo alto
+* maglietta a collo alto.
+$$$$
+`colonna`: 
+* Colonna d'aria
+* Colonna di fumo
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna sonora
+* Colonna
+$$$$
+`coltello`: 
+* coltello da cucina
+* coltello da tavola
+* coltello da frutta
+* coltello da pane
+* coltello da intaglio
+* coltello da caccia
+* coltello da tasca
+* coltello da sopravvivenza
+* coltello da cucina giapponese (sai)
+* coltello da sushi
+* coltello da macellaio
+* coltello da pesce
+* coltello da formaggio
+* coltello da burro
+* coltello da verdura
+* coltello da frutta esotica
+* coltello da ostriche
+* coltello da insalata
+* coltello da tartare
+* coltello da scalco
+$$$$
+`comodino`: 
+* comodino da parete
+* comodino con cassetti
+* comodino con ante
+* comodino con specchio
+* comodino con illuminazione
+* comodino con ripiano in marmo
+* comodino con ruote
+* comodino in stile moderno
+* comodino in stile classico
+* comodino in stile shabby chic
+* comodino in stile industriale
+* comodino in stile nordico
+* comodino in stile orientale
+* comodino in stile provenzale
+* comodino in stile rustico
+* comodino in stile vintage
+* comodino in legno
+* comodino in metallo
+* comodino in vetro
+* comodino in rattan
+* comodino in tessuto
+$$$$
+`computer`: 
+* desktop
+* laptop
+* tablet
+* netbook
+* server
+* workstation
+* mainframe
+* supercomputer
+* console per videogiochi
+* computer quantistico.
+$$$$
+`comò`: 
+* comò a cassetti
+* comò con specchio
+* comò in stile rustico
+* comò in stile moderno
+* comò in stile shabby chic
+* comò in stile industriale
+* comò in stile vintage
+* comò con ante
+* comò con cassetti e ante
+* comò con cassetti e ripiani
+* comò con cassetti e sportelli
+* comò con cassetti e mensole
+* comò con cassetti e vano porta abiti
+* comò con cassetti e vano porta scarpe
+* comò con cassetti e vano porta biancheria
+* comò con cassetti e vano porta vestiti
+* comò con cassetti e vano porta accessori
+* comò con cassetti e vano porta oggetti
+
+$$$$
+`coniglio`: 
+* coniglio selvatico
+* coniglio domestico
+* coniglio nano
+* coniglio gigante
+* coniglio pasquale
+* coniglio leporide
+* coniglio europeo
+* coniglio indiano
+* coniglio lince
+* coniglio delle nevi
+* coniglio delle Pampas
+* coniglio delle rocce
+* coniglio delle praterie
+* coniglio delle foreste
+* coniglio delle pianure
+* coniglio delle montagne
+* coniglio delle caverne
+* coniglio delle steppe
+* coniglio delle foreste pluviali
+* coniglio delle savane.
+$$$$
+`cornice`: 
+* cornice per quadri
+* cornice per foto
+* cornice per specchio
+* cornice per poster
+* cornice per dipinti
+* cornice per porte
+* cornice per finestre
+* cornice per porte
+* cornice per mobili
+* cornice per tende
+* cornice per lampade
+* cornice per televisori
+* cornice per computer
+* cornice per piante
+* cornice per vasi
+* cornice per candele
+* cornice per orologi
+* cornice per targhe
+* cornice per premi
+* cornice per diplomi
+* cornice per certificati
+* cornice per biglietti
+* cornice per ricordi
+* cornice per decorazioni natalizie
+* cornice per decorazioni di compleanno
+$$$$
+`credenza`: 
+* credenza in stile rustico
+* credenza in stile moderno
+* credenza in stile shabby chic
+* credenza in stile industriale
+* credenza in stile minimalista
+* credenza in stile vintage
+* credenza in stile classico
+* credenza in stile orientale
+* credenza in stile scandinavo
+* credenza in stile provenzale
+* credenza in stile coloniale
+* credenza in stile art déco
+* credenza in stile liberty
+* credenza in stile barocco
+* credenza in stile rococò
+* credenza in stile neoclassico
+* credenza in stile art nouveau
+* credenza in stile contemporaneo
+* credenza in stile country
+* credenza in stile mediterraneo
+* credenza in stile nordico
+* credenza
+$$$$
+`cruciverba`: 
+* cruciverba classico
+* cruciverba tematico
+* cruciverba a tema libero
+* cruciverba a griglia
+* cruciverba a parole incrociate
+* cruciverba a parole intrecciate
+* cruciverba a parole incatenate
+* cruciverba a parole concatenate
+* cruciverba a parole intrecciate e concatenate
+* cruciverba a parole intrecciate e incatenate
+* cruciverba a parole concatenate e incatenate
+* cruciverba a parole intrecciate, concatenate e incatenate
+* cruciverba a parole intrecciate e concatenate in più lingue
+* cruciverba a parole intrecciate, concatenate e incatenate in più lingue
+* cruciverba a parole intrecc
+$$$$
+`cucchiaio`: 
+* cucchiaio da tavola
+* cucchiaio da minestra
+* cucchiaio da dessert
+* cucchiaio da tè
+* cucchiaio da caffè
+* cucchiaio da cucina
+* cucchiaio da bar
+* cucchiaio da gelato
+* cucchiaio da insalata
+* cucchiaio da misurazione
+* cucchiaio da portata
+* cucchiaio da servizio
+* cucchiaio da cucina professionale
+* cucchiaio da cucina in silicone
+* cucchiaio da cucina in legno
+* cucchiaio da cucina in metallo
+* cucchiaio da cucina in plastica
+* cucchiaio da cucina in acciaio inossidabile
+* cucchiaio da cucina in rame
+* cucchia
+$$$$
+`cucina`: 
+* fornello
+* piano cottura
+* forno
+* frigorifero
+* freezer
+* lavello
+* lavastoviglie
+* microonde
+* tostapane
+* caffettiera
+* bollitore
+* griglia
+* piano di lavoro
+* armadio
+* scaffale
+* dispensa
+* tavolino
+* sgabello
+* seggiola
+* tavola
+* pentola
+* padella
+* tegamino
+* mestolo
+* cucchiaio
+* coltello
+* forchetta
+* cucchiaio da tavola
+* bicchiere
+* tazza
+* piatto
+* ciotola
+* scodella
+* insalatiere
+* tagliere
+* spremiagrumi
+* frull
+$$$$
+`cuore`: 
+* Cuore umano
+* Cuore animale
+* Cuore vegetale
+* Cuore artificiale
+* Cuore di una città
+* Cuore di una festa
+* Cuore di una persona
+* Cuore di una squadra
+* Cuore di una famiglia
+* Cuore di un albero
+* Cuore di una macchina
+* Cuore di una casa
+* Cuore di un computer
+* Cuore di un motore
+* Cuore di un orologio
+* Cuore di un sistema
+* Cuore di un universo
+* Cuore di una galassia
+* Cuore di una stella
+* Cuore di un pianeta
+$$$$
+`cuscino`: 
+* cuscino per il collo
+* cuscino per la schiena
+* cuscino per la pancia
+* cuscino per il seno
+* cuscino per il capezzale
+* cuscino per il divano
+* cuscino per la sedia
+* cuscino per il pavimento
+* cuscino per il viaggio
+* cuscino per il computer
+* cuscino per il neonato
+* cuscino per il bambino
+* cuscino per il sonno
+* cuscino per la meditazione
+* cuscino per il yoga
+* cuscino per il pilates
+* cuscino per il massaggio
+* cuscino per il trucco
+* cuscino per il make-up
+* cuscino per il trucco profession
+$$$$
+`delfino`: 
+* Delfino comune
+* Delfino tursiope
+* Delfino dal naso a bottiglia
+* Delfino di Risso
+* Delfino dalla testa bianca
+* Delfino azzurro
+* Delfino a naso corto
+* Delfino a naso lungo
+* Delfino dal dorso bianco
+* Delfino dal becco a spatola
+* Delfino di Cuvier
+* Delfino di Hector
+* Delfino di Irrawaddy
+* Delfino di Maui
+* Delfino di Peale
+* Delfino di Peron
+* Delfino di Sakhalin
+* Delfino di Truei
+* Delfino di Wilson
+$$$$
+`divano`: 
+* divano a due posti
+* divano a tre posti
+* divano a L
+* divano angolare
+* divano letto
+* divano Chesterfield
+* divano in pelle
+* divano in tessuto
+* divano modular
+* divano relax
+* divano sectional
+* divano a scomparsa
+* divano puff
+* divano a dondolo
+* divano con braccioli
+* divano senza braccioli
+* divano con poggiapiedi
+* divano senza poggiapiedi
+* divano con cuscini removibili
+* divano senza cuscini removibili
+* divano con schienale regolabile
+* divano senza schienale regolabile
+* divano con struttura in legno
+* divano con struttura in
+$$$$
+`edera`: 
+* Hedera helix
+* Hedera canariensis
+* Hedera hibernica
+* Hedera rhombea
+* Hedera colchica
+* Hedera nepalensis
+* Hedera pastuchowii
+* Hedera maderensis
+* Hedera iberica
+* Hedera algeriensis
+$$$$
+`elefante`: 
+* Elefante africano
+* Elefante asiatico
+* Elefante marino
+* Elefante indiano
+* Elefante delle foreste
+* Elefante delle savane
+* Elefante delle steppe
+* Elefante delle montagne
+* Elefante delle pianure
+* Elefante delle foreste pluviali
+$$$$
+`elicottero`: 
+* elicottero da trasporto
+* elicottero da soccorso
+* elicottero da combattimento
+* elicottero da ricognizione
+* elicottero da lavoro
+* elicottero da turismo
+* elicottero da addestramento
+* elicottero da ricerca e soccorso
+* elicottero da pattugliamento
+* elicottero da trasporto militare.
+$$$$
+`evidenziatore`: 
+* evidenziatore giallo
+* evidenziatore verde
+* evidenziatore rosa
+* evidenziatore rosso
+* evidenziatore blu
+* evidenziatore arancione
+* evidenziatore viola
+* evidenziatore nero
+$$$$
+`felpa`: 
+* felpa con cappuccio
+* felpa senza cappuccio
+* felpa con zip
+* felpa senza zip
+* felpa a manica corta
+* felpa a manica lunga
+* felpa con stampa
+* felpa unisex
+* felpa da uomo
+* felpa da donna
+* felpa da bambino
+* felpa da neonato
+* felpa da corsa
+* felpa da calcio
+* felpa da basket
+* felpa da football
+* felpa da baseball
+* felpa da hockey
+* felpa da sci
+* felpa da snowboard
+* felpa da skateboard
+* felpa da surf
+* felpa da nuoto
+* felpa da yoga
+* felpa da lavoro
+* felpa da ufficio
+* felpa da casa
+$$$$
+`ficus`: 
+* Ficus benjamina
+* Ficus elastica
+* Ficus lyrata
+* Ficus pumila
+* Ficus retusa
+* Ficus rubiginosa
+* Ficus sycomorus
+* Ficus carica (Fico comune)
+* Ficus religiosa (Ficus sacro)
+* Ficus microcarpa (Ficus gomma)
+* Ficus benghalensis (Ficus bengalese)
+* Ficus deltoidea
+* Ficus natalensis
+* Ficus polita
+* Ficus virens
+* Ficus aurea
+* Ficus binnendijkii
+* Ficus burtt-davyi
+* Ficus citrifolia
+* Ficus exasperata
+$$$$
+`finestra`: 
+* Finestra a battente
+* Finestra scorrevole
+* Finestra a vasistas
+* Finestra a ghigliottina
+* Finestra a ribalta
+* Finestra panoramica
+* Finestra a bovindo
+* Finestra a baia
+* Finestra a tetto
+* Finestra termica
+* Finestra in PVC
+* Finestra in legno
+* Finestra in alluminio
+* Finestra in vetro
+* Finestra con doppi vetri
+* Finestra con tripli vetri
+* Finestra con tende integrate
+* Finestra con zanzariere integrate
+* Finestra con vetro antiproiettile
+* Finestra con vetro antisfondamento
+* Finestra con vetro isolante
+* Finestra con vetro riflettente
+* Fin
+$$$$
+`fioriera`: 
+* vasi
+* urne
+* ciotole
+* contenitori per piante
+* fioriere sospese
+* fioriere da terra
+* fioriere da balcone
+* fioriere da giardino
+* fioriere da interno
+* fioriere da esterno
+$$$$
+`foglio`: 
+* foglio di carta
+* foglio di alluminio
+* foglio di vetro
+* foglio di metallo
+* foglio di gomma
+* foglio di plastica
+* foglio di cartone
+* foglio di silicone
+* foglio di acciaio inossidabile
+* foglio di rame
+* foglio di stagno
+* foglio di oro
+* foglio di argento
+* foglio di rame
+* foglio di vetro temperato
+* foglio di vetro stratificato
+* foglio di vetro laminato
+* foglio di vetro float
+* foglio di vetro temperato laminato
+* foglio di vetro temperato stratificato
+* foglio di vetro temperato laminato stratificato
+* fog
+$$$$
+`forbice`: 
+* forbice da giardino
+* forbice da potatura
+* forbice da cucina
+* forbice da unghie
+* forbice da sarto
+* forbice da ufficio
+* forbice da falegname
+* forbice da giardinaggio
+* forbice da parrucchiere
+* forbice da cucito
+* forbice da taglio
+* forbice da giardinaggio
+* forbice da potatura
+* forbice da giardinaggio
+* forbice da potatura
+* forbice da giardinaggio
+* forbice da potatura
+* forbice da giardinaggio
+* forbice da potatura
+* forbice da giardinaggio
+* forbice da potatura
+* forbice da giardinaggio
+* forbice da potatura
+* forb
+$$$$
+`forchetta`: 
+* forchetta da insalata
+* forchetta da dessert
+* forchetta da frutta
+* forchetta da pesce
+* forchetta da carne
+* forchetta da minestra
+* forchetta da cocktail
+* forchetta da formaggio
+* forchetta da spaghetti
+* forchetta da ostriche
+* forchetta da tartufi
+* forchetta da fonduta
+* forchetta da asparagi
+* forchetta da gamberi
+* forchetta da uova
+* forchetta da antipasto
+* forchetta da dolce
+* forchetta da caffè
+* forchetta da gelato
+* forchetta da frutta secca
+$$$$
+`formaggio`: 
+* Cheddar
+* Mozzarella
+* Parmigiano Reggiano
+* Gorgonzola
+* Brie
+* Camembert
+* Emmental
+* Provolone
+* Pecorino Romano
+* Feta
+* Roquefort
+* Stilton
+* Gouda
+* Edam
+* Mascarpone
+* Ricotta
+* Stracchino
+* Burrata
+* Formaggio fresco
+* Formaggio stagionato
+$$$$
+`fotografia`: 
+* Fotocamera
+* Smartphone
+* Obiettivo
+* Flash
+* Treppiede
+* Obiettivo zoom
+* Obiettivo macro
+* Obiettivo grandangolare
+* Obiettivo teleobiettivo
+* Pellicola fotografica
+* Memoria digitale
+* Stampante fotografica
+* Cornice
+* Album fotografico
+* Teleobiettivo
+* Grandangolo
+* Macro
+* Zoom
+* Obiettivo a focale fissa
+* Obiettivo a focale variabile
+$$$$
+`frutta`: 
+* mela
+* banana
+* arancia
+* limone
+* fragola
+* ciliegia
+* uva
+* pesca
+* albicocca
+* pera
+* kiwi
+* melone
+* anguria
+* pompelmo
+* mango
+* ananas
+* papaya
+* avocado
+* frutto della passione
+* lime
+* mandarino
+* mandarancio
+* melograno
+* nespola
+* prugna
+* susina
+* uva spina
+* fico
+* dattero
+* cocco
+* guava
+* litchi
+* mango
+* rambutan
+* durian
+* frutto del drago
+* frutto della passione
+* frutto del pane
+* fr
+$$$$
+`furgone`: 
+* furgone per le consegne
+* furgone per il trasporto merci
+* furgone per il trasporto persone
+* furgone per il trasporto animali
+* furgone per il trasporto attrezzature
+* furgone per il trasporto alimenti
+* furgone per il trasporto bagagli
+* furgone per il trasporto merci pericolose
+* furgone per il trasporto merci refrigerate
+* furgone per il trasporto merci surgelate
+* furgone per il trasporto merci in container
+* furgone per il trasporto merci in casse
+* furgone per il trasporto merci in pacchi
+* furgone per il trasporto merci in pallets
+* furgone per il trasporto merci in sacchi
+*
+$$$$
+`gallo`: 
+* gallina
+* pollo
+* tacchino
+* dindone
+* oca
+* anatra
+* faraona
+* struzzo
+* emù
+* casuario
+* nandù
+* avvoltoio
+* falco
+* gufo
+* civetta
+* allocco
+* barbagianni
+* piccione
+* tortora
+* colomba
+* merlo
+* usignolo
+* passero
+* fringuello
+* pettirosso
+* cinciallegra
+* gazza
+* corvo
+* cornacchia
+* ghiandaia
+* cincia
+* cinciarella
+* pettirosso
+* ciuffolotto
+* cardellino
+* canarino
+* pappagallo
+* cacatua
+*
+$$$$
+`gamba`: 
+* gamba di una sedia
+* gamba di un tavolo
+* gamba di un letto
+* gamba di un mobile
+* gamba di un essere umano
+* gamba di un animale
+* gamba di un manichino
+* gamba di un robot
+* gamba di un trampolo
+* gamba di un ponte
+* gamba di un edificio
+* gamba di un albero
+* gamba di un albero di Natale
+* gamba di un giocattolo
+* gamba di un veicolo
+* gamba di un aereo
+* gamba di un elicottero
+* gamba di un treno
+* gamba di un'auto
+* gamba di una bicicletta
+* gamba di una moto
+* gamba di un motorino
+$$$$
+`gatto`: 
+* Maine Coon
+* Siamese
+* Persiano
+* Bengalese
+* Abissino
+* Birmano
+* Scozzese
+* Ragdoll
+* British Shorthair
+* Gatto domestico
+$$$$
+`geranio`: 
+* Geranio comune
+* Geranio odoroso
+* Geranio zonal
+* Geranio balcanico
+* Geranio cinese
+* Geranio africano
+* Geranio grandiflora
+* Geranio duvau
+* Geranio ampel
+* Geranio pelargonium
+$$$$
+`giacca`: 
+* giacca a vento
+* giacca di pelle
+* giacca di jeans
+* giacca sportiva
+* giacca a vento
+* giacca a vento imbottita
+* giacca a vento impermeabile
+* giacca a vento con cappuccio
+* giacca a vento con zip
+* giacca a vento senza maniche
+* giacca di tweed
+* giacca di lana
+* giacca di pelle di pecora
+* giacca di pelle di serpente
+* giacca di pelle nera
+* giacca di pelle marrone
+* giacca di pelle rossa
+* giacca di pelle bianca
+* giacca di pelle blu
+* giacca di pelle verde
+* giacca di pelle gialla
+* giacca di pelle rosa
+* giacca di pelle viola
+*
+$$$$
+`gilet`: 
+* Gilet senza maniche
+* Gilet con maniche
+* Gilet imbottito
+* Gilet in jeans
+* Gilet di pelle
+* Gilet da lavoro
+* Gilet da caccia
+* Gilet da sci
+* Gilet da uomo
+* Gilet da donna
+* Gilet da bambino
+* Gilet da neonato
+$$$$
+`gioco da tavola`: 
+* Monopoli
+* Scacchi
+* Risiko
+* Carcassonne
+* Jenga
+* Cluedo
+* Scarabeo
+* Risiko
+* Catan
+* Dixit
+* Ticket to Ride
+* Codenames
+* Exploding Kittens
+* Uno
+* Poker
+* Blackjack
+* Bingo
+* Mahjong
+* Domino
+* Backgammon
+* Chess
+* Checkers
+* Go
+* Othello
+* Chinese Checkers
+* Ludo
+* Snakes and Ladders
+* Parcheesi
+* Sorry!
+* Candy Land
+* Chutes and Ladders
+* Twister
+* Pictionary
+* Charades
+* Taboo
+* Cranium
+* Apples to Apples
+* Cards Against Human
+$$$$
+`giornale`: 
+* quotidiano
+* settimanale
+* mensile
+* rivista
+* periodico
+* gazzetta
+* giornale online
+* e-zine
+$$$$
+`giraffa`: 
+* Giraffa reticulata
+* Giraffa camelopardalis
+* Giraffa giraffa
+* Giraffa tippelskirchi
+* Giraffa Thornicroft
+* Giraffa peralta
+$$$$
+`girasole`: 
+* Girasole comune
+* Girasole nano
+* Girasole perenne
+* Girasole a fiore singolo
+* Girasole a fiore doppio
+* Girasole a fiore semi-doppio
+* Girasole a fiore multicolore
+* Girasole a fiore variegato
+* Girasole a fiore striato
+* Girasole a fiore maculato
+* Girasole a fiore chiazzato
+* Girasole a fiore screziato
+* Girasole a fiore bordato
+* Girasole a fiore picchiettato
+* Girasole a fiore screziato
+* Girasole a fiore screziato
+* Girasole a fiore screziato
+* Girasole a fiore scre
+$$$$
+`giubotto`: 
+* giubbotto di pelle
+* giubbotto di jeans
+* giubbotto di nylon
+* giubbotto imbottito
+* giubbotto di cotone
+* giubbotto di lana
+* giubbotto impermeabile
+* giubbotto da sci
+* giubbotto da lavoro
+* giubbotto militare
+* giubbotto di sicurezza
+* giubbotto antiproiettile
+* giubbotto da motociclista
+* giubbotto da sub
+* giubbotto da ginnastica
+* giubbotto da baseball
+* giubbotto da calcio
+* giubbotto da tennis
+* giubbotto da golf
+* giubbotto da sci nautico
+* giubbotto da
+$$$$
+`gomma`: 
+* pneumatico
+* gomma da masticare
+* gomma per cancellare
+* gomma da cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma per cancellare
+* gomma
+$$$$
+`gonna`: 
+* gonna a tubino
+* gonna a ruota
+* gonna a campana
+* gonna a matita
+* gonna a trapezio
+* gonna a vita alta
+* gonna a vita bassa
+* gonna plissettata
+* gonna svasata
+* gonna con spacco
+* gonna con balze
+* gonna con volant
+* gonna con paillettes
+* gonna con stampa floreale
+* gonna con stampa animalier
+* gonna con strass
+* gonna con paillettes
+* gonna con pizzo
+* gonna con trasparenze
+* gonna con frange
+* gonna con fiocchi
+* gonna con cinturino
+* gonna con tasche
+* gonna con bottoni
+* gonna con zip
+* gonna con coulisse
+* gonna con elastico
+* gonna con laccio
+
+$$$$
+`graffetta`: 
+* graffetta metallica
+* graffetta di plastica
+* graffetta ad anello
+* graffetta ad aletta
+* graffetta ad ago
+* graffetta ad incastro
+* graffetta ad incastro con molla
+* graffetta ad incastro senza molla
+* graffetta ad incastro con anello
+* graffetta ad incastro senza anello
+* graffetta ad incastro con molla e anello
+* graffetta ad incastro senza molla e anello
+* graffetta ad incastro con molla e senza anello
+* graffetta ad incastro senza molla e senza anello
+* graffetta ad incastro con molla e senza anello
+* graffetta ad incastro senza molla e senza anello
+$$$$
+`guanti`: 
+* guanti da lavoro
+* guanti da giardinaggio
+* guanti da cucina
+* guanti da boxe
+* guanti da guida
+* guanti da neve
+* guanti da golf
+* guanti da baseball
+* guanti da chirurgo
+* guanti da danza
+* guanti da equitazione
+* guanti da sci
+* guanti da tennis
+* guanti da guida
+* guanti da motociclista
+* guanti da palestra
+* guanti da neve
+* guanti da nuoto
+* guanti da pesca
+* guanti da rugby
+* guanti da sci
+* guanti da subacqueo
+* guanti da tennis
+* guanti da wrestling
+* guanti da yoga
+$$$$
+`insalata`: 
+* insalata mista
+* insalata di lattuga
+* insalata di pomodori
+* insalata di cetriolo
+* insalata di pasta
+* insalata di riso
+* insalata di patate
+* insalata di frutta
+* insalata di gamberi
+* insalata di pollo
+* insalata di tonno
+* insalata di avocado
+* insalata di cavolo
+* insalata di finocchio
+* insalata di indivia
+* insalata di rucola
+* insalata di spinaci
+* insalata di verza
+* insalata di zucchine
+* insalata di melone
+$$$$
+`lampada`: 
+* lampada da tavolo
+* lampada da terra
+* lampada da soffitto
+* lampada da parete
+* lampada da comodino
+* lampada da giardino
+* lampada da lettura
+* lampada alogena
+* lampada a LED
+* lampada a incandescenza
+* lampada a sospensione
+* lampada da ufficio
+* lampada da bagno
+* lampada da esterno
+* lampada da notte
+* lampada da biblioteca
+* lampada da cucina
+* lampada da camera da letto
+* lampada da soggiorno
+* lampada da studio
+$$$$
+`lampadario`: 
+* lampadario a bracci
+* lampadario a goccia
+* lampadario a sospensione
+* lampadario a piantana
+* lampadario a soffitto
+* lampadario da terra
+* lampadario da tavolo
+* lampadario da parete
+* lampadario da giardino
+* lampadario da esterno
+$$$$
+`latte`: 
+* latte intero
+* latte scremato
+* latte parzialmente scremato
+* latte magro
+* latte di soia
+* latte di mandorla
+* latte di riso
+* latte di cocco
+* latte di avena
+* latte di capra
+* latte di pecora
+* latte di bufala
+* latte in polvere
+* latte condensato
+* latte evaporato
+* latte fermentato
+* kefir
+* yogurt
+* burro
+* panna
+* formaggio
+$$$$
+`legume`: 
+* patata
+* carota
+* sedano
+* zucchina
+* fagiolo
+* pisello
+* broccolo
+* cavolo
+* spinaci
+* lattuga
+* cetriolo
+* peperone
+* melanzana
+* zucca
+* ravanello
+* asparago
+* cavolfiore
+* cipolla
+* aglio
+* porro
+$$$$
+`leone`: 
+* Leone africano
+* Leone asiatico
+* Leone delle caverne
+* Leone marino
+* Leone di mare
+* Leone delle montagne rocciose
+* Leone delle nevi
+* Leone delle pianure
+* Leone delle steppe
+* Leone delle foreste
+$$$$
+`letto`: 
+* letto singolo
+* letto matrimoniale
+* letto a castello
+* letto a baldacchino
+* letto a scomparsa
+* letto a due piazze
+* letto a tre piazze
+* letto a quattro piazze
+* letto a rotelle
+* letto d'ospedale
+* letto pieghevole
+* letto queen size
+* letto king size
+* letto da campo
+* letto da picnic
+* letto da viaggio
+* letto da bambini
+* letto da teenager
+* letto da adulti
+* letto da ospiti
+* letto da camera da letto
+* letto da soggiorno
+* letto da giardino
+* letto da terrazza
+* letto da spiaggia
+* letto da campeggio
+* letto da barca
+* letto da aereo
+* letto da treno
+
+$$$$
+`lettore`: 
+* lettore CD
+* lettore DVD
+* lettore MP3
+* lettore e-book
+* lettore di schede di memoria
+* lettore di microfilm
+* lettore di musica in streaming
+* lettore di notizie
+* lettore di video in streaming
+* lettore di libri digitali
+$$$$
+`libreria`: 
+* libreria online
+* libreria fisica
+* libreria universitaria
+* libreria per bambini
+* libreria specializzata
+* libreria di quartiere
+* libreria di seconda mano
+* libreria digitale
+* libreria virtuale
+* libreria mobile
+* libreria galleggiante
+* libreria a parete
+* libreria a giorno
+* libreria a ponte
+* libreria a colonne
+* libreria a mensole
+* libreria con ante
+* libreria con vetrine
+* libreria con cassetti
+* libreria con scaffali estraibili
+* libreria con rotelle
+* libreria con illuminazione integrata
+* libreria con sistema di gestione dei libri
+* libreria con sistema di apertura automatica
+* libreria con sistema di climatizzazione
+* libr
+$$$$
+`libro`: 
+* romanzo
+* saggio
+* libro di testo
+* libro di cucina
+* libro per bambini
+* libro di storia
+* libro di poesia
+* libro di viaggio
+* libro di fotografia
+* libro di fumetti
+* libro di enigmistica
+* libro di cucito
+* libro di giardinaggio
+* libro di auto-aiuto
+* libro di cucina vegetariana
+* libro di cucina vegana
+* libro di cucina gluten-free
+* libro di cucina senza lattosio
+* libro di cucina senza uova
+* libro di cucina senza frutta
+* libro di cucina senza verdura
+* libro di cucina senza carne
+* libro di cucina senza pesce
+* libro di cucina senza frutta secca
+* libro di cucina senza noci
+
+$$$$
+`lucertola`: 
+* Gecko
+* Gekkonide
+* Iguana
+* Camaleonte
+* Lacerta
+* Varanide
+* Coccodrillo
+* Alligatore
+* Testa di rame
+* Gila monster
+* Frill-necked lizard
+* Thorny devil
+* Monitor
+* Frilled-necked lizard
+* Komodo dragon
+* Bearded dragon
+* Water dragon
+* Green iguana
+* Blue iguana
+* Spiny-tailed iguana
+$$$$
+`maglia`: 
+* maglia a manica corta
+* maglia a manica lunga
+* maglia a collo alto
+* maglia a V
+* maglia a girocollo
+* maglia di lana
+* maglia di cotone
+* maglia di seta
+* maglia a righe
+* maglia a quadri
+* maglia unisex
+* maglia da uomo
+* maglia da donna
+* maglia da bambino
+* maglia da neonato
+* maglia da lavoro
+* maglia da corsa
+* maglia da calcio
+* maglia da hockey
+* maglia da basket
+* maglia da tennis
+* maglia da golf
+* maglia da sci
+* maglia da sub
+* maglia da subacquea
+* maglia da subacqueo
+* mag
+$$$$
+`maiale`: 
+* maiale domestico
+* maiale selvatico
+* maiale vietnamita
+* maiale indiano
+* maiale europeo
+* maiale cinese
+* maiale nano
+* maiale di Duroc
+* maiale di Landrace
+* maiale di Large White
+* maiale di Berkshire
+* maiale di Hampshire
+* maiale di Yorkshire
+* maiale di Tamworth
+* maiale di Gloucester Old Spot
+* maiale di Mangalitsa
+* maiale di Iberico
+* maiale di Cinta Senese
+* maiale di Nero di Parma
+* maiale di Calabrese
+* maiale di Sardo
+* maiale di Corsica
+* maiale di Gascon
+* maiale di Basque
+* maiale di Blackfoot
+* maiale di M
+$$$$
+`mano`: 
+* mano destra
+* mano sinistra
+* mano umana
+* mano di un altro essere vivente
+* mano artificiale
+* mano di un burattino
+* mano di un robot
+* mano di un pupazzo
+* mano di un manichino
+* mano di un giocattolo.
+$$$$
+`margherita`: 
+* pizza margherita
+* pizza margherita con prosciutto
+* pizza margherita con funghi
+* pizza margherita con salame piccante
+* pizza margherita con spinaci
+* pizza margherita con mozzarella di bufala.
+$$$$
+`matita`: 
+* matita da disegno
+* matita da scrittura
+* matita colorata
+* matita per gli occhi
+* matita per le labbra
+* matita per il trucco
+* matita per il contorno occhi
+* matita per il contorno labbra
+* matita per il trucco permanente
+* matita per il trucco waterproof
+* matita per il trucco glitter
+* matita per il trucco glitter effetto metallizzato
+* matita per il trucco glitter effetto perlato
+* matita per il trucco glitter effetto iridescente
+* matita per il trucco glitter effetto madreperlato
+* matita per il trucco glitter effetto opaco
+* matita per il trucco glitter effetto satinato
+* matita per il trucco glitter effet
+$$$$
+`mestolo`: 
+* mestolo da cucina
+* mestolo da minestra
+* mestolo da insalata
+* mestolo da gelato
+* mestolo da caffè
+* mestolo da cucina professionale
+* mestolo da cucina in silicone
+* mestolo da cucina in legno
+* mestolo da cucina in metallo
+* mestolo da cucina in plastica.
+$$$$
+`metro`: 
+* metro lineare
+* metro quadrato
+* metro cubo
+* metro di profondità
+* metro di altezza
+* metro di larghezza
+* metro di lunghezza
+* metro di distanza
+* metro di tempo
+* metro di temperatura
+* metro di pressione
+* metro di luminosità
+* metro di suono
+* metro di radioattività
+* metro di grandezza
+* metro di misura
+* metro di riferimento
+* metro di confronto
+* metro di valutazione
+* metro di giudizio.
+$$$$
+`mimosa`: 
+* Mimosa pudica
+* Mimosa hostilis
+* Mimosa scabrella
+* Mimosa pigra
+* Mimosa diplotricha
+* Mimosa invisa
+* Mimosa aculeaticola
+* Mimosa bioleptica
+* Mimosa buxifolia
+* Mimosa caesalpiniaefolia
+$$$$
+`motocicletta`: 
+* scooter
+* moto da cross
+* moto da strada
+* moto da turismo
+* moto da enduro
+* moto da corsa
+* moto da trial
+* moto da motard
+* moto da naked
+* moto da supersport
+* moto da turismo sportivo
+* moto da avventura
+* moto da custom
+* moto da chopper
+* moto da café racer
+* moto da bobber
+* moto da streetfighter
+* moto da dual sport
+* moto da supermoto
+* moto da supermotard.
+$$$$
+`mucca`: 
+* vacca
+* vitello
+* toro
+* manzo
+* latte
+* burro
+* formaggio
+* yogurt
+* gelato
+* bistecca
+* hamburger
+* salsiccia
+* cuoio
+* colla
+* fertilizzante
+* medicine
+* cosmetici
+* prodotti per la cura della pelle
+* prodotti per la cura dei capelli
+* prodotti per la cura del corpo
+* prodotti per la cura degli animali domestici
+* prodotti per la cura degli animali da fattoria
+* prodotti per la cura degli animali selvatici
+* prodotti per la cura degli insetti
+* prodotti per la cura delle piante
+* prodotti per la cura del giardino
+* prodotti per la cura della casa
+* prodotti per la cura dell'automobile
+* prodotti per la
+$$$$
+`muro`: 
+* Muro di mattoni
+* Muro di pietra
+* Muro di cemento
+* Muro di pietra
+* Muro di mattoni a vista
+* Muro di contenimento
+* Muro di recinzione
+* Muro di separazione
+* Muro portante
+* Muro di sostegno
+* Muro di cinta
+* Muro di cinta
+* Muro di contenimento
+* Muro di pietra a secco
+* Muro di mattoni forati
+* Muro di mattoni refrattari
+* Muro di mattoni alveolati
+* Muro di mattoni pieni
+* Muro di mattoni cavi
+* Muro di mattoni forati
+* Muro di mattoni refrattari
+* Muro
+$$$$
+`naso`: 
+* naso aquilino
+* naso camuso
+* naso greco
+* naso lungo
+* naso a patata
+* naso a becco
+* naso a uncino
+* naso a punta
+* naso a sella
+* naso ad uncino
+* naso ad ansa
+* naso ad uncino
+* naso ad ansa
+* naso ad uncino
+* naso ad ansa
+* naso ad uncino
+* naso ad ansa
+* naso ad uncino
+* naso ad ansa
+* naso ad uncino
+* naso ad ansa
+* naso ad uncino
+* naso ad ansa
+* naso ad uncino
+* naso ad ansa
+* naso ad uncino
+*
+$$$$
+`nave`: 
+* nave da crociera
+* nave da carico
+* nave da guerra
+* nave da pesca
+* nave passeggeri
+* nave cargo
+* nave da sbarco
+* nave da ricerca
+* nave da supporto
+* nave da trasporto
+* nave da guerra
+* nave da pattugliamento
+* nave da soccorso
+* nave da carico
+* nave da trasporto truppe
+* nave da supporto aereo
+* nave da supporto logistico
+* nave da supporto di squadra
+* nave da supporto di squadra d'assalto
+* nave da supporto di squadra di portaerei.
+$$$$
+`occhio`: 
+* occhio umano
+* occhio di un animale
+* occhio di una telecamera
+* occhio di un robot
+* occhio di una macchina fotografica
+* occhio di un orologio
+* occhio di un uragano
+* occhio di un ciclone
+* occhio di un tornado
+* occhio di un tifone
+$$$$
+`orchidea`: 
+* Orchidea Phalaenopsis
+* Orchidea Dendrobium
+* Orchidea Cymbidium
+* Orchidea Paphiopedilum
+* Orchidea Cattleya
+* Orchidea Oncidium
+* Orchidea Phaius
+* Orchidea Vanda
+* Orchidea Miltonia
+* Orchidea Brassavola
+$$$$
+`orecchio`: 
+* orecchio esterno
+* orecchio medio
+* orecchio interno
+$$$$
+`orologio`: 
+* orologio da polso
+* orologio da tasca
+* orologio da parete
+* orologio da tavolo
+* orologio a cucù
+* orologio da viaggio
+* orologio da tasca
+* orologio da carrozza
+* orologio da pendolo
+* orologio atomico
+* orologio solare
+* orologio ad acqua
+* orologio digitale
+* orologio analogico
+* orologio smartwatch
+* orologio subacqueo
+* orologio da corsa
+* orologio da cucina
+* orologio da giardino
+* orologio da ufficio
+$$$$
+`orso`: 
+* orso polare
+* orso bruno
+* orso grizzly
+* orso nero
+* orso kodiak
+* orso andino
+* orso himalayano
+* orso labiato
+* orso malese
+* orso pardo
+$$$$
+`padella`: 
+* Padella antiaderente
+* Padella in ghisa
+* Padella in rame
+* Padella in acciaio inossidabile
+* Padella per wok
+* Padella per crepes
+* Padella per uova
+* Padella per fonduta
+* Padella per pasta
+* Padella per risotti
+* Padella per frittura
+* Padella per gratin
+* Padella per dolci
+* Padella per fondue
+* Padella per popcorn
+* Padella per cioccolata
+* Padella per caramelle
+* Padella per frittelle
+* Padella per pancake
+* Padella per omelette
+$$$$
+`palla`: 
+* palla da calcio
+* palla da tennis
+* palla da basket
+* palla da baseball
+* palla da golf
+* palla da bowling
+* palla da pallavolo
+* palla da rugby
+* palla da football americano
+* palla da ping pong
+* palla da biliardo
+* palla da croquet
+* palla da golf
+* palla da softball
+* palla da volley
+* palla da waterpolo
+* palla da hockey su prato
+* palla da hockey su ghiaccio
+* palla da hockey in-line
+* palla da handball
+* palla da pallamano
+* palla da lacrosse
+* palla da petanque
+* palla da bocce
+* palla da bowling
+* palla
+$$$$
+`pancia`: 
+* pancia piatta
+* pancia gonfia
+* pancia rotonda
+* pancia a birra
+* pancia a tavolino
+* pancia a botte
+* pancia di birra
+* pancia di gravidanza
+* pancia di bevitore di birra
+* pancia di bevitore di alcolici.
+$$$$
+`pane`: 
+* pane bianco
+* pane integrale
+* pane ai cereali
+* pane ai semi
+* pane ai semi di sesamo
+* pane ai semi di papavero
+* pane ai semi di girasole
+* pane ai semi di zucca
+* pane ai semi di lino
+* pane ai semi di chia
+* pane ai semi di canapa
+* pane ai semi di girasole
+* pane ai semi di sesamo
+* pane ai semi di papavero
+* pane ai semi di zucca
+* pane ai semi di lino
+* pane ai semi di chia
+* pane ai semi di canapa
+* pane ai semi di girasole
+* pane ai semi di sesamo
+* pane ai semi di papavero
+* pane ai semi di zucca
+* pane ai semi di lino
+* pane ai
+$$$$
+`pantalone`: 
+* jeans
+* cargo
+* chino
+* jogging
+* pinocchietto
+* capri
+* cargo
+* salopette
+* trekking
+* skinny
+* baggy
+* cargo
+* cargo
+* cargo
+* cargo
+* cargo
+* cargo
+* cargo
+* cargo
+* cargo
+$$$$
+`pasta`: 
+* spaghetti
+* maccheroni
+* penne
+* fusilli
+* lasagne
+* tagliatelle
+* linguine
+* farfalle
+* orecchiette
+* rigatoni
+* tortellini
+* ravioli
+* cannelloni
+* lasagnette
+* fettuccine
+* bucatini
+* paccheri
+* strozzapreti
+* cavatappi
+* conchiglie.
+$$$$
+`pastello`: 
+* pastello a olio
+* pastello a cera
+* pastello a secco
+* pastello a carboncino
+* pastello a tempera
+* pastello a olio temperato
+* pastello a secco temperato
+* pastello a cera temperato
+* pastello a carboncino temperato.
+$$$$
+`pavimento`: 
+* Parquet
+* Piastrelle
+* Marmo
+* Cemento
+* Legno
+* Moquette
+* Linoleum
+* Pietra
+* Resina
+* Vinile
+* Gres porcellanato
+* Cotto
+* Pietra artificiale
+* Calcestruzzo
+* Pietra naturale
+* Pietra artificiale
+* Pietra calcarea
+* Pietra arenaria
+* Pietra lavica
+* Pietra serpentina
+$$$$
+`penna`: 
+* penna a sfera
+* penna a inchiostro
+* penna a china
+* penna a siringa
+* penna a gel
+* penna a feltro
+* penna a roller
+* penna a punta fine
+* penna a punta media
+* penna a punta grossa
+* penna a inchiostro lavabile
+* penna a inchiostro indelebile
+* penna a inchiostro glitter
+* penna a inchiostro fluorescente
+* penna a inchiostro glitter fluorescente
+* penna a inchiostro glitter metallico
+* penna a inchiostro glitter metallico fluorescente
+* penna a inchiostro glitter metallico glitter
+* penna a inchiostro glitter metallico glitter fluorescente
+* penna a inchiostro glitter
+$$$$
+`pennello`: 
+* pennello per acquerelli
+* pennello per olio
+* pennello per tempera
+* pennello per vernice
+* pennello per trucco
+* pennello per capelli
+* pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per pennello per penn
+$$$$
+`pentola`: 
+* pentola a pressione
+* pentola per risotti
+* pentola per pasta
+* pentola per minestre
+* pentola per fondue
+* pentola per cottura al vapore
+* pentola per fonduta
+* pentola per popcorn
+* pentola per caramelle
+* pentola per cioccolata
+* pentola per yogurt
+* pentola per fonduta di formaggio
+* pentola per fonduta di cioccolato
+* pentola per fonduta di frutta
+* pentola per fonduta di verdure
+* pentola per fonduta di pesce
+* pentola per fonduta di carne
+* pentola per fonduta di pollo
+* pentola per fonduta di tacchino
+* pentola per fonduta di maiale
+* pentola per fond
+$$$$
+`pesce`: 
+* salmone
+* tonno
+* pesce spada
+* pesce azzurro
+* pesce gatto
+* pesce palla
+* pesce rosso
+* pesce spada
+* pesce persico
+* pesce sciabola
+* pesce spada
+* pesce gatto
+* pesce palla
+* pesce rosso
+* pesce persico
+* pesce sciabola
+* pesce spada
+* pesce gatto
+* pesce palla
+* pesce rosso
+* pesce persico
+* pesce sciabola
+* pesce spada
+* pesce gatto
+* pesce palla
+* pesce rosso
+* pesce persico
+* pesce sciabola
+* pesce spada
+* pesce gatto
+* pesce palla
+*
+$$$$
+`piatto`: 
+* piatto fondo
+* piatto piano
+* piatto da portata
+* piatto da insalata
+* piatto da dessert
+* piatto da frutta
+* piatto da antipasto
+* piatto da minestra
+* piatto da pizza
+* piatto da tapas
+* piatto da sushi
+* piatto da servizio
+* piatto da portata
+* piatto da servizio
+* piatto da servizio da tavola
+* piatto da servizio da caffè
+* piatto da servizio da tè
+* piatto da servizio da dolce
+* piatto da servizio da frutta
+* piatto da servizio da antipasto
+* piatto da servizio da minestra
+* piatto da servizio da pizza
+* piatto da servizio da tapas
+* piatto da servizio da s
+$$$$
+`piede`: 
+* piede umano
+* piede di porco
+* piede di gallina
+* piede di montagna
+* piede di foto
+* piede di pagina
+* piede di scala
+* piede di sedia
+* piede di tavolino
+* piede di lampada
+* piede di ponte
+* piede di montagna
+* piede di foto
+* piede di pagina
+* piede di scala
+* piede di sedia
+* piede di tavolino
+* piede di lampada
+* piede di ponte
+$$$$
+`pino`: 
+* Pino marittimo
+* Pino silvestre
+* Pino domestico
+* Pino mugo
+* Pino nero
+* Pino d'Aleppo
+* Pino torrefatto
+* Pino strobo
+* Pino austriaco
+* Pino loricato
+* Pino di Banks
+* Pino di Weymouth
+* Pino di Monterey
+* Pino di Aleppo
+* Pino di Canaria
+* Pino di Nordmann
+* Pino di Scozia
+* Pino di Sitka
+* Pino di Virginia
+* Pino di Yew.
+$$$$
+`pizza`: 
+* pizza margherita
+* pizza quattro stagioni
+* pizza al salamino
+* pizza al prosciutto
+* pizza ai funghi
+* pizza al tonno
+* pizza al formaggio
+* pizza al pepperoni
+* pizza al prosciutto crudo
+* pizza al salame piccante
+* pizza al prosciutto cotto
+* pizza al prosciutto e funghi
+* pizza al prosciutto e melanzane
+* pizza al prosciutto e spinaci
+* pizza al prosciutto e rucola
+* pizza al prosciutto e salsiccia
+* pizza al prosciutto e spinaci
+* pizza al prosciutto e zucchine
+* pizza al prosciutto e zucchine e melanzane
+* pizza al prosciutto e zucchine e
+$$$$
+`poltrona`: 
+* poltrona reclinabile
+* poltrona in pelle
+* poltrona con braccioli
+* poltrona con poggiapiedi
+* poltrona girevole
+* poltrona con schienale alto
+* poltrona con schienale basso
+* poltrona con braccioli regolabili
+* poltrona con poggiatesta
+* poltrona con poggiabraccia
+* poltrona con cuscino removibile
+* poltrona con cuscino integrato
+* poltrona con base girevole
+* poltrona con base fissa
+* poltrona con base a rotelle
+* poltrona con base in metallo
+* poltrona con base in legno
+* poltrona con base in plastica
+* poltrona
+$$$$
+`porta`: 
+* porta d'ingresso
+* porta di servizio
+* porta finestra
+* porta blindata
+* porta scorrevole
+* porta basculante
+* porta a battente
+* porta a libro
+* porta a vetri
+* porta di sicurezza
+* porta girevole
+* porta automatica
+* porta di garage
+* porta di cantina
+* porta di bagno
+* porta di cucina
+* porta di armadio
+* porta di frigorifero
+* porta di auto
+* porta di aereo
+* porta di treno
+* porta di nave
+* porta di ascensore
+* porta di ufficio
+* porta di scuola
+* porta di chiesa
+* porta di museo
+* porta di biblioteca
+* porta di ospedale
+* porta di prigione
+* porta di aeroporto
+*
+$$$$
+`portafotografia`: 
+* portafoto
+* cornice
+* album fotografico
+* scatola per foto
+* portaritratti
+* portaritratti digitale
+* portaritratti a muro
+* portaritratti da tavolo
+* portaritratti da parete
+* portaritratti da scrivania
+$$$$
+`posacenere`: 
+* posacenere da tavolo
+* posacenere da parete
+* posacenere da esterno
+* posacenere da auto
+* posacenere da tasca
+* posacenere da ufficio
+* posacenere da bar
+* posacenere da ristorante
+* posacenere da giardino
+* posacenere da terrazza
+* posacenere da balcone
+* posacenere da camera da letto
+* posacenere da bagno
+* posacenere da cucina
+* posacenere da camera da fumo
+* posacenere da fumoir
+* posacenere da discoteca
+* posacenere da pub
+* posacenere da club
+* posacenere
+$$$$
+`quaderno`: 
+* quaderno ad anelli
+* quaderno a spirale
+* quaderno a righe
+* quaderno a quadretti
+* quaderno a fogli sciolti
+* quaderno di lavoro
+* quaderno di appunti
+* quaderno di disegno
+* quaderno di esercizi
+* quaderno di viaggio
+* diario
+* taccuino
+* blocco notes
+* registro
+* agenda.
+$$$$
+`quadro`: 
+* dipinto
+* disegno
+* acquerello
+* olio
+* tempera
+* pastello
+* incisione
+* fotografia
+* dipinto a olio
+* dipinto a tempera
+* dipinto ad acquerello
+* dipinto a pastello
+* dipinto a olio su tela
+* dipinto a tempera su cartone
+* dipinto ad acquerello su carta
+* dipinto a pastello su carta
+* dipinto su vetro
+* dipinto su legno
+* dipinto su metallo
+* dipinto su seta
+* dipinto su porcellana
+* dipinto su vetro
+* dipinto su pietra
+* dipinto su marmo
+* dipinto su rame
+* dipinto su avorio
+* dipinto su pergamena
+* dip
+$$$$
+`quercia`: 
+* quercia rossa
+* quercia peduncolata
+* quercia da sughero
+* quercia spinosa
+* quercia pubescente
+* quercia cerata
+* quercia da latte
+* quercia verde
+* quercia pannonica
+* quercia uncinata
+* quercia fallopia
+* quercia di Maclura
+* quercia di Cerris
+* quercia di Keteleeria
+* quercia di Metasequoia
+* quercia di Platanus
+* quercia di Liquidambar
+* quercia di Fagus
+* quercia di Castanea
+* quercia di Juglans
+$$$$
+`racchetta`: 
+* racchetta da tennis
+* racchetta da badminton
+* racchetta da squash
+* racchetta da ping pong
+* racchetta da padel
+* racchetta da sci
+* racchetta da neve
+* racchetta da subbuglio
+* racchetta da racchetta da volley
+* racchetta da racchetta da baseball
+* racchetta da racchetta da hockey su prato
+* racchetta da racchetta da hockey su ghiaccio
+* racchetta da racchetta da pallavolo
+* racchetta da racchetta da pallamano
+* racchetta da racchetta da tennis da tavolo
+* racchetta da racchetta da golf
+* racchetta da racchetta da lacrosse
+*
+$$$$
+`righello`: 
+* Righello da 15 cm
+* Righello da 30 cm
+* Righello da 60 cm
+* Righello da 1 metro
+* Righello da falegname
+* Righello da architetto
+* Righello da sarto
+* Righello da cucito
+* Rigello da giardinaggio
+* Rigello da muratore
+* Rigello da idraulico
+* Rigello da carpentiere
+* Rigello da disegno
+* Rigello da scuola
+* Rigello da ufficio
+* Rigello da cucina
+* Rigello da laboratorio
+* Rigello da costruzione
+* Rigello da misurazione
+* Rigello da precisione
+$$$$
+`ripostiglio`: 
+* armadio
+* scaffale
+* cassettiera
+* mobiletto
+* contenitore
+* scatola
+* cesta
+* appendiabiti
+* portaombrelli
+* portaaccessori
+* portaasciugamani
+* portaabiti
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombrelli
+* portaombre
+$$$$
+`riso`: 
+* riso bianco
+* riso integrale
+* riso selvaggio
+* riso basmati
+* riso Arborio
+* riso glutinoso
+* riso nero
+* riso rosso
+* riso venere
+* riso parboiled
+* riso aromatizzato
+* riso al vapore
+* riso in scatola
+* riso per sushi
+* riso per risotto
+* riso per paella
+* riso per insalata
+* riso per zuppe
+* riso per dolci
+* riso per dessert
+$$$$
+`rosa`: 
+* Rosa tea
+* Rosa rossa
+* Rosa gialla
+* Rosa bianca
+* Rosa rosa
+* Rosa selvatica
+* Rosa damascena
+* Rosa canina
+* Rosa centifolia
+* Rosa rugosa
+$$$$
+`salice`: 
+* Salice piangente
+* Salice bianco
+* Salice rosso
+* Salice argentato
+* Salice nero
+* Salice grigio
+* Salice violetto
+* Salice delle canadesi
+* Salice delle canadesi rosso
+* Salice delle canadesi violetto
+* Salice delle canadesi grigio
+* Salice delle canadesi nero
+* Salice delle canadesi argento
+* Salice delle canadesi bianco
+* Salice delle canadesi piangente
+* Salice delle canadesi rosso piangente
+* Salice delle canadesi violetto piangente
+* Salice delle canadesi grigio piangente
+* Salice delle canadesi nero piangente
+* Salice delle canadesi argento piang
+$$$$
+`scala`: 
+* scala a chiocciola
+* scala mobile
+* scala esterna
+* scala interna
+* scala di servizio
+* scala di sicurezza
+* scala a pioli
+* scala a libretto
+* scala a giorno
+* scala a chiocciola
+* scala elicoidale
+* scala a spirale
+* scala di marmo
+* scala di legno
+* scala di metallo
+* scala di pietra
+* scala di vetro
+* scala di corda
+* scala di legno
+* scala di pietra
+* scala di vetro
+* scala di corda
+* scala di metallo
+* scala di pietra
+* scala di vetro
+* scala di corda
+* scala di metallo
+* scala di pietra
+* scala di vetro
+* scala di corda
+* scala di metallo
+
+$$$$
+`scarpa`: 
+* scarpa da ginnastica
+* scarpa con tacco
+* sandalo
+* stivale
+* scarpa da calcio
+* scarpa da corsa
+* scarpa da tennis
+* scarpa da lavoro
+* scarpa da ballo
+* scarpa da trekking
+* scarpa da neve
+* scarpa da passeggio
+* scarpa da ufficio
+* scarpa da estate
+* scarpa da inverno
+* scarpa da pioggia
+* scarpa da spiaggia
+* scarpa da equitazione
+* scarpa da motociclista
+* scarpa ortopedica
+$$$$
+`schiena`: 
+* dorsale
+* vertebrale
+* lombare
+* cervicale
+* toracica
+* dorsolombare
+* dorsale alta
+* dorsale bassa
+* dorsale inferiore
+* dorsale superiore
+$$$$
+`sciarpa`: 
+* sciarpa di seta
+* sciarpa di lana
+* sciarpa di cotone
+* sciarpa di cachemire
+* sciarpa di tartan
+* sciarpa di pashmina
+* sciarpa di silk
+* sciarpa di cashmere
+* sciarpa di cotone stampato
+* sciarpa di cotone a righe
+* sciarpa di cotone a quadri
+* sciarpa di cotone a pois
+* sciarpa di cotone a fiori
+* sciarpa di cotone a righe colorate
+* sciarpa di cotone a quadri colorati
+* sciarpa di cotone a pois colorati
+* sciarpa di cotone a fiori colorati
+* sciarpa di cotone a righe mult
+$$$$
+`scimmia`: 
+* babbuino
+* gibbone
+* gorilla
+* orangutan
+* scimpanzé
+* tamarino
+* cercopiteco
+* macaco
+* colobo
+* galago
+$$$$
+`scolapasta`: 
+* scolapasta a forma di ciotola
+* scolapasta a forma di imbuto
+* scolapasta a forma di grattugia
+* scolapasta a forma di rete
+* scolapasta a forma di spirale
+* scolapasta a forma di conico
+* scolapasta a forma di disco
+* scolapasta a forma di triangolare
+* scolapasta a forma di quadrato
+* scolapasta a forma di rettangolare
+* scolapasta a forma di ovale
+* scolapasta a forma di rotonda
+* scolapasta a forma di multi-strato
+* scolapasta a forma di pieghevole
+* scolapasta a forma di estensibile
+* scolapasta a forma di regolabile
+* scolapasta a forma di trasparente
+$$$$
+`scolorina`: 
+* smalto per unghie
+* vernice per unghie
+* glitter per unghie
+* strass per unghie
+* strass per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per unghie
+* glitter per ungh
+$$$$
+`scooter`: 
+* Scooter elettrico
+* Scooter a benzina
+* Scooter a pedali
+* Scooter a tre ruote
+* Scooter con sidecar
+* Scooter da cross
+* Scooter da città
+* Scooter da corsa
+* Scooter pieghevole
+* Scooter con cambio automatico
+* Scooter con cambio manuale
+* Scooter con sospensioni anteriori e posteriori
+* Scooter con freni a disco
+* Scooter con freni a tamburo
+* Scooter con pneumatici tubeless
+* Scooter con pneumatici tubolari
+* Scooter con sistema di avviamento elettrico
+* Scooter con sistema di avviamento a pedale
+* Scooter con sistema di avviamento a chiave
+* Scooter con sistema di avviamento a pulsante
+$$$$
+`scrivania`: 
+* scrivania da ufficio
+* scrivania da casa
+* scrivania per bambini
+* scrivania con cassetti
+* scrivania con ripiano ribaltabile
+* scrivania con piano in vetro
+* scrivania con piano in legno
+* scrivania con piano in metallo
+* scrivania con piano in marmo
+* scrivania con piano in pietra
+* scrivania con piano in cristallo
+* scrivania con piano in laminato
+* scrivania con piano in formica
+* scrivania con piano in acciaio inossidabile
+* scrivania con piano in alluminio
+* scrivania con piano in plastica
+* scrivania con piano in gomma
+* scrivania con piano in vetro temperato
+* scrivania con piano in vetro stratificato
+* scrivania con piano
+$$$$
+`sedia`: 
+* sedia da ufficio
+* sedia da cucina
+* sedia da giardino
+* sedia a dondolo
+* sedia a rotelle
+* sedia da regista
+* sedia da gaming
+* sedia da bambini
+* sedia da regista
+* sedia da computer
+* sedia da relax
+* sedia pieghevole
+* sedia da esterno
+* sedia da conferenza
+* sedia da sala da pranzo
+* sedia da toilette
+* sedia da auto
+* sedia da bar
+* sedia da spiaggia
+* sedia da montagna
+$$$$
+`serpente`: 
+* serpente velenoso
+* serpente non velenoso
+* serpente marino
+* serpente terrestre
+* serpente arboricolo
+* serpente di terra
+* serpente di mare
+* serpente di palude
+* serpente di roccia
+* serpente di sabbia
+* serpente di foglie
+* serpente di neve
+* serpente di ghiaccio
+* serpente di fuoco
+* serpente di pietra
+* serpente di ferro
+* serpente di acciaio
+* serpente di rame
+* serpente di bronzo
+* serpente di oro
+* serpente di argento
+* serpente di platino
+* serpente di diamante
+* serpente di cristallo
+* serpente di vetro
+* serpente di legno
+* serpente di pietra
+
+$$$$
+`slip`: 
+* Slip da uomo
+* Slip da donna
+* Slip di seta
+* Slip di cotone
+* Slip di raso
+* Slip di pizzo
+* Slip con vita alta
+* Slip con vita bassa
+* Slip senza vita
+* Slip con perizoma
+* Slip con coulotte
+* Slip con apertura
+* Slip con spacchi
+* Slip con bordi in pizzo
+* Slip con ricami
+* Slip con stampa
+* Slip con strass
+* Slip con paillettes
+* Slip con applicazioni
+* Slip con pizzi e merletti
+$$$$
+`soffitto`: 
+* Soffitto a volta
+* Soffitto a cassettoni
+* Soffitto a travetti
+* Soffitto sospeso
+* Soffitto in cartongesso
+* Soffitto in legno
+* Soffitto in cemento armato
+* Soffitto in PVC
+* Soffitto in metallo
+* Soffitto in vetro
+* Soffitto in gesso
+* Soffitto in stucco
+* Soffitto decorato
+* Soffitto dipinto
+* Soffitto illuminato
+* Soffitto riflettente
+* Soffitto acustico
+* Soffitto isolante
+* Soffitto ventilato
+* Soffitto galleggiante
+$$$$
+`soggiorno`: 
+* divano
+* poltrona
+* tavolino
+* tappeto
+* camino
+* libreria
+* televisore
+* impianto stereo
+* lampada
+* quadro
+* piante
+* tende
+* finestra
+* porta
+* pavimento
+* parete
+* soffitto
+* aria condizionata
+* riscaldamento
+* sistema di illuminazione
+* sistema di sicurezza
+* sistema di intrattenimento.
+$$$$
+`spalla`: 
+* spalla umana
+* spalla di un animale
+* spalla di una strada
+* spalla di una giacca
+* spalla di un carro armato
+* spalla di un aereo
+* spalla di un fiume
+* spalla di una montagna
+* spalla di un edificio
+* spalla di un ponte
+$$$$
+`specchio`: 
+* specchio da parete
+* specchio da borsetta
+* specchio da trucco
+* specchio da tasca
+* specchio da bagno
+* specchio da terra
+* specchio da soffitto
+* specchio da parete con cornice
+* specchio da parete senza cornice
+* specchio da parete con illuminazione
+* specchio da parete senza illuminazione
+* specchio da parete con ripiano
+* specchio da parete senza ripiano
+* specchio da parete con portaoggetti
+* specchio da parete senza portaoggetti
+* specchio da parete con specchio laterale
+* specchio da parete senza specchio laterale
+* specchio da parete con specchio centrale
+* specchio da parete senza specchio centrale
+
+$$$$
+`spillatrice`: 
+* spillatrice a molla
+* spillatrice elettrica
+* spillatrice manuale
+* spillatrice professionale
+* spillatrice a batteria
+* spillatrice portatile
+* spillatrice da ufficio
+* spillatrice da cucito
+* spillatrice da archiviazione
+* spillatrice da biblioteca.
+$$$$
+`t-shirt`: 
+* T-shirt a maniche corte
+* T-shirt a maniche lunghe
+* T-shirt senza maniche
+* T-shirt con scollo a V
+* T-shirt con scollo a barca
+* T-shirt con scollo rotondo
+* T-shirt con stampa
+* T-shirt con logo
+* T-shirt con cappuccio
+* T-shirt con zip
+* T-shirt con collo alto
+* T-shirt con collo basso
+* T-shirt con collo a V
+* T-shirt con collo a barca
+* T-shirt con collo rotondo
+* T-shirt con maniche a tre quarti
+* T-shirt con maniche a pipistrello
+* T-shirt con maniche a sbuffo
+* T-shirt con maniche a balze
+* T-shirt con maniche a strisce
+* T-shirt con maniche a
+$$$$
+`taccuino`: 
+* taccuino a spirale
+* taccuino ad anelli
+* taccuino a quaderni
+* taccuino a fogli sciolti
+* taccuino a molla
+* taccuino a strappo
+* taccuino di lavoro
+* taccuino di viaggio
+* taccuino di appunti
+* taccuino di idee
+* taccuino di disegno
+* taccuino di cucina
+* taccuino di giardinaggio
+* taccuino di fitness
+* taccuino di diario
+* taccuino di viaggio
+* taccuino di yoga
+* taccuino di meditazione
+* taccuino di scrittura creativa
+* taccuino di brain
+$$$$
+`tagliere`: 
+* tagliere in legno
+* tagliere in plastica
+* tagliere in marmo
+* tagliere in acciaio inossidabile
+* tagliere per frutta
+* tagliere per carne
+* tagliere per verdure
+* tagliere per formaggi
+* tagliere portatile
+* tagliere magnetico
+* tagliere con piano in vetro
+* tagliere con piano in pietra
+* tagliere con piano in silicone
+* tagliere con piano in teflon
+* tagliere con piano in gomma
+* tagliere con piano in acciaio
+* tagliere con piano in alluminio
+* tagliere con piano in rame
+* tagliere con piano in pietra ollare
+* tagliere
+$$$$
+`tappeto`: 
+* tappeto persiano
+* tappeto turco
+* tappeto kilim
+* tappeto afghano
+* tappeto marocchino
+* tappeto orientale
+* tappeto moderno
+* tappeto orientale
+* tappeto persiano
+* tappeto tibetano
+* tappeto zen
+$$$$
+`tavolo`: 
+* Tavolo da cucina
+* Tavolo da pranzo
+* Tavolo da lavoro
+* Tavolo da gioco
+* Tavolo da caffè
+* Tavolo da giardino
+* Tavolo da picnic
+* Tavolo da biliardo
+* Tavolo da ping pong
+* Tavolo da conferenza
+* Tavolo da disegno
+* Tavolo da toilette
+* Tavolo da trucco
+* Tavolo da massaggi
+* Tavolo da ping pong
+* Tavolo da ping pong da tavolo
+* Tavolo da ping pong da esterno
+* Tavolo da ping pong da interno
+* Tavolo da ping pong professionale
+* Tavolo da ping pong da gara
+$$$$
+`teglia`: 
+* teglia per biscotti
+* teglia per torte
+* teglia per pizza
+* teglia per ciambelle
+* teglia per muffin
+* teglia per brownie
+* teglia per cupcake
+* teglia per quiche
+* teglia per lasagne
+* teglia per brownie
+* teglia per brownie
+* teglia per brownie
+* teglia per brownie
+* teglia per brownie
+* teglia per brownie
+* teglia per brownie
+* teglia per brownie
+* teglia per brownie
+* teglia per brownie
+* teglia per brownie
+$$$$
+`televisione`: 
+* Smart TV
+* TV LED
+* TV al plasma
+* TV OLED
+* TV al quarzo
+* TV a tubo catodico
+* TV 4K
+* TV 8K
+* TV a schermo piatto
+* TV curvo
+* TV portatile
+* TV da tavolo
+* TV da incasso
+* TV da esterno
+* TV per gaming
+* TV per la camera da letto
+* TV per la cucina
+* TV per il bagno
+* TV per il giardino
+* TV per il campeggio.
+$$$$
+`temperino`: 
+* temperino a sfera
+* temperino a matita
+* temperino a lama
+* temperino a scatto
+* temperino a molla
+* temperino a pressione
+* temperino a rotazione
+* temperino a smeriglio
+* temperino a taglio
+* temperino a vite.
+$$$$
+`tenda`: 
+* Tenda da sole
+* Tenda da campeggio
+* Tenda da giardino
+* Tenda da doccia
+* Tenda da letto
+* Tenda da finestra
+* Tenda da ufficio
+* Tenda da matrimonio
+* Tenda da circo
+* Tenda da campo
+* Tenda da campo militare
+* Tenda da campo di battaglia
+* Tenda da campo di concentramento
+* Tenda da campo di lavoro
+* Tenda da campo di rifugiati
+* Tenda da campo di soccorso
+* Tenda da campo di sosta
+* Tenda da campo di vacanza
+* Tenda da campo di lavoro stagionale
+* Tenda da campo di lavoro temporaneo
+* Tenda da campo di lavoro a lungo termine
+* Tenda da campo di lavoro permanente
+* T
+$$$$
+`terrazzo`: 
+* terrazzo in marmo
+* terrazzo in cemento
+* terrazzo in resina
+* terrazzo in mosaico
+* terrazzo in pietra
+* terrazzo in legno
+* terrazzo in metallo
+* terrazzo in vetro
+* terrazzo in gres porcellanato
+* terrazzo in cotto
+* terrazzo in pietra artificiale
+* terrazzo in calcestruzzo
+* terrazzo in conglomerato cementizio
+* terrazzo in conglomerato bituminoso
+* terrazzo in conglomerato cementizio-bituminoso
+* terrazzo in conglomerato cementizio-ghiaioso
+* terrazzo in conglomerato cementizio-calcareo
+* terrazzo in conglomerato cementizio-pietroso
+*
+$$$$
+`testa`: 
+* testa umana
+* testa di animale
+* testa di statua
+* testa di veicolo
+* testa di strumento musicale
+* testa di chiodo
+* testa di martello
+* testa di spillo
+* testa di spillo da disegno
+* testa di spillo da balestra
+* testa di spillo da trapano
+* testa di spillo da martello
+* testa di spillo da chiodo
+* testa di spillo da chiodo da muratore
+* testa di spillo da chiodo da falegname
+* testa di spillo da chiodo da carpentiere
+* testa di spillo da chiodo da giardinaggio
+* testa di spillo da chiodo da falegname
+* testa di spillo da chiodo da carpentiere
+
+$$$$
+`tetto`: 
+* Tetto a falde
+* Tetto piano
+* Tetto a cupola
+* Tetto a padiglione
+* Tetto a mansarda
+* Tetto a terrazza
+* Tetto a due falde
+* Tetto a quattro falde
+* Tetto a capanna
+* Tetto a schiaffo
+* Tetto a cuneo
+* Tetto a sbalzo
+* Tetto a vele
+* Tetto verde
+* Tetto solare
+$$$$
+`tigre`: 
+* tigre siberiana
+* tigre bengalese
+* tigre indocinese
+* tigre malese
+* tigre di Sumatra
+* tigre della Cina meridionale
+$$$$
+`topo`: 
+* Topo comune
+* Topo campagnolo
+* Topo delle risaie
+* Topo delle case
+* Topo dei granai
+* Topo delle caverne
+* Topo talpa
+* Topo marsupiale
+* Topo spinoso
+* Topo saltatore
+* Topo canguro
+* Topo delle nevi
+* Topo del deserto
+* Topo delle praterie
+* Topo delle montagne
+* Topo delle foreste
+* Topo delle rupi
+* Topo delle dune
+* Topo delle paludi
+* Topo delle caverne delle Hawaii
+$$$$
+`traghetto`: 
+* traghetto passeggeri
+* traghetto merci
+* traghetto auto
+* traghetto veloce
+* traghetto notturno
+* traghetto per le isole
+* traghetto per le crociere
+* traghetto per il trasporto di animali
+* traghetto per il trasporto di veicoli speciali
+* traghetto per il trasporto di container.
+$$$$
+`tram`: 
+* Tram a cavalli
+* Tram a vapore
+* Tram elettrico
+* Tram a batteria
+* Tram a guida automatica
+* Tram a due piani
+* Tram a un piano
+* Tram articolato
+* Tram monorotaia
+* Tram a sospensione magnetica
+$$$$
+`trattore`: 
+* Trattore a ruote
+* Trattore a cingoli
+* Trattore a due ruote motrici
+* Trattore a quattro ruote motrici
+* Trattore a trazione integrale
+* Trattore a trazione anteriore
+* Trattore a trazione posteriore
+* Trattore a trazione centrale
+* Trattore a trazione laterale
+* Trattore a trazione frontale
+* Trattore a trazione trasversale
+* Trattore a trazione longitudinale
+* Trattore a trazione articolata
+* Trattore a trazione telescopica
+* Trattore a trazione estensibile
+* Trattore a trazione pieghevole
+* Trattore a trazione ribaltabile
+* Tratt
+$$$$
+`treno`: 
+* locomotiva
+* carrozza
+* vagone letto
+* vagone ristorante
+* vagone bagagliaio
+* vagone merci
+* treno ad alta velocità
+* treno suburbano
+* treno regionale
+* treno intercity
+* treno notturno
+* treno turistico
+* treno storico
+* treno giocattolo
+* treno a cremagliera
+* treno a vapore
+* treno elettrico
+* treno diesel
+* treno a levitazione magnetica
+* treno monorotaia
+* treno a sospensione magnetica.
+$$$$
+`tulipano`: 
+* Tulipano nero
+* Tulipano rosso
+* Tulipano giallo
+* Tulipano rosa
+* Tulipano multicolore
+* Tulipano selvatico
+* Tulipano a coppa
+* Tulipano a campana
+* Tulipano a stella
+* Tulipano a mazzetto
+* Tulipano a foglia larga
+* Tulipano a foglia stretta
+* Tulipano a fiori doppi
+* Tulipano a fiori singoli
+* Tulipano a fiori grandi
+* Tulipano a fiori piccoli
+* Tulipano a fiori profumati
+* Tulipano a fiori non profumati
+* Tulipano a fiori precoci
+* Tulipano a fiori tardivi
+$$$$
+`ulivo`: 
+* ulivo selvatico
+* ulivo domestico
+* ulivo secolare
+* ulivo centenario
+* ulivo nano
+* ulivo da olive
+* ulivo da olio
+* ulivo da mensa
+* ulivo da legno
+* ulivo da ornamentale
+$$$$
+`uovo`: 
+* uovo di gallina
+* uovo di quaglia
+* uovo di anatra
+* uovo di struzzo
+* uovo di pesce
+* uovo di tartaruga
+* uovo di coccodrillo
+* uovo di iguana
+* uovo di lucertola
+* uovo di serpente
+* uovo di rana
+* uovo di gambero
+* uovo di aragosta
+* uovo di granchio
+* uovo di lumaca
+* uovo di formica
+* uovo di ape
+* uovo di vespa
+* uovo di calabrone
+* uovo di farfalla
+* uovo di falena
+* uovo di libellula
+* uovo di mosca
+* uovo di zanzara
+$$$$
+`vaso`: 
+* vaso da fiori
+* vaso di terracotta
+* vaso cinese
+* vaso di vetro
+* vaso di ceramica
+* vaso di metallo
+* vaso di cristallo
+* vaso di porcellana
+* vaso di pietra
+* vaso di legno
+* vaso di marmo
+* vaso di argilla
+* vaso di rame
+* vaso di bronzo
+* vaso di ottone
+* vaso di plastica
+* vaso di gomma
+* vaso di vetro soffiato
+* vaso di vetro colorato
+* vaso di vetro trasparente
+* vaso di vetro opaco
+* vaso di vetro smerigliato
+* vaso di vetro inciso
+* vaso di vetro dipinto
+* vaso di vetro decorato
+* vaso di vetro intagliato
+
+$$$$
+`verdura`: 
+* lattuga
+* spinaci
+* broccoli
+* cavoli
+* carote
+* sedano
+* zucchine
+* peperoni
+* cetrioli
+* pomodori
+* cipolle
+* aglio
+* porri
+* rape
+* cavolfiori
+* fagiolini
+* piselli
+* asparagi
+* radicchio
+* finocchio.
+$$$$
+`videogioco`: 
+* sparatutto
+* avventura
+* strategia
+* simulazione
+* sportivo
+* puzzle
+* ruolo
+* azione
+* corse
+* survival horror
+* platform
+* combattimento
+* gestionale
+* open world
+* horror
+* musicale
+* party game
+* visual novel
+* MMO (Massively Multiplayer Online)
+* RPG (Role Playing Game)
+$$$$
+`vite`: 
+* vite da legno
+* vite da muratura
+* vite autofilettante
+* vite inossidabile
+* vite a testa esagonale
+* vite a testa a brugola
+* vite a testa a brugola a palla
+* vite a testa a brugola a croce
+* vite a testa a brugola a stella
+* vite a testa a brugola a pentalobe
+* vite a testa a brugola a torx
+* vite a testa a brugola a torx plus
+* vite a testa a brugola a tri-wing
+* vite a testa a brugola a spanner
+* vite a testa a brugola a security torx
+* vite a testa a brugola a security torx plus
+* vite a testa a brugola a security torx star
+* vite a testa a brugola
+$$$$

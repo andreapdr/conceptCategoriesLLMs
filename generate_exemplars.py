@@ -13,27 +13,6 @@ from torch.utils.data import Dataset, DataLoader
 
 from transformers import AutoProcessor, LlavaNextForConditionalGeneration, AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, AutoModelForPreTraining
 
-"""
-TODO
-idefics2 chat template
-
-```
-messages = [{
-    "role": "user",
-    "content": [
-        {"type": "text", "text": "What’s the difference between these two images?"},
-        {"type": "image"},
-        {"type": "image"},
-    ],
-},
-{
-    "role": "assistant",
-    "content": [
-        {"type": "text", "text": "The difference is that one image is about dogs and the other one about cats."},
-    ],
-}]
-```
-"""
 
 LLAVA_ID        = "llava-hf/llava-v1.6-mistral-7b-hf"
 MISTRAL_ID      = "mistralai/Mistral-7B-Instruct-v0.2"
@@ -137,7 +116,7 @@ class ConceptDataset(Dataset):
         return {"text": text, "image": image, "concept": concept}
 
 
-class LlavaCustomCollate:
+class MultimodalCustomCollate:
     def __init__(self, processor, modality="textual"):
         self.processor = processor
         self.modality = modality
@@ -186,7 +165,7 @@ def main(args):
     tokenizer.pad_token = tokenizer.eos_token
     
     dataset = ConceptDataset(tokenizer, model_name=model_name, datapath=f"data/{filename}.csv", prompt=prompt, multimodal=False if modality == "textual" else True)
-    dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=False, collate_fn=LlavaCustomCollate(processor=tokenizer if modality=="textual" else processor, modality=modality))
+    dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=False, collate_fn=MultimodalCustomCollate(processor=tokenizer if modality=="textual" else processor, modality=modality))
 
     generation_config = {
         "timestamp": timestamp,
@@ -217,9 +196,6 @@ def main(args):
         output.append(tokenizer.batch_decode(generate_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False))
 
     clean_output = [out.split("al concetto " if language == "italian" else "for the concept")[-1].lstrip() for out in sum(output, [])]
-
-    # with open(f"{pickled_outdir}/{out_filename}.pkl", mode="wb") as file:
-    #     pkl.dump(clean_output, file)
 
     with open(f"{raw_outdir}/{out_filename}.txt", mode="w") as file:
         for line in clean_output:

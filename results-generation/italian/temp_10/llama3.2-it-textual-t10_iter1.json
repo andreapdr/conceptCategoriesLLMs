@@ -1,0 +1,1434 @@
+{
+    "_exp_config": {
+        "timestamp": "2024-10-24 16:35:05",
+        "model": "meta-llama/Llama-3.2-3B-Instruct",
+        "modality": "textual",
+        "max_length": 300,
+        "prompt": "Data una parola che denota una concetto, elenca tutta i 'tipi di' quel concetto. Elenca solo i nomi delle entità. Per esempio per il concetto 'elettrodomestico' elenca:\n* frullatore\n* aspirapolvere\n* tostapane\n* lavatrice\n* microonde\n* lavastoviglie.\nOra fai lo stesso per il concetto '<CONCEPT>'. <ROLE_ASSISTANT>Questa è una lista 'tipi di' che appartengono al concetto `<CONCEPT>`: \n*",
+        "language": "italian",
+        "prompt_style": "guided-example",
+        "do_sample": true,
+        "temperature": 1.0,
+        "top_k": 50,
+        "top_p": 0.72,
+        "repetition_penalty": 1.15
+    },
+    "abete": {
+        "1": "abete di legno",
+        "2": "abete del costa rica",
+        "3": "abete orientale",
+        "4": "abete rosso"
+    },
+    "aereo": {
+        "1": "aereo civile",
+        "2": "aereo militare",
+        "3": "draghetto",
+        "4": "elicottero",
+        "5": "helicoptrico",
+        "6": "glider"
+    },
+    "agenda": {
+        "1": "calendario",
+        "2": "agenda di viaggio",
+        "3": "agenda di lavoro",
+        "4": "agenda di appuntamenti",
+        "5": "diario",
+        "6": "planner"
+    },
+    "appendiabiti": {
+        "1": "pannetto",
+        "2": "cassetta",
+        "3": "tappetino",
+        "4": "cintura"
+    },
+    "armadio": {
+        "1": "armadio a cassetti",
+        "2": "armadio da notte",
+        "3": "armadio da stivaletti",
+        "4": "armadio per cucina",
+        "5": "armadio per bagagli",
+        "6": "armadio esterno",
+        "7": "armadio per bici"
+    },
+    "astuccio": {
+        "1": "guanti",
+        "2": "guantone",
+        "3": "guanti di cuoio",
+        "4": "guanti da caccia"
+    },
+    "attrezzo": {
+        "1": "forchetta",
+        "2": "cucchiaio",
+        "3": "coltello",
+        "4": "forbice",
+        "5": "forbici",
+        "6": "spilli",
+        "7": "forbastro"
+    },
+    "autobus": {
+        "1": "autobus urbano",
+        "2": "autobus interurbano",
+        "3": "autobus notturno",
+        "4": "autobus di linea",
+        "5": "autobus turistico",
+        "6": "autobus di trasporto scolastico",
+        "7": "autobus di trasporto urbano",
+        "8": "autobus extraurbano",
+        "9": "autobus di autobus a catena"
+    },
+    "automobile": {
+        "1": "auto",
+        "2": "furgone",
+        "3": "camion",
+        "4": "autobus",
+        "5": "moto",
+        "6": "scooter"
+    },
+    "bagno": {
+        "1": "vasca",
+        "2": "doccia",
+        "3": "lavabo",
+        "4": "toiletta",
+        "5": "bidet"
+    },
+    "balcone": {
+        "1": "scale",
+        "2": "scatola delle lettere",
+        "3": "pannetteria",
+        "4": "cassone",
+        "5": "rincalzo"
+    },
+    "basilico": {
+        "1": "salvia",
+        "2": "aglio",
+        "3": "prezzemolo",
+        "4": "rosmarino",
+        "5": "timo",
+        "6": "rucola"
+    },
+    "bicchiere": {
+        "1": "bicchiere di vetro",
+        "2": "bicchiere di plastica",
+        "3": "bicchiere di carta",
+        "4": "bicchiere di cristallo",
+        "5": "bicchiere a unghia"
+    },
+    "bicicletta": {
+        "1": "mountain bike",
+        "2": "tandem",
+        "3": "bicicletta a due ruote",
+        "4": "bicicletta a tre ruote",
+        "5": "bicicletta da pista",
+        "6": "bicicletta da strada",
+        "7": "bicicletta da montagna"
+    },
+    "bocca": {
+        "1": "mascella",
+        "2": "labbra",
+        "3": "lingua",
+        "4": "gola",
+        "5": "naso",
+        "6": "orli"
+    },
+    "braccio": {
+        "1": "arto del corpo umano",
+        "2": "braccio di un animale",
+        "3": "ala di un insetto"
+    },
+    "cactus": {
+        "1": "arecole",
+        "2": "epiphyte",
+        "3": "sototopo",
+        "4": "cactus."
+    },
+    "calza": {
+        "1": "calze",
+        "2": "guanti",
+        "3": "cappelli",
+        "4": "ciocchi di capelli",
+        "5": "guanti in cuoio"
+    },
+    "camera": {
+        "1": "camera da letto",
+        "2": "camera da pranzo",
+        "3": "sala da letto",
+        "4": "camera da bagno",
+        "5": "cinema",
+        "6": "stanzione",
+        "7": "camera da gioco"
+    },
+    "camicia": {
+        "1": "polo",
+        "2": "camicia lunga",
+        "3": "camicia corta",
+        "4": "camicia da notte",
+        "5": "camicia da ginnastica",
+        "6": "camicia da base"
+    },
+    "camion": {
+        "1": "pompagnolo",
+        "2": "serbatoia",
+        "3": "cisterna",
+        "4": "rimorchiatore",
+        "5": "zuppiera"
+    },
+    "candelabro": {
+        "1": "candelabro dorato",
+        "2": "candelabro semplice",
+        "3": "candelabro decorativo",
+        "4": "candelabro antico",
+        "5": "candelabro moderno"
+    },
+    "cane": {
+        "1": "pastore tedesco",
+        "2": "poodle",
+        "3": "dalmata",
+        "4": "beagle",
+        "5": "cane corso",
+        "6": "bulldog",
+        "7": "chihuahua",
+        "8": "afghano"
+    },
+    "canottiera": {
+        "1": "imbarca canottiera",
+        "2": "barca canottiera",
+        "3": "vela canottiera"
+    },
+    "capello": {
+        "1": "barba",
+        "2": "ciocchi",
+        "3": "crini",
+        "4": "lungo",
+        "5": "rigoglioso"
+    },
+    "cappello": {
+        "1": "panama",
+        "2": "sombrero",
+        "3": "berretto",
+        "4": "top",
+        "5": "cilindro",
+        "6": "chulè"
+    },
+    "cappotto": {
+        "1": "giacca",
+        "2": "parka",
+        "3": "trench coat",
+        "4": "casco",
+        "5": "pelliccia"
+    },
+    "carne": {
+        "1": "manzo",
+        "2": "maiale",
+        "3": "tacchino",
+        "4": "vitello",
+        "5": "pecora",
+        "6": "manzo di riso",
+        "7": "carciofi marini"
+    },
+    "carrozza": {
+        "1": "autocarro",
+        "2": "treno",
+        "3": "carrozza postale",
+        "4": "carrozza ferroviaria",
+        "5": "carrozza da circo",
+        "6": "carrozza militare"
+    },
+    "carte": {
+        "1": "carta da gioco",
+        "2": "carta di credito",
+        "3": "banconote",
+        "4": "carte da viaggio"
+    },
+    "cassettiera": {
+        "1": "cassettiera",
+        "2": "cassettiera per tavolo",
+        "3": "cassettiera per letto",
+        "4": "cassettiera in metallo",
+        "5": "cassettiera in legno",
+        "6": "cassettiera con serratura",
+        "7": "cassettiera in vetro"
+    },
+    "cavallo": {
+        "1": "destriero",
+        "2": "cavallo da guerra",
+        "3": "cavallo da passeggio",
+        "4": "cavallo da soma",
+        "5": "cavallino da tiro"
+    },
+    "cd": {
+        "1": "cd",
+        "2": "cd-r",
+        "3": "cd-rw",
+        "4": "cd-rom",
+        "5": "dvd",
+        "6": "blu-ray"
+    },
+    "centrotavola": {
+        "1": "stile moderno",
+        "2": "stile classico",
+        "3": "stile bohemien",
+        "4": "stile mediterraneo",
+        "5": "stile minimalista",
+        "6": "stile rústico"
+    },
+    "cereale": {
+        "1": "orzo",
+        "2": "avena",
+        "3": "riso",
+        "4": "segale",
+        "5": "mais",
+        "6": "quinoa",
+        "7": "segalino",
+        "8": "farro"
+    },
+    "cervello": {
+        "1": "cervello cranico",
+        "2": "cervello cerebrale",
+        "3": "cervello olfattivo",
+        "4": "cervello uditivo",
+        "5": "cervello visivo",
+        "6": "cervello motorio",
+        "7": "cervello limbico"
+    },
+    "chitarra": {
+        "1": "acustica",
+        "2": "elettrica",
+        "3": "basso",
+        "4": "chitarra classica",
+        "5": "chitarra folk",
+        "6": "chitarra basso elettrica",
+        "7": "chitarra da folk",
+        "8": "chitarra acustica",
+        "9": "chitarra steel",
+        "10": "ukulele"
+    },
+    "ciclamino": {
+        "1": "giardiniere",
+        "2": "tettuccia",
+        "3": "sostegno"
+    },
+    "ciliegio": {
+        "1": "arancia",
+        "2": "limone",
+        "3": "agrumetto",
+        "4": "pittosia"
+    },
+    "cioccolato": {
+        "1": "cioccolata",
+        "2": "cioccolatini",
+        "3": "cioccolato fondente",
+        "4": "cioccolatini all'amara",
+        "5": "cioccolata amara",
+        "6": "cioccolata bianca",
+        "7": "cioccolatine",
+        "8": "cioccolato al latte"
+    },
+    "colla": {
+        "1": "filo da dozzazzo",
+        "2": "colla ad asciugante",
+        "3": "colla acrilica",
+        "4": "colla epoxidica",
+        "5": "colla calda",
+        "6": "colla fredda"
+    },
+    "collo": {
+        "1": "collo a nastro",
+        "2": "collo a schiuma",
+        "3": "collo a pompa",
+        "4": "collo di vetro",
+        "5": "collo di gomma"
+    },
+    "colonna": {
+        "1": "verticale",
+        "2": "obliqua",
+        "3": "cilindrica"
+    },
+    "coltello": {
+        "1": "affilatore",
+        "2": "coltello da cucina",
+        "3": "coltello da pesca",
+        "4": "coltello da forno"
+    },
+    "comodino": {
+        "1": "cuscino",
+        "2": "cuscino da letto",
+        "3": "divano",
+        "4": "poltrona",
+        "5": "tappetino"
+    },
+    "computer": {
+        "1": "laptop",
+        "2": "desktop",
+        "3": "tablet",
+        "4": "smartphone",
+        "5": "server",
+        "6": "mainframe",
+        "7": "workstation",
+        "8": "gaming console",
+        "9": "nas",
+        "10": "server cloud"
+    },
+    "comò": {
+        "1": "sedia",
+        "2": "divano",
+        "3": "poltrona",
+        "4": "cuscino",
+        "5": "mattress"
+    },
+    "coniglio": {
+        "1": "coniglio al forno",
+        "2": "cibo di coniglio",
+        "3": "salsa di coniglio",
+        "4": "sugo di coniglio"
+    },
+    "cornice": {
+        "1": "cornice per finestre",
+        "2": "cornice per porte",
+        "3": "cornice per porte cucina",
+        "4": "cornice per cucina",
+        "5": "cornice per stanza",
+        "6": "cornice da camera"
+    },
+    "credenza": {
+        "1": "banca",
+        "2": "casse di risparmio",
+        "3": "cassa di risparmi",
+        "4": "deposito",
+        "5": "punti di risparmio",
+        "6": "tasse",
+        "7": "fondi di risparmio"
+    },
+    "cruciverba": {
+        "1": "gioco del domani",
+        "2": "gioco del passato",
+        "3": "anagrammi",
+        "4": "crossword",
+        "5": "logorino",
+        "6": "anagrammati",
+        "7": "deduzione",
+        "8": "givondino."
+    },
+    "cucchiaio": {
+        "1": "cucchiaio di legno",
+        "2": "cucchiaio in plastica",
+        "3": "cucchiaio in acciaio inossidabile",
+        "4": "cucchiaio da forno",
+        "5": "cucchiaio da ghiaccio",
+        "6": "cucchiaio da dolci"
+    },
+    "cucina": {
+        "1": "bancone",
+        "2": "forno",
+        "3": "piano",
+        "4": "macchina del caffè",
+        "5": "lavastoviglie",
+        "6": "frigorifero",
+        "7": "freezer",
+        "8": "pentolino"
+    },
+    "cuore": {
+        "1": "cardia",
+        "2": "cora",
+        "3": "infarto"
+    },
+    "cuscino": {
+        "1": "coprifuoco",
+        "2": "cuscino da re",
+        "3": "cuscino per bimbi",
+        "4": "cuscino morbido",
+        "5": "cuscino da letto",
+        "6": "cuscino da poltrona"
+    },
+    "delfino": {
+        "1": "delfino",
+        "2": "delfino dal collo lungo",
+        "3": "delfino nero",
+        "4": "delfino comune",
+        "5": "delfino orca",
+        "6": "delfino comune asiatico",
+        "7": "delfino a rivera"
+    },
+    "divano": {
+        "1": "divano a scollaporta",
+        "2": "divano da salotto",
+        "3": "divano a quattro posti",
+        "4": "divano singolo",
+        "5": "divano da giardino",
+        "6": "divano da cucina"
+    },
+    "edera": {
+        "1": "arbusto",
+        "2": "specie di fiore",
+        "3": "specie di veleno."
+    },
+    "elefante": {
+        "1": "savana",
+        "2": "bosco",
+        "3": "riserva naturale",
+        "4": "caccia",
+        "5": "allevamento",
+        "6": "parco giochi"
+    },
+    "elicottero": {
+        "1": "helicopter",
+        "2": "elicottero militare",
+        "3": "elicottero di pattugliamento",
+        "4": "elicottero medico",
+        "5": "elicottero di trasporto",
+        "6": "elicottero da trasporto di combattimento",
+        "7": "elicottero da ricerca e salvataggio"
+    },
+    "evidenziatore": {
+        "1": "matita",
+        "2": "pennarelli",
+        "3": "penna",
+        "4": "pennarelli ad aste",
+        "5": "marcatore a carboncino",
+        "6": "pennarelli ad ago",
+        "7": "pennarelli elettromagnetici"
+    },
+    "felpa": {
+        "1": "mantello",
+        "2": "casco",
+        "3": "cappuccio",
+        "4": "guanti",
+        "5": "berretto"
+    },
+    "ficus": {
+        "1": "ficus benjamina",
+        "2": "ficus lyrata",
+        "3": "ficus religiosa",
+        "4": "ficus retusa"
+    },
+    "finestra": {
+        "1": "finestra a barcolle",
+        "2": "finestra a sospensione",
+        "3": "finestra semifrastriera",
+        "4": "finestra portafoglia",
+        "5": "finestra a sospensione a muro",
+        "6": "finestra a sventaglione"
+    },
+    "fioriera": {
+        "1": "vaso",
+        "2": "cesta",
+        "3": "giardiniere",
+        "4": "cassettino",
+        "5": "vetrina",
+        "6": "scatola di papiro"
+    },
+    "foglio": {
+        "1": "foglio di carta",
+        "2": "foglio di lino",
+        "3": "foglio di carta igienica",
+        "4": "foglio di vetro",
+        "5": "foglio di cartone"
+    },
+    "forbice": {
+        "1": "forbice di ferro",
+        "2": "forbice da giardinaggio",
+        "3": "forbice da stuzzicadenti",
+        "4": "forbice a manubrio",
+        "5": "forbice per la vendemmia"
+    },
+    "forchetta": {
+        "1": "fork",
+        "2": "forchetta tonda",
+        "3": "forchetta corta",
+        "4": "forchetta lunga"
+    },
+    "formaggio": {
+        "1": "parmigiano",
+        "2": "mozzarella",
+        "3": "ricotta",
+        "4": "gorgonzola",
+        "5": "taleggio",
+        "6": "fontina",
+        "7": "asiago"
+    },
+    "fotografia": {
+        "1": "fotografo",
+        "2": "fotografia aeree",
+        "3": "fotografia clinica",
+        "4": "fotografia cinematografica",
+        "5": "fotografia divulgativa",
+        "6": "fotografia documentaria",
+        "7": "fotografia de sport",
+        "8": "fotografia didattica",
+        "9": "fotografia editorial",
+        "10": "fotografia elettronica",
+        "11": "fotografia naturale",
+        "12": "fotografia ritrattistica",
+        "13": "fotografia sportiva"
+    },
+    "frutta": {
+        "1": "limone",
+        "2": "arancia",
+        "3": "pompelmo",
+        "4": "pesca",
+        "5": "banane",
+        "6": "mela"
+    },
+    "furgone": {
+        "1": "autobus",
+        "2": "autotreno",
+        "3": "tram",
+        "4": "treno",
+        "5": "camion",
+        "6": "minivan",
+        "7": "pick-up"
+    },
+    "gallo": {
+        "1": "pavone",
+        "2": "capriolo"
+    },
+    "gamba": {
+        "1": "gamba di tavolo",
+        "2": "gamba di sedile",
+        "3": "gamba di tavolo per bicicletta",
+        "4": "gamba di struttura",
+        "5": "gamba per legno",
+        "6": "gamba per mobili"
+    },
+    "gatto": {
+        "1": "domestico",
+        "2": "selvatico",
+        "3": "cortile",
+        "4": "gatto importatore",
+        "5": "gatto d'arte",
+        "6": "gatto da pellicola"
+    },
+    "geranio": {
+        "1": "fiore",
+        "2": "fioritura",
+        "3": "albero"
+    },
+    "giacca": {
+        "1": "pantaloni",
+        "2": "camicia",
+        "3": "giubba",
+        "4": "divisa da sera",
+        "5": "felpa",
+        "6": "vestito"
+    },
+    "gilet": {
+        "1": "golf",
+        "2": "sci",
+        "3": "da gilet",
+        "4": "giaccone",
+        "5": "maglia da gilet",
+        "6": "giacca da gilet"
+    },
+    "gioco da tavola": {
+        "1": "scacchi",
+        "2": "scacchiera",
+        "3": "scacchiera d'oro",
+        "4": "scacchi e scacchieras",
+        "5": "backgammon",
+        "6": "bingo",
+        "7": "dado",
+        "8": "carte",
+        "9": "gioco del lotto"
+    },
+    "giornale": {
+        "1": "il giornale"
+    },
+    "giraffa": {
+        "1": "maschio",
+        "2": "femmina",
+        "3": "cucciolo"
+    },
+    "girasole": {
+        "1": "solare",
+        "2": "idraulico",
+        "3": "elettromagnetico",
+        "4": "solare a cuspide",
+        "5": "solare a doppia luce",
+        "6": "solare di sostegno"
+    },
+    "giubotto": {
+        "1": "maglione",
+        "2": "camicia",
+        "3": "camisetta",
+        "4": "scarpa",
+        "5": "calzatura",
+        "6": "pantaloni"
+    },
+    "gomma": {
+        "1": "pneumatico",
+        "2": "gomma da strada",
+        "3": "gomma da sci",
+        "4": "gomma da ciclismo"
+    },
+    "gonna": {
+        "1": "gonna a fazzoletti",
+        "2": "gonna da ballo",
+        "3": "gonna da sera",
+        "4": "gonna da ginnastica",
+        "5": "gonna da ciclismo",
+        "6": "gonna da tennis"
+    },
+    "graffetta": {
+        "1": "papiro",
+        "2": "vero",
+        "3": "papelino"
+    },
+    "guanti": {
+        "1": "maniche lunghe",
+        "2": "guanti da lavoro",
+        "3": "guanti da ballo",
+        "4": "guanti da scherma",
+        "5": "guanti da golf",
+        "6": "guanti da sci"
+    },
+    "insalata": {
+        "1": "insalata di lattuga",
+        "2": "insalata di carote",
+        "3": "insalata di pomodoro",
+        "4": "insalata di funghi",
+        "5": "insalata di avocado",
+        "6": "insalata caponata"
+    },
+    "lampada": {
+        "1": "lampada a sospensione",
+        "2": "lampada a pavimento",
+        "3": "lampada portatile"
+    },
+    "lampadario": {
+        "1": "lampadario a manopola",
+        "2": "lampadario senza manopola",
+        "3": "lampadario da parete",
+        "4": "lampadario a parete con cera",
+        "5": "lampadario a lampadino",
+        "6": "lampadario da soffitto",
+        "7": "lampadario per bimbi"
+    },
+    "latte": {
+        "1": "latte di capra",
+        "2": "latte di bufala",
+        "3": "latte di mandorla",
+        "4": "latte di mandorle",
+        "5": "latte di soia",
+        "6": "latte d'asparagio"
+    },
+    "legume": {
+        "1": "fagioli",
+        "2": "ceci",
+        "3": "lenticchie",
+        "4": "fagioli neri",
+        "5": "fagioli rossi",
+        "6": "cannellini",
+        "7": "lenticchie verdi",
+        "8": "zucca"
+    },
+    "leone": {
+        "1": "leone d'africa",
+        "2": "leone marino",
+        "3": "leone nero",
+        "4": "leone rosso"
+    },
+    "letto": {
+        "1": "lettone",
+        "2": "divano",
+        "3": "sofà",
+        "4": "brandello",
+        "5": "cabina da letto"
+    },
+    "lettore": {
+        "1": "radio",
+        "2": "cd",
+        "3": "disco rigido",
+        "4": "supporto blu-ray",
+        "5": "lettore digitale",
+        "6": "lettore di cd",
+        "7": "lettore usb"
+    },
+    "libreria": {
+        "1": "libreria in vetro",
+        "2": "libreria legno",
+        "3": "libreria in cartongesso",
+        "4": "cassettiere"
+    },
+    "libro": {
+        "1": "romanzo",
+        "2": "saggio",
+        "3": "dizionario",
+        "4": "poesia",
+        "5": "biografia",
+        "6": "testo didattico",
+        "7": "comic book",
+        "8": "catalogo",
+        "9": "catalogo illustrato"
+    },
+    "lucertola": {
+        "1": "lucertola terrestre",
+        "2": "lucertola d'acqua",
+        "3": "lucertola di terra"
+    },
+    "maglia": {
+        "1": "maglietta",
+        "2": "camicia",
+        "3": "abitino",
+        "4": "giacca",
+        "5": "cappello"
+    },
+    "maiale": {
+        "1": "maiale selvatico",
+        "2": "maiale cattivo",
+        "3": "maiale domestico",
+        "4": "maiale ferito"
+    },
+    "mano": {
+        "1": "dita",
+        "2": "palmo",
+        "3": "pollice",
+        "4": "manica",
+        "5": "arso"
+    },
+    "margherita": {
+        "1": "pizza",
+        "2": "pizza margherita",
+        "3": "sfogliatelle",
+        "4": "biscotti",
+        "5": "ricotta"
+    },
+    "matita": {
+        "1": "raffaello",
+        "2": "chiaroscurista",
+        "3": "pastello",
+        "4": "pastello a cera",
+        "5": "pastello da paesaggio",
+        "6": "pastello fumante"
+    },
+    "mestolo": {
+        "1": "bicchiere",
+        "2": "tazza",
+        "3": "ciotola",
+        "4": "caliccia",
+        "5": "bicchierino"
+    },
+    "metro": {
+        "1": "metro a pietra",
+        "2": "metro ad acido",
+        "3": "metro per navigazione",
+        "4": "metro a piastrelle"
+    },
+    "mimosa": {
+        "1": "inverno",
+        "2": "estate",
+        "3": "inverno estivo",
+        "4": "inverno panneggiante"
+    },
+    "motocicletta": {
+        "1": "harley davidson",
+        "2": "honda",
+        "3": "yamaha",
+        "4": "kawasaki",
+        "5": "ducati",
+        "6": "triumph"
+    },
+    "mucca": {
+        "1": "mucche",
+        "2": "alicce",
+        "3": "muli",
+        "4": "mulassero"
+    },
+    "muro": {
+        "1": "percorso",
+        "2": "pali",
+        "3": "pali di sicurezza",
+        "4": "mura",
+        "5": "parete",
+        "6": "muro di separazione",
+        "7": "recinto",
+        "8": "muro di contorno"
+    },
+    "naso": {
+        "1": "stileta",
+        "2": "cornicello",
+        "3": "tubetto"
+    },
+    "nave": {
+        "1": "barca",
+        "2": "nave da guerra",
+        "3": "navicella",
+        "4": "catamarano",
+        "5": "traghetto",
+        "6": "piattaforma mobile",
+        "7": "motoscafo",
+        "8": "barcone"
+    },
+    "occhio": {
+        "1": "palpebra",
+        "2": "iris",
+        "3": "pupilla",
+        "4": "cornea",
+        "5": "orbite"
+    },
+    "orchidea": {
+        "1": "tulipa",
+        "2": "daffodile",
+        "3": "giacinto",
+        "4": "campanella",
+        "5": "spadicea",
+        "6": "lilie"
+    },
+    "orecchio": {
+        "1": "ascolino",
+        "2": "orecchielo",
+        "3": "orecchietto",
+        "4": "orechio medio",
+        "5": "orecchio interno"
+    },
+    "orologio": {
+        "1": "orologio da polso",
+        "2": "orologio pendolino",
+        "3": "orologio da parete",
+        "4": "orologio digitale",
+        "5": "orologio analogico"
+    },
+    "orso": {
+        "1": "orso grigio",
+        "2": "orso polare",
+        "3": "orso dell'amur",
+        "4": "orso della siberia",
+        "5": "orso cinese"
+    },
+    "padella": {
+        "1": "padella per riso",
+        "2": "padella per pasta",
+        "3": "padella per verdure",
+        "4": "padella per grattugiare",
+        "5": "padella per sbattere"
+    },
+    "palla": {
+        "1": "pallone",
+        "2": "pallavolo",
+        "3": "pallacanestro",
+        "4": "pallamano",
+        "5": "pallavolley",
+        "6": "pallabocciole"
+    },
+    "pancia": {
+        "1": "",
+        "2": ""
+    },
+    "pane": {
+        "1": "pane integrale",
+        "2": "pane integrazzato",
+        "3": "pane bianco",
+        "4": "pane casalingo",
+        "5": "pane dolce"
+    },
+    "pantalone": {
+        "1": "giubbotto",
+        "2": "parka",
+        "3": "mantello",
+        "4": "sciarpa"
+    },
+    "pasta": {
+        "1": "spaghetti",
+        "2": "fettuccine",
+        "3": "tagliatelle",
+        "4": "penne",
+        "5": "lasagna",
+        "6": "rigatoni"
+    },
+    "pastello": {
+        "1": "marrone",
+        "2": "rosso",
+        "3": "blu",
+        "4": "nero",
+        "5": "bianco",
+        "6": "viola",
+        "7": "verde"
+    },
+    "pavimento": {
+        "1": "calcare",
+        "2": "lamine in pietra",
+        "3": "parquet",
+        "4": "pavimento in legno",
+        "5": "piastrelle",
+        "6": "stucco",
+        "7": "tessuti"
+    },
+    "penna": {
+        "1": "biro",
+        "2": "stilografica",
+        "3": "matita",
+        "4": "pennarello",
+        "5": "pastello",
+        "6": "stilografica di marca"
+    },
+    "pennello": {
+        "1": "pennello da pittore",
+        "2": "pennello da pennarelli",
+        "3": "pennello da gesso",
+        "4": "pennello da seta"
+    },
+    "pentola": {
+        "1": "pentola",
+        "2": "padella",
+        "3": "pentola a pressione",
+        "4": "pentola di rame",
+        "5": "pentola da padella"
+    },
+    "pesce": {
+        "1": "anguilla",
+        "2": "anatra",
+        "3": "barbabietola",
+        "4": "barbona",
+        "5": "biella",
+        "6": "boccone",
+        "7": "bronzo",
+        "8": "carpa",
+        "9": "carrello",
+        "10": "cappanella",
+        "11": "cernia",
+        "12": "cico",
+        "13": "cima",
+        "14": "cimone",
+        "15": "cipolla",
+        "16": "codice",
+        "17": "conigliaccio",
+        "18": "corallo",
+        "19": "corno",
+        "20": "crosta",
+        "21": "dauro",
+        "22": "dentice",
+        "23": "doncella",
+        "24": "erba",
+        "25": "esca",
+        "26": "fagiano",
+        "27": "fegata",
+        "28": "fegato",
+        "29": "fenicotto",
+        "30": "fiordaliso"
+    },
+    "piatto": {
+        "1": "ciotola",
+        "2": "tazza",
+        "3": "piatto da forno",
+        "4": "piatto a stecche",
+        "5": "piatto a fette",
+        "6": "piatto da brodo"
+    },
+    "piede": {
+        "1": "piede destro",
+        "2": "piede sinistro",
+        "3": "piede nano"
+    },
+    "pino": {
+        "1": "pino falso",
+        "2": "pino naturale",
+        "3": "pino per riciclo",
+        "4": "pino finto",
+        "5": "pino da intarsia",
+        "6": "pino per fiori"
+    },
+    "pizza": {
+        "1": "margherita",
+        "2": "quattro formaggi",
+        "3": "capricciosa",
+        "4": "marinara",
+        "5": "prosciutto e funghi",
+        "6": "quattro stagioni"
+    },
+    "poltrona": {
+        "1": "divano",
+        "2": "poltrona da studio",
+        "3": "poltrona da letto",
+        "4": "poltrona a braccioli",
+        "5": "poltrona da esterni"
+    },
+    "porta": {
+        "1": "autoporta",
+        "2": "porta di casa",
+        "3": "porta in ufficio",
+        "4": "porta di accesso",
+        "5": "porta di scuola",
+        "6": "porta di parcheggio"
+    },
+    "portafotografia": {
+        "1": "portafotografiche",
+        "2": "borsa fotografia",
+        "3": "scattapulito"
+    },
+    "posacenere": {
+        "1": "posacenere a muro",
+        "2": "posacenere a pavimento",
+        "3": "posacenere con porta",
+        "4": "posacenere a lavatrice",
+        "5": "posacenere senza lavatrice"
+    },
+    "quaderno": {
+        "1": "di scuola",
+        "2": "di disegno",
+        "3": "di diario",
+        "4": "di letteratura",
+        "5": "di musica",
+        "6": "di riunioni",
+        "7": "di progetto"
+    },
+    "quadro": {
+        "1": "",
+        "2": "quadro d'arte",
+        "3": "quadro televisivo",
+        "4": "quadro informatico"
+    },
+    "quercia": {
+        "1": "arbusto",
+        "2": "albero",
+        "3": "caviglia"
+    },
+    "racchetta": {
+        "1": "palla di racchetta",
+        "2": "impugnatura di racchetta"
+    },
+    "righello": {
+        "1": "telefono cellulare",
+        "2": "radio",
+        "3": "televisione",
+        "4": "computer"
+    },
+    "ripostiglio": {
+        "1": "cassettiere",
+        "2": "armadio",
+        "3": "scatola",
+        "4": "ripiano",
+        "5": "libreria",
+        "6": "armoire"
+    },
+    "riso": {
+        "1": "risotto",
+        "2": "risotto al funghi",
+        "3": "risotto alla pescatora",
+        "4": "risotto alla milanese",
+        "5": "sushi",
+        "6": "arancini",
+        "7": "nasi",
+        "8": "paella",
+        "9": "polenta"
+    },
+    "rosa": {
+        "1": "fiori",
+        "2": "pietra",
+        "3": "vino",
+        "4": "limone",
+        "5": "zucchero"
+    },
+    "salice": {
+        "1": "vela",
+        "2": "cavo",
+        "3": "trapano"
+    },
+    "scala": {
+        "1": "gradini",
+        "2": "scale",
+        "3": "rampa",
+        "4": "strada di scale"
+    },
+    "scarpa": {
+        "1": "scarpa da ballo",
+        "2": "scarpa da sci",
+        "3": "scarpa da trekking",
+        "4": "scarpa da jogging",
+        "5": "scarpa da ginnastica",
+        "6": "sandale",
+        "7": "scarpa da mare",
+        "8": "scarpa da lavoro",
+        "9": "cappello"
+    },
+    "schiena": {
+        "1": "petto",
+        "2": "dorso",
+        "3": "lombarzo",
+        "4": "coda"
+    },
+    "sciarpa": {
+        "1": "scarpe di lana",
+        "2": "berretto",
+        "3": "guanti",
+        "4": "mantello",
+        "5": "cappello"
+    },
+    "scimmia": {
+        "1": "capuchino",
+        "2": "colf",
+        "3": "bonobo",
+        "4": "bonino",
+        "5": "chimpanzé"
+    },
+    "scolapasta": {
+        "1": "macchina a filo",
+        "2": "macchinetta a pressione",
+        "3": "macchinetta a pistone",
+        "4": "macchinetta a rotazione continua",
+        "5": "macchinetta a flessione"
+    },
+    "scolorina": {
+        "1": "catarro",
+        "2": "muco",
+        "3": "muco sanguigno",
+        "4": "muco purulento",
+        "5": "muco cicatrizzante",
+        "6": "muco fettoroso"
+    },
+    "scooter": {
+        "1": "scooter a due ruote",
+        "2": "scooter a tre ruote",
+        "3": "scooter a motore",
+        "4": "scooter elettrica",
+        "5": "scooter diesel",
+        "6": "scooter con cambio manuale"
+    },
+    "scrivania": {
+        "1": "scrivania a rotelle",
+        "2": "scrivania portatile",
+        "3": "scrivania fissa",
+        "4": "scrivania in legno",
+        "5": "scrivania elettrica",
+        "6": "scrivania con tampo"
+    },
+    "sedia": {
+        "1": "poltrona",
+        "2": "sedia a dondalo",
+        "3": "sedia a ruota",
+        "4": "sedia a papa",
+        "5": "sedia a piedi",
+        "6": "sedia da lettore"
+    },
+    "serpente": {
+        "1": "vipera",
+        "2": "addauro",
+        "3": "serpente da mare",
+        "4": "colubrina",
+        "5": "cobra"
+    },
+    "slip": {
+        "1": "guanti",
+        "2": "cappelli",
+        "3": "cinturone"
+    },
+    "soffitto": {
+        "1": "soffitto in legno",
+        "2": "soffitto in stucco",
+        "3": "soffitto in fibra di vetro",
+        "4": "soffitto a volta",
+        "5": "soffitto a paglierame",
+        "6": "soffitto a tappetino"
+    },
+    "soggiorno": {
+        "1": "divano",
+        "2": "poltrone",
+        "3": "tavolo da caffè",
+        "4": "tv",
+        "5": "camino"
+    },
+    "spalla": {
+        "1": "spalla di un animale",
+        "2": "spalla",
+        "3": "spalla"
+    },
+    "specchio": {
+        "1": "specchio a muro",
+        "2": "specchio portatile",
+        "3": "specchio da camera da letto",
+        "4": "specchio da bagno",
+        "5": "specchio a vetri rotondi",
+        "6": "specchio da capo",
+        "7": "specchio in rame"
+    },
+    "spillatrice": {
+        "1": "sciacquatore",
+        "2": "aspirapolvere",
+        "3": "aspirapolvere con aspiratore"
+    },
+    "t-shirt": {
+        "1": "collana",
+        "2": "maglia",
+        "3": "polo",
+        "4": "camicia"
+    },
+    "taccuino": {
+        "1": "taccuino a mano",
+        "2": "taccuino elettronico",
+        "3": "bloc notes",
+        "4": "diario digitale",
+        "5": "taccuino a righe"
+    },
+    "tagliere": {
+        "1": "impianti per il pranzo",
+        "2": "impianti per la cucina",
+        "3": "impianti per la cottura",
+        "4": "superfici per il pranzo"
+    },
+    "tappeto": {
+        "1": "banchina",
+        "2": "paluzzo",
+        "3": "cuscino",
+        "4": "tappetino"
+    },
+    "tavolo": {
+        "1": "cucina",
+        "2": "salotto",
+        "3": "soggiorno",
+        "4": "cucina da camper",
+        "5": "tavolo da gioco",
+        "6": "tavolo da pranzo",
+        "7": "tavolo da pranzo in legno"
+    },
+    "teglia": {
+        "1": "teglia per pane",
+        "2": "teglia per biscotti",
+        "3": "teglia per pizza",
+        "4": "teglia per crostini",
+        "5": "teglia per frittelle"
+    },
+    "televisione": {
+        "1": "schermo",
+        "2": "ricevitore",
+        "3": "televisore",
+        "4": "monitor",
+        "5": "display"
+    },
+    "temperino": {
+        "1": "mappa",
+        "2": "foglio di carta assorbente",
+        "3": "fazzoletto",
+        "4": "nastro adesivo"
+    },
+    "tenda": {
+        "1": "tenda di cucina",
+        "2": "tenda di stiva",
+        "3": "tenda da spiaggia",
+        "4": "tenda da giardinaggio",
+        "5": "tenda da camera da letto",
+        "6": "tenda da sport"
+    },
+    "terrazzo": {
+        "1": "pavimento",
+        "2": "intonaco",
+        "3": "cotto",
+        "4": "calpestio",
+        "5": "fondamente"
+    },
+    "testa": {
+        "1": "cranio",
+        "2": "barba",
+        "3": "pelle",
+        "4": "capelli",
+        "5": "protesi"
+    },
+    "tetto": {
+        "1": "tetto a tegole",
+        "2": "tetto in legno",
+        "3": "tetto di acciaio",
+        "4": "tetto vetrato",
+        "5": "tetto coperto",
+        "6": "tetto sospeso"
+    },
+    "tigre": {
+        "1": "tigre africana",
+        "2": "tigre asiatica",
+        "3": "tigre del sud",
+        "4": "tigre del bengala",
+        "5": "tigre del malaisia",
+        "6": "tigre della casamata"
+    },
+    "topo": {
+        "1": "lupo",
+        "2": "cane",
+        "3": "uccello",
+        "4": "tartaruga",
+        "5": "tarantola"
+    },
+    "traghetto": {
+        "1": "traghetto a vapore",
+        "2": "traghetto a motore",
+        "3": "traghetto sospeso",
+        "4": "traghetto flettante",
+        "5": "traghetto in ferrovia"
+    },
+    "tram": {
+        "1": "metropolitano",
+        "2": "monoramide",
+        "3": "funiculari",
+        "4": "treno",
+        "5": "autobus",
+        "6": "traghetti"
+    },
+    "trattore": {
+        "1": "trattore agricolo",
+        "2": "trattore pesante",
+        "3": "trattore di pompaggio",
+        "4": "trattore industriale",
+        "5": "trattore speciale",
+        "6": "trattore da carico"
+    },
+    "treno": {
+        "1": "velivolo a vapore",
+        "2": "treno elettrico",
+        "3": "treno a carbone",
+        "4": "treno a gas",
+        "5": "treno a diesel",
+        "6": "treno a nucleare"
+    },
+    "tulipano": {
+        "1": "",
+        "2": "* rosa",
+        "3": "* bianca",
+        "4": "* gialla",
+        "5": "* nera",
+        "6": "* marrone"
+    },
+    "ulivo": {
+        "1": "oliva",
+        "2": "quercia"
+    },
+    "uovo": {
+        "1": "uovo di gallina",
+        "2": "uovo di pavone",
+        "3": "uovo di tortora",
+        "4": "uovo di pellicano"
+    },
+    "vaso": {
+        "1": "bicchiere",
+        "2": "tazza",
+        "3": "vaso da notte",
+        "4": "vaso da colazione",
+        "5": "vaso da polvere",
+        "6": "piatto",
+        "7": "ciotola"
+    },
+    "verdura": {
+        "1": "funghi",
+        "2": "carote",
+        "3": "cetriolo",
+        "4": "carciofi",
+        "5": "broccoli",
+        "6": "zucchine",
+        "7": "melanzane",
+        "8": "pomodori",
+        "9": "peperoni",
+        "10": "cipolle",
+        "11": "sedano"
+    },
+    "videogioco": {
+        "1": "videogames per console",
+        "2": "videogiochi per pc",
+        "3": "videogiochi per telefono cellulare",
+        "4": "videogiochi per console senza schermo",
+        "5": "videogiochi on line"
+    },
+    "vite": {
+        "1": "acquavite",
+        "2": "vite da vino",
+        "3": "vite da caffè",
+        "4": "vite di garofano",
+        "5": "vite da cucina",
+        "6": "vite per ornamento",
+        "7": "vite da cerimonia",
+        "8": "vite da meditazione",
+        "9": "vite per abbellimento"
+    }
+}
