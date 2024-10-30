@@ -93,8 +93,7 @@ def main():
     # human_data = pd.read_excel(file_human_exemplar_subset)
     concepts = human_data.concept.unique()
     
-    # concept2img_map = 
-    concept2img_map = pd.read_csv("unibo-concepts-it-imgs.csv")
+    concept2img_map = pd.read_csv("data/unibo-concepts-it-imgs.csv")
     concept2img_map = {r.concept: r.img for _, r in concept2img_map.iterrows()}
 
     thresholds = [("short", 5), ("medium", 8), ("long", 10)]

@@ -17,7 +17,7 @@ from transformers.utils.logging import disable_progress_bar
 
 disable_progress_bar()
 
-DEVICE          = "cuda:2"
+DEVICE          = "cuda:3"
 
 LLAVA_ID        = "llava-hf/llava-v1.6-mistral-7b-hf"
 MISTRAL_ID      = "mistralai/Mistral-7B-Instruct-v0.2"
@@ -34,8 +34,6 @@ def get_model(model_name="llava"):
         model = LlavaNextForConditionalGeneration.from_pretrained(LLAVA_ID, torch_dtype=torch.bfloat16).to(DEVICE)
         processor = AutoProcessor.from_pretrained(LLAVA_ID)
         tokenizer = processor.tokenizer
-        # start_token = "[INST]"
-        # end_token = "[/INST]"
         start_token = "<s>"
         end_token = "</s>"
     elif model_name == "mistral":
@@ -57,6 +55,8 @@ def get_model(model_name="llava"):
         tokenizer = AutoTokenizer.from_pretrained(LLAMA31_ID, token=os.getenv("MY_HF_TOKEN"))
         model = AutoModelForCausalLM.from_pretrained(LLAMA31_ID, token=os.getenv("MY_HF_TOKEN")).to(DEVICE)
         processor = None
+        start_token = "<|begin_of_text|>"
+        end_token = "<|end_of_text|>"
     elif model_name == "llama3.2":
         tokenizer = AutoTokenizer.from_pretrained(LLAMA32_ID, token=os.getenv("MY_HF_TOKEN"))
         model = AutoModelForCausalLM.from_pretrained(LLAMA32_ID, token=os.getenv("MY_HF_TOKEN")).to(DEVICE)
@@ -67,16 +67,23 @@ def get_model(model_name="llava"):
         processor = AutoProcessor.from_pretrained(IDEFICS2_ID, token=os.getenv("MY_HF_TOKEN"))
         model = AutoModelForPreTraining.from_pretrained(IDEFICS2_ID, token=os.getenv("MY_HF_TOKEN"), torch_dtype=torch.bfloat16).to(DEVICE)
         tokenizer = processor.tokenizer
+        start_token = ""
+        end_token = ""
     elif model_name == "mixtral":
         from accelerate import init_empty_weights, infer_auto_device_map, dispatch_model
         model = AutoModelForCausalLM.from_pretrained(MIXTRAL_ID, torch_dtype=torch.float16, low_cpu_mem_usage=True, device_map="auto")
         tokenizer = AutoTokenizer.from_pretrained(MIXTRAL_ID)
         processor = None
+        start_token = "<s>"
+        end_token = "</s>"
     elif model_name.lower() == "llama3.1-70b":
         tokenizer = AutoTokenizer.from_pretrained(LLAMA_31_70B, token=os.getenv("MY_HF_TOKEN"))
         model = AutoModelForCausalLM.from_pretrained(LLAMA_31_70B, torch_dtype=torch.float16, low_cpu_mem_usage=True, device_map="auto", token=os.getenv("MY_HF_TOKEN"))
         processor = None
+        start_token = "<|begin_of_text|>"
+        end_token = "<|end_of_text|>"
     
+    model.eval()
     return model, tokenizer, processor, start_token, end_token
 
 
@@ -163,27 +170,32 @@ def replace_with_numbers(text):
 
 
 def eval(args):
-    if args.name == "availability":
-        if args.selected:
-            dataset_name = "dataset/dataset_avail_subset.json" 
-        else:
-            dataset_name = "dataset/avail/bydiff/binary_dataset_avail.json"
-    elif args.name == "rank":
-        if args.selected:
-            dataset_name = "dataset/dataset_avgrank_subset.json"
-        else:
-            dataset_name = "dataset/avgrank/bydiff/binary_dataset_avgrank.json"
+    if args.semantic:
+        dataset_name = "dataset/semantic/binary_dataset.json"
     else:
-        raise NameError
+        if args.name == "availability":
+            if args.selected:
+                dataset_name = "dataset/dataset_avail_subset.json" 
+            else:
+                dataset_name = "dataset/avail/bydiff/binary_dataset_avail.json"
+        elif args.name == "rank":
+            if args.selected:
+                dataset_name = "dataset/dataset_avgrank_subset.json"
+            else:
+                dataset_name = "dataset/avgrank/bydiff/binary_dataset_avgrank.json"
+        else:
+            raise NameError
 
     do_enumerate = args.enumerate
     source = args.source
     
     import os
-    output_dir = f"results-detection/bydiff/{args.name}/"
+    if args.semantic:
+        output_dir = f"results-detection/semantic/{args.name}/"
+    else:
+        output_dir = f"results-detection/bydiff/{args.name}/"
     os.makedirs(output_dir, exist_ok=True)
 
-    # output_name = dataset_name.split("/")[-1].replace(".json", "")
     output_name = "results"
 
     if do_enumerate:
@@ -194,57 +206,56 @@ def eval(args):
 
     models = ["llama3.1", "llama3.2", "nemo", "mistral", "llava", "idefics2"]
     models_visual = ["idefics2", "llava"]
-    models = ["llama3.1-70B", "mixtral"]
-    models_visual = []
 
-    results = {"model": [], "easy": [], "medium": [], "hard": [], "llm": []}
+    if args.semantic:
+        results = {"model": [], "order": [], "semantic": [], "llm": []}
+        modes = ["order", "semantic", "llm"] 
+    else:
+        results = {"model": [], "easy": [], "medium": [], "hard": [], "llm": []}
+        modes = ["easy", "medium", "hard", "llm"]
+    
     for model_name in models:
         print(f"- testing {model_name}")
         model, tokenizer, processor, bos_token, eos_token = get_model(model_name=model_name)
 
-        acc_easy, easy_ppl = run_dataset_experiment(model, tokenizer, dataset,      mode="easy",     verbose=False, enumerate_prompt=do_enumerate, start_token=bos_token, end_token=eos_token)
-        acc_medium, medium_ppl = run_dataset_experiment(model, tokenizer, dataset,  mode="medium",   verbose=False, enumerate_prompt=do_enumerate, start_token=bos_token, end_token=eos_token)
-        acc_hard, hard_ppl = run_dataset_experiment(model, tokenizer, dataset,      mode="hard",     verbose=False, enumerate_prompt=do_enumerate, start_token=bos_token, end_token=eos_token)
-        acc_llm, llm_ppl = run_dataset_experiment(model, tokenizer, dataset,        mode="llm",      verbose=False, enumerate_prompt=do_enumerate, start_token=bos_token, end_token=eos_token)
-
         results["model"].append(model_name)
-        results["easy"].append(acc_easy)
-        results["medium"].append(acc_medium)
-        results["hard"].append(acc_hard)
-        results["llm"].append(acc_llm)
+        for mode in modes:
+            with torch.no_grad():
+                acc, ppl = run_dataset_experiment(model, tokenizer, dataset, mode=mode, verbose=False, enumerate_prompt=do_enumerate, start_token=bos_token, end_token=eos_token)
+            results[mode].append(acc)
 
-        for i, elem in enumerate(dataset):
-            output_key = "outputs-human" if source == "human" else "outputs-llm"
-            if output_key not in elem:
-                elem[output_key] = {}
-            elem[output_key][model_name] =  {"easy": easy_ppl[i], "medium": medium_ppl[i], "hard": hard_ppl[i], "llm": llm_ppl[i]}
+            for i, elem in enumerate(dataset):
+                output_key = "outputs-human" if source == "human" else "outputs-llm"
+                if output_key not in elem:
+                    elem[output_key] = {}
+                if model_name not in elem[output_key]:
+                    elem[output_key][model_name] = {}
+                elem[output_key][model_name][mode] = ppl[i]
         
         del model, tokenizer, processor
         torch.cuda.empty_cache()
 
     for model_name in models_visual:
         print(f"- testing {model_name} (with visual)")
-        model, _ , tokenizer = get_model(model_name=model_name)
-
-        acc_easy, easy_ppl = run_dataset_experiment(model, tokenizer, dataset,      mode="easy",     verbose=False, is_visual=True, enumerate_prompt=do_enumerate)
-        acc_medium, medium_ppl = run_dataset_experiment(model, tokenizer, dataset,  mode="medium",   verbose=False, is_visual=True, enumerate_prompt=do_enumerate)
-        acc_hard, hard_ppl = run_dataset_experiment(model, tokenizer, dataset,      mode="hard",     verbose=False, is_visual=True, enumerate_prompt=do_enumerate)
-        acc_llm, llm_ppl = run_dataset_experiment(model, tokenizer, dataset,        mode="llm",      verbose=False, is_visual=True, enumerate_prompt=do_enumerate)
+        model, _ , tokenizer, bos_token, eos_token = get_model(model_name=model_name)
 
         results["model"].append(model_name + "_img")
-        results["easy"].append(acc_easy)
-        results["medium"].append(acc_medium)
-        results["hard"].append(acc_hard)
-        results["llm"].append(acc_llm)
+        for mode in modes:
+            with torch.no_grad():
+                acc, ppl = run_dataset_experiment(model, tokenizer, dataset, mode=mode, verbose=False, is_visual=True, enumerate_prompt=do_enumerate)
+            results[mode].append(acc)
 
-        for i, elem in enumerate(dataset):
-            output_key = "outputs-human" if source == "human" else "outputs-llm"
-            if output_key not in elem:
-                elem[output_key] = {}
-            elem[output_key][model_name] =  {"easy": easy_ppl[i], "medium": medium_ppl[i], "hard": hard_ppl[i], "llm": llm_ppl[i]}
-    
+            for i, elem in enumerate(dataset):
+                output_key = "outputs-human" if source == "human" else "outputs-llm"
+                if output_key not in elem:
+                    elem[output_key] = {model_name: {}}
+                elem[output_key][model_name][mode] = ppl[i]
+        
+        del model, tokenizer, processor
+        torch.cuda.empty_cache()
+
     res_df = pd.DataFrame.from_dict(data=results, orient="columns")
-    res_df["avg"] = res_df[["easy", "medium", "hard", "llm"]].mean(axis=1)
+    res_df["avg"] = res_df[modes].mean(axis=1)
     print(res_df.round(2))
     
     if not args.nosave:
@@ -260,6 +271,7 @@ if __name__ == "__main__":
     parser.add_argument("--source", default="human", type=str, help="Source of the candidates (either 'human' or 'llm')")
     parser.add_argument("--selected", default=False, action="store_true")
     parser.add_argument("--enumerate", default=False, action="store_true")
+    parser.add_argument("--semantic", action="store_true")
     parser.add_argument("--nosave", default=False, action="store_true")
 
     args = parser.parse_args()
