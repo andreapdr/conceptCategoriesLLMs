@@ -251,7 +251,7 @@ def eval(args):
                     elem[output_key] = {model_name: {}}
                 elem[output_key][model_name][mode] = ppl[i]
         
-        del model, tokenizer, processor
+        del model, tokenizer, _
         torch.cuda.empty_cache()
 
     res_df = pd.DataFrame.from_dict(data=results, orient="columns")
