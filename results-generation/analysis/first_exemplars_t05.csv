@@ -1,0 +1,188 @@
+category,concept,human,llama3.1-70b,llama3.1,llama3.2,mixtral,mistral,nemo,llava,llava-img,idefics2,idefics2-img
+plants,abete,rosso,bianco,rosso,americano,bianco,bianco,bianco,albero,pino,rosso,rosso
+vehicles,aereo,militare,da caccia,da trasporto,da passeggeri,da combattimento,commerciale,a elica,aereoplano,aeroplano,aeroplano,elicottero
+stationery,agenda,mensile,scolastica,calendario,calendario,giornaliera,calendario digitale,cartacea,calendario,calendario,calendario,calendario
+furnishings/fittings,appendiabiti,da parete,gruccia,da parete,armadio,gancio appendiabiti,appendice per cintura,a parete,scarpe,scarpe,jeans,borsa
+furniture,armadio,a muro,a muro,a muro,a muro,a due ante,a porta rovescia,a muro,armadietto,aperto,per vestiti,per vestiti
+stationery,astuccio,rigido,per occhiali,borsa,cappello,per matite,tazza,per matite,fornace,suitcase,per caffè,valigia
+hobbies,attrezzo,martello,martello,martello,forbici,cacciavite,martello,martello,pala,pince,chitarra,martello
+vehicles,autobus,a due piani,urbano,urbano,urbano,urbano,urbano,urbano,urbano,bus,pullman,pullman
+vehicles,automobile,elettrica,berlina,fiat,auto,berlina,berlina,berline,berlina,berlina,auto,auto
+housing buildings,bagno,pubblico,turco,vasca,doccia,vasca da bagno,doccia,doccia,doccia,doccia,vaso da bagno,lavandino
+housing buildings,balcone,a incasso,a sbalzo,da giardino,scale,francese,loggia,panoramico,aperto,veranda,terrazza,terrazza
+plants,basilico,genovese,genovese,di genova,comune,genovese,comune,genovese,comune,comune,italiano,peppermint
+kitchenware,bicchiere,di vetro,da vino,da vino,da vino,di vetro,da vino,da acqua,di vetro,coppa,tazza,da birra
+vehicles,bicicletta,elettrica,mountain bike,da corsa,mountain bike,city bike,montagna bicicletta,mountain bike,mountain bike,biciclo,mountain bike,per bambini
+body parts,bocca,carnosa,umana,labbra,labbra,umana,dell'uomo,umana,di leone,labbra,mascella,lingua
+body parts,braccio,meccanico,meccanico,umano,umano,arti superiori,umano,robotico,umano,umano,umano,destro
+plants,cactus,fico d'india,mammillaria,spinoso,aloe vera,saguaro,barrel cactus,barrel,aloe vera,rosso,agave,rosso
+clothes,calza,a rete,autoreggente,da uomo,guanti,da neve,calze da ginocchio,di seta,pantaloni,calze nere,sandalia,calzino
+housing buildings,camera,da letto,da letto,da letto,da letto,da letto,fotografica,da letto,fotocamera,letto,dslr,fotocamera
+clothes,camicia,hawaiana,a maniche corte,polo,polo,abbottonata,da notte,a maniche lunghe,di seta,da uomo,da uomo,maglia
+vehicles,camion,furgone,autocarro,autocarro,di pompaggio,da costruzione,cisterna,autocarro,camioncino,cisterna,camioncino,camioncino
+furnishings/fittings,candelabro,a tre bracci,da tavolo,a stelo,a candele,da tavolo,classico,da tavolo,a tre rametti,candeliera,di cristallo,a trecce
+animals,cane,labrador,pastore tedesco,bulldog,pastore tedesco,alano,razza basset hound,pastore tedesco,da pastore,golden retriever,bulldog,labrador
+clothes,canottiera,bianca,da uomo,sportiva,canoa,a maniche corte,da regata,a manica corta,barchetta,cano,a maniche lunghe,da bagnante
+body parts,capello,riccio,riccio,naturale,capelli lunghi,liscio,corto,capelli lunghi,cappello,lungo,boccoli,baffi
+clothes,cappello,berretto,basco,da baseball,panama,berretto,berretto,berretto,berretto,beret,berbera,fedora
+clothes,cappotto,lungo,trench,di pelliccia,giacca,invernale,di lana,lungo,capello,pea coat,in pelle,giacca
+foods,carne,di maiale,manzo,manzo,manzo,manzo,manzo,manzo,pollo,pollo,manzo,bovino
+vehicles,carrozza,calesse,calesse,ferroviaria,treno,ferroviaria,ferroviaria,ferroviaria,automobile,a cavallo,passeggeri,a quattro ruote
+hobbies,carte,da gioco,biglietto,carta da regalo,di credito,carta igienica,carta da parati,biglietto da visita,tarocchi,tarocchi,carta da gioco,da gioco
+furniture,cassettiera,di legno,da ufficio,da bagno,a rotelle,da camera da letto,da tavola,da camera da letto,di legno,armadio,sony,cassette
+animals,cavallo,da corsa,appaloosa,destriero,da guerra,quarter horse,da corsa,purosangue,da corsa,da corsa,pony,pony
+hobbies,cd,audio,cd-rom,singolo,album,audio,compact disc,audio,compact disc,cd-r,singolo,cd-rom
+furnishings/fittings,centrotavola,di fiori,vaso,in legno,in legno,floreale,tavolo rotondo,mazzo di fiori,pizzeria,con pianta,tavola,tavola
+foods,cereale,grano,riso,riso,riso,grano,oatmeal,avena,mais,granola,biscotti,farina
+body parts,cervello,umano,umano,umano,cerebro,umano,umano,neocorteccia,cerebro,cerebro,cerebro,cerebro
+hobbies,chitarra,elettrica,classica,acustica,classica,acustica,acustica,acustica,acustica,acustica,acustica,elettrica
+plants,ciclamino,bianco,alpino,rosso,rosa,di napoli,rosa,comune,biciciclo,rosso,pet,tulipano
+plants,ciliegio,in fiore,dolce,ciliegia,ciliegia,prunus avium,comune,acido,acacia,fiori di ciliegio,rosso,albero
+foods,cioccolato,fondente,fondente,bianco,cioccolata,fondente,bianco,fondente,cioccolata,cioccolata,bianco,barretta
+stationery,colla,vinilica,a caldo,adesiva,adesivo,vinilica,da carta,a caldo,da barba,per capelli,adesivo,adesivo
+body parts,collo,lungo,di camicia,di cigno,di vetro,della camicia,di animale,cravatta,di carta,di persona,vertebrale,bocca
+housing buildings,colonna,dorica,sonora,sonora,palazzo,sonora,idraulica,sonora,sonora,di marmo,di supporto,di supporto
+kitchenware,coltello,a serramanico,da cucina,da cucina,da cucina,da cucina,da cucina,da cucina,da cucina,da cucina,da cucina,da cucina
+furniture,comodino,di legno,classico,da notte,letto,in legno,comodini da cucina,da notte,bidet,bianco,cassetta,cassette
+hobbies,computer,portatile,supercomputer,desktop,desktop,desktop,desktop computer,desktop,desktop,desktop computer,desktop,desktop
+furniture,comò,a cassetti,classico,a muro,cassettone,antico,scatola a molla,a cassetti,di legno,computer,borsa,monitor
+animals,coniglio,nano,nano,europeo,lepre,nano,selvatico,selvatico,selvatico,di cartone,selvatico,selvatico
+furnishings/fittings,cornice,di legno,per quadri,per foto,per finestre,per foto,pittorica,per quadri,di vetro,di vetro,interna,modulare
+furniture,credenza,di legno,armadio,a muro,banca,da cucina,armoire,in stile rustico,armadio,armadio,tavolo,scaffale
+hobbies,cruciverba,a schema libero,classico,a parole,puzzle,classico,puzzola,classico,croce di malta,1,*,1
+kitchenware,cucchiaio,cucchiaino,da dessert,da tavola,di legno,da tavola,da tavola,da minestra,tazza,tazza,da bocca,da cucina
+housing buildings,cucina,italiana,a gas,in muratura,forno,americana,moderna,fornello,fornace,frullatore,americana,da camere
+body parts,cuore,anatomico,umano,umano,umano,umano,umano,umano,umano,simbolo del cuore,aorta,ventricolo
+furnishings/fittings,cuscino,in memory foam,a forma di cuore,di piuma,da letto,da seduta,da letto,per il collo,da letto,da letto,da letto,per letto
+animals,delfino,comune,comune,comune,comune,comune,comune,comune,comune,bianco,comune,squalo
+furniture,divano,letto,letto,letto,a due posti,letto,a due posti,a due posti,poltrona,sofa,a sedere,da letto
+plants,edera,rampicante,comune,per esterni,comune,comune,comune,hhelix,comune,comune,acacia,acacia
+animals,elefante,africano,africano,africano,africano,africano,african elephant,africano,africano,africano,africano,africano
+vehicles,elicottero,militare,leggero,da trasporto,helicottero,da turismo,militare,da trasporto,militare,militare,bell 47,militare
+stationery,evidenziatore,giallo,pastello,a matita,pennarelli,a penna,"linguistico: highlighter, penna da segnalazione, marker",giallo,monitor,microfono,marker,penna
+clothes,felpa,con cappuccio,con cappuccio,da sci,seta,con cappuccio,antica,con cappuccio,felpeggino,bianca,birra,jeans
+plants,ficus,benjamin,aurea,carica,benghalensis,benjamina,lyrata,benjamina,benjamina,benjamina,benjamina,benjamina
+housing buildings,finestra,a una anta,a ghigliottina,a ghigliena,di comunicazione,a battente,a vetro singolo,a battente,finestrella,aperta,aperta,porta
+furnishings/fittings,fioriera,in terracotta,vaso,vaso di fiori,vaso,da interno,vaso fiori,vasi,fioraio,vase,fiori,pianta
+stationery,foglio,a4,di carta,carta da parati,carta,di carta,carta,di carta,di carta,di carta,carta,carta
+kitchenware,forbice,con punta arrotondata,forbici da cucito,forbici da cucito,da giardino,da giardinaggio,da tagliare il filo,forbici da cucina,da taglio,da taglio,da taglio,da taglio
+kitchenware,forchetta,da dolce,da dessert,da pesce,da tavola,da tavola,da tavola,da insalata,da carne,fork,da cucina,da cucina
+foods,formaggio,parmigiano,asiago,parmigiano,parmigiano,cheddar,mozzarella,fresco,mozzarella,gouda,gorgonzola,caciocavallo
+furnishings/fittings,fotografia,in bianco e nero,autoritratto,fotocamera,a colori,ritratto,digitale,fotocamera,fotocamera,fotografo,fotocamera,digitale
+foods,frutta,banana,mela,arance,arancia,mela,arancia,mela,arancia,mela,mela,mela
+vehicles,furgone,camperizzato,ducato,cargo,autobus,per trasporto merci,pieno,per traslochi,fiat 500,bianco,camioncino,camion
+animals,gallo,cedrone,cedrone,cedrone,gallina,domestico,domestico,gallina,gallina,gallina,selvatico,gallina
+body parts,gamba,del tavolo,di legno,anteriore,di legno,zampa di animale,destra,gambe umane,braccio,gambe di persona,destra,femorale
+animals,gatto,siamese,siamese,domestico,domestico,abissino,bengali,maine coon,domestico,domestico,domestico,domestico
+plants,geranio,rosso,a foglie di quercia,rosso,fiore,zonale,comune,comune,comune,geraniolo,geranium sanguineum,pelargonium
+clothes,giacca,a vento,a vento,da pelle,da uomo,blazer,windbreaker,a vento,da uomo,da uomo,bomber,cardigan
+clothes,gilet,doppiopetto,antiproiettile,di pelle,maglia,senza maniche,da motocicletta,senza maniche,di seta,vestiario,pelle,giacca
+hobbies,gioco da tavola,monopoly,monopoli,scacchi,monoposto,monopoly,scacchi,monopoli,scopone,scacchiere,scacchiere,backgammon
+hobbies,giornale,quotidiano,quotidiano,corriere,quotidiano,quotidiano,quotidiano,quotidiano,corriere della sera,foglio,corriere della sera,quotidiano
+animals,giraffa,africana,di rothschild,maschio,africana,reticolata,africana,reticulata,comune,stilizzata,in libertà,
+plants,girasole,giallo,comune,selvatico,solare,comune,comune,comune,coltivato,nero,gigante,
+clothes,giubotto,bomber,giubbotto antiproiettile,giubbotto da lavoro,a manubrio,giubbotto di pelle,giubbotto da motocicletta,giubbotto di pelle,giubbetto,giubbino,bomber,veste
+stationery,gomma,da masticare,da masticare,pneumatico,auto,pneumatico,da masticare,pneumatico,da masticare,da masticare,pneumatico,pneumatico
+clothes,gonna,mini,minigonna,lunga,lunga,a tubino,going-on,a tubino,be,skirt,vai,andare
+stationery,graffetta,di metallo,da ufficio,griffa,carta da scrivere,standard,da cucina,a molla,aerosol,grafitti,tag,penna
+clothes,guanti,da sci,da sci,da lavoro,da lavoro,da boxe,da cucina,da lavoro,da lavoro,da lavoro,da lavoro,da lavoro
+foods,insalata,iceberg,caprese,di pollo,mista,greca,mista,mista,di carote,broccoli,mista,mista
+furnishings/fittings,lampada,a led,abat-jour,a incandescenza,da tavolo,da tavolo,a incandescente,alogena,a olio,a led,a incandescenza,a incandescenza
+furnishings/fittings,lampadario,di cristallo,plafoniera,da soffitto,lampada,a sospensione,a catino,a bracci,a candela,lampada,lampada,chandelier
+foods,latte,intero,di cocco,vaccino,fresco,di mucca,fresco,intero,di latte,caffè latte,di vacca,fresco
+foods,legume,fagioli,fagiolo,fagioli,lenticchie,fagioli,fagioli,patata,fagioli,fagioli,fagioli,fagioli
+animals,leone,africano,asiatico,del congo,reale,masai,africano,africano,di carta,reale,reale,leonessa
+furniture,letto,matrimoniale,lettino,singolo,divano,a una piazza e mezza,matrimoniale,singolo,singolo,singolo,romanzo,sofà
+hobbies,lettore,cd,cd,di cd,cd,cd,libro,cd,libro,libro,libro,libro
+furniture,libreria,a scaffali,biblioteca,da pavimento,scaffale,biblioteca,biblioteca,online,libri,scaffale,di riferimento,libro
+hobbies,libro,romanzo,romanzo,romanzo,romanzo,romanzo,romanzo,romanzo,romanzo,aperto,romanzo,di testo
+animals,lucertola,geco,iguana,verde,comune,agama,gecko,comune,comune,gecko,gecko,sauriano
+clothes,maglia,a maniche corte,a coste,di lana,da donna,a coste,a reticello,a manica corta,da baseball,a strisce,a maniche lunghe,a maniche corte
+animals,maiale,nero,cinghiale,nero,selvatico,suino nero casertano,domestico,domestico,selvatico,porchetta,porco,porco
+body parts,mano,destra,destra,sinistra,dita,destra,destra,destra,destra,destra,destra,dita
+plants,margherita,crisantemo,comune,pizza margherita,pizza margherita,di savoia,"pizza: una varietà di pizza con salsa di pomodoro, mozzarella e basilico",pizza margherita,pizza,fior di margherita,pizza,pizza
+stationery,matita,hb,a colori,da disegno,stilografica,grafite,a graphite,da disegno,a grafite,meccanica,bic,
+kitchenware,mestolo,di legno,forato,da zucchero,bicchiere,in acciaio inossidabile,tazza,da cucina,tazza,pentola,pittura acrilica,coclea
+furnishings/fittings,metro,da sartoria,quadrato,a nastro,a mano,a nastro,lineare,lineare,aereo,pendolo di metro,metropolitana,metro-stop
+plants,mimosa,gialla,comune,albero,fiore,pudica,acida,pudica,giallo,sintetica,acacia,
+vehicles,motocicletta,scooter,enduro,scooter,scooter,da strada,moto cross,scooter,scooter,motociclo,honda,scooter
+animals,mucca,da latte,ayrshire,da latte,cavolo,holstein friesian,domestica,vacca,vacca,vacca,bovino,bovino
+housing buildings,muro,di mattoni,divisorio,di cinta,di confine,di mattoni,di cinta,di mattoni,di pietra,parte di un edificio,di cemento,parete
+body parts,naso,aquilino,umano,umano,umano,umano,umano,aquilino,rinoceronte,profilo del volto con il naso,ossa nasale,bocca
+vehicles,nave,da crociera,veliero,da guerra,da guerra,portaerei,incrociatore,da crociera,da crociera,da crociera,battello,motonave
+body parts,occhio,a mandorla,umano,umano,palpebra,umano,umano,di bue,umano,umano,oculo,cornea
+plants,orchidea,bianca,phalaenopsis,dendrobium,fiori,phalaenopsis,orchidee di fioritura unica,phalaenopsis,orchideacea,bianca,phalaenopsis,orchideea
+body parts,orecchio,a sventola,umano,umano,interno,umano,esterno,esterno,umano,orecchino,destro,destro
+furnishings/fittings,orologio,da polso,da polso,da polso,da polso,da polso,da tasca,da polso,meccanico,meccanico,analogico,analogico
+animals,orso,bruno,bruno,polare,grigio,polare,polare,polare,polare,polare,americano,bruno
+kitchenware,padella,antiaderente,antiaderente,di ghisa,pentola,antiaderente,da cucina,antiaderente,da cucina,da riso,da cucina,da cucina
+hobbies,palla,da calcio,pallone,da tennis,pallone,pallone da calcio,pallina da ping pong,da calcio,pallina,pallina,da calcio,calcio
+body parts,pancia,piatta,a botte,pancetta,cappello,stomaco,addome,piatta,ventre,ventre,stomaco,utero
+foods,pane,integrale,ciabatta,integrale,integrale,baguette,bianco,bianco,bianco,di frullo,focaccia,integrale
+clothes,pantalone,jeans,a vita alta,da lavoro,pantaloni da ballo,jeans,pantaloni corti,jeans,calze,jeans,commedia del tipo pantalone,a cuffia
+foods,pasta,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti
+stationery,pastello,a cera,a olio,a olio,a mano,a olio,a olio,a olio,pasta,pennello,pasta,a olio
+housing buildings,pavimento,parquet,in legno,in legno,in legno,piastrelle,parquet,parquet,tappeto,tavolo,cemento,in cemento
+stationery,penna,a sfera,a sfera,stilografica,biro,a sfera,per scrivere,a sfera,a sfera,a sfera,a sfera,stilo
+hobbies,pennello,piatto,da barba,da pittore,a mano,da trucco,da dipingere,per acquerelli,da cucina,da tinta,a mano,a mano
+kitchenware,pentola,a pressione,a pressione,a pressione,a pressione,da forno,da cucina,a pressione,da cucina,pentolaccino,da cucina,da cucina
+foods,pesce,tonno,sogliola,squalo,squalo,salmone,angelo rosso,salmone,salmone,salmone,di mare,d'acqua dolce
+kitchenware,piatto,fondo,antipasto,da portata,da tavola,antipasto,da cucina,fondo,da cucina,tazza,tavola,tazza
+body parts,piede,destro,umano,umano,destro,umano,destro,umano,umano,sandalo,destro,calzature
+plants,pino,silvestre,silvestre,d'aleppo,abete,silvestre,domestico,marittimo,d'albero,pineta,pinus sylvestris,pinus
+foods,pizza,margherita,quattro formaggi,margherita,margherita,margherita,margherita,margherita,margherita,margherita,al taglio,a forma di quadrato
+furniture,poltrona,reclinabile,sedia reclinabile,divano,divano,da ufficio,reclinabile,reclinabile,divano,a due posti,sofà,divano
+housing buildings,porta,scorrevole,blindata,di casa,d'ingresso,blindata,d'ingresso,d'ingresso,acciaio,di legno,di vestiti,d'ingresso
+furnishings/fittings,portafotografia,cornice,cornice,portafotocamera,casco da fotografo,album fotografico,portafilm,portafoto,portafoglio,portafoglio,nikon,fotocamera
+furnishings/fittings,posacenere,di vetro,da terra,da tavolo,bidone,da tavolo,tazza da caffè,da tavolo,scarpe,pasta,bicchiere,cenere
+stationery,quaderno,a righe,a righe,di matematica,di scuola,a spirale,rigido,ad anelli,di lavoro,diario,carta,carta
+furnishings/fittings,quadro,astratto,autoritratto,da parete,d'arte,ritratto,pittorico,dipinto,analogo,di legno,quadrato,dipinto
+plants,quercia,leccio,quercus robur,bianca,di faggio,bianca,rossa,rossa,rossa,bianca,rossa,rosso
+hobbies,racchetta,da tennis,da tennis,da tennis,da tennis,da tennis,da tennis,da tennis,da tennis,da tennis,da tennis,da tennis
+stationery,righello,squadra,a triangolo,da stoffa,campana,in plastica,da cucina,da carpentiere,di legno,regola,fork,12
+housing buildings,ripostiglio,sgabuzzino,armadio,armadio,cassettone,armadio,armadio,armadio,armadio,scarpe,carta da ripostiglio,camice
+foods,riso,basmati,arborio,integrale,arborio,integrale,arborio,bianco,bianco,bianco,arborio,bianco
+plants,rosa,rossa,damascena,canina,,canina,fiorita,tea,rossa,fiore di rosa,ro,fiore
+plants,salice,piangente,salix alba,da pesca,di legno,salix alba,comune,piangente,bianco,bianco,americano,acero
+housing buildings,scala,a chiocciola,a chiocciola,a chiocciola,mobile,a chiocciola,a chiocciola,a chiocciola,a chiocciola,esterna,a scala,a pioli
+clothes,scarpa,da ginnastica,stivale,da ginnastica,da ballo,stivaletto,sandalia,da ginnastica,da ginnastica,sandalo,da corsa,a punta
+body parts,schiena,dritta,dritta,alta,coda,colonna vertebrale,umana,dorsale,di legno,sfinge,cervicale,muro
+clothes,sciarpa,di lana,scialle,da sci,cappuccio,di cashmere,a velcro,di seta,lunga,di lana,bianca,in gomma
+animals,scimmia,scimpanzè,gorilla,scimpanzé,capuchino,scimpanzé,gibbon,babbuino,gorilla,gorilla,babbuino,scimpanzé
+kitchenware,scolapasta,di plastica,manuale,a cassetta,cucchiaio,in acciaio inossidabile,spaghetti,in acciaio inossidabile,penna,,a bolla,metallica
+stationery,scolorina,a nastro,per capelli,cipria,vernice,candeggina,tintura,smalto,docente,1. 3d printer,digitale,bicchiere
+vehicles,scooter,50,ape,vespa,a due ruote,elettrico,a due ruote,a pedali,vespa,vespa,vespa,
+furniture,scrivania,di legno,angolare,da ufficio,cassettiera,da ufficio,tradizionale,da ufficio,tavolo di lavoro,sedia,tavolo,tavolo
+furniture,sedia,a dondolo,poltrona,da giardino,a rotelle,da ufficio,a rotelle,da ufficio,a rotelle,poltrona,per ufficio,da tavola
+animals,serpente,a sonagli,boa,cobra,vipera,cobra,anaconda,velenoso,cobra,cobra,vipera,corallo
+clothes,slip,perizoma,da donna,da donna,guanti da slip,da donna,da notte,da uomo,calzino,pantaloni,slip-on,panty
+housing buildings,soffitto,alto,a cassettoni,a volta,in legno,in gesso,piano,a volta,ligneo,ligneo,in legno,a tetto
+housing buildings,soggiorno,open space,salotto,divano,divano,living,living room,divano,hotel,couch,hotel,soffa
+body parts,spalla,umana,a sbalzo,di asino,di animale,congelata,destra,umana,di polo,spallino,rosa,borsa
+furnishings/fittings,specchio,da parete,da parete,a muro,da parete,da trucco,a cavaliere,da parete,mirrore,mirrore,ad angolo,ad angolo
+stationery,spillatrice,tascabile,automatica,a batteria,a mano,da birra,elettrica,a molla,lavastoviglie,sewing machine,spillo-cambio,stapler
+clothes,t-shirt,a maniche corte,polo,polo,polo,a maniche corte,a collo rotondo,a manica corta,bianca,nero,a maniche brevi,2
+stationery,taccuino,a righe,quaderno,di appunti,diario,a spirale,diario,a spirale,da notepad,laptop,diario,notebook
+kitchenware,tagliere,in legno,in legno,da cucina,di legno,in legno,da tavolo,in legno,a mano,coltello,da cucina,da cucina
+furnishings/fittings,tappeto,persiano,persiano,da bagno,da giardino,persiano,a pile,persiano,da bagno,persiano,carpet,orientale
+furniture,tavolo,di legno,da cucina,da pranzo,da pranzo,da pranzo,da pranzo,da pranzo,da pranzo,da lavoro,da cucina,da cucina
+kitchenware,teglia,da forno,per pizza,per pizza,a gas,da forno,da forno,per biscotti,di ceramica,da forno,capello,da forno
+hobbies,televisione,al plasma,tv a schermo piatto,smart tv,tv a schermo piatto,televisore al plasma,a tubo catodico,smart tv,televisore,televisore,monitor,monitor
+stationery,temperino,singolo,svizzero,da cucina,candelabro,da tasca,da cucina,a sfera,tazzolino,termometro,penne,calzature
+furnishings/fittings,tenda,da campeggio,a rullo,da bagno,da cucina,da sole,da letto,da campeggio,da letto,di tela,da camping,da camping
+housing buildings,terrazzo,balcone,alla veneziana,in pietra,pavimento,pensile,antico,balcone,balcone,esterno,cemento,pavimento
+body parts,testa,grande,umana,di cavallo,cranio,umana,umana,umana,capo,capo,umana,cervello
+housing buildings,tetto,spiovente,a falde,a capriata,in legno,piano,in terracotta,a due falde,tettoia,tettoia,in legno,di tegole
+animals,tigre,bianca,del bengala,di sumatra,del bengala,del bengala,indiana,siberiana,africana,tigris,africana,bengalese
+animals,topo,di campagna,comune,domestico,formica,da laboratorio,domestico,campagnolo,topolino,domestico,domestico,ratto
+vehicles,traghetto,a vapore,a catena,da carico,a motore,passeggeri,a vela,passeggeri,a vapore,passeggero,a vapore,a vapore
+vehicles,tram,elettrico,storico,a cavalli,autobus,a pianale ribassato,tramway,a cavalli,aereo,tramway,azienda,tranvia
+vehicles,trattore,standard,agricolo,agricolo,agricolo,agricolo,a ruote,a ruote,agricolo,agricolo,agricolo,a motore
+vehicles,treno,regionale,locomotiva,a vapore,a vapore,a vapore,locomotiva,locomotiva,locomotiva,locomotiva,passeggeri,passeggeri
+plants,tulipano,rosso,darwin,gigante,d'inghilterra,tulipa clusiana,rosso,nero,rosso,fiore di tulipano,rosso,
+plants,ulivo,frantoio,da olio,domestico,frutto,ulmus minor,albero di ulivo,selvatico,olivo,pianta,olio extra vergine,albero
+foods,uovo,di gallina,di gallina,di quaglia,di gallina,di gallina,di gallina,di gallina,di pollo,di pollo,di gallina,di gallina
+furnishings/fittings,vaso,di ceramica,di fiori,da fiori,da notte,da fiori,da birra,da fiori,tazza,vase,bicchiere,vase
+foods,verdura,zucchina,spinaci,spinaci,carote,lattuga,carota,broccoli,broccoli,broccoli,carota,cipolla
+hobbies,videogioco,di sport,avventura,fortnite,action,azione,adventure game,sparatutto,console,joystick,action,console
+furnishings/fittings,vite,a testa tonda,a testa svasata,da parete,da tavola,a testa esagonale,d'ancora,a testa esagonale,di legno,di plastica,uva,a spirale
