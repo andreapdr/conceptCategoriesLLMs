@@ -200,3 +200,4 @@ my_output
 reliability.ipynb
 imgs
 meeting*.ipynb
+.secrets.env
