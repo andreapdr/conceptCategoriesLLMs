@@ -42,7 +42,7 @@ def get_freqs(expression, cname, username, api_key):
 
 def get_user_data(user):
     USERNAME = os.getenv(f"USERNAME_{user.upper()}")
-    API_KEY = os.getenv(f"USERNAME_{user.upper()}")
+    API_KEY = os.getenv(f"API_KEY_{user.upper()}")
     return USERNAME, API_KEY
 
 
