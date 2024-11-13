@@ -1,0 +1,4217 @@
+exemplar,abs_freq,rel_freq
+abete rosso,15104,1.04
+abete nero,104,0.0
+abete bianco,224,0.02
+abete rosso giapponese,1,0.0
+abete rosso cinese,0,0.0
+abete rosso americano,0,0.0
+acacia,34804,2.4
+arbutus,658,0.05
+acer,35356,2.44
+birch,2352,0.16
+cedar,0,0.0
+chestnut,2620,0.18
+cocos,2060,0.14
+eucalyptus,1636,0.11
+elm,4003,0.28
+ginkgo,7669,0.53
+maple,3204,0.22
+oak,11167,0.77
+pine,7168,0.49
+pussywillow,1,0.0
+quercus,5953,0.41
+redwood,1540,0.11
+willow,5476,0.38
+acerbo,19084,1.31
+acero,26036,1.8
+betulla,39058,2.7
+betulino,22,0.0
+betula,979,0.07
+betulina,114,0.01
+betuloido,0,0.0
+betuloido americano,0,0.0
+betuloido giapponese,0,0.0
+betuloido occidentale,0,0.0
+betuloido scandinavo,0,0.0
+betuloido sottile,0,0.0
+betuloido subalpino,0,0.0
+betuloido subartico,0,0.0
+betuloido subtropicale,0,0.0
+betuloido subtropicale americano,0,0.0
+betuloido subtropicale australiano,0,0.0
+betuloido subtropicale europeo,0,0.0
+betuloido subtropical,0,0.0
+abete giallo,6,0.0
+abete blu,13,0.0
+abete verde,92,0.01
+aeroplano,27876,1.92
+elicottero,30198,2.08
+aerostato,3318,0.22
+aerocarro,0,0.0
+dirigibile,12297,0.85
+drone,43184,2.98
+vettore spaziale,361,0.02
+aerostato sperimentale,0,0.0
+aerotrasporto,53,0.0
+aerostazione,6354,0.44
+aliante,21346,1.48
+aereo a reattori,0,0.0
+aereo a pistoni,38,0.0
+aeromobile,17120,1.18
+aerotraino,21,0.0
+calendario,30666,2.12
+organizzazione,46096,3.18
+diario,40702,2.8
+calendario digitale,140,0.0
+calendario online,211,0.01
+organizzatore,23171,1.6
+organizzatore digitale,4,0.0
+a4,29994,2.07
+a5,18487,1.27
+a6,14018,0.97
+a7,12130,0.84
+a8,10922,0.75
+a9,7864,0.54
+a10,8771,0.6
+a11,5188,0.36
+a12,8039,0.55
+a13,4384,0.3
+a14,14962,1.03
+a15,2664,0.18
+a16,2913,0.2
+a17,474,0.03
+a18,2394,0.16
+a19,2587,0.18
+a20,2156,0.15
+a21,3362,0.23
+a22,8527,0.59
+a23,1825,0.13
+a24,5398,0.37
+a25,2758,0.19
+a26,3572,0.25
+a27,2225,0.15
+a28,1223,0.08
+a29,1766,0.12
+a30,1512,0.1
+a31,1901,0.13
+a32,1219,0.08
+a33,681,0.05
+a34,431,0.03
+a35,1102,0.08
+a36,302,0.02
+carta di agenda,1,0.0
+app per agenda,0,0.0
+agenda digitale,1132,0.08
+agenda online,386,0.03
+agenda software,0,0.0
+agenda di gestione delle attività,0,0.0
+calendario in app,2,0.0
+jeans,31070,2.14
+pantaloni,49132,3.38
+slacks,52,0.0
+camise,29,0.0
+tunica,19017,1.31
+t-shirt,35456,2.44
+scarpe,919012,63.32
+cappelli,21974,1.51
+abiti,34368,2.37
+trousers,556,0.04
+skirt,1354,0.09
+dress,16798,1.16
+borsa,35752,2.46
+borsa per borse,4,0.0
+borsa per borse in pelle,0,0.0
+borsa per borse in tessuto,0,0.0
+borsa per borse in tessuto in pelle,0,0.0
+borsa per borse in tessuto in pelle in colori,0,0.0
+camice,17885,1.23
+armario,644,0.04
+armario per cucina,0,0.0
+armario per vestiti,0,0.0
+armario per abbigliamento sportivo,0,0.0
+armario per bacheca,0,0.0
+armario per biciclette,0,0.0
+armadio per vestiti,23,0.0
+armadio per libri,12,0.0
+armadio per cucina,4,0.0
+armadio per armi,20,0.0
+armadio per scarpe,13,0.0
+armadio per cuscinetti,0,0.0
+armadio per biciclette,0,0.0
+armati,27738,1.91
+armati in cartierina,0,0.0
+armati in pelle,0,0.0
+armati in legno,3,0.0
+armati in metallo,1,0.0
+armati in plastica,1,0.0
+armadio per stoviglia,0,0.0
+armadio per biancheria,12,0.0
+armadio per abbigliamento,3,0.0
+armaio,5,0.0
+scrivania,45254,3.12
+cassapane,1,0.0
+cassette,25249,1.74
+cassetti per cd,4,0.0
+cassetti per dvd,0,0.0
+astuccio a scoppio,0,0.0
+astuccio a sconto,0,0.0
+astuccio a cassette,0,0.0
+astuccio a cassette con riscaldamento,0,0.0
+astuccio a cassette con riscaldamento e controllo remoto,0,0.0
+astuccio a cassette con riscaldamento e controllo remoto con autoventilazione,0,0.0
+astuccio per caffè,0,0.0
+astuccio per tè,0,0.0
+astuccio per cacao,0,0.0
+astuccio per latte,0,0.0
+astuccio per cioccolata,0,0.0
+astuccio per yogurt,0,0.0
+astuccio per creme,0,0.0
+astuccio per pane,0,0.0
+astuccio per uova,0,0.0
+astuccio per cereali,0,0.0
+astuccio per birra,0,0.0
+astuccio per vino,1,0.0
+astuccio per cibo freddo,0,0.0
+astuccio per cibo caldo,0,0.0
+astuccio per bevande calde,0,0.0
+astuccio per bevande fredde,0,0.0
+astuccio marmitta,0,0.0
+astuccio ad ossidazione,0,0.0
+astuccio ad asportazione,0,0.0
+astuccio ad induzione,0,0.0
+astuccio ad induzione a campo magnetico,0,0.0
+astuccio ad induzione a campo elettromagnetico,0,0.0
+astuccio a microonde,0,0.0
+astuccio a microonde a frequenza,0,0.0
+astuccio a microonde a frequenza modulata,0,0.0
+astuccio a microonde a frequenza modulata elettrica,0,0.0
+astuccio a microonde a frequenza modulata elettrica elettrica,0,0.0
+astuccio da cucina,0,0.0
+astuccio a scopa,0,0.0
+astuccio a scopa e copertura,0,0.0
+astuccio a scopa e copertura con riscaldamento,0,0.0
+astuccio a scopa e copertura con riscaldamento e timer,0,0.0
+astuccio a scopa e copertura con riscaldamento e timer con funzionalità di memorizzazione,0,0.0
+chitarra,37562,2.58
+pianoforte,24719,1.7
+violino,33410,2.3
+sassofono,17663,1.22
+clarinetto,15071,1.04
+flauto,16119,1.11
+cuscino,33352,2.3
+sciabola,13888,0.96
+cuffia,39710,2.74
+manica,17371,1.2
+cuffie,48964,3.38
+spada,37042,2.56
+coltello,32680,2.26
+bicchiere,44272,3.06
+tazza,37292,2.56
+forchetta,19429,1.34
+scopa,38416,2.64
+spugna,37694,2.6
+spazzola,41570,2.86
+tappo,21332,1.47
+cuffietta,7867,0.54
+cappello,34080,2.34
+scarpa,41528,2.86
+guantino,541,0.04
+abbigliamento,55304,3.82
+attrezzo da lavoro,80,0.01
+attrezzo per la cucina,20,0.0
+attrezzo per il giardinaggio,23,0.0
+attrezzo per la bicicletta,10,0.0
+attrezzo per le arti,2,0.0
+pullman,35948,2.48
+pullman-standard,0,0.0
+pullman-porter,0,0.0
+pullman-palace car,0,0.0
+pullman-brill,0,0.0
+pullman-brill-standard,0,0.0
+pullman-brill-porter,0,0.0
+pullman-brill-palace car,0,0.0
+pullman-brill-pullman-palace car,0,0.0
+pullman-brill-pullman-porter,0,0.0
+pullman-brill-pullman-brill,0,0.0
+pullman-brill-pullman-brill-porter,0,0.0
+pullman-brill-pullman-brill-pullman-porter,0,0.0
+pullman-brill-pullman-brill-p,0,0.0
+paghezzato,0,0.0
+semplice,44434,3.06
+express,24693,1.7
+interurbani,1704,0.12
+metropolitani,14374,0.99
+autobus a due piani,68,0.0
+autobus a tre piani,20,0.0
+autobus a quattro piani,0,0.0
+autobus a cinque piani,0,0.0
+autobus a sei piani,1,0.0
+autobus a sette piani,0,0.0
+autobus a otto piani,0,0.0
+autobus a nove piani,0,0.0
+autobus a dieci piani,0,0.0
+autobus a undici piani,0,0.0
+autobus a dodici piani,0,0.0
+midibus,96,0.01
+minibus,23726,1.64
+double deck bus,4,0.0
+bus rapid transit,28,0.0
+bus,600430,41.36
+autocarro,38636,2.66
+autobus-pullman,0,0.0
+autobus-minibus,1,0.0
+autobus-midibus,0,0.0
+mercedes-benz,44784,3.08
+scania,11886,0.82
+volkswagen,54080,3.72
+hyundai,29780,2.05
+toyota,28168,1.94
+auto,37910,2.62
+motociclette,15814,1.09
+autobus,663876,45.74
+camion,31796,2.2
+autovetture,29760,2.05
+furgonette,114,0.01
+autoelettro,0,0.0
+auto elettrica,267,0.02
+auto diesel,89,0.01
+auto gas,47,0.0
+auto idrogeno,18,0.0
+auto elettrico,658,0.05
+auto a combustione interna,23,0.0
+auto a combustione esterna,0,0.0
+auto a combustione misto,0,0.0
+auto a motore a benzina,1,0.0
+auto a motore a gasolio,0,0.0
+auto a motore a metano,0,0.0
+auto a motore a propano,0,0.0
+auto a motore a idrogeno,2,0.0
+auto a motore a idrometano,0,0.0
+auto a motore a idrocarburi,0,0.0
+auto a motore a idrocarburi liquidi,0,0.0
+auto a motore a,20,0.0
+truck,26698,1.84
+wagon,36638,2.52
+sedan,9104,0.62
+coupe,14564,1.0
+convertible,3922,0.28
+hatchback,3422,0.24
+station wagon,7302,0.5
+minivan,15870,1.1
+suv,38682,2.66
+pickup truck,104,0.0
+roadster,18488,1.28
+sedica,1,0.0
+furgoncelle,0,0.0
+caccia,39930,2.76
+automobile a benzina,35,0.0
+automobile a gasolio,24,0.0
+automobile a metano,22,0.0
+automobile elettrica,76,0.0
+automobile a idrogeno,27,0.0
+automobile a idrogeno elettrico,0,0.0
+bagno da bagno,10,0.0
+bagno da doccia,0,0.0
+bagno da doccia a pavimento,0,0.0
+bagno da doccia a pavimento con vasca,0,0.0
+bagno da doccia a pavimento con vasca e sedia,0,0.0
+bagno da doccia a pavimento con vasca e sedia e piatto,0,0.0
+"bagno da doccia a pavimento con vasca, sedia e piatto",0,0.0
+"bagno da doccia a pavimento con vasca, sedia e piatto e lavandino",0,0.0
+"bagno da doccia a pavimento con vasca, sedia e piatto e lavandino e scrivania",0,0.0
+stufa bagno,0,0.0
+lavandino,37944,2.62
+vaso da bagno,40,0.0
+doccia,31052,2.14
+doccia a immersione,0,0.0
+vaso da bollitore,0,0.0
+vasca da bagno,770,0.06
+vaso per il bagno,2,0.0
+stufa per il bagno,1,0.0
+piatto per il bagno,0,0.0
+stufa calda,109,0.01
+pavimento,927908,63.92
+tappeto,34338,2.36
+stufa,32638,2.24
+fonte,25546,1.76
+vaso,33038,2.28
+tavolo,35504,2.44
+seduta,37428,2.58
+soffitta,31594,2.18
+terrazza,608470,41.92
+loggia,35196,2.42
+terrazzino,44046,3.04
+veranda,41844,2.88
+patio,49284,3.4
+terrazzo,25772,1.78
+balcone di vetro,20,0.0
+balcone a tetto,2,0.0
+balcone sporgendo,1,0.0
+balcone di legno,25,0.0
+balcone di cemento,12,0.0
+balcone frontale,54,0.0
+balcone laterale,174,0.01
+balcone interno,208,0.02
+terrazza veranda,24,0.0
+terrazza panoramica,1166,0.08
+basilico italiano,31,0.0
+basilico americano,20,0.0
+basilico romano,23,0.0
+basilico thailandese,58,0.0
+basilico inglese,0,0.0
+basilico francese,2,0.0
+basilico taiwanese,0,0.0
+basilico cinese,24,0.0
+genovese,20855,1.44
+ligure,13690,0.94
+siciliano,19647,1.35
+calabrese,15838,1.09
+basilico fresco,201,0.01
+basilico secco,73,0.01
+basilico scorzato,0,0.0
+basilico bianco,18,0.0
+basilico nero,28,0.0
+basilico piccante,1,0.0
+tulipano,44908,3.1
+coppa,40010,2.76
+bicchiere da vino,166,0.02
+bicchiere da birra,40,0.0
+bicchiere da caffè,68,0.0
+bicchiere da latte,42,0.0
+bicchiere portatile,18,0.0
+bicchiere per birra,22,0.0
+bicchiere per vino,38,0.0
+bicchiere per caffè,19,0.0
+bicchiere per latte,16,0.0
+b,46226,3.18
+bottiglia,36346,2.5
+tazzina,32964,2.28
+coccone,107,0.01
+pipetta,4690,0.32
+stivale,44712,3.08
+piatto,31104,2.14
+bicchiere per acqua,20,0.0
+bicchiere per bevande,20,0.0
+coppetta,17943,1.24
+tassina,429,0.03
+mountain bike,6030,0.42
+bicicletta elettrica,104,0.01
+bicicletta da corsa,88,0.0
+bicicletta da moto,0,0.0
+bicicletta da strada,48,0.0
+bicicletta da gravel,34,0.0
+bicicletta da ciclocross,42,0.0
+bicicletta da bmx,16,0.0
+bicicletta da cross-country,0,0.0
+bicicletta da bicross,0,0.0
+bicicletta da maratona,1,0.0
+bicicletta da triathlon,40,0.0
+bicicletta da scuola,1,0.0
+road bike,84,0.0
+cruiser bike,28,0.0
+commuter bike,6,0.0
+hybrid bike,28,0.0
+recumbent bike,116,0.0
+bicicletta in bicicletta,21,0.0
+bicicletta in mountain bike,3,0.0
+bicicletta in bicicletta hybrida,0,0.0
+bicicletta in bicicletta cross-country,0,0.0
+bicicletta in bicicletta e-bike,0,0.0
+bmx bike,12,0.0
+cargo bike,44,0.0
+pedale,19988,1.38
+scooter,50306,3.46
+ciclo,16846,1.16
+mascella,34880,2.4
+labbra,48526,3.34
+denti,46856,3.22
+lingua,36926,2.54
+bocca superiore,37,0.0
+bocca inferiore,24,0.0
+bocca esterna,27,0.0
+bocca interna,38,0.0
+bocca orale,3,0.0
+bocca nasale,0,0.0
+bocca della gola,10,0.0
+labbro,21613,1.49
+incisivi,22974,1.58
+canini,11388,0.78
+premolari,3024,0.21
+molari,9733,0.67
+ossa mascellari,680,0.05
+mandibola,15491,1.07
+palato,21589,1.49
+gola,15663,1.08
+canino,24136,1.66
+canino inferiore,258,0.02
+canino superiore,473,0.03
+fauce,15667,1.08
+faringea,1196,0.08
+palato molar,0,0.0
+palato premolare,0,0.0
+palato incisivo,1,0.0
+palato canino,9,0.0
+palato non-canino,0,0.0
+palato superiore,69,0.0
+palato inferiore,13,0.0
+palato laterale,1,0.0
+palato mediale,0,0.0
+palato posteriore,16,0.0
+palato anteriore,20,0.0
+palato mandibolare,0,0.0
+palato maxillare,0,0.0
+palato zigomatico,0,0.0
+palato nasale,1,0.0
+palato uvulare,0,0.0
+palato orale,1,0.0
+pal,19646,1.35
+braccio destro,3880,0.26
+braccio sinistro,586,0.04
+braccio giunto,7,0.0
+braccio piana,0,0.0
+braccio vituperante,0,0.0
+braccio amputato,29,0.0
+braccio umano,354,0.02
+braccio robotico,286,0.02
+braccio animale,7,0.0
+braccio prostetico,23,0.0
+braccio di un automobile,0,0.0
+braccio di un aeroplano,0,0.0
+braccio d'arma,0,0.0
+braccio di bicicletta,0,0.0
+braccio di un orologio,0,0.0
+braccio di un orologio meccanico,0,0.0
+braccio del gatto,4,0.0
+braccio del cane,2,0.0
+braccio del pollo,0,0.0
+braccio del delfino,2,0.0
+braccio di un orologiaio,0,0.0
+braccio di un orologio analogico,0,0.0
+cactaceae,1784,0.12
+succulente,20938,1.44
+agavaceae,217,0.01
+agave,20886,1.44
+pachypodium,716,0.04
+echinocereus,127,0.01
+mammillaria,1070,0.08
+cereus,835,0.06
+opuntia,3438,0.24
+sisal,14880,1.03
+pereskia,45,0.0
+mammillari,210,0.01
+gymnocalycium,182,0.01
+lophophora,259,0.02
+pachycereus,38,0.0
+saguaro,704,0.05
+trichocereus,189,0.01
+barile,20189,1.39
+prickly-pear,0,0.0
+calza da running,33,0.0
+calza da tennis,17,0.0
+calza da ginnastica,8,0.0
+calza da trombilli,0,0.0
+calza da gara,4,0.0
+calza da salto,0,0.0
+calza da sci,26,0.0
+calza da snowboard,0,0.0
+calza da bocce,0,0.0
+calza da rugby,1,0.0
+calza da football,1,0.0
+calza da calcio,22,0.0
+calza da pallamano,0,0.0
+calza da pugilato,0,0.0
+calza da karate,0,0.0
+calza da kendo,0,0.0
+calza da wushu,0,0.0
+calza da sambo,0,0.0
+calza da boxe,0,0.0
+calza da,42,0.0
+sandale,14,0.0
+stivali,47442,3.26
+zoccoli,39270,2.7
+stivaletti,36722,2.54
+sandalia,556,0.04
+scarpette,17778,1.22
+scarponcini,6324,0.44
+scarpe da ginnastica,652,0.04
+scarpe da tennis,116,0.0
+scarpe da gara,173,0.01
+scarpe da sci,42,0.0
+calze da bocca,0,0.0
+calze da ginnastica,16,0.0
+calze da lavoro,42,0.0
+calze da pioggia,0,0.0
+calze da piperno,0,0.0
+calze da stivali,0,0.0
+calze da tennis,28,0.0
+calze da turismo,0,0.0
+calze da vino,0,0.0
+scarpa da ginnastica,678,0.04
+scarpa da tennis,138,0.0
+fotocamera,46368,3.2
+telecamera,52652,3.62
+webcam,38014,2.62
+ip camera,21,0.0
+dslr,10150,0.7
+compact,38928,2.68
+mirrorless,27222,1.88
+point-and-shoot,232,0.02
+digital,44262,3.04
+instant,15229,1.05
+polaroid,28956,2.0
+35mm,25336,1.74
+box,17106,1.18
+rangefinder,130,0.01
+compact camera,23,0.0
+point-and-shoot camera,2,0.0
+mirrorless camera,7,0.0
+rangefinder camera,2,0.0
+digital camera,310,0.02
+nikon,52052,3.58
+canon,43570,3.0
+sony,41710,2.88
+kodak,12845,0.88
+leica,38648,2.66
+fujifilm,19184,1.32
+action camera,74,0.0
+security camera,194,0.02
+cctv camera,7,0.0
+camicia bianca,1106,0.08
+camicia blu,1320,0.1
+camicia rosa,680,0.04
+camicia nera,1020,0.08
+camicia a maniche lunghe,34,0.0
+camicia a maniche corte,23,0.0
+camicia da notte,174,0.02
+camicia per uomo,21,0.0
+camicia per donna,21,0.0
+camicia per bambini,25,0.0
+camicia da uomo,106,0.0
+camicia da donna,44,0.0
+camicia da bambini,4,0.0
+camicia maschile,160,0.01
+camicia femminile,39,0.0
+camicia da bagnasciuga,0,0.0
+camicia da lavoro,52,0.0
+camicia da bimbo,1,0.0
+camicia da bambina,4,0.0
+camicia da neonato,8,0.0
+camicia da mamme,0,0.0
+camicia da letto,6,0.0
+camicia da stampa,0,0.0
+camicia da sport,0,0.0
+camicia da beach,0,0.0
+camicia da ginnastica,0,0.0
+camicia da cucina,0,0.0
+camicia da baule,0,0.0
+camicia da pesca,14,0.0
+camicia da moto,1,0.0
+camicia rossa,298,0.02
+camicia blu scuro,39,0.0
+camicia striata,0,0.0
+camicia da bambino,44,0.0
+camicia da maternità,0,0.0
+camioncino,18600,1.28
+camioncino interno,0,0.0
+camioncino di cantiere,0,0.0
+camioncino di lavoro,0,0.0
+camioncino di trasporto,3,0.0
+camioncino di lavoro pesante,0,0.0
+camioncino da carico,0,0.0
+camioncino da carico pesante,0,0.0
+camioncino a due assi,0,0.0
+camioncino a tre assi,0,0.0
+camioncino a quattro assi,0,0.0
+camioncino a cinque assi,0,0.0
+camioncino a sei assi,0,0.0
+pickup,31418,2.16
+cargo,35270,2.42
+dump,4841,0.33
+flatbed,554,0.04
+trailer,23265,1.6
+semi-trailer,6,0.0
+camioncino per la raccolta,11,0.0
+camioncino per la demolizione,0,0.0
+camioncino per il trasporto di merci,0,0.0
+camioncino per il trasporto di persone,0,0.0
+camioncino per il trasporto di carburanti,0,0.0
+camioncino per il trasporto di rifiuti,0,0.0
+camioncino per il trasporto di merci pericolosi,0,0.0
+camioncino per il trasporto di merci per la pesca,0,0.0
+candelabro di cristallo,40,0.0
+candelabro in legno,23,0.0
+candelabro a piatti,0,0.0
+candelabro a piatti con alabarda,0,0.0
+candelabro a piatti con scacchi,0,0.0
+candelabro a piatti con alabarda e scacchi,0,0.0
+sconto,34040,2.34
+candelabro da tavola,0,0.0
+candelabro da tavolo a tre braccia,0,0.0
+candelabro da tavola a quattro braccia,0,0.0
+candelabro da tavola a cinque braccia,0,0.0
+candelabro a tre braccia,15,0.0
+candelabro a quattro braccia,4,0.0
+candelabro a cinque braccia,6,0.0
+candelabro a sette braccia,32,0.0
+candelabro a nove braccia,21,0.0
+candelabro a dodici braccia,1,0.0
+candelabro a tredici braccia,1,0.0
+candelabro a quindici braccia,1,0.0
+candelabro di bronzo,28,0.0
+candelabro di pietra,2,0.0
+candelabro di legno,40,0.0
+candelabro di metallo,12,0.0
+candelabro di ceramica,0,0.0
+candelabro di porcellana,4,0.0
+candelabro di osso,0,0.0
+candelabro di vetro,36,0.0
+rottweiler,5101,0.35
+dobermann,3969,0.27
+bulldog,11165,0.77
+pug,4212,0.29
+pitbull,7976,0.55
+boxer,40047,2.76
+labrador,11337,0.78
+shih tzu,1044,0.07
+terrier,15501,1.07
+basset hound,708,0.05
+collie,5901,0.41
+cocker spaniel,1639,0.11
+dachshund,306,0.02
+golden retriever,2013,0.14
+labrador retriever,1996,0.14
+yorkshire terrier,1186,0.08
+dachsund,15,0.0
+shiba inu,691,0.05
+bichon frise,151,0.01
+siberian husky,1687,0.12
+chihuahua,20458,1.4
+pekingese,16,0.0
+poodle,628,0.04
+greyhound,2313,0.16
+german shepherd,96,0.0
+french bulldog,51,0.0
+great dane,109,0.01
+mastiff,1332,0.09
+samoyed,25,0.0
+akita,4128,0.28
+dalmatian,157,0.01
+camicia,34140,2.36
+giacca,33734,2.32
+maglia,33938,2.34
+sweater,926,0.06
+canottiera da tuffo,0,0.0
+canottiera da pesca,4,0.0
+canottiera da surf,0,0.0
+canottiera da bagnante,0,0.0
+canottiera per uomo,1,0.0
+canottiera per donna,2,0.0
+canottiera per bambino,0,0.0
+canottiera per adulto,0,0.0
+canottiera per bimbo,0,0.0
+canottiera per ragazza,0,0.0
+canottiera per ragazzo,0,0.0
+canottiera a maniche lunghe,2,0.0
+canottiera a maniche corte,1,0.0
+canottiera a maniche lunghe a maniche corte,0,0.0
+canottiera a maniche lunghe a maniche corte con bottoni,0,0.0
+canottiera a maniche lunghe a maniche corte con bottoni e gomme,0,0.0
+boccolino,290,0.02
+boccolo,6085,0.42
+ricciolino,1724,0.12
+riccio,24167,1.67
+cioccolino,10,0.0
+cioccio,1941,0.13
+ciocciolino,0,0.0
+lungo,15950,1.1
+medio,47336,3.26
+corto,30082,2.08
+razziato,1840,0.13
+striato,12657,0.87
+sottile,16727,1.15
+cappuccio,26178,1.8
+buzz cut,24,0.0
+mullet,515,0.04
+pigtails,29,0.0
+ponytail,327,0.02
+braid,1293,0.09
+puff,7636,0.53
+bob,17343,1.19
+bun,3471,0.24
+mohawk,2584,0.18
+boccoli,6183,0.43
+bocciolini,366,0.03
+croci,35208,2.43
+pettine,18089,1.25
+sciarpe,16663,1.15
+stiletto,5056,0.35
+capelli corti,777,0.05
+capelli lunghi,1666,0.11
+capelli ricci,926,0.06
+capelli ricci curli,0,0.0
+capelli ricci curli lunghi,0,0.0
+capelli ondulati,184,0.01
+capelli ondulati lunghi,6,0.0
+capelli ondulati corti,3,0.0
+capelli ondulati lunghi corti,0,0.0
+capelli ondulati corti lunghi,0,0.0
+capelli ondulati corti lunghi ricci,0,0.0
+capelli ondulati corti ricci lunghi,0,0.0
+capelli ondulati corti ricci lunghi curli,0,0.0
+boccino,3207,0.22
+bocchetta,37626,2.6
+bocciolino,25,0.0
+caschetto,15435,1.06
+caschet,9,0.0
+beretta,24231,1.67
+cowboy,30634,2.12
+fedora,23014,1.58
+cappello da baseball,202,0.01
+cappello da golf,10,0.0
+cappello da bicicletta,0,0.0
+berbera,4764,0.33
+cappello da corsa,5,0.0
+cappello da lavoro,20,0.0
+cappello da gara,2,0.0
+cappello da viaggio,27,0.0
+cappello da pelle,0,0.0
+cappello da bicchiere,0,0.0
+berretto,37350,2.58
+cappello da borsa,0,0.0
+cappello da cappella,0,0.0
+cappotto da baule,0,0.0
+cappotto da cuffia,0,0.0
+cappotto da stivale,0,0.0
+cappotto da giacca,0,0.0
+cappotto a collo,2,0.0
+cappotto a maniche,5,0.0
+cappotto a cuffie,0,0.0
+cappotto a cuffia,0,0.0
+cappotto in pelle,24,0.0
+cappotto in tessuto,22,0.0
+cappotto in gomma,1,0.0
+cappotto in cotone,15,0.0
+cappotto in gomma e tessuto,0,0.0
+cappotto in lana,22,0.0
+cappotto in fibra,21,0.0
+cappotto in denim,4,0.0
+cappotto di cotone,56,0.0
+cappotto di gomma,4,0.0
+cappotto da sport,0,0.0
+cappotto da lavoro,3,0.0
+cappotto da viaggio,3,0.0
+cappotto da pioggia,0,0.0
+manzo,37800,2.6
+bovino,29670,2.04
+maiale,29242,2.02
+pollame,16714,1.15
+pesce,39748,2.74
+pollo,39192,2.7
+agnello,35370,2.44
+capra,33368,2.3
+cervo,42834,2.96
+ovino,41106,2.84
+suino,33596,2.32
+bov,277,0.02
+baccalà,44682,3.08
+gatto,35848,2.46
+cane,26770,1.84
+orso,35870,2.48
+pecora,21781,1.5
+uccello,36790,2.54
+cassa,34426,2.38
+cassa di ferro,27,0.0
+carrozza a vapore,27,0.0
+carrozza a passo,1,0.0
+carrozza a vapore con locomotiva,0,0.0
+carrozza a vapore con locomotiva a vapore,0,0.0
+carrozza passeggeri,84,0.01
+carrozza merci,42,0.0
+carrozza funeraria,2,0.0
+carrozza per passeggeri,3,0.0
+carrozza ferroviaria,82,0.0
+carrozza tranviaria,18,0.0
+carrozza cisterna,2,0.0
+carrozza semitrailer,0,0.0
+vagoni,44152,3.04
+locomotiva,42178,2.9
+carrozzeria,14312,0.99
+carrozza di treno,23,0.0
+carrozza per treno,20,0.0
+carrozza per metro,0,0.0
+carrozza per funicolare,0,0.0
+carrozza per bambini,21,0.0
+carrozza per bebè,0,0.0
+carrozza per adulti,2,0.0
+carrozza per bambini e bebè,0,0.0
+"carrozza per bambini, bebè e adulti",0,0.0
+"carrozza per bambini, bebè e adulti con scooter",0,0.0
+"carrozza per bambini, bebè e adulti con scooter e bicicletta",0,0.0
+"carrozza per bambini, bebè e adulti con scooter, bicicletta e carrozzina",0,0.0
+carta da gioco,206,0.02
+carta a credito,14,0.0
+carta di debito,74,0.0
+carta di registro,6,0.0
+carta per registrazione,3,0.0
+carta per conto,20,0.0
+carta da cucina,5171,0.36
+carta da scrittura,50,0.0
+carta da fumare,1,0.0
+carta da risparmio,0,0.0
+carta da presentazione,0,0.0
+carta da regalo,1847,0.13
+carta di credito,66,0.0
+carta telefonica,373,0.03
+carta di regalo,16,0.0
+carta da spesa,0,0.0
+carta di sconto,40,0.0
+tarocchi,62606,4.32
+carta da poker,24,0.0
+carta da bridge,15,0.0
+carta da blackjack,4,0.0
+carta da solitario,1,0.0
+bose,15096,1.04
+apple,23406,1.61
+samsung,30245,2.08
+lg,28846,1.99
+jbl,6602,0.45
+cassette a bobine,0,0.0
+cassette a cassetti,0,0.0
+cd,21016,1.45
+dvd,19554,1.35
+blu-ray,18692,1.29
+vhs,19041,1.31
+stereo,14879,1.03
+8-track,39,0.0
+"cassette 7""",0,0.0
+"cassette 12""",0,0.0
+"cassette 45""",0,0.0
+cassette 8-track,0,0.0
+cassette vhs,262,0.02
+cassette cd,4,0.0
+pony,19511,1.34
+stallione,5,0.0
+cavalcavia,17840,1.23
+carabina,18292,1.26
+pinto,24032,1.66
+arabo,36422,2.5
+mustang,11985,0.83
+pachydermo,0,0.0
+ponnu,77,0.01
+bue,35848,2.46
+pegaso,20334,1.4
+unicorno,13362,0.92
+bucentaur,0,0.0
+pavone,39574,2.72
+stallione d'ariete,0,0.0
+stallione d'acqua,0,0.0
+cavallo domestico,246,0.02
+cavallo selvatico,647,0.04
+cavallo da razza,0,0.0
+cavallo da lavoro,60,0.0
+cavallo da corsa,74,0.0
+cavallo da competizione,68,0.0
+cavallo da cors,0,0.0
+cd singolo,1134,0.08
+cd doppio,406,0.02
+cd box set,18,0.0
+cd mp3,152,0.01
+cd dvd,34,0.0
+musica,49716,3.42
+film,39606,2.72
+videogiochi,55714,3.84
+programmi tv,186,0.01
+podcast,36610,2.52
+cd-rom,48274,3.32
+cd-audio,1564,0.1
+cd-video,30,0.0
+cd-text,142,0.01
+cd-extra,41,0.0
+compact disc,9280,0.64
+music cd,40,0.0
+audio cd,65,0.0
+video cd,286,0.02
+cd album,334,0.02
+cd compilation,90,0.0
+cd singolo promo,9,0.0
+cd album promo,0,0.0
+cd box set promo,0,0.0
+cd compilation promo,0,0.0
+tavola,39800,2.74
+cucina,36926,2.54
+ristorante,44096,3.04
+caffetteria,38866,2.68
+bar,30842,2.12
+tavolino,58140,4.0
+tavolino portatile,29,0.0
+tavola da gioco,23,0.0
+tavola da pranzo,39,0.0
+tavola da cucina,22,0.0
+sedilia,31,0.0
+credenza,284378,19.6
+poggiatutto,1,0.0
+cuscino tavola,0,0.0
+sedia,37746,2.6
+sedia tavola,0,0.0
+sedia a tavola,17,0.0
+tavola in pelle,1,0.0
+tavola in vimini,1,0.0
+tavola in legno,51,0.0
+tavola in marmo,20,0.0
+tavola in granito,1,0.0
+tavola da cena,2,0.0
+tavola da buffet,6,0.0
+tavola da lavoro,28,0.0
+tavola da musica,0,0.0
+tavola da giochi,0,0.0
+tavola da cucina da estetica,0,0.0
+tavola da cucina da lavoro,0,0.0
+tavola da cucina per bambini,0,0.0
+tavola da cucina per adulti,0,0.0
+tavola da cucina per festa,0,0.0
+tavola da cucina per ufficio,0,0.0
+t,49032,3.38
+amido,27794,1.92
+farina,35780,2.46
+orzo,34190,2.36
+riso,726124,50.02
+frumento,40840,2.82
+mais,30916,2.12
+pane,34818,2.4
+pasta,33336,2.3
+torta,56792,3.92
+pasta al forno,75,0.01
+pasta al latte,17,0.0
+pasta integrale,125,0.01
+biscotti,52370,3.6
+muffin,16311,1.12
+avena,24926,1.72
+miglio,18304,1.26
+grano,37564,2.58
+noci,17542,1.2
+cortex,4595,0.32
+hippocampo,24,0.0
+cerebrospinal fluid,64,0.0
+corpus callosum,29,0.0
+thalamus,84,0.01
+amygdala,239,0.02
+hypothalamus,28,0.0
+pineal gland,32,0.0
+pituitary gland,6,0.0
+hypothalamic-pituitary axis,2,0.0
+cerebellum,198,0.02
+basal ganglia,16,0.0
+ventricles,7,0.0
+choroid plexus,0,0.0
+subarachnoid space,8,0.0
+medulla oblongata,30,0.0
+pons,6038,0.42
+cerebrum,326,0.02
+cerebro,3302,0.22
+midbrain,10,0.0
+hippocampus,605,0.04
+amigdala,7441,0.51
+colliculus,19,0.0
+nucleus pulvinar,0,0.0
+ponte,2100768,144.74
+diencefalon,0,0.0
+talamo,20040,1.38
+cerebello,33,0.0
+blood vessels,90,0.01
+white matter,25,0.0
+gray matter,128,0.01
+subcortical structures,1,0.0
+brainstem,106,0.01
+bulbo cerebellare,0,0.0
+retina,13051,0.9
+coroide sclerale,0,0.0
+chitarra acustica,2048,0.14
+chitarra elettrica,43298,2.98
+chitarra basso,660,0.04
+chitarra a 12 corde,50,0.0
+chitarra a 6 corde,40,0.0
+chitarra baritona,33,0.0
+chitarra solista,506,0.04
+chitarra d'arco,0,0.0
+chitarra a 8 corde,54,0.0
+chitarra classica,1036,0.08
+chitarra acustica a 12 corde,44,0.0
+pet,14391,0.99
+pvc,26910,1.86
+polietilene,17238,1.19
+polipropilene,17962,1.24
+poliuretano,36642,2.52
+polistirene,8477,0.58
+poliammide,6978,0.48
+hdpe,2894,0.2
+ldpe,993,0.07
+pp,17695,1.22
+pu,13632,0.94
+pta,4278,0.29
+ciclamino 1,4,0.0
+ciclamino 2,4,0.0
+ciclamino 3,0,0.0
+ciclamino 4,0,0.0
+ciclamino 5,1,0.0
+ciclamino 6,0,0.0
+bici,28716,1.98
+triciclo,21178,1.46
+tricycle,354,0.02
+rosso,33472,2.3
+blu,19051,1.31
+nero,30046,2.08
+bianco,2759185,190.09
+verde,26252,1.8
+giallo,35694,2.46
+arancio,32990,2.28
+rosa,48542,3.34
+ciano,19048,1.31
+cerea,8479,0.58
+ebano,11190,0.77
+gelsomino,30062,2.08
+ipomoea,360,0.02
+mango,35254,2.42
+mirtillo,38872,2.68
+olivo,51200,3.52
+pino,83720,5.76
+platano,18321,1.26
+pomerano,51,0.0
+rutilia,216,0.01
+ruta,13455,0.93
+salice,32886,2.26
+sandalo,63948,4.4
+ulivo,292424,20.14
+ciliegio nero,14,0.0
+ciliegio rosso,38,0.0
+ciliegio bianco,66,0.0
+ciliegio rosso scuro,0,0.0
+ciliegio rosso sanguino,0,0.0
+ciliegio rosso intermedio,0,0.0
+ciliegio rosso chiaro,0,0.0
+ciliegio rosso rosso,0,0.0
+ciliegio ros,0,0.0
+ciliegio a cuscino,0,0.0
+ciliegio a cuscino a fibra,0,0.0
+ciliegio a cuscino a fibra a doppio strato,0,0.0
+ciliegio a cuscino a fibra a tritone,0,0.0
+ciliegio a cuscino a tritone a doppio strato,0,0.0
+ciliegio a cuscino a tritone a doppio strato a fibra,0,0.0
+ciliegio a cuscino a tritone a fibra a doppio strato,0,0.0
+vino,39436,2.72
+birra,38948,2.68
+olio,35986,2.48
+latte,34076,2.34
+formaggio,47222,3.26
+bianco-nero,1869,0.13
+bianco-crema,791,0.05
+crema,29974,2.06
+nero-crema,4,0.0
+bianco-crema-nero,0,0.0
+bianco-crema-crema,0,0.0
+bianco-crema-bianco,0,0.0
+bianco-crema-nero-crema,0,0.0
+bianco-crema-nero-bianco,0,0.0
+bianco-crema-nero-nero,0,0.0
+bianco-crema-nero-crema-nero,0,0.0
+bianco-crema-nero-nero-crema,0,0.0
+bianco e nero,37,0.0
+amare,23510,1.62
+bianco e amare,22,0.0
+bianco e rosso,86,0.01
+bianco e giallo,36,0.0
+nero e giallo,25,0.0
+nero e rosso,53,0.0
+giallo e rosso,32,0.0
+bianco e rosso e giallo,2,0.0
+amare e rosso,0,0.0
+amare e giallo,1,0.0
+amare e rosso e giallo,0,0.0
+bianco e giallo e rosso,0,0.0
+bianco e giallo e amare,0,0.0
+barra,21564,1.49
+cocco,49408,3.4
+caramello,24470,1.69
+creme,21014,1.45
+bicioccolato,0,0.0
+cioccolato al latte,176,0.02
+cioccolato al cacao,11,0.0
+cioccolato al cacao bianco,0,0.0
+cioccolato al cacao nero,0,0.0
+cioccolato al cacao e noci,0,0.0
+cioccolato al cacao e noci con sale,0,0.0
+cioccolato al cacao e noci con sale e pepe,0,0.0
+cioccolato al cacao e noci con sale e pepe e pepe,0,0.0
+cioccolato fondante,14,0.0
+cioccolato al cacao e noci e almond,0,0.0
+cioccolato al cacao e noci e almond con alcol,0,0.0
+cioccolato al cacao e noci e almond con alcol e sale,0,0.0
+cioccolato al cacao e noci e almond con alcol e sale e pepe,0,0.0
+cioccolato al cac,0,0.0
+adesivo a base di gomma,20,0.0
+adesivo a base di resina,19,0.0
+adesivo a base di silicone,13,0.0
+adesivo a base di acetato di cellulosa,0,0.0
+adesivo a base di acetato di polietilene,0,0.0
+adesivo a base di acetato di polivinile,0,0.0
+adesivo a base di poliuretano,3,0.0
+adesivo a base di poliuretano-poliolifero,0,0.0
+ades,2301,0.16
+bolla,19270,1.33
+adesivo,354888,24.44
+glue,1575,0.11
+resine,33783,2.33
+lacche,4490,0.31
+pasta da adesivo,0,0.0
+silicone,17912,1.23
+epoxide,9,0.0
+cola,24554,1.69
+collo,37834,2.6
+collante,41660,2.88
+collettivo,15177,1.05
+colla di gomma,0,0.0
+collo idrofobico,0,0.0
+collo idrofilo,0,0.0
+collo idrofobo,0,0.0
+gomma,42074,2.9
+resina,14607,1.01
+collo vertebrale,0,0.0
+collo cervicale,33,0.0
+collo bollente,2,0.0
+collo gelato,2,0.0
+collo a schiuma,0,0.0
+collo in gomma,7,0.0
+collo in gel,0,0.0
+collo in polvere,0,0.0
+collo-falange,0,0.0
+collo-vertebrale,0,0.0
+collo-cervicale,1,0.0
+collo-thoracico,0,0.0
+collo-lombare,0,0.0
+collo-sacro,0,0.0
+collo in bocca,0,0.0
+collo di capo,1,0.0
+collo di spina dorsale,0,0.0
+collo dorsale,0,0.0
+collo dorsale vertebrale,0,0.0
+collo dorsale vertebrale cervicale,0,0.0
+collo dorsale vertebrale cervicale e toraciche,0,0.0
+collo corneale,0,0.0
+collo muscolare,10,0.0
+collo osseo,2,0.0
+collo sottocutaneo,1,0.0
+collo mascellare,0,0.0
+colonna di supporto,40,0.0
+colonna di riferimento,22,0.0
+colonna di dato,21,0.0
+colonna di testo,25,0.0
+colonna di calcoli,0,0.0
+colonna di controllo,22,0.0
+colonna di registrazione,4,0.0
+colonna di memorizzazione,0,0.0
+colonna di memorizzazione di dati,0,0.0
+colonna di memorizzazione di calcoli,0,0.0
+colonna di memorizzazione di registrazioni,0,0.0
+colonna di memorizzazione di controlli,0,0.0
+colonna di memorizzazione di storia,0,0.0
+colonna di sorreggere,0,0.0
+colonna di rinforzo,23,0.0
+colonna di ventilazione,22,0.0
+colonna di trasporto,3,0.0
+colonna di misurazione,1,0.0
+colonna di direzione,6,0.0
+colonna di tracciamento,0,0.0
+colonna di calibrazione,0,0.0
+colonna di regola,0,0.0
+colonna vertebrale,4644,0.32
+colonna di sospensione,2,0.0
+colonna idrogeologica,0,0.0
+colonna di vento,17,0.0
+colonna di salute,10,0.0
+colonna della giustizia,32,0.0
+colonna sonica,0,0.0
+colonna della borsa,1,0.0
+colonna del metodo,2,0.0
+colonna di sorgo,0,0.0
+colonna di merlo,0,0.0
+colonna di legno,40,0.0
+colonna di ferro,42,0.0
+coltello da cucina,206,0.02
+coltello da cucina da taglio,0,0.0
+coltello da cucina da taglio per carne,0,0.0
+coltello da cucina da taglio per pesce,0,0.0
+coltello da cucina da taglio per frutta,0,0.0
+coltello da cucina da taglio per verdure,0,0.0
+coltello da cucina da taglio per uova,0,0.0
+coltello da cucina da taglio per carne cruda,0,0.0
+coltello da cucina da taglio per pesce crudo,0,0.0
+coltello da cucina da taglio per frutta cruda,0,0.0
+coltello da cucina da,20,0.0
+coltello da cucina da taglio a taglia lunga,0,0.0
+coltello da cucina da taglio a taglia corta,0,0.0
+coltello da cucina da taglio a taglia corta a taglia lunga,0,0.0
+coltello da cucina da taglio a taglia lunga a taglia corta,0,0.0
+coltello da cucina da taglio a taglia lunga a taglia corta a taglia corta a taglia lunga,0,0.0
+coltello da cucina da taglio a taglia lunga a taglia corta a taglia corta a,0,0.0
+coltello da taglio,50,0.0
+coltello da taglio da cucina,0,0.0
+coltello da taglio da cucina da taglio,0,0.0
+coltello da mangiare,1,0.0
+coltello da tagliare,2,0.0
+coltello da tagliare carne,0,0.0
+coltello da tagliare verdure,0,0.0
+coltello da tagliare pane,0,0.0
+coltello da cucina da taglio da taglio,0,0.0
+coltello da cucina da taglio da taglio da taglio,0,0.0
+coltello da cucina da taglio da taglio da taglio da taglio,0,0.0
+coltello da cucina da taglio da taglio da taglio da taglio da taglio,0,0.0
+arma,17480,1.2
+busto,16583,1.14
+carrozza,34266,2.36
+essercito,353,0.02
+fotografia,54232,3.74
+gioco,36868,2.54
+gruppo,16826,1.16
+intrattenimento,17778,1.22
+lavoro,18345,1.26
+linguaggio,16145,1.11
+ora,16606,1.14
+personaggio,47768,3.3
+racconto,37762,2.6
+stato,23822,1.64
+storia,17002,1.17
+tipo,35892,2.48
+via,16521,1.14
+virtuosità,5795,0.4
+vittoria,16715,1.15
+cassetta,31474,2.16
+scatola,49094,3.38
+scatola per i dispositivi,0,0.0
+scatola per i prodotti,2,0.0
+scatola per i libri,3,0.0
+scatola per i cd,0,0.0
+scatola per i dvd,0,0.0
+scatola per i gadget,0,0.0
+armadio,42558,2.94
+cassette per cd,0,0.0
+cassette per dvd,0,0.0
+scaffale,42692,2.94
+carta da toga,0,0.0
+scatoloni,14022,0.97
+carta da scrivere,25,0.0
+carta da telefono,1,0.0
+carta da fumo,3,0.0
+carta da lettere,1171,0.08
+bacheca,31594,2.18
+desktop,35954,2.48
+laptop,43154,2.98
+server,34604,2.38
+tablet,47800,3.3
+smartphone,33938,2.34
+smartwatch,38520,2.66
+mainframe,11328,0.78
+pelle,33788,2.32
+guantiglia,0,0.0
+sciarpa,45144,3.12
+pettinato,9704,0.67
+corona,38948,2.68
+scialle,22676,1.56
+tintoria,6649,0.46
+barba,32836,2.26
+trattamento,17744,1.22
+stampa,40420,2.78
+scansione,23892,1.65
+fax,22981,1.58
+copia,19634,1.35
+cassetto,37236,2.56
+cassette adesive,0,0.0
+comò di stoviglie,0,0.0
+comò a tavola,0,0.0
+comò a cassa,0,0.0
+comò a tavola e stoviglie,0,0.0
+coniglio selvatico,452,0.04
+coniglio domestico,62,0.0
+coniglio di cappella,0,0.0
+coniglio di palazzo,0,0.0
+coniglio d'inverno,0,0.0
+coniglio d'estate,0,0.0
+coniglio selvatico americano,0,0.0
+coniglio selvatico europeo,18,0.0
+coniglio selvatico australiano,0,0.0
+coniglio cervo,2,0.0
+coniglio canadese,0,0.0
+coniglio americano,2,0.0
+coniglio europeo,70,0.0
+coniglio gigante,224,0.02
+coniglio d'acqua,0,0.0
+coniglio d'acqua selvatico,0,0.0
+cornice interna,238,0.02
+cornice esterna,58,0.0
+cornice in legno,118,0.0
+cornice in cemento,86,0.0
+cornice in pietra,52,0.0
+cornice per il soffitto,2,0.0
+cornice per il pavimento,1,0.0
+cornice per il muro,4,0.0
+cornice per il tetto,2,0.0
+cornice in metallo,21,0.0
+cornice in marmo,48,0.0
+cornice di legno,42,0.0
+cornice in gres,2,0.0
+cornice a cavo,0,0.0
+cornice a bozzoli,0,0.0
+cornice a cassette,0,0.0
+cornice a tegole,0,0.0
+tavolo da cucina,104,0.0
+tavolo da giochi,9,0.0
+cassette di stampa,0,0.0
+cassette per libri,0,0.0
+armatura,15366,1.06
+cassette a scorrimento,0,0.0
+cassette a scorrimento a piattaforma,0,0.0
+cassette a scorrimento a ruota,0,0.0
+cassette a scorr,0,0.0
+credenza a due o quattro porte,0,0.0
+credenza in stile moderno,3,0.0
+credenza in stile antico,4,0.0
+credenza in stile rustico,6,0.0
+credenza in stile contemporaneo,3,0.0
+credenza in stile tradizionale,0,0.0
+1. quiz,0,0.0
+2. puzzle,0,0.0
+3. riddles,0,0.0
+4. crossword puzzle,0,0.0
+5. puzzle book,0,0.0
+6. word game,0,0.0
+7. puzzle magazine,0,0.0
+8. word search,0,0.0
+9. cryptogram,0,0.0
+10. anagram,0,0.0
+11. codeword puzzle,0,0.0
+12. word scramble,0,0.0
+13. wordplay,0,0.0
+14. word puzzle,0,0.0
+15. puzzle app,0,0.0
+anagrammi,2499,0.17
+parola scorcia,0,0.0
+parola incrociata,4,0.0
+parola scambiata,81,0.01
+parola-chiave,5413,0.37
+risposta,17286,1.19
+griglia,35708,2.46
+scacchi,49338,3.4
+mazzi,21081,1.45
+parola-trappola,9,0.0
+*,26600,1.83
+parola crociata,26,0.0
+enigma,17772,1.22
+tiglieto,1596,0.11
+tazza da caffè,84,0.0
+cucchiaio da bocca,0,0.0
+cucchiaio da marmite,0,0.0
+cucchiaio da tazza,0,0.0
+cucchiaio da piatto,0,0.0
+cucchiaio da bacino,0,0.0
+cucchiaio da piatto per bambini,0,0.0
+cucchiaio da bacino per bambini,0,0.0
+cucchiaio da cucina,40,0.0
+cucchiaio per bacche,0,0.0
+cucchiaio per latte,1,0.0
+cucchiaio per pesca,0,0.0
+cucchiaio per vino,0,0.0
+cucchiaio per caffè,1,0.0
+cucchiaio per zucchero,0,0.0
+cucchiaio per sale,1,0.0
+cucchiaio per pepe,0,0.0
+cucchiaio per bocca,0,0.0
+cucchiaio per bocche,0,0.0
+cucchiaio da stovaggio,0,0.0
+cucchiaio per tazze,0,0.0
+cucchiaio per bicchiere,12,0.0
+cucchiaio per piatto,2,0.0
+cucchiaio da tavola,78,0.0
+cucchiaio da bibita,0,0.0
+cucchiaio da caffè,27,0.0
+cucchiaio per bevande calde,0,0.0
+cucchiaio per bevande fredde,0,0.0
+cucchiaio per bevande gassose,0,0.0
+cucchiaio per bevande liquide,0,0.0
+cucchiaio per bevande semi-liquide,0,0.0
+cucchiaio per bevande viscose,0,0.0
+cucina mobile,234,0.02
+cucina commerciale,27,0.0
+cucina professionale,54,0.0
+cucina italiana,415,0.03
+cucina cinese,78,0.01
+cucina indiana,60,0.0
+cucina spagnola,36,0.0
+cucina greca,51,0.0
+cucina russa,800,0.06
+cucina americana,1078,0.07
+cucina messicana,53,0.0
+cucina taiwanese,40,0.0
+cucina turca,30,0.0
+cucina siciliana,115,0.01
+cucina bengalese,26,0.0
+cucina coreana,30,0.0
+cucina filippina,157,0.01
+cucina vietnamita,569,0.04
+fornace,34526,2.38
+stoviglia,812,0.06
+forno,41362,2.84
+grill,20944,1.44
+forno a legna,578,0.04
+forno elettrico,410,0.02
+forno a microonde,214,0.01
+frigorifero,29542,2.04
+frigo,36040,2.48
+congelatore,37010,2.54
+forno ad acqua,23,0.0
+forno a pietra,26,0.0
+cucina da lavoro,6,0.0
+cucina da ristorante,20,0.0
+cucina da ristorante italiano,0,0.0
+cucina da ristorante americano,0,0.0
+cucina da ristorante francese,1,0.0
+cucina da ristorante cinese,0,0.0
+cucina da ristorante indiano,0,0.0
+cucina da ristorante giapponese,0,0.0
+cucina da ristorante taiwanese,0,0.0
+cucina da ristorante vietnamita,0,0.0
+cucina da ristorante messicana,0,0.0
+cucina da ristorante spagnola,0,0.0
+cucina da r,0,0.0
+forni,60562,4.18
+stoviglie,34162,2.36
+frigoriferi,50556,3.48
+tavoli,34612,2.38
+sedie,51878,3.58
+cucina francese,64,0.0
+cardiomioplastica,16,0.0
+cardiologia,19644,1.35
+cardiochirurgia,9848,0.68
+cardiologia interventistica,1292,0.09
+cardiologia non invasiva,19,0.0
+cardiologia di base,2,0.0
+cuore umano,98,0.0
+cuore animale,104,0.0
+cuore vegetale,20,0.0
+cuore di piatto,0,0.0
+aorta,26860,1.86
+coronarie,8553,0.59
+ventricoli,6480,0.45
+valvole,52230,3.6
+tricuspidale,514,0.04
+mitrali,103,0.01
+pulmonali,1,0.0
+aortico,3079,0.21
+atri,21251,1.46
+mitrale,3207,0.22
+arterie,20879,1.44
+vene,23767,1.64
+corda arteriosa,0,0.0
+corda venosa,0,0.0
+cuscino da letto,46,0.0
+cuscino per la piscina,0,0.0
+cuscino per la spiaggia,0,0.0
+cuscino per la sedia,22,0.0
+cuscino per la corsa,0,0.0
+cuscino da sleepover,0,0.0
+cuscino da viaggio,44,0.0
+cuscino da baby,0,0.0
+cuscino da piscina,0,0.0
+cuscino da lavoro,7,0.0
+cuscino a pelle,0,0.0
+cuscino a pelo,2,0.0
+cuscino a scopa,0,0.0
+cuscino a piuma,1,0.0
+cuscino a pelle e piuma,0,0.0
+cuscino a pelle e piuma con struttura,0,0.0
+cuscino per letto,20,0.0
+cuscino per divano,25,0.0
+cuscino per sedere,26,0.0
+cuscino per pianta,0,0.0
+cuscino per banco,0,0.0
+cuscino per lombare,0,0.0
+cuscino per la testa,20,0.0
+cuscino per il collo,23,0.0
+cuscino per il ginocchio,5,0.0
+cuscino per la schiena,24,0.0
+cuscino per la spina dorsale,0,0.0
+cuscino per le gomme,0,0.0
+delfino comune,246,0.02
+delfino del pacifico,12,0.0
+delfino del mar bianco,0,0.0
+delfino del mar del nord,0,0.0
+delfino del mar baltico,0,0.0
+delphinus capensis,10,0.0
+delphinus delphinus,0,0.0
+delphinus delphinoides,0,0.0
+delphinus delphinus delphinus,0,0.0
+delphinus delphinus delphinus delphinus,0,0.0
+delphinus delphinus delphinus delphinus delphinus,0,0.0
+delphinus delphinus delphinus delphinus delphinus delphinus,0,0.0
+delfino azzurro,128,0.0
+delfino delle isole baleari,0,0.0
+delfino delle isole canarie,0,0.0
+delfino delle isole del pacifico,0,0.0
+delfino delle isole del mar egeo,0,0.0
+delfino delle isole del mar bianco,0,0.0
+delfino delle isole del mar nero,0,0.0
+delfino delle isole di capri,0,0.0
+delfino delle isole di sicilia,0,0.0
+delfino delle isole di malta,0,0.0
+delfino delle isole di corsica,0,0.0
+delfino delle isole di creta,0,0.0
+delfino delle isole di rodi,0,0.0
+mammifero,40136,2.76
+pesci,22560,1.55
+pinnipedi,615,0.04
+delfino bianco,360,0.02
+delfino rosso,44,0.0
+delfino nero,34,0.0
+delfino giallo,6,0.0
+delfino grigio,52,0.0
+divano a schiena,1,0.0
+divano a sedere,4,0.0
+divano a cuscino,2,0.0
+divano a sedere con tavolino,0,0.0
+divano a sedere con tavolino e cuscino,0,0.0
+divano a tavola,1,0.0
+divano a seduta,9,0.0
+divano a struttura,1,0.0
+divano-sofà,2,0.0
+divano-letto,2855,0.2
+divano-sedia,0,0.0
+divano-cullotta,0,0.0
+divano-seggio,0,0.0
+divano a lettura,0,0.0
+divano a bagno,0,0.0
+divano a giacche,0,0.0
+divano ottico,2,0.0
+divano ottico a seduta,0,0.0
+divano ottico a seduta con bracci,0,0.0
+divano ottico a seduta con bracci a spazio,0,0.0
+divano ottico a seduta con bracci a spazio con bracci a spazio,0,0.0
+divano ottico a seduta con bracci a spazio con bracci a spazio con bracci a spazio,0,0.0
+divano ottico a seduta con bracci a spazio con bracci a spazio con bracci a,0,0.0
+pianta,37258,2.56
+albero,35138,2.42
+cespuglio,24262,1.68
+arboreo,18731,1.29
+palma,28089,1.94
+cipresso,34462,2.38
+cedro,23542,1.62
+aloe vera,2658,0.18
+arbor vitae,193,0.01
+aspen,8081,0.56
+cypress,1669,0.11
+dogwood,110,0.01
+palm,19618,1.35
+poplar,393,0.03
+sequoia,7808,0.54
+spruce,542,0.04
+acerola,4542,0.32
+amaranth,314,0.02
+arrowroot,121,0.01
+barberry,17,0.0
+bean tree,11,0.0
+breadfruit,22,0.0
+buckwheat,101,0.01
+cactus,35232,2.42
+clover,3508,0.24
+coconut,4648,0.32
+cucumber,326,0.02
+dandelion,978,0.07
+dandelion tree,0,0.0
+date palm,9,0.0
+elderberry,26,0.0
+ginger,23712,1.64
+grapes,882,0.06
+grape tree,6,0.0
+honey locust,7,0.0
+horse chestnut,14,0.0
+jujube,92,0.01
+kudzu,484,0.03
+lemon tree,170,0.01
+lime tree,37,0.0
+loquat,10,0.0
+lupin,16046,1.11
+mango tree,48,0.0
+marigold,1012,0.07
+albizia,304,0.02
+alnus,1141,0.08
+bamboo,12953,0.89
+cedrela,46,0.0
+cocus,139,0.01
+ficus,20208,1.4
+gleditsia,107,0.01
+mulberry,1352,0.09
+robinia,4530,0.31
+salix,2279,0.16
+tamarind,285,0.02
+elefante africano,300,0.02
+elefante asiatico,250,0.02
+elefante indiano,112,0.0
+elefante sudanese,0,0.0
+elefante di pietra,26,0.0
+elefante cinese,5,0.0
+elefante africano meridionale,0,0.0
+elefante africano occidentale,2,0.0
+elefante dell'asia sudorientale,0,0.0
+elefante dell'asia sudoccidentale,0,0.0
+elefante dell'asia centro-meridionale,0,0.0
+elefante di borneo,0,0.0
+elefante di sumatra,26,0.0
+elefante di sulawesi,0,0.0
+elefante di bornéo,0,0.0
+elefante di sri lanka,1,0.0
+elefante di borneo orientale,0,0.0
+elefante di sulawesi settentrionale,0,0.0
+elef,92,0.0
+african elephant,11,0.0
+asian elephant,26,0.0
+elephant seal,6,0.0
+african bush elephant,1,0.0
+indian elephant,4,0.0
+bornean elephant,0,0.0
+africa,23246,1.6
+asia,23138,1.59
+europa,24917,1.72
+america del nord,95,0.01
+america del sud,99,0.01
+australia,28468,1.96
+antartide,29934,2.06
+borneo elephant,1,0.0
+sumatran elephant,0,0.0
+bell 47,192,0.02
+bell 206,94,0.0
+bell 412,76,0.0
+ah-1 cobra,56,0.0
+ah-64 apache,184,0.01
+ah-60 black hawk,0,0.0
+uh-60 black hawk,93,0.01
+ah-1z viper,21,0.0
+mh-60r seahawk,5,0.0
+ah-1w super cobra,13,0.0
+ah-1f vipers,0,0.0
+ah-1m super cobra,0,0.0
+ah-64d apache,40,0.0
+bell 429 super cougar,0,0.0
+bell 505,56,0.0
+bell 212,40,0.0
+bell 427,18,0.0
+bell,17947,1.24
+elicottero militare,136,0.0
+elicottero di polizia,44,0.0
+elicottero di emergenza,46,0.0
+elicottero anfibio,17,0.0
+elicottero verticale,1,0.0
+elicottero d'assalto,0,0.0
+bell 214st,13,0.0
+bell oh-58c,1,0.0
+bell ah-1w supercobra,1,0.0
+bell 205a,2,0.0
+bell 206l,4,0.0
+bell 407,178,0.02
+bell 429,104,0.0
+bell 429 deluxe,0,0.0
+bell 470,0,0.0
+bell 471,0,0.0
+helicoptero,7,0.0
+boeing vertol,34,0.0
+eurocopter,665,0.05
+elicottero di soccorso,76,0.0
+elicottero di ricerca,11,0.0
+marker,16606,1.14
+penna,28584,1.96
+chalk,1560,0.11
+pittura,20799,1.43
+stencil,4390,0.3
+pennarello,12343,0.85
+pastice,12,0.0
+crayon,728,0.05
+stilografo,2,0.0
+marcatone,7,0.0
+pastello,18154,1.25
+computer,37858,2.6
+telefono,1973300,135.96
+ricerca,13785,0.95
+sogni,20553,1.42
+pensiero,37436,2.58
+testo,40480,2.78
+immagine,32330,2.22
+grafica,33777,2.33
+carne,40962,2.82
+uovo,32882,2.26
+bicchierino,36898,2.54
+tazza da te,23,0.0
+tazza da birra,12,0.0
+tazza da vino,40,0.0
+tazza da latte,20,0.0
+tazza da cioccolata,9,0.0
+tazza da smoothie,0,0.0
+short,38438,2.64
+camisa,3124,0.22
+polo,39028,2.68
+azzurro,15847,1.09
+ficus elastica,648,0.04
+ficus benjamina,838,0.06
+ficus pumila,182,0.02
+ficus carica,76,0.0
+ficus ginseng,339,0.02
+ficus elastica var. 'rubra',0,0.0
+ficus gummifera,0,0.0
+ficus lyrata,202,0.02
+ficus retrofracta,0,0.0
+ficus sepiaria,0,0.0
+ficus greggii,0,0.0
+ficus macrocarpa,3,0.0
+finestra aperta,464,0.04
+finestra chiusa,88,0.0
+finestra in vetro,25,0.0
+finestra in legno,60,0.0
+finestra in pietra,34,0.0
+finestra in metallo,20,0.0
+finestra aperta e chiusa,1,0.0
+finestra aperta con tappo,0,0.0
+finestra aperta con serrature,0,0.0
+finestra aperta con griglia,0,0.0
+tettoia,27614,1.9
+bifore,8013,0.55
+finestra rotante,1,0.0
+giardino,34632,2.38
+balcone,32814,2.26
+vivaio,19495,1.34
+scuderia,15604,1.08
+boccata,31766,2.18
+arborea,21183,1.46
+erbacea,10104,0.7
+frutta,39180,2.7
+verdure,25917,1.79
+cibo,24031,1.66
+bevande,24983,1.72
+cibo per animali,54,0.0
+fiori,60330,4.16
+orto,26390,1.82
+foglia,27452,1.89
+frutto,17367,1.2
+carta,29882,2.06
+carta da rilegare,2,0.0
+carta da ricordi,0,0.0
+carta da bollettino,0,0.0
+carta da registro,2,0.0
+carta da lavoro,8,0.0
+carta da stampa,172,0.02
+carta da computer,12,0.0
+carta da taglio,13,0.0
+carta da cucinare,0,0.0
+carta da ricerca,0,0.0
+carta per stampa,21,0.0
+carta per risposta,1,0.0
+carta per fax,13,0.0
+carta per telefono,13,0.0
+carta per stampare,22,0.0
+foglio di carta,262,0.02
+foglio da scrivere,14,0.0
+foglio da stampa,12,0.0
+foglio da tessere,0,0.0
+foglio da ricordi,0,0.0
+foglio da visitare,0,0.0
+foglio da lavoro,15,0.0
+forbice da taglio,62,0.0
+forbice da taglio per metallo,0,0.0
+forbice da taglio per legno,0,0.0
+forbice da taglio per tessuto,0,0.0
+forbice da taglio per pelle,0,0.0
+forbice da taglio per pelle e tessuto,0,0.0
+forbice da taglio per legno e tessuto,0,0.0
+forbice da taglio per tessuto e pelle,0,0.0
+forbice da taglio per legno e pelle,0,0.0
+forbice da taglia,0,0.0
+forbice da taglia e taglia,0,0.0
+forbice da taglia e taglia e taglia,0,0.0
+forbice da taglia e taglia e taglia e taglia,0,0.0
+forbice da taglia e taglia e taglia e taglia e taglia,0,0.0
+forbice da taglia e taglia e taglia e taglia e taglia e taglia,0,0.0
+forbice da taglio e taglia,0,0.0
+forbice per capelli,54,0.0
+forbice per tagliare,35,0.0
+forbice da taglio a scala,0,0.0
+forbice da taglio a scala per capelli,0,0.0
+forbice da taglio a scala per barba,0,0.0
+forbice da taglio a scala per unguenti,0,0.0
+forchetta da cucina,24,0.0
+forchetta per il barbecue,0,0.0
+forchetta per il picnic,0,0.0
+forchetta per il vino,0,0.0
+forchetta per il cibo,0,0.0
+forchetta per il pasto,0,0.0
+forchetta per il cucinare,0,0.0
+forchetta da tavola,52,0.0
+forchetta da picnic,2,0.0
+forchetta da barbecue,8,0.0
+forchetta da camping,0,0.0
+forchetta da pranzo,0,0.0
+forchetta da pasta,4,0.0
+forchetta da panini,0,0.0
+forchetta da carne,20,0.0
+forchetta da pesce,42,0.0
+forchetta da frutta,23,0.0
+spiedo,12766,0.88
+forchetta in griglia,0,0.0
+forchetta a sbarra,0,0.0
+forchetta a tre forcelle,0,0.0
+forchetta da cucina da taglio,0,0.0
+forchetta da cucina da taglio con manica lunga,0,0.0
+brie,15394,1.06
+caciocavallo,17750,1.22
+cappellotto,2236,0.16
+caciotta,6056,0.42
+caciotta di retine,0,0.0
+caciotta di canestra,0,0.0
+caciotta di gatto,0,0.0
+caciotta di capra,21,0.0
+caciotta di pecora,20,0.0
+caciotta di burro,0,0.0
+formaggio di bovino,0,0.0
+formaggio di capra,42,0.0
+formaggio di pecora,31,0.0
+formaggio di burro,0,0.0
+gorgonzola,31790,2.2
+mozzarella,41520,2.86
+pecorino,28196,1.94
+ricotta,43048,2.96
+robiola,11314,0.78
+burrata,10514,0.72
+parmigiano reggiano,8296,0.58
+camembert,5150,0.36
+cheddar,4842,0.34
+provolone,13004,0.9
+feta,14230,0.98
+gouda,2998,0.2
+edam,781,0.05
+gruyere,592,0.04
+manchego,360,0.02
+fontina,8381,0.58
+bleu,8790,0.61
+scanner,46230,3.18
+telefonino,11365,0.78
+fotografo,24012,1.65
+fotocopia,48220,3.32
+fotografo digitale,233,0.02
+fotocopiatore,786,0.05
+fotocopiatore digitale,9,0.0
+fotocopiatrice,12136,0.84
+cinecamera,130,0.01
+cannon,5969,0.41
+canon eos,3977,0.27
+nikon d3300,204,0.01
+pentax k1000,49,0.0
+fotografa,16969,1.17
+fotocopiatura,1442,0.1
+banana,33180,2.28
+mela,40206,2.78
+kiwi,33352,2.3
+pera,33706,2.32
+lima,34882,2.4
+pesca,35642,2.46
+ciliegie,51106,3.52
+cachi,10113,0.7
+pesche,44544,3.06
+prugne,42208,2.9
+ananas,53848,3.7
+avocado,28148,1.94
+carambola,5471,0.38
+cassava,844,0.06
+ciccia,13714,0.94
+cuculia,87,0.01
+durano,23216,1.6
+guava,3130,0.22
+jackfruit,432,0.03
+jambo,1965,0.14
+limone,37054,2.56
+mangostino,1,0.0
+noccio,184,0.02
+uva,33032,2.28
+ciliegi,14001,0.96
+camioncino con cabina,1,0.0
+camioncino con cabina a cassa,0,0.0
+camioncino con cabina a cassa con porta d'accesso,0,0.0
+camioncino con cabina a cassa con porta d'accesso e tetto,0,0.0
+camioncino con cabina a cassa con porta d'accesso e tetto e cassa,0,0.0
+jeep,38272,2.64
+vw camper,33,0.0
+dodge ram,163,0.01
+mercedes sprinter,278,0.02
+ford transit,3214,0.22
+volkswagen crafter,424,0.02
+fiat ducato,1258,0.08
+mercedes-benz sprinter,317,0.02
+renault master,138,0.0
+peugeot boxer,396,0.02
+citroen jumper,340,0.02
+van,41840,2.88
+pick-up,30836,2.12
+gallina,42830,2.96
+pigheggio,0,0.0
+piva,13747,0.95
+cigno,39038,2.68
+pellicane,226,0.02
+gallo selvatico,188,0.02
+gallo domestico,152,0.02
+gallo barbuto,1,0.0
+gallo di piuma,0,0.0
+gallo in grigio,0,0.0
+gallo in bianco,0,0.0
+gallinacei,562,0.04
+gallina selvatico,79,0.01
+gallina domestico,99,0.01
+cappellino,23822,1.64
+pappagallo,28040,1.94
+pettirosso,8283,0.57
+gallo cannella,0,0.0
+gallo cappello,1,0.0
+gallo fagiano,1,0.0
+gallo turchese,0,0.0
+gamba destra,370,0.02
+gamba sinistra,23514,1.62
+g,37456,2.58
+femorale,15221,1.05
+tibiale,5942,0.41
+fibula,4370,0.3
+perone,15578,1.08
+malleolo,3513,0.24
+tibiale interno,43,0.0
+gatto domestico,218,0.02
+gatto selvatico,550,0.04
+gatto in bicicletta,4,0.0
+gatto in cesto,0,0.0
+gatto in cassetta,0,0.0
+gatto in unghie,0,0.0
+cat,41410,2.86
+kitty,13563,0.93
+tabby,3772,0.26
+siamese,18692,1.28
+calico,2952,0.2
+persiano,98233,6.7700000000000005
+domestico,49380,3.4
+felino,16546,1.14
+domestico felino,20,0.0
+felino domestico,53,0.0
+felino domestico felino,0,0.0
+felino domestico felino domestico,0,0.0
+felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domestico felino domest,0,0.0
+felino selvatico,34,0.0
+gatto di casa,62,0.0
+gatto di strada,32,0.0
+gatto di stanza,0,0.0
+gatto di giardino,0,0.0
+gatto selvaggio,44,0.0
+gatto selvatico domestico,0,0.0
+gatto selvatico domestico di strada,0,0.0
+gatto selvatico di casa,0,0.0
+gatto selvatico di stanza,0,0.0
+gatto selvatico di giardino,0,0.0
+gatto selvatico selvaggio,0,0.0
+gatto selvatico selvaggio di casa,0,0.0
+gatto selv,0,0.0
+carnivoro,15799,1.09
+feline,6906,0.48
+felino selvaggio,30,0.0
+geranium sanguineum,26,0.0
+geranium pyrenaicum,5,0.0
+geranium phillipinense,0,0.0
+geranium wallichianum,0,0.0
+geranium robertianum,47,0.0
+viola,16409,1.13
+geranium cinerascens,0,0.0
+geranium maculatum,3,0.0
+geranium purpureum,2,0.0
+geranium phaeum,8,0.0
+geranium pratense,9,0.0
+geranium psilostomum,0,0.0
+geranium sanguineum var. 'biokovo',0,0.0
+geranium sanguineum var. 'premium',0,0.0
+big ben,31,0.0
+colosseo,23260,1.6
+eiffel tower,106,0.01
+leaning tower of pisa,12,0.0
+pyramids of giza,2,0.0
+stonehenge,6243,0.43
+bomber,34146,2.36
+cardigan,17456,1.2
+fazzoletti,34730,2.4
+impermeabile,16907,1.16
+giubbotto,33228,2.28
+kimono,20624,1.42
+muffa,16629,1.15
+overcoat,324,0.02
+pea coat,80,0.0
+raincoat,406,0.02
+smock,355,0.02
+blazer,14924,1.02
+trench coat,536,0.04
+giacca sportiva,84,0.01
+giacca da lavoro,46,0.0
+giacca da gala,6,0.0
+giacca da festa,2,0.0
+giacca da pranzo,1,0.0
+casacca,29972,2.06
+vestito,38204,2.64
+jacket,21780,1.5
+coat,11271,0.78
+smalto,33178,2.29
+giacca da tavolo,0,0.0
+giacca per uomo,23,0.0
+giacca per donna,21,0.0
+giacca da sport,12,0.0
+giacca-faccia,0,0.0
+giacca-camicia,23,0.0
+giacca-fusciacosta,0,0.0
+giacca-sacca,0,0.0
+giacca-maglia,3,0.0
+giacca-cassock,0,0.0
+gilet pelle,4,0.0
+gilet pelle-vitella,0,0.0
+gilet pelle-vitella-fibre,0,0.0
+gilet pelle-vitella-fibre-tessuto,0,0.0
+gilet pelle-vitella-fibre-tessuto-poliuretano,0,0.0
+gilet pelle-vitella-fibre-tessuto-poliuretano-poliammide,0,0.0
+sport,41022,2.82
+moto,33864,2.34
+stile,43544,3.0
+gilet da moto,14,0.0
+gilet da motociclette,0,0.0
+gilet da bici,6,0.0
+gilet da sci,0,0.0
+gilet da snowboard,0,0.0
+gilet da windsurf,0,0.0
+gilet da kayak,0,0.0
+gilet da canoe,0,0.0
+gilet da paddle,0,0.0
+gilet piumato,0,0.0
+gilet piumato a maniche lunghe,0,0.0
+gilet piumato a maniche corte,0,0.0
+gilet piumato a maniche corte con maniche lunghe,0,0.0
+gilet piumato a maniche corte con maniche lunghe con cuffia,0,0.0
+gilet piumato a maniche corte con cuffia con zoccolo,0,0.0
+gilet piumato a maniche corte con cuffia con zoccolo con cuffia,0,0.0
+gilet piumato a maniche corte con cuffia con zoccolo con cuffia con cuffia,0,0.0
+gilet moto,24,0.0
+gilet motocicletta,0,0.0
+scacchiere,34346,2.36
+scacchiotto,0,0.0
+damasco,53414,3.68
+backgammon,5172,0.36
+gioco dei dardi,7,0.0
+domino,39758,2.74
+gioco dei dardi a tre,0,0.0
+gioco dei dardi a quattro,0,0.0
+gioco dei dardi a quattro con il cappello,0,0.0
+scacchi d'uomo,0,0.0
+scacchi a scacchi,2,0.0
+go,14521,1.0
+tavoli da gioco,40,0.0
+dama,40272,2.78
+domine,5872,0.4
+monopoly,5732,0.4
+scrittura,29750,2.04
+gioco dell'oca,0,0.0
+poker,36276,2.5
+bridge,42374,2.92
+chess,10626,0.74
+checkers,934,0.06
+rummy,604,0.04
+dominoes,196,0.01
+scacchiere e scacchiere elettronico,0,0.0
+scacchiere in scacchiera,0,0.0
+scacchiere in scacchiera elettronico,0,0.0
+scacchiere in scacchiera elettronico con scacchiere elettronico,0,0.0
+scacchiere e scacchiere elettronico con scacchiere elettronico,0,0.0
+quotidiano,38134,2.62
+settimanale,33902,2.34
+mensile,17128,1.18
+*the new york times*,46,0.0
+*the washington post*,121,0.01
+*the guardian*,251,0.02
+*the times*,76,0.01
+*the times of india*,101,0.01
+*the daily telegraph*,371,0.03
+corriere della sera,146,0.02
+la repubblica,480524,33.1
+new york times,1415,0.1
+wall street journal,2688,0.19
+the guardian,400,0.03
+the times,127,0.01
+la stampa,154,0.02
+the new york times,78,0.01
+the wall street journal,1095,0.08
+the washington post,20,0.0
+usa today,149,0.01
+the sun,273,0.02
+giraffa in libertà,0,0.0
+giraffa in cattività,0,0.0
+giraffa selvatico,0,0.0
+giraffa domestica,4,0.0
+giraffa leopardo,0,0.0
+giraffa reticulata,2,0.0
+giraffa gregaria,0,0.0
+giraffa reticulata gregaria,0,0.0
+giraffa reticulata subadulta,0,0.0
+giraffa reticulata senegalensis,0,0.0
+giraffa nera,7,0.0
+giraffa bianca,40,0.0
+giraffa rosa,8,0.0
+giraffa grigia,0,0.0
+giraffino,38,0.0
+giraffa dell'africa orientale,0,0.0
+giraffa dell'africa occidentale,0,0.0
+giraffa dell'africa centro-meridionale,0,0.0
+giraffa dell'africa del sud,0,0.0
+giraffa dell'africa del nord,0,0.0
+giraffa dell'africa dell'est,0,0.0
+giraffa dell'africa settentrionale,0,0.0
+giraffa dell'africa sud-occidentale,0,0.0
+giraffa dell'africa sud-orientale,0,0.0
+giraffa dell,0,0.0
+girasole giardino,1,0.0
+girasole decorativo,0,0.0
+girasole scandinavo,0,0.0
+girasole per balcone,0,0.0
+girasole per tetto,0,0.0
+girasole gigante,68,0.0
+girasole mastro,0,0.0
+girasole multi-foglia,0,0.0
+girasole - bianco,0,0.0
+girasole - rosso,0,0.0
+girasole - giallo,0,0.0
+girasole - blu,0,0.0
+girasole - verde,1,0.0
+girasole - arancio,0,0.0
+girasole - porpora,0,0.0
+girasole - rosso scuro,0,0.0
+girasole - giallo scuro,0,0.0
+girasole - blu scuro,0,0.0
+girasole - verde scuro,0,0.0
+girasole - arancio scuro,0,0.0
+girasole - rosso scuro scuro,0,0.0
+girasole - giallo scuro scuro,0,0.0
+girasole - blu scuro scuro,0,0.0
+giras,22,0.0
+girasole multicolore,0,0.0
+girasole estremo,0,0.0
+girasole elettrico,0,0.0
+girasole per bocche,0,0.0
+windbreaker,192,0.02
+dicottero,0,0.0
+poncho,4705,0.32
+colloquiale,10785,0.74
+sopravvento,19529,1.35
+giubetto da lavoro,0,0.0
+giubetto da ginnastica,0,0.0
+giubetto da palestra,0,0.0
+giubetto da piscina,0,0.0
+giubetto da bagno,0,0.0
+giubotto sportivo,1,0.0
+giubotto da lavoro,4,0.0
+giubotto da gara,0,0.0
+giubotto da gara motociclistica,0,0.0
+giubotto da gara motociclistica 2019,0,0.0
+giubotto da gara motociclistica 2009,0,0.0
+giubotto da gara motociclistica 2010,0,0.0
+giubotto da gara motociclistica 2012,0,0.0
+giubotto da gara motociclistica 2013,0,0.0
+giubotto da gara motociclistica 2014,0,0.0
+giubotto da gara motociclistica 2,0,0.0
+giubotto leggero,1,0.0
+giubotto impermeabile,7,0.0
+giubotto a pelo,0,0.0
+giubotto a cucitura,0,0.0
+giubotto a cucitura a mano,0,0.0
+giubotto a mano,0,0.0
+gomma bianca,23,0.0
+gomma nera,52,0.0
+gomma rossa,282,0.02
+gomma blu,142,0.01
+gomma gialla,207,0.01
+gomma rosa,77,0.01
+bicicletta,37606,2.6
+borse,43320,2.98
+pneumatico,36932,2.54
+gomma da bicicletta,42,0.0
+gomma da auto,22,0.0
+gomma da camion,20,0.0
+gomma da carrozza,0,0.0
+sponda,50772,3.5
+gomma adesiva,138,0.0
+gomma di gomma,18,0.0
+gomma del cauccio,0,0.0
+pneumatico per biciclette,26,0.0
+pneumatico per automobili,25,0.0
+pneumatico per camion,32,0.0
+pneumatico per carro,2,0.0
+andare,18615,1.28
+andare in giro,584,0.04
+andare in giro con,59,0.0
+vai,19694,1.36
+andare via,202,0.01
+andare fuori,73,0.01
+andare in banca,29,0.0
+andare in ospedale,54,0.0
+andare in ristorante,26,0.0
+andare in caffè,7,0.0
+andare a viaggiare,29,0.0
+andare a caccia,325,0.02
+andare a pescare,64,0.0
+andare a fare shopping,69,0.0
+andare a fare shopping online,2,0.0
+andare a fare la spesa,28,0.0
+andare a fare la spesa online,0,0.0
+andare a fare la spesa al supermercato,25,0.0
+andare a fare la spesa al supermercato online,0,0.0
+andare a fare la spesa al negozio,6,0.0
+'gonna',0,0.0
+'going to',0,0.0
+'going to do',0,0.0
+'going to get',0,0.0
+'going to have',0,0.0
+'going to make',0,0.0
+'going to take',0,0.0
+'going to be',0,0.0
+vado,25027,1.72
+vieni,16721,1.15
+ci vado,39,0.0
+andiamo,31817,2.19
+andiamo tutti,446,0.03
+vai a,21,0.0
+vado a,1318,0.09
+andiamo a,40,0.0
+andiamo tutti a,40,0.0
+vieni a,31,0.0
+ci vieni a,20,0.0
+andiamo in,278,0.02
+andiamo tutti in,22,0.0
+vai in,248,0.02
+vieni in,68,0.0
+ci vieni in,20,0.0
+andiamo da,95,0.01
+andiamo tutti da,26,0.0
+vai da,199,0.01
+vieni da,162,0.01
+ci vieni da,16,0.0
+graffiti,40024,2.76
+street art,428,0.02
+urban art,794,0.05
+calligrafia,33856,2.34
+arte grafica,54,0.0
+tag,39036,2.68
+scritto,27562,1.9
+grafico,41860,2.88
+cartella,16741,1.15
+grafiti,269,0.02
+cartoon,28023,1.93
+calligrafia digitale,5,0.0
+spray paint,35,0.0
+bombe grafiche,0,0.0
+paint brush,29,0.0
+guanti da lavoro,78,0.0
+guanti da sport,18,0.0
+guanti da cucina,58,0.0
+guanti da biciclette,0,0.0
+guanti da pesca,24,0.0
+guanti da moto,42,0.0
+guanti da motorista,0,0.0
+guanti da lavaggio,0,0.0
+guanti da ginnastica,8,0.0
+guanti da bocca,0,0.0
+guanti da pulire,0,0.0
+guanti da pulizia,1,0.0
+guanti da scherchi,0,0.0
+guanti da bagnanti,0,0.0
+guanti per lavaggio a secco,0,0.0
+guanti per lavaggio a mano,0,0.0
+guanti per lavaggio automatico,0,0.0
+guanti per lavaggio a spin,0,0.0
+guanti per lavaggio a vapore,0,0.0
+insalata mista,694,0.04
+insalata verde,98,0.0
+insalata di carne,40,0.0
+insalata di pesce,48,0.0
+insalata di riso,124,0.0
+insalata di pasta,100,0.0
+insalata di verdure,50,0.0
+insalata caprese,587,0.04
+insalata russa,566,0.04
+insalata di frutta,46,0.0
+insalata cappuccina,17,0.0
+insalata di pomodoro,46,0.0
+insalata greek,0,0.0
+insalata romana,104,0.01
+insalata di patate,48,0.0
+lampada ad arco,24,0.0
+lampada a incandescenza,68,0.0
+lampada a led,152,0.02
+lampada fluorescente,3632,0.25
+lampada a fluorescente,14,0.0
+lampada led,11096,0.76
+lampada ad arco solare,0,0.0
+lampada a gas,40,0.0
+lampada a combustione,13,0.0
+lampada halogeno,0,0.0
+lampada al plasma,23,0.0
+lampada al piombo,0,0.0
+lampada solare,110,0.0
+incandescente,17928,1.24
+fluorescente,22909,1.58
+led,29842,2.06
+halogen,212,0.01
+lampada a incandescenza a bassa pressione,0,0.0
+lampada a incandescenza a alta pressione,0,0.0
+lampada a plasma,2,0.0
+lampadario da tavolo,24,0.0
+lampadario da cassa,0,0.0
+lampadario da muro,4,0.0
+lampadario da soffitto,25,0.0
+lampada ad olio,82,0.01
+lampada a vapore,44,0.0
+lampada a basso consumo,57,0.0
+lampada a bassa temperatura,2,0.0
+lampada a bassa luminanza,0,0.0
+lampada a bassa luminosità,0,0.0
+lampada a bassa intensità,5,0.0
+lampada a basso livello,1,0.0
+lampada a basso watt,0,0.0
+lampada a bassa tensione,23,0.0
+lampada a bassa potenza,7,0.0
+lampada ad alta potenza,25,0.0
+lampada ad alta tensione,4,0.0
+lampada ad alta intensità,20,0.0
+lampada,19416,1.34
+luminara,1117,0.08
+lampadina,36736,2.54
+lampeggiatore,2555,0.18
+lampada da tavolo,276,0.02
+lampada da parete,44,0.0
+lampada da soffitto,80,0.01
+lampada da muro,27,0.0
+lampada da griglia,0,0.0
+lampada da parla,0,0.0
+lampada da soffitta,2,0.0
+latte di vacca,53,0.0
+latte di pecora,20,0.0
+latte di cervo,7,0.0
+latte di yak,20,0.0
+latte di bue,0,0.0
+latte di pecora selvaggio,0,0.0
+latte di latte,40,0.0
+latte di soia,240,0.02
+latte di cocco,128,0.0
+latte di amma,0,0.0
+latte di formaggio,7,0.0
+latte di cacao,4,0.0
+latte cow,0,0.0
+latte goat,0,0.0
+latte sheep,0,0.0
+latte camel,0,0.0
+latte buffalo,0,0.0
+latte di coco,4,0.0
+latte di bovino,20,0.0
+latte di capra,40,0.0
+latte di mucca,48,0.0
+latte di mula,1,0.0
+fagioli,58698,4.04
+fava,43288,2.98
+lenticchie,48902,3.36
+piselli,42566,2.94
+fagiolini,31994,2.2
+fagiolini bianchi,34,0.0
+fagiolini neri,10,0.0
+fagiolini verdi,99,0.01
+fagiolini rossi,9,0.0
+fagiolini giallo,25,0.0
+fagiolini zucchini,1,0.0
+fave,47898,3.3
+pomodori,54490,3.76
+cavoli,55726,3.84
+broccoli,32424,2.24
+bietole,6702,0.46
+cicerchie,3808,0.26
+fagioli a stringa,0,0.0
+fagioli bianchi,372,0.02
+fagioli rossi,198,0.02
+fagioli neri,328,0.02
+ceci,43154,2.98
+lenticchie rosse,457,0.03
+fagioli ceci,12,0.0
+fagioli rosso,1254,0.09
+f,40522,2.8
+leone reale,25,0.0
+leone selvatico,30,0.0
+leone domestico,16,0.0
+leone dorato,544,0.04
+leone di botte,0,0.0
+leone simbolico,2,0.0
+leone di macedonia,13,0.0
+leone di nemea,25,0.0
+leone di babilonia,7,0.0
+leone d'africa,0,0.0
+leone d'etiopia,0,0.0
+leone d'asia,0,0.0
+leone d'europa,0,0.0
+african leopard,0,0.0
+african lion,20,0.0
+amercian lion,0,0.0
+asiatic lion,1,0.0
+barbary lion,8,0.0
+lioness,328,0.02
+leone maschio,708,0.04
+leone femmina,34,0.0
+leone giovane,68,0.0
+leone adulto,136,0.0
+leone in cattività,21,0.0
+leone salvatico,0,0.0
+leone in caccia,8,0.0
+leone africano,608,0.04
+leone indiano,48,0.0
+leone asiatico,544,0.04
+leone europeo,42,0.0
+leone americano,120,0.0
+leone australiano,20,0.0
+leone antartico,0,0.0
+libro,33996,2.34
+carta da letto,4,0.0
+romanzo,26690,1.84
+poesia,34008,2.34
+dramma,16533,1.14
+saggista,14846,1.02
+novel,43112,2.98
+novella,23490,1.62
+biografia,190567,13.13
+fumetto,38646,2.66
+romanzo grafico,518,0.04
+poema,13728,0.95
+racconto breve,109,0.01
+ebook,13864,0.96
+e-book,33024,2.28
+telefono cellulare,2342,0.16
+computer portatile,1022,0.08
+computer desktop,150,0.01
+computer laptop,26,0.0
+radio,40384,2.78
+libreria di riferimento,24,0.0
+libreria di pre-impostazione,0,0.0
+libreria di dati,22,0.0
+libreria per i test,1,0.0
+libreria di sviluppo,27,0.0
+libreria di sviluppo grafico,0,0.0
+rivista,35870,2.48
+periodico,35774,2.46
+carta stampata,661,0.05
+carta stampata digitale,1,0.0
+videogioco,45484,3.14
+bibliofilia,934,0.06
+biblioteca,34028,2.34
+lettore,18518,1.28
+libreria online,210,0.02
+libreria di antiquariato,13,0.0
+libreria specializzata in lettere d'arte,0,0.0
+libreria specializzata in libri di viaggio,8,0.0
+libreria specializzata in libri per bambini,7,0.0
+libreria virtuale,66,0.0
+vita,37088,2.56
+drama,21655,1.49
+saggio,29508,2.04
+guida,46298,3.18
+antologia,16927,1.17
+saggistica,11710,0.81
+cronaca,43702,3.02
+paperback,1958,0.13
+hardcover,853,0.06
+illustrated,2901,0.2
+textbook,500,0.03
+non-fiction,1522,0.1
+fiction,18182,1.25
+*lucertola comune*,35,0.0
+*lucertola gigante*,259,0.02
+*lucertola di deserto*,0,0.0
+*lucertola di acqua*,0,0.0
+*lucertola di montagna*,4,0.0
+*lucertola di foresta*,0,0.0
+*falco pellegrino*,312,0.02
+*falco pescatore*,138,0.01
+*falco di mare*,17,0.0
+*falco da prateria*,0,0.0
+*falco di bosco*,1,0.0
+*falco di palude*,38,0.0
+*falco di gola*,0,0.0
+*falco di pioggia*,0,0.0
+*falco di gola stornello*,0,0.0
+gecko,3648,0.26
+gavial,30,0.0
+iguana,10632,0.74
+lizard,7721,0.53
+salamandra,12022,0.82
+scinco,221,0.02
+lucertola comune,40,0.0
+lucertola variana,0,0.0
+lucertola verde,132,0.0
+lucertola rosso,44,0.0
+lucertola europea,10,0.0
+lucertola scala,0,0.0
+boa,16592,1.14
+serpente,22216,1.53
+chameleon,1557,0.11
+salamandre,3115,0.21
+skink,56,0.0
+maglia a maniche lunghe,29,0.0
+maglia a maniche corte,25,0.0
+maglia a maniche aperte,0,0.0
+maglia a maniche strette,0,0.0
+maglia a maniche stretta,0,0.0
+maglia a maniche larghe,1,0.0
+maglia a punta,3,0.0
+maglia a scacchi,28,0.0
+maglia a strisciature,0,0.0
+maglia per uomo,27,0.0
+maglia per donna,40,0.0
+maglia a striscia,11,0.0
+maglia a stelle,23,0.0
+maglia a collo,23,0.0
+maglia a quadrati,1,0.0
+jersey,68972,4.75
+maglia a due colori,0,0.0
+maglia a striscia con tappe,0,0.0
+maglia a striscia con tappe a bande,0,0.0
+maglia a striscia con tappe a scacchi,0,0.0
+porco,21411,1.48
+cinghiale,36268,2.5
+capraia,13938,0.96
+mucca,36184,2.5
+tasso,23610,1.63
+cavallo,1595308,109.92
+lepre,17250,1.19
+scoiattolo,19029,1.31
+maiale d'acqua,0,0.0
+maiale d'acqua europea,0,0.0
+maiale d'acqua asiatico,0,0.0
+maiale d'acqua americano,0,0.0
+maiale d'acqua africano,0,0.0
+maiale d'acqua australiano,0,0.0
+mano destra,396,0.02
+mano sinistra,474,0.04
+mano sinist,0,0.0
+mano sinistra e destra,24,0.0
+mano sinistra e destra con pelle abbradata,0,0.0
+mano sinistra e destra con pelle aspera,0,0.0
+mano sinistra e destra con pelle abbradata e aspera,0,0.0
+mano sinistra e destra con pelle abbradata e aspera e bacche,0,0.0
+mano sinistra e destra con pelle abbradata e aspera e bacche e tatuaggi,0,0.0
+mano sinistra e destra con pelle abbradata e aspera e bacche e tatu,0,0.0
+braccio,34464,2.38
+dito,34956,2.4
+polso,30924,2.14
+margherita pizza,22,0.0
+pizza margherita,680,0.04
+pizza a margherita,0,0.0
+pizza margherita classica,10,0.0
+pizza margherita classica con buffalo mozzarella,0,0.0
+pizza margherita classica con mozzarella fresca,0,0.0
+pizza margherita classica con mozzarella fresca e basilico,0,0.0
+"pizza margherita classica con mozzarella fresca, basilico e olio extra vergine di oliva",0,0.0
+"pizza margherita classica con mozzarella fresca, basilico e olio extra vergine di oliva e sale",0,0.0
+pizza margh,0,0.0
+pizza,36890,2.54
+pizza al forno,28,0.0
+pizza al taglio,74,0.0
+pizza al taglio con toppings,0,0.0
+pizza al taglio con scorcio,0,0.0
+pizza al taglio con scorcio al forno,0,0.0
+pizza al taglio con scorcio al forno con toppings,0,0.0
+pizza al taglio con scorcio al forno con toppings con salsa,0,0.0
+pizza al taglio con scorcio al forno con toppings con salsa e formaggio,0,0.0
+margherita classica,48,0.0
+margherita piena,4,0.0
+margherita bianca,83,0.01
+margherita con pomodoro,21,0.0
+margherita con basilico,7,0.0
+margherita con peperoncino,0,0.0
+calzone,29420,2.02
+calzoni,26104,1.8
+focaccia,39792,2.74
+calzone al forno,21,0.0
+calzone al forno con formaggio,0,0.0
+pizza a forma di cuore,22,0.0
+pizza a forma di quadrato,0,0.0
+pizza a forma di triangolo,0,0.0
+pizza a forma di circonferenza,0,0.0
+pizza a forma di stella,3,0.0
+matita bic,11,0.0
+matita dixon,0,0.0
+matita pentel,0,0.0
+matita sharpie,0,0.0
+bic,13704,0.94
+bic cristallo,0,0.0
+bic retro,0,0.0
+bic 7,1,0.0
+bic 100,0,0.0
+bic 101,0,0.0
+pentel,286,0.02
+staedtler,885,0.06
+matita rossa,258,0.02
+matita blu,138,0.0
+matita nera,294,0.02
+matita bianca,92,0.0
+matita gialla,94,0.0
+matita rosa,112,0.0
+dixon,8399,0.58
+faber-castell,752,0.05
+pittura acrilica,60,0.0
+acrilato,342,0.02
+bollente,18427,1.27
+caldo,36312,2.5
+freddo,36910,2.54
+fumante,15706,1.08
+infame,15903,1.1
+liquido,19184,1.32
+solido,41446,2.86
+calzature,75194,5.18
+accessori,24777,1.71
+ornamenti,22789,1.57
+strumenti musicali,1299,0.09
+pipa,13147,0.91
+bomboletta,17105,1.18
+tubo,714020,49.2
+fiorino,17410,1.2
+benzina,17895,1.23
+olio vegetale,469,0.03
+olio di pesca,20,0.0
+olio di palma,24,0.0
+olio di coco,12,0.0
+olio di arachide,22,0.0
+olio di soia,21,0.0
+olio di girasole,74,0.01
+olio di rapa,16,0.0
+olio di sesamo,32,0.0
+olio di pino,24,0.0
+olio di olivo,40,0.0
+olio di riso,26,0.0
+olio di castoro,22,0.0
+olio di linfa,0,0.0
+olio di cocco,22,0.0
+metro del nord,5,0.0
+metro del sud,1,0.0
+metro della linea a,21,0.0
+metro della linea b,20,0.0
+metro della linea c,11,0.0
+metropolitana,22530,1.55
+metropolitana leggera,303,0.02
+tram,42702,2.94
+funicolare,33302,2.3
+new york metropolitan transportation authority,3,0.0
+metropolitan transportation authority,142,0.01
+metrotranviaria,64,0.0
+metroferroviario,36,0.0
+metro leggero,600,0.04
+metro pesante,66,0.0
+metro di new york,20,0.0
+metro di londra,20,0.0
+metro di parigi,34,0.0
+metro di berlino,26,0.0
+metro di mosca,33,0.0
+acacia deleggiana,0,0.0
+acacia meyeri,0,0.0
+acacia mimosoides,0,0.0
+acacia mimosoides var. mimosoides,0,0.0
+acacia mimosoides var. mimosoides var. mimosoides,0,0.0
+acacia mimosoides var. mimosoides var. mimosoides var. mimosoides,0,0.0
+acacia mimosoides var. mimosoides var,0,0.0
+mimosa sylvaticum,0,0.0
+mimosa pudica,292,0.02
+mimosa acuminata,0,0.0
+mimosa albo-sericea,0,0.0
+mimosa laevigata,0,0.0
+mimosa mimosoides,0,0.0
+mimosa gialla,44,0.0
+mimosa blu,1,0.0
+mimosa rosa,24,0.0
+mimosa crema,2,0.0
+mimosa bianca,3,0.0
+silk tree,7,0.0
+mimosa spp,0,0.0
+ducati,54272,3.74
+honda,40954,2.82
+yamaha,39956,2.76
+kawasaki,46028,3.18
+suzuki,50592,3.48
+harley-davidson,13794,0.96
+bmw,56986,3.92
+aprilia,48710,3.36
+bovino domestico,143,0.01
+bovino selvatico,117,0.01
+bovino brullo,0,0.0
+bovino cervo,1,0.0
+cow,6207,0.43
+bull,19216,1.32
+steer,1077,0.07
+heifer,56,0.0
+calf,3460,0.24
+asino,42130,2.9
+bovino selvatico americano,0,0.0
+bovino selvatico africano,0,0.0
+bovino selvatico asiatico,0,0.0
+bovino selvatico europeo,2,0.0
+bovino selvatico australiano,0,0.0
+bovino selvatico sudamericano,0,0.0
+bovino selvatico sudanese,0,0.0
+bovino selvatico indiano,0,0.0
+bovino selvatico indonesiano,0,0.0
+bovino selvatico iraniano,0,0.0
+bovino selvatico cinese,1,0.0
+animale domestico,1441,0.1
+bestia,19699,1.36
+animali,27741,1.91
+animali domestici,4265,0.29
+bovino domestico di tipo bracchio,0,0.0
+bovino domestico di tipo bracchio bovino,0,0.0
+bovino domestico di tipo bracchio bovino bovino,0,0.0
+bovino domestico di tipo bracchio bovino bovino bovino,0,0.0
+muro di cemento,70,0.0
+muro di muratura,8,0.0
+muro di mattoni,52,0.0
+muro di pietra,46,0.0
+muro di tufo,23,0.0
+muro di pietra sciolta,0,0.0
+muro di pietra a vista,24,0.0
+muro di pietra a corsa,0,0.0
+muro di pietra a bocca,0,0.0
+muro di pietra a cappa,0,0.0
+muro di pietra a cavo,0,0.0
+muro di pietra a cavo con pietra di taglio,0,0.0
+muro di pietra a cavo con pietra di taglio a cavo,0,0.0
+muro di pietra a cavo con,0,0.0
+muri di pietra,22,0.0
+muri di cemento,21,0.0
+muri di legno,24,0.0
+muri di mattoni,26,0.0
+muri di gesso,11,0.0
+muri di pannelli,4,0.0
+muro di legno,50,0.0
+muro di cinta,120,0.0
+muro di protezione,32,0.0
+muro di controllo,7,0.0
+muro di sicurezza,25,0.0
+muro di separazione,45,0.0
+muro di cantiere,5,0.0
+muro di vetro,48,0.0
+ossa nasale,203,0.01
+mucosa nasale,688,0.05
+cartilagini nasali,44,0.0
+conchiglie nasali,1,0.0
+vene nasali,4,0.0
+profilo,20679,1.42
+puntina,13478,0.93
+occhi,48274,3.32
+nostril,646,0.04
+ponte nasale,383,0.03
+bocca,39300,2.7
+naso mascellare,2,0.0
+naso laterale,3,0.0
+naso frontale,47,0.0
+naso occipitale,0,0.0
+naso zigomatico,0,0.0
+naso saccale,0,0.0
+naso umano,146,0.02
+naso canino,28,0.0
+naso di un uccello,0,0.0
+naso di un pesce,0,0.0
+naso di un reptile,0,0.0
+naso di un insetto,0,0.0
+faccia,21727,1.5
+testa,44032,3.04
+orecchie,46324,3.2
+ciuffi di capelli,22,0.0
+nave di guerra,25,0.0
+nave da crociera,52,0.0
+nave da pescato,0,0.0
+nave da traghetto,6,0.0
+nave da carico,62,0.0
+nave da ricerca,21,0.0
+nave da salvataggio,18,0.0
+nave da esplorazione,29,0.0
+vascello,44528,3.06
+battello,32610,2.24
+yacht,42130,2.9
+motonave,29506,2.04
+trimaran,23,0.0
+catamarano,18449,1.27
+vascello a vela,21,0.0
+vascello a motore,4,0.0
+bacino,35086,2.42
+carriera,15031,1.04
+piroscafo,33948,2.34
+natante,21060,1.45
+barca,53138,3.66
+navi da crociera,294,0.02
+nave da guerra,716,0.04
+nave da passerella,0,0.0
+nave da lavoro,32,0.0
+nave da piscina,0,0.0
+nave da pesca,74,0.0
+nave da caccia,36,0.0
+oculo,2866,0.2
+pupilla,20929,1.44
+coroide,1505,0.1
+iris,13334,0.92
+cristallino,23574,1.62
+vaso sanguigno,3953,0.27
+occhio sinistro,80,0.01
+occhio destro,121,0.01
+occhio esterno,265,0.02
+occhio interno,31,0.0
+occhio di colore,21,0.0
+occhio di ghiaccio,31,0.0
+occhio scuro,85,0.01
+occhio blu,53,0.0
+occhio a due colori,4,0.0
+occhio a tre colori,0,0.0
+orecchio,22168,1.52
+naso,27830,1.92
+mano,48976,3.38
+piede,51672,3.56
+cornea,18571,1.28
+iride,15856,1.09
+sclera,3000,0.21
+lenticola,70,0.0
+muscolo ciliare,67,0.0
+nervi ottici,405,0.03
+orchidea di fiori,0,0.0
+orchidea di pianta,0,0.0
+orchidea di fiori e foglie,0,0.0
+orchidea di fiori e foglie e radici,0,0.0
+orchidea di fiori e foglie e radici e tuberi,0,0.0
+phalaenopsis,2654,0.18
+cymbidium,787,0.05
+paphiopedilum,600,0.04
+oncidium,664,0.04
+miltonia,221,0.02
+dendrobium,1574,0.1
+*dendrobium*,794,0.05
+*odontoglossum*,121,0.01
+*phalaenopsis*,1335,0.09
+*paphiopedilum*,306,0.02
+*cymbidium*,792,0.05
+*zeuxine*,0,0.0
+orchide,214,0.01
+cattleya,5328,0.36
+orecchio destro,132,0.01
+orecchio sinistro,89,0.01
+lobo,20468,1.41
+scimmia,41394,2.86
+coniglio,28814,1.98
+leone,35728,2.46
+tigre,34470,2.38
+puma,19213,1.32
+pantera,34066,2.34
+canide,1207,0.08
+artroide,5,0.0
+squalo,18782,1.29
+rettile,18515,1.28
+uccello marino,181,0.01
+orecchio esterno,28,0.0
+orecchio interno,34,0.0
+orecchio mediale,0,0.0
+orecchio superiore,21,0.0
+orecchio inferiore,4,0.0
+orecchio posteriore,5,0.0
+narice,21752,1.5
+orologio analogico,174,0.02
+orologio digitale,126,0.0
+orologio di polso,4,0.0
+orologio da muro,40,0.0
+orologio per bicicletta,0,0.0
+orologio smartwatch,162,0.02
+orologio con funzioni aggiuntive,0,0.0
+orologio da polso,248,0.02
+orologio di cintura,0,0.0
+orologio meccanico,176,0.02
+orologio elettrico,468,0.04
+orologio quartz,0,0.0
+orologio analogico-digitale,10,0.0
+orologio digitali-analogico,0,0.0
+orso americano,27,0.0
+orso artico,7,0.0
+orso d'albero,0,0.0
+orso marino,118,0.0
+orso mannuto,0,0.0
+orso palustre,0,0.0
+orsacino,0,0.0
+ursino,5582,0.38
+orso di mare,17,0.0
+orso di ghiaccio,3,0.0
+orso bruno,826,0.06
+orso polare,2412,0.16
+orso delle nevi,44,0.0
+orso dalle coda lunga,0,0.0
+orso dalle coda corta,0,0.0
+orso dalle coda di cane,0,0.0
+orso dalle coda di leone,0,0.0
+orso di mancino,0,0.0
+ursino del sahara,0,0.0
+ursino del nord,0,0.0
+ursino delle isole,0,0.0
+orso d'america,0,0.0
+orso d'europa,0,0.0
+orso d'asia,0,0.0
+orso d'africa,0,0.0
+orso d'acqua,0,0.0
+coclea,7682,0.53
+teglia,30612,2.1
+padella da cucina,60,0.0
+padella da birra,0,0.0
+padella da fegato,0,0.0
+padella da formaggio,0,0.0
+padella da pane,0,0.0
+padella da pesce,0,0.0
+padella da riso,0,0.0
+padella da cucina da camping,0,0.0
+padella di griglia,0,0.0
+padella da grillata,0,0.0
+padella da griglia con griglia a carbone,0,0.0
+padella da griglia con griglia elettrica,0,0.0
+padella da griglia con griglia elettrica portatile,0,0.0
+padella da griglia con griglia elettrica per picnic,0,0.0
+padella da griglia con griglia elettrica per picnic portatile,0,0.0
+padella da griglia con griglia,0,0.0
+padella da caffè,0,0.0
+padella da pasta,0,0.0
+padella da frittata,8,0.0
+padella da curry,0,0.0
+padella da pancakes,0,0.0
+padella da fegatelle,0,0.0
+padella da barbecue,0,0.0
+padella da griglia,6,0.0
+padella da forno,52,0.0
+padella da pavimento,0,0.0
+padella da vino,0,0.0
+pallone,44174,3.04
+pallino,50740,3.5
+pallina,42382,2.92
+pallina di gomma,23,0.0
+palla di gomma,82,0.0
+palla di plastica,44,0.0
+palla di legno,44,0.0
+palla da baseball,110,0.0
+palla da softball,38,0.0
+palla da tennis,62,0.0
+palla da squash,26,0.0
+palla da calcio,66,0.0
+palla da rugby,42,0.0
+palla da cricket,50,0.0
+palla da volleyball,3,0.0
+palla da beach volleyball,0,0.0
+palla da hockey,20,0.0
+palla da lacrosse,12,0.0
+palla da pallacanestro,19,0.0
+palla da pallamano,17,0.0
+palla da pallavolley,0,0.0
+p,33858,2.34
+palla da pallavolo,44,0.0
+calcio,34948,2.4
+baseball,33060,2.28
+rugby,36170,2.5
+tennis,28140,1.94
+pallacanestro,37506,2.58
+pallamano,32800,2.26
+palla da basket,46,0.0
+palla da badminton,4,0.0
+fegato,31160,2.14
+milza,42178,2.9
+rene,29922,2.06
+midollo,36226,2.5
+stomaco,38542,2.66
+intestino,32754,2.26
+appendice,18184,1.25
+duodeno,8124,0.56
+ileo,5126,0.35
+ceco,17177,1.18
+colon,20322,1.4
+recto,5554,0.38
+anus,808,0.06
+intestine,8209,0.57
+bile,26032,1.79
+pancreas,35310,2.44
+lievito,20179,1.39
+crocette,5890,0.41
+ciabatta,20013,1.38
+pane integrale,546,0.04
+multigrain,75,0.01
+whole wheat,19,0.0
+rye,1909,0.13
+sourdough,137,0.01
+foccacia,30,0.0
+pane di grano,88,0.0
+pane di frutta,20,0.0
+pane di avena,42,0.0
+pane di noci,19,0.0
+pane di soia,42,0.0
+pane di migliaia,4,0.0
+pane di arachidi,0,0.0
+pane di farina,46,0.0
+pane di mais,42,0.0
+pane di ceci,8,0.0
+pane di orzo,40,0.0
+pane di amido,0,0.0
+pane di frutta secca,9,0.0
+pane di grano duro,50,0.0
+pane di grano bianco,5,0.0
+pane al 100%,0,0.0
+pane al 90%,0,0.0
+pane intero,67,0.0
+pane in bocca,20,0.0
+pane a,129,0.01
+tigelle,5071,0.35
+pane multigrano,1,0.0
+pane wholegrain,1,0.0
+pane di bieta,0,0.0
+pane di migliorine,0,0.0
+pane di farro,46,0.0
+pane di lenticchie,2,0.0
+pane di cicere,0,0.0
+pane di chia,2,0.0
+pane di sesamo,20,0.0
+pane di canola,0,0.0
+pane di pomodoro,0,0.0
+pane di zucchero,21,0.0
+pane di pepe,0,0.0
+pane di luppolo,1,0.0
+pane di cipolle,3,0.0
+commedia del tipo pantalone,0,0.0
+personaggio del tipo pantalone,0,0.0
+attore che interpreta il ruolo di pantalone,0,0.0
+maschera del tipo pantalone,0,0.0
+costume del tipo pantalone,0,0.0
+masked man,9,0.0
+zorro,9024,0.62
+robin hood,5816,0.4
+puss in boots,20,0.0
+captain hook,54,0.0
+batman,21479,1.48
+lasagne,36794,2.54
+spaghetti,33368,2.3
+tagliatelle,28202,1.94
+farfalle,51196,3.52
+ravioli,48328,3.32
+cannelloni,12434,0.86
+penne,58434,4.02
+fettuccine,13116,0.9
+bucatini,8150,0.56
+linguine,13410,0.92
+rigatoni,8048,0.56
+pappardelle,12606,0.86
+pipe,14346,0.99
+ziti,2400,0.16
+lasagna,43110,2.98
+strozzapreti,2553,0.18
+pasta fresca,647,0.04
+pasta secca,94,0.01
+pasta con farina,30,0.0
+pasta con grano duro,10,0.0
+pasta con farina di frutta,0,0.0
+fusilli,15518,1.06
+bigoli,6512,0.44
+capelli d'angelo,0,0.0
+cavatelli,2667,0.18
+orecchiette,21886,1.5
+spinaci,52866,3.64
+trofie,6190,0.42
+picante,193,0.01
+conchiglie,66916,4.62
+penne rigate,1652,0.12
+stelle,17825,1.23
+pastello a panna,0,0.0
+pastello a pasta,2,0.0
+pastello a crema,0,0.0
+pastello a patate,0,0.0
+pasta al salame,2,0.0
+pasta al formaggio,20,0.0
+pasta al pesto,62,0.0
+pasta al sugo,23,0.0
+pastello a pietra,0,0.0
+pastello a base di carne,0,0.0
+pastello a base di frutta,0,0.0
+pastello a base di mele,0,0.0
+pastello a base di noci,0,0.0
+pastello a base di cioccolato,0,0.0
+pastello a base di cioccolato e noci,0,0.0
+pastello a base di cioccolato e panna,0,0.0
+pastello a base di cioccolato e uva,0,0.0
+pastello a base di cioccolato e mandorle,0,0.0
+pastello a base di cioccolato e mirti,0,0.0
+pastello a base di cioccolato e prugne,0,0.0
+bacio,16900,1.16
+gelato,33736,2.32
+crostata,31092,2.14
+cemento,33910,2.34
+pavimento in legno,254,0.02
+pavimento in pietra,142,0.0
+pavimento in ceramica,142,0.0
+pavimento in marmo,66,0.0
+pavimento in metallo,46,0.0
+pietra,36944,2.54
+asfalto,37230,2.56
+legno,41162,2.84
+pavimento in cemento,100,0.0
+pavimento in asfalto,14,0.0
+mattonella,20017,1.38
+cera,21688,1.49
+pavimento in sintetico,1,0.0
+pavimento in resina,23,0.0
+pavimento in vinile,50,0.0
+cementificio,7968,0.55
+corridoio,19741,1.36
+pavimento in pietra e cemento,0,0.0
+pavimento in pietra e legno,6,0.0
+pavimento in pietra e cemento e legno,0,0.0
+pavimento in pietra e cemento e marmo,0,0.0
+pavimento in pietra e cemento e marmo e legno,0,0.0
+penna a sfera,66,0.0
+penna a ink,0,0.0
+penna a stilo,56,0.0
+penna a pennello,24,0.0
+penna a chiusura,0,0.0
+penna a sbarra,0,0.0
+penna a tacche,0,0.0
+penna a molla,5,0.0
+penna a pallino,0,0.0
+penna a pallino e sbarra,0,0.0
+penna a sicura,0,0.0
+penna a sicura a sospinta,0,0.0
+penna a sicura a sospinta in plastica,0,0.0
+penna a sicura a sospinta in metallo,0,0.0
+penna a sicura a sospinta in lega,0,0.0
+penna a sicura a sospinta in lega leggera,0,0.0
+penna a sicura a sospinta in gomma,0,0.0
+penna a sicura a sospinta in gomma-metallo,0,0.0
+penna a sicura a sospinta in gomma-metallo-polimeri,0,0.0
+penna a sicura a s,0,0.0
+penna a sgozzola,0,0.0
+penna a cartuccia,25,0.0
+pensa in borracce,0,0.0
+penna a sicilia,0,0.0
+penna a stenografia,0,0.0
+pennello da bicchiere,0,0.0
+pennello da pavimento,0,0.0
+pennello da muratura,1,0.0
+pennello a mano,22,0.0
+pennello ad acqua,15,0.0
+pennello a pittura,0,0.0
+pennello ad olio,17,0.0
+pennello ad olio per pittura,0,0.0
+pennello ad olio per disegno,0,0.0
+pennello da cucina,100,0.0
+pennello da cucina multi-uso,0,0.0
+pennello per leggeri,0,0.0
+pennello per pittura,24,0.0
+pennello per tinte,3,0.0
+pennello per decorazioni,13,0.0
+pennello a bagnato,0,0.0
+pennello ad aereo,0,0.0
+pennello ad oli,0,0.0
+pennello ad ossidazione,0,0.0
+pennello ad orto,0,0.0
+pennello per pelle,1,0.0
+pennello per pelle e tessuto,0,0.0
+pennello per tessuto,1,0.0
+pennello per tessuto e pelle,0,0.0
+pennello per tessuto e pelle e legno,0,0.0
+pennello per tessuto e pelle e legno e fibre,0,0.0
+pentolina,642,0.04
+casseruola,38912,2.68
+ciotola,35986,2.48
+pentola da cucina,22,0.0
+pentola da cucina a pressione,0,0.0
+pentola a pressione,80,0.01
+pentola per cibo,0,0.0
+pentola per cibo a pressione,0,0.0
+pentola per birra,11,0.0
+pentola per cibo e bevanda,0,0.0
+pentola per cibo e bevanda a pressione,0,0.0
+cacciavite,18238,1.26
+pentola a vino,0,0.0
+pentola a cucina,0,0.0
+pentola a taglio,0,0.0
+pentolame,2557,0.18
+pentola da boccia,0,0.0
+pentola da rinfusione,0,0.0
+pentola da cibo,0,0.0
+pentola per cucina,12,0.0
+pentola per cucina da cucina,0,0.0
+pentola per cucina da cucina da cucina,0,0.0
+pentola per cucina da cucina da cucina da cucina,0,0.0
+pesce di mare,26,0.0
+pesce d'acqua dolce,0,0.0
+pesce d'acqua salata,0,0.0
+pesce predatore,48,0.0
+pesce coralino,0,0.0
+pesce d'acqua profonda,0,0.0
+baccala,1111,0.08
+trout,2864,0.2
+salmone,41844,2.88
+pesce spada,1660,0.12
+pesce azzurro,606,0.04
+squillo,31198,2.14
+pesce da acqua dolce,57,0.0
+pesce da acqua salata,41,0.0
+pesce d'acqua dolce tropicale,0,0.0
+pesce d'acqua salata tropicale,0,0.0
+pesce d'acqua salata temperato,0,0.0
+pesce salato,23,0.0
+pesce fresco,463,0.03
+pesce d'acqua dolce salata,0,0.0
+pesce blanco,0,0.0
+pesce rosso,130,0.0
+pesce viola,24,0.0
+piatto da cibo,3,0.0
+piatto da bibita,0,0.0
+piatto da dessert,60,0.0
+piatto da frutta,24,0.0
+piatto da verdure,6,0.0
+piatto da pesce,60,0.0
+piatto da parte,46,0.0
+targa,15997,1.1
+servizio in bianco,22,0.0
+servizio in blu,6,0.0
+servizio in rosa,4,0.0
+servizio in argento,21,0.0
+servizio in oro,5,0.0
+tavola da caffè,9,0.0
+tavola di cucina,22,0.0
+tavola di gioco,20,0.0
+tavola da birra,2,0.0
+tavola da vino,0,0.0
+tavola da cibo,1,0.0
+tavola da cibo da portare,0,0.0
+tavola da cibo per animali,0,0.0
+tavola da cibo per bambini,0,0.0
+tavola da cibo per cani,0,0.0
+tavola da cibo per gatti,0,0.0
+tavola da cibo per uccelli,0,0.0
+tav,48134,3.32
+piatto da cucina,40,0.0
+piatto da servire,41,0.0
+piatto da portare,33,0.0
+piatto da consumo,1,0.0
+piatto da posare,1,0.0
+piede destro,572,0.04
+piede sinistro,282,0.02
+piede del dibello,0,0.0
+piede della fortuna,5,0.0
+piede della sfortuna,0,0.0
+piede dei ricordi,1,0.0
+piede della memoria,2,0.0
+piede delle anime,2,0.0
+piede della gioia,0,0.0
+piede della speranza,5,0.0
+piede della tristezza,1,0.0
+piede della solitudine,1,0.0
+piede della gola,22,0.0
+piede della bocca,7,0.0
+piede della mente,2,0.0
+piede della mente abilmente,0,0.0
+piede della mente disabilmente,0,0.0
+piede della bocca abilmente,0,0.0
+piede della bocca disabilmente,0,0.0
+piede della vista,1,0.0
+piede umano,426,0.02
+piede animale,8,0.0
+piede vegetale,6,0.0
+piede robotico,13,0.0
+piede artificiale,22,0.0
+abete,36428,2.5
+abete rosso scuro,0,0.0
+pinus sylvestris,285,0.02
+pinus ponderosa,38,0.0
+pinus resinosa,3,0.0
+pinus strobus,50,0.0
+pinus jeffreyi,3,0.0
+pinus radiata,81,0.01
+pinus nigra,408,0.03
+pinus montana,48,0.0
+"pinus pinea,",0,0.0
+"pinus sylvestris,",0,0.0
+"pinus mugo,",0,0.0
+"pinus nigra,",0,0.0
+"pinus cembra,",0,0.0
+pinus pinaster,432,0.03
+pinus jezoensis,0,0.0
+pizza al forno a legge,0,0.0
+pizza al forno a legge con insalata,0,0.0
+pizza al forno a legge con formaggio,0,0.0
+pizza al forno a legge con formaggio e insalata,0,0.0
+pizza al forno a legge con formaggio e insalata e carne,0,0.0
+pizza al forno a legge con formaggio e insalata e carne e peperoni,0,0.0
+pizza al forno a legge con formaggio e insalata e carne e peperoni e uova,0,0.0
+pizza a pizza,12,0.0
+pizza a sgoccio,0,0.0
+pizza al taglio con molti toppings,0,0.0
+pizza con olio,20,0.0
+pizza con formaggio,21,0.0
+pizza con cipolle,24,0.0
+pizza con pomodori,18,0.0
+pizza con patate,24,0.0
+pizza con bacon,4,0.0
+pizza con prosciutto,27,0.0
+pizza con uova,5,0.0
+pizza con salame,26,0.0
+pizza con peperoni,23,0.0
+pizza con zucchine,21,0.0
+pizza con carne,22,0.0
+pizza con broccoli,7,0.0
+pizza con pomodori secchi,2,0.0
+pizza con peperoni grigio,0,0.0
+pizza con cipolle rosse,5,0.0
+pizza con,191,0.01
+pizza a scalo industriale,0,0.0
+pizza a scalo artigianale,0,0.0
+pizza a scalo casalingo,0,0.0
+pizza a cucina,0,0.0
+pizza a domicilio,38,0.0
+margarita,17674,1.22
+quattro formaggi,124,0.0
+pepperoni,502,0.04
+salami,9352,0.64
+salsiccia,39326,2.7
+salsa,28636,1.98
+salsa di pomodoro,37,0.0
+fetta di prosciutto,46,0.0
+salsa di peperoncino,21,0.0
+pizza alla griglia,6,0.0
+pizza al buco,1,0.0
+pizza con uovo,8,0.0
+pizza con maiale,0,0.0
+pizza con olive,10,0.0
+pizza con pane,5,0.0
+pizza al piatto,35,0.0
+pizza a quattro stagioni,0,0.0
+pizza con insalata,9,0.0
+pizza con verdure,50,0.0
+pizza con pesto,19,0.0
+pizza con crema,23,0.0
+pizza con formaggio e carne,0,0.0
+pizza con formaggio e verdure,2,0.0
+pizza con formaggio e uovo,0,0.0
+divano,25648,1.76
+sofà,12522,0.86
+sedia ottomanica,0,0.0
+sedia a letto,4,0.0
+canapé,666,0.04
+cocchiere,6034,0.42
+couch,1131,0.08
+sofa,6338,0.44
+fauteuil,110,0.01
+porta di vestiti,0,0.0
+porta di valigie,0,0.0
+porta di stoviglie,0,0.0
+porta di tasca,0,0.0
+porta-saccar,0,0.0
+porta-fondo,0,0.0
+porta-pannello,7,0.0
+porta-pacchetti,1,0.0
+porta-pasta,2,0.0
+porta-carta,26,0.0
+porta a mano,26,0.0
+porta a scomparsa,90,0.0
+porta a serrature,0,0.0
+porta a cassette,0,0.0
+porta a cartelle,1,0.0
+porta a scatole,0,0.0
+porta a scatole a scomparsa,0,0.0
+porta a scatole a cassette,0,0.0
+porta a scatole a cartelle,0,0.0
+porta-cavi,20,0.0
+porta-piano,0,0.0
+porta-faccia,3,0.0
+porta-tascabigli,0,0.0
+porta-spilli,2,0.0
+porta-fresca,0,0.0
+porta-pensiero,2,0.0
+porta-dispositivi,1,0.0
+porta-fotografia,0,0.0
+porta-documenti,284,0.02
+porta-fogli,13,0.0
+porta-fiamma,3,0.0
+porta-soglia,0,0.0
+porta-scena,0,0.0
+porta-dipinti,0,0.0
+porta-vincitore,0,0.0
+porta-carriera,0,0.0
+porta-susino,0,0.0
+porta-vino,8,0.0
+porta-caffè,5,0.0
+porta-tea,0,0.0
+porta-tassi,0,0.0
+porta-cristallo,1,0.0
+porta-orologio,3,0.0
+nikon d5000,217,0.01
+fujifilm x-t3,140,0.01
+sony a7 iii,140,0.01
+pentax k-3,91,0.01
+olympus om-d e-m10,80,0.01
+pentax,19954,1.38
+minolta,8746,0.6
+borsa per borsa,17,0.0
+anello,42874,2.96
+bracciale,17949,1.24
+orologio,36846,2.54
+scocciatore,1459,0.1
+tazza per caffè,22,0.0
+tazza per tè,7,0.0
+cucchiaio,401638,27.68
+foglio,34728,2.4
+registro,37448,2.58
+notepad,5680,0.4
+notebook,32084,2.22
+quarno,0,0.0
+quaderno di viaggio,90,0.0
+quaderno di appunti,50,0.0
+a3,30594,2.11
+moleskine,4299,0.3
+rhodia,576,0.04
+leuchtturm,144,0.01
+leggero,16889,1.16
+quaderno per la scuola,23,0.0
+quaderno per l'ufficio,0,0.0
+quaderno per i viaggi,0,0.0
+quaderno per le note,0,0.0
+quaderno per le riunioni,0,0.0
+quaderno per le esercitazioni,1,0.0
+quaderno per la ricerca,8,0.0
+biglietto,35864,2.48
+quaderno di tavola,1,0.0
+quaderno di carta,25,0.0
+quadrato,24245,1.67
+rettangolo,16925,1.17
+triangolo,19017,1.31
+cerchio,17591,1.21
+trapezio,15993,1.1
+parallelogramma,2720,0.19
+quadro per dipinti,0,0.0
+quadro per disegni,0,0.0
+quadro per fotografie,0,0.0
+quadro a tavola,3,0.0
+quadro a muro,12,0.0
+quadro a scoppio,0,0.0
+quadro a pioggia,0,0.0
+quadro a pioggia lamina,0,0.0
+quadro a pioggia lamina a piastre,0,0.0
+quadro a pioggia lamina a piastre a piatti,0,0.0
+quadro a pioggia lamina a piatti a piatti,0,0.0
+quadro a pioggia lamina a piatti a piatti a piatti,0,0.0
+quadro a pioggia lamina a piatti a piatti a piatti a piatti,0,0.0
+quadro di pittura,50,0.0
+quadro di cartone,9,0.0
+quadro di carta,20,0.0
+quadro di legno,20,0.0
+quadro di metallo,10,0.0
+quadro di vetro,42,0.0
+quadro a olio,28,0.0
+quadro a olio su tela,23,0.0
+quadro a olio su carta,2,0.0
+quadro a olio su tavola,1,0.0
+quadro a olio su cartoncino,0,0.0
+quercia rossa,176,0.02
+quercia bianca,1010,0.06
+quercia rosso,646,0.04
+quercia rosso-gialla,0,0.0
+quercia rosso-verde,0,0.0
+quercia rosso-viola,0,0.0
+quercia rosso-violeta,0,0.0
+quercia rosso-viola-gialla,0,0.0
+quercia rosso-verde gialla,0,0.0
+quercia rosso-viola gialla,0,0.0
+quercia rosso-viola giallorosso,0,0.0
+quercia rosso-verde giallorosso,0,0.0
+quercia rosso-verde giallo-rosso,0,0.0
+quercia ros,0,0.0
+quercia rossa bianca,0,0.0
+quercia rosso del piemonte,0,0.0
+quercia rossa di bavaria,0,0.0
+quercia rossa di danimarca,0,0.0
+quercia rossa del nord,5,0.0
+quercia rossa del sassi,0,0.0
+quercia rossa del sud,0,0.0
+quercia rossa del trentino-alto adige,0,0.0
+quercia rossa del veneto,0,0.0
+quercia rossa dell'umbria,0,0.0
+quercia rosso del lazio,0,0.0
+quercia rossa dell'abruzzo,0,0.0
+quercia selvatica,13,0.0
+quercia da seme,0,0.0
+quercia da frutti,0,0.0
+squash,15882,1.1
+pallavolley,8,0.0
+tennis tavolo,347,0.02
+racchetta da tennis,76,0.0
+racchetta da squash,48,0.0
+racchetta da badminton,0,0.0
+racchetta da ping pong,246,0.02
+racquetball,136,0.01
+pickleball,25,0.0
+palla,40206,2.77
+racchetta da tennistavolo,4,0.0
+racchetta da pallavollo,0,0.0
+racchetta da pallacanestro,0,0.0
+fork,7222,0.5
+knife,7534,0.52
+spoon,6493,0.45
+plate,8667,0.6
+bowl,21523,1.48
+cup,19035,1.31
+carta di telefono,4,0.0
+carta di posta,2,0.0
+carta di visita,20,0.0
+stradello,3140,0.22
+corda,15027,1.04
+corda elastica,39,0.0
+corda elastica ad alta tensione,0,0.0
+corda elastica ad alta tensione antinformazione,0,0.0
+corda elastica ad alta tensione antiproiettili,0,0.0
+scarpe da calzature,0,0.0
+scarpe da bocce,0,0.0
+carta da posta,2,0.0
+carta da ripostiglio,0,0.0
+ripostiglio adesivo,0,0.0
+ripostiglio adesivo a carta,0,0.0
+ripostiglio adesivo a carta a colori,0,0.0
+ripostiglio adesivo a carta a colori con bordi,0,0.0
+poste,21268,1.47
+poste in via,24,0.0
+poste in via di posta,0,0.0
+poste in via di posta elettroidomestici,0,0.0
+biglietto da ripostiglio,0,0.0
+etichetta da ripostiglio,0,0.0
+pacco da ripostiglio,0,0.0
+registro da ripostiglio,0,0.0
+cartella da ripostiglio,0,0.0
+stufette,1086,0.07
+scatole,22052,1.52
+cartoncini,9813,0.68
+tasche,46314,3.2
+scatole di cartone,88,0.0
+arancetto,6,0.0
+arborio,5420,0.38
+basmati,10708,0.74
+jasmine,13897,0.96
+long grain,8,0.0
+medium grain,3,0.0
+short grain,1,0.0
+wild rice,29,0.0
+black rice,12,0.0
+red rice,130,0.0
+brown rice,49,0.0
+brown,25234,1.74
+thai,18707,1.29
+long-grain,2,0.0
+aranci,17087,1.18
+riso a fiore,1,0.0
+riso a grana,20,0.0
+riso bianco,108,0.0
+casereccio,14696,1.01
+mantovano,14145,0.97
+padano,30236,2.08
+arrozzo,2,0.0
+riso colorato,191,0.01
+riso nero,54,0.0
+riso integrale,810,0.06
+riso parboiled,208,0.02
+ro,25038,1.73
+rosa dei venti,22,0.0
+rosa di giuseppe,21,0.0
+rosa dei poggi,0,0.0
+rosa dei monti,24,0.0
+rosa dei gatti,0,0.0
+rosa dei sassi,3,0.0
+rosa dei campi,11,0.0
+rosa pallida,56,0.0
+rosa scarlatta,368,0.02
+rosa porpora,22,0.0
+rosa viola,294,0.02
+rosa rosso,50,0.0
+rosa rosso scuro,9,0.0
+rosa rosa,1482,0.1
+rosa fiorita,92,0.01
+rosa marzocco,0,0.0
+rosa blu,27,0.0
+salice americano,7,0.0
+salice giapponese,1,0.0
+salice europeo,5,0.0
+salice cinese,1,0.0
+salice del nord,0,0.0
+salice del sud,0,0.0
+salice bianco,2790,0.2
+salice rosso,308,0.02
+salice nero,52,0.0
+salice a barba,0,0.0
+salice per taglia,0,0.0
+salice per taglio,0,0.0
+salice arboreo,2,0.0
+salice rosa,2,0.0
+salice giallo,94,0.0
+salice verde,46,0.0
+scala a scala,10,0.0
+scala a filo,6,0.0
+scala a stella,2,0.0
+scala a virgola,0,0.0
+scala a logaritmo,0,0.0
+scala a cuscino,0,0.0
+scala a ruote,1,0.0
+scala a cunei,0,0.0
+scala a cilindri,0,0.0
+scala a barre,4,0.0
+scala a catena,0,0.0
+scala a cuffie,0,0.0
+scala a gradi,0,0.0
+scala a livelli,9,0.0
+scala a temperature,0,0.0
+scala a misure,0,0.0
+scala a stadi,1,0.0
+scala a serpentina,6,0.0
+scala a gradini,23,0.0
+scala a spirale,23,0.0
+scala a vite,16,0.0
+scala a cassette,0,0.0
+scala a pendolo,0,0.0
+scala a tappo,0,0.0
+scala a piattaforme,1,0.0
+scala a cucchiaio,0,0.0
+scala a pioli,54,0.0
+scala 1,242,0.02
+scala 2,51,0.0
+scala 3,25,0.0
+scala 4,36,0.0
+scala 5,50,0.0
+scala 6,44,0.0
+scarpa da corsa,108,0.0
+scarpa da gara,20,0.0
+scarpa da calzature,0,0.0
+scarpa da pattinaggio,30,0.0
+scarpa da sport,32,0.0
+scarpa da lavoro,102,0.0
+scarpa da pioggia,42,0.0
+scarpa da stivali,1,0.0
+scarpa da calzare,5,0.0
+scarpa da gola,0,0.0
+scarpa da tennistica,0,0.0
+scarpa da golf,46,0.0
+scarpa da escursionismo,24,0.0
+scarpa da bocce,0,0.0
+scarpa da vela,26,0.0
+scarpa per la corsa,22,0.0
+scarpa da balleggio,0,0.0
+cervicale,14130,0.97
+vertebre,23602,1.63
+muscoli,64422,4.44
+tendine,20072,1.38
+articolazioni,22083,1.52
+nervi,20181,1.39
+disci intervertebrali,0,0.0
+schiena vertebra,7,0.0
+schiena articolata,2,0.0
+schiena scoliosi,18,0.0
+schiena dorsale,97,0.01
+schiena cervicale,64,0.0
+schiena lombarde,0,0.0
+schiena a cappello,0,0.0
+schiena a cappello con cuffia,0,0.0
+schiena a cappello con cuffia e borsa,0,0.0
+schiena a cappello con cuffia e cappotto,0,0.0
+schiena a cappello con cuffia e scarpe,0,0.0
+schiena-corsa,0,0.0
+schiena-poggio,0,0.0
+schiena-crucifisso,0,0.0
+schiena-tappo,0,0.0
+sch,4494,0.3
+schiena a collo,1,0.0
+schiena a collo in gomma,0,0.0
+schiena a collo in pelle,0,0.0
+schiena a collo in seta,0,0.0
+schiena a collo in tessuto,0,0.0
+schiena a collo in velluto,0,0.0
+bianca,32255,2.22
+nera,27317,1.88
+gialla,19863,1.37
+blu scuro,299,0.02
+sciarpa in seta,25,0.0
+sciarpa in cotone,26,0.0
+sciarpa in lana,20,0.0
+sciarpa in poliestere,5,0.0
+sciarpa in fibra,11,0.0
+sciarpa in gomma,0,0.0
+sciarpa da bicchiere,0,0.0
+sciarpa da neve,0,0.0
+sciarpa da marmita,0,0.0
+sciarpa da sport,0,0.0
+sciarpa bianca,80,0.0
+sciarpa nera,56,0.0
+sciarpa rossa,99,0.01
+sciarpa gialla,31,0.0
+sciarpa blu,118,0.01
+gorilla,35654,2.46
+orangutan,1726,0.12
+gibbon,4186,0.28
+babbuino,9084,0.62
+chimp,260,0.02
+mandrillo,1928,0.14
+orangutano,6,0.0
+chimpanzee,336,0.02
+leopardo,30924,2.14
+orango,10390,0.72
+cocatrice,3,0.0
+siamang,18,0.0
+siam,22528,1.55
+macaco,6603,0.45
+scolapasta a bolla,0,0.0
+scolapasta bianca,0,0.0
+scolapasta a scagliette,0,0.0
+scolapasta a pelle,0,0.0
+scolapasta a pannarelle,0,0.0
+scolapasta a crepe,0,0.0
+barilla,20464,1.41
+de cecco,129,0.01
+scolapasta integrale,0,0.0
+scolapasta semi-completa,0,0.0
+scolapasta a base di farina,0,0.0
+scolapasta a base di semola,0,0.0
+scolapasta a base di frutta secca,0,0.0
+scolapasta a base di uva secca,0,0.0
+scolapasta a base di cacao,0,0.0
+scolapasta a base di coco,0,0.0
+scolapasta a base di arachidi,0,0.0
+scolapasta a base di amido,0,0.0
+scolapasta a base di amido di frutta,0,0.0
+scolapasta a base di amido di patate,0,0.0
+scolapasta a base di am,0,0.0
+scolorina digitale,0,0.0
+scolorina a mano,0,0.0
+scolorina interattiva,0,0.0
+scolorina di testo,0,0.0
+scolorina di matrice,0,0.0
+scolorina di controllo,0,0.0
+scolarina,14,0.0
+scolarina per bambini,0,0.0
+scolarina per adulti,0,0.0
+scolarina per uomini,0,0.0
+scolarina per donne,0,0.0
+scolarina per bambini con disabilità,0,0.0
+scolarina per colorblind,0,0.0
+scolarina per ippocampo,0,0.0
+calcolatrice,16357,1.13
+saggia,19679,1.36
+compasso,37028,2.56
+libro di testo,83646,5.76
+scolorina rossa,0,0.0
+scolorina blu,0,0.0
+scolorina viola,0,0.0
+scolorina verde,0,0.0
+scolorina marrone,0,0.0
+vespa,43340,2.98
+genuine scooter,0,0.0
+yamaha scooter,21,0.0
+honda scooter,17,0.0
+suzuki scooter,3,0.0
+piaggio scooter,8,0.0
+motoscooter,420,0.02
+scooter elettrico,416,0.02
+scooter da corsa,8,0.0
+scooter da competizione,12,0.0
+scooter da stile,0,0.0
+scooter a motore,42,0.0
+scooter a tre ruote,54,0.0
+electric scooter,88,0.0
+motor scooter,23,0.0
+piaggio,53500,3.68
+tavolo da stessore,0,0.0
+tavolo da gesso,0,0.0
+tavolo da gesso con scrittoio,0,0.0
+tavolo da gesso con scrittoio e scrivania,0,0.0
+tavolo da lavoro,100,0.0
+tavolo da partita,0,0.0
+tavolo da pranzo,258,0.02
+scrivania con piano mobile,1,0.0
+scrivania con piano rotante,2,0.0
+scrivania con riquadro,0,0.0
+scrivania mobile,28,0.0
+scrivania in stile,24,0.0
+scrivania in stile retro,0,0.0
+scrivania in stile moderno,10,0.0
+scrivania in stile antico,5,0.0
+scrivania in stile minimalista,0,0.0
+scrivania con tavoli,0,0.0
+scrivania con tavoli rotanti,0,0.0
+scrivania con tavoli rotanti a due posizioni,0,0.0
+scrivania con tavoli rotanti a tre posizioni,0,0.0
+scrivania con tavoli rotanti a quattro posizioni,0,0.0
+scrivania con tavoli rotanti a cinque posizioni,0,0.0
+scrivania con tavoli rotanti a sei posizioni,0,0.0
+scrivania con tavoli rotanti a sette posizioni,0,0.0
+scrivania con tavoli rotanti a otto posizioni,0,0.0
+scrivania con tavoli rotanti a nove posizioni,0,0.0
+sedia da pranzo,37,0.0
+sedia da bagno,25,0.0
+sedia da lavoro,60,0.0
+sedia da stile,0,0.0
+ottomana,11868,0.82
+poltrona,35906,2.48
+divano ottomano,2,0.0
+sedia normale,185,0.01
+sedia ergonomica,96,0.01
+sedia per ufficio,41,0.0
+sedia per banca,5,0.0
+sedia per spiaggia,4,0.0
+sedia per lounge,1,0.0
+sedia a sedere,4,0.0
+sedia a piatti,0,0.0
+sedia a piatto,0,0.0
+sedia a piatti a due posizioni,0,0.0
+sedia a piatti a tre posizioni,0,0.0
+sedia a piatti a quattro posizioni,0,0.0
+sedia a piatti a sei posizioni,0,0.0
+sedia a piatti a otto posizioni,0,0.0
+sedia a piatti a tavola,0,0.0
+sedia a piatti a tavola con cuscino,0,0.0
+sedia a piatti a tavola con tavolo,0,0.0
+sedia a piatti a tavola con tavolo e cuscino,0,0.0
+sedia a piatti a tavola con tavolo e cuscino e bracci,0,0.0
+sedia per la casa,23,0.0
+sedia per la cucina,20,0.0
+sedia per il lavoro,4,0.0
+sedia per il gioco,4,0.0
+vipera,36842,2.54
+cobra,42044,2.9
+serpente rettile,1,0.0
+serpente marino,903,0.06
+serpente di terra,20,0.0
+serpente di acqua,17,0.0
+culebra,302,0.02
+serpente di diamante,1,0.0
+serpente di cascata,0,0.0
+serpente di ghigli,0,0.0
+ortiche,13312,0.92
+crotalina,0,0.0
+serpente a sonagli,78,0.0
+serpente d'acqua,0,0.0
+serpente della deserto,0,0.0
+serpente del deserto occidentale,0,0.0
+serpente del deserto orientale,0,0.0
+serpente di mare,34,0.0
+serpente di acqua dolce,2,0.0
+serpente di acque dolci,0,0.0
+serpente di acque dolci degli stati uniti,0,0.0
+slipping,180,0.01
+slipping on ice,0,0.0
+slipping on wet floor,0,0.0
+slipping on a stair,0,0.0
+slipping on a banana peel,0,0.0
+slipping on a rock,0,0.0
+fusto,20089,1.38
+guanti,52788,3.64
+slip-on,1588,0.11
+slip-on shoes,1,0.0
+slip-on sandals,0,0.0
+slip-on boots,0,0.0
+slip-on socks,0,0.0
+slip-on pants,0,0.0
+slip-on dress,1,0.0
+slip-on shorts,0,0.0
+slip-resistant,4,0.0
+slip-over,0,0.0
+slip-on shoe,4,0.0
+slip-on boot,0,0.0
+slip-on sandal,0,0.0
+slip-up,7,0.0
+slip-knot,0,0.0
+soffitto in legno,46,0.0
+soffitto in cemento,52,0.0
+soffitto in gesso,44,0.0
+soffitto in tessuto,12,0.0
+soffitto in carta,8,0.0
+soffitto in plexiglass,5,0.0
+soffitto in legno e cemento,0,0.0
+soffitto in legno e pannelli,0,0.0
+piatti,50322,3.46
+pavimenti,15845,1.09
+porte,24071,1.66
+tetti,23687,1.63
+soffitto a cassetto,3,0.0
+soffitto a sospesa,0,0.0
+soffitto a cassa,0,0.0
+soffitto a cassa mobile,0,0.0
+soffitto a cassette,0,0.0
+soffitto a cassette mobile,0,0.0
+soffitto a cassette mobile a cassette,0,0.0
+soffitto a tetto,6,0.0
+soffitto a pannelli,22,0.0
+soffitto a tetto sosseguato,0,0.0
+hotel,40208,2.78
+residenza,37686,2.6
+appartamento,49418,3.4
+casa di vacanza,46,0.0
+condominio,33482,2.3
+b&b,6,0.0
+motel,30202,2.08
+resort,40548,2.8
+hostel,27518,1.9
+airbnb,21800,1.5
+albergo,37902,2.62
+bed and breakfast,4414,0.3
+pension,7480,0.52
+ospitalità,17038,1.17
+casa vacanza,1018,0.08
+spalla rosa,4,0.0
+spalla blu,19,0.0
+spalla bianca,45,0.0
+spalla nera,17,0.0
+soggiorno,21677,1.49
+camera,48842,3.36
+bagno,35708,2.46
+stub,2819,0.19
+spalla bassa,122,0.01
+spalla alta,108,0.01
+spalla 4-punti,0,0.0
+spalla 8-punti,0,0.0
+spalla a punta,9,0.0
+spalla a gomitoli,0,0.0
+spalla per bimbo,2,0.0
+spalla per adulti,1,0.0
+spalla per bambini,3,0.0
+sponge bob,82,0.01
+spiderman,10511,0.72
+superman,18339,1.26
+wolverine,11186,0.77
+iron man,1652,0.11
+specchio per uomo,0,0.0
+specchio per donna,1,0.0
+specchio per capelli,0,0.0
+specchio per foto,0,0.0
+specchio retro-rilievo,0,0.0
+specchio ad angolo,40,0.0
+specchio ad angolo retro-rilievo,0,0.0
+specchio ad angolo retro-rilievo a pendolo,0,0.0
+specchio a sbarra,0,0.0
+specchio a scudo,0,0.0
+specchio antisolare,0,0.0
+specchio a treppiedi,0,0.0
+specchio a tavola,0,0.0
+specchio a muro,28,0.0
+specchio a parabola,9,0.0
+specchio a schermata,0,0.0
+specchio a schermo,0,0.0
+specchio a schermo interattivo,0,0.0
+specchio a schermo multi-touch,0,0.0
+specchio a schermo tactile,0,0.0
+specchio a schermo d'ordine,0,0.0
+specchio a schermo lamina,0,0.0
+specchio a schermo curvo,0,0.0
+specchio a schermo panoramico,0,0.0
+specchio a schermo 3d,0,0.0
+specchio a scomparto,0,0.0
+specchio a birillo,0,0.0
+specchio a dorso,0,0.0
+specchio a foglio,0,0.0
+specchio da bagno,23,0.0
+specchio da parrucchiera,0,0.0
+specchio da muro,23,0.0
+spillo-cambio,0,0.0
+spillo-inserimento,0,0.0
+spillo-fissaggio,0,0.0
+spillatrice a batteria,1,0.0
+spillatrice a batteria ricaricabile,0,0.0
+spillatrice a batteria non ricaricabile,0,0.0
+spillatrice a pila,0,0.0
+spillatrice a pila ricaricabile,0,0.0
+spillatrice a pila non ricaricabile,0,0.0
+spillatrice per biciclette,0,0.0
+spillatrice per auto,0,0.0
+spillatrice per camion,0,0.0
+spillatrice per poggio,0,0.0
+spillatrice per pavimento,0,0.0
+spillatrice per ascensore,0,0.0
+*spillatrice*,954,0.07
+*spillatrice a spina*,0,0.0
+*spillatrice a cuffie*,0,0.0
+*spillatrice a tasca*,0,0.0
+*spillatrice a stampa*,0,0.0
+*spillatrice a cilindro*,0,0.0
+*spillatrice a sospensione*,0,0.0
+*spillatrice a sospensione a cilindro*,0,0.0
+t-shirt a maniche brevi,0,0.0
+t-shirt a maniche lunghe,58,0.0
+t-shirt a maniche lunghe con cappello,0,0.0
+t-shirt a maniche lunghe con cappello a striscia,0,0.0
+t-shirt a maniche lunghe con cappello a goccia,0,0.0
+t-shirt a maniche lunghe con cappello a scacchi,0,0.0
+t-shirt a maniche lunghe con cappello a spina,0,0.0
+t-shirt a maniche lunghe con cappello a striscia e con cappello a spina,0,0.0
+t-shirt a maniche lunghe con cappello a striscia e con cappello a goccia,0,0.0
+t-shirt a stelle,2,0.0
+t-shirt a strisce,4,0.0
+t-shirt a squadri,0,0.0
+t-shirt a tessuto,0,0.0
+t-shirt a colori,3,0.0
+t-shirt a cucita,0,0.0
+t-shirt a taglio,0,0.0
+t-shirt a taglio corto,0,0.0
+t-shirt a taglio lungo,0,0.0
+t-shirt con cappuccio,6,0.0
+t-shirt con maniche lunghe,7,0.0
+t-shirt con maniche corte,9,0.0
+t-shirt con maniche a racchetta,0,0.0
+t-shirt con maniche a cucitura,0,0.0
+t-shirt con maniche a pioli,0,0.0
+t-shirt con maniche a rombi,0,0.0
+t-shirt con maniche a stelle,0,0.0
+t-shirt con maniche a quadrati,0,0.0
+t-shirt con maniche a gocce,0,0.0
+t-shirt con maniche,23,0.0
+camisole,48,0.0
+giubbino,17620,1.22
+quaderno,39352,2.72
+cahier,1795,0.12
+journale,50,0.0
+raccolta di ricordi,29,0.0
+raccolta di idee,39,0.0
+blocco,18146,1.25
+codice,40250,2.78
+nota,20942,1.44
+traccia,19181,1.32
+taccuino pieno,72,0.0
+taccuino vuoto,17,0.0
+taccuino usato,9,0.0
+taccuino nuovo,11,0.0
+taccuino personalizzato,125,0.01
+taccuino di esercizi,0,0.0
+tagliere da cucina,52,0.0
+tagliere da birra,0,0.0
+tagliere da uve,0,0.0
+tagliere da vino,0,0.0
+tagliere da pesce,0,0.0
+tagliere da cucino,0,0.0
+bellezza,12266,0.85
+fruita,3449,0.24
+leggeria,6,0.0
+piante,50532,3.48
+poggio,24368,1.68
+pomodoro,31508,2.18
+salame,35764,2.46
+stagione,11111,0.77
+uvas,73,0.01
+tagliere da cucina per carne,0,0.0
+tagliere da cucina per verdure,0,0.0
+tagliere da cucina per frutta,0,0.0
+tagliere da cucina per pane,0,0.0
+tagliere da cucina per pasta,0,0.0
+tagliere per cucina,3,0.0
+tagliere da boccale,0,0.0
+tagliere per boccale,0,0.0
+tagliere per birra,0,0.0
+tagliere per caffè,0,0.0
+carpet,29614,2.04
+rug,1544,0.1
+floor mat,10,0.0
+doormat,30,0.0
+rug pad,0,0.0
+carpet pad,1,0.0
+tappeto da bagno,44,0.0
+tappeto a cuscino,0,0.0
+tappeto di pelle,21,0.0
+tappeto adesivo,31,0.0
+tappeto a fissaggio,0,0.0
+tappeto a tasselli,0,0.0
+runner,17992,1.24
+dhurri,0,0.0
+oriental rug,5,0.0
+persian rug,4,0.0
+oriental carpet,2,0.0
+rug hooking,1,0.0
+tavolo da cena,26,0.0
+tavolo di cucina,29,0.0
+tavolo da gioco,192,0.02
+tavolo da mangiare,20,0.0
+tavolo da desk,0,0.0
+tavolo da biliardo,110,0.0
+tavolo da poker,98,0.0
+tavolo da gara,7,0.0
+tavolo da giochi da tavolo,0,0.0
+tavolo da carte,4,0.0
+tavolo da tavoli,0,0.0
+tavola per i bambini,24,0.0
+tavola per la cucina,6,0.0
+tavola per la cucina da cappuccino,0,0.0
+tavola per la cucina da caffè,0,0.0
+tavola per la cucina da pasta,0,0.0
+tavola per la cucina da riso,0,0.0
+tavola per la cucina da zuppe,0,0.0
+tavola per la cucina da frutta,0,0.0
+tavola per la cucina da vino,0,0.0
+tavola per la cucina da pesce,0,0.0
+capello,29129,2.01
+piega,17202,1.19
+taglia,20054,1.38
+teglia a piastre,0,0.0
+teglia a ciotola,0,0.0
+teglia a piatto,0,0.0
+teglia a,51,0.0
+tessuto,24150,1.66
+abbigliamento per sport,23,0.0
+abbigliamento da bagno,19,0.0
+abbigliamento per lavoro,29,0.0
+abbigliamento per occasioni speciali,3,0.0
+capelli a cascata,10,0.0
+capelli a boccoli,22,0.0
+capelli a strati,19,0.0
+capelli a treccia,20,0.0
+capelli a tressa,0,0.0
+capelli a scatti,0,0.0
+capelli a zig-zag,4,0.0
+capelli,66724,4.6
+capo,45336,3.12
+smart tv,1032,0.08
+tv digitale,66,0.0
+tv analogica,58,0.0
+tv a colori,65,0.0
+tv a schermo curvo,16,0.0
+tv led,103,0.01
+tv lcd,785,0.05
+tv plasma,22,0.0
+tv oled,67,0.0
+tv quanto stile,0,0.0
+tv,34358,2.36
+monitor,47460,3.26
+monitor da desktop,2,0.0
+monitor da laptop,0,0.0
+monitor da tablet,0,0.0
+monitor da smartphone,1,0.0
+monitor lcd,617,0.04
+monitor led,379,0.03
+monitor plasma,28,0.0
+monitor tft,102,0.01
+monitor crt,78,0.01
+monitor 3d,115,0.01
+monitor curvilineo,0,0.0
+monitor a schermo,28,0.0
+monitor a schermo curvilineo,0,0.0
+monitor a schermo crt,0,0.0
+monitor a schermo plasma,0,0.0
+monitor a schermo lcd,1,0.0
+monitor a schermo led,0,0.0
+monitor a schermo tft,0,0.0
+monitor a,42,0.0
+schermo,45478,3.14
+televisore,31262,2.16
+monitor tv,27,0.0
+monitor schermo,16,0.0
+skewer,43,0.0
+stick,20922,1.44
+sciacche,6,0.0
+bibite,30808,2.12
+alcol,20651,1.42

@@ -1,0 +1,874 @@
+category,concept,human,llama-3.1-70b,llama-3.1-70b-order_match,llama-3.1-70b-simple_match,llama-3.1-8b,llama-3.1-8b-order_match,llama-3.1-8b-simple_match,llama-3.2-3b,llama-3.2-3b-order_match,llama-3.2-3b-simple_match,mistral-7b,mistral-7b-order_match,mistral-7b-simple_match,mixtral-8x7b,mixtral-8x7b-order_match,mixtral-8x7b-simple_match,nemo-12b,nemo-12b-order_match,nemo-12b-simple_match,llava-v1.6-mistral-7b,llava-v1.6-mistral-7b-order_match,llava-v1.6-mistral-7b-simple_match,llava-v1.6-mistral-7b-img,llava-v1.6-mistral-7b-img-order_match,llava-v1.6-mistral-7b-img-simple_match,idefics2-8b,idefics2-8b-order_match,idefics2-8b-simple_match,idefics2-8b-img,idefics2-8b-img-order_match,idefics2-8b-img-simple_match
+plants,abete,rosso,bianco,0,1,rosso,1,1,di montagna,0,0,bianco,0,1,bianco,0,1,rosso,1,1,albero,0,1,pino,0,0,acacia,0,0,rosso,1,1
+plants,abete,bianco,balsamico,0,0,bianco,1,1,di foresta,0,0,rosso,0,1,di douglas,0,0,bianco,1,1,arbusto,0,0,pino d'alpe,0,0,acer,0,0,rosso del nord,0,0
+plants,abete,di natale,di douglas,0,0,nero,0,0,di piantagione,0,0,nero,0,0,di spagna,0,0,argentato,0,0,cespuglio,0,0,pino nobile,0,0,birch,0,0,rosso del nord occidentale,0,0
+plants,abete,albero,rosso,0,1,fuso,0,0,di giardino,0,0,gigante,0,0,del caucaso,0,0,dei boschi,0,0,piante,0,0,pino silvestre,0,0,cedar,0,0,rosso del nord orientale,0,0
+vehicles,aereo,militare,da trasporto,0,0,da carico,0,0,da passeggeri,0,0,commerciale,0,0,da combattimento,0,0,di linea,0,1,aereoplano,0,0,con ali,0,0,aeroplano,0,0,elicottero,0,0
+vehicles,aereo,di linea,da combattimento,0,0,da trasporto,0,0,da trasporto,0,0,militare,0,1,da trasporto,0,0,da guerra,0,0,nero,0,0,con elica,0,0,elicottero,0,0,aeroplano,0,0
+vehicles,aereo,jet,da addestramento,0,0,da combattimento,0,0,da combattimento,0,0,da addestramento,0,0,da turismo,0,0,da trasporto,0,0,militare,0,1,con elica e ali,0,0,aerostato,0,0,dirigibile,0,0
+vehicles,aereo,passeggeri,da ricognizione,0,0,da turismo,0,0,da ricognizione,0,0,da ricognizione,0,0,da addestramento,0,0,da caccia,0,0,civile,0,0,con ali e motore,0,0,aerostato dirigibile,0,0,drone,0,0
+vehicles,aereo,caccia,da trasporto militare,0,0,da trasporto di linea,0,0,da addestramento,0,0,da sorveglianza,0,0,da caccia,0,0,da ricognizione,0,0,da turismo,0,0,con ali e motore a elica,0,0,aerostato non dirigibile,0,0,glider,0,0
+stationery,agenda,mensile,scolastica,0,0,cartacea,0,0,calendario,0,0,calendario digitale,0,0,elettronica,0,0,cartacea,0,0,calendario,0,0,calendario,0,0,calendario,0,0,calendario,0,0
+stationery,agenda,settimanale,settimanale,1,1,digitale,0,0,piano,0,0,calendario da tasca,0,0,di carta,0,0,elettronica,0,0,calendario digitale,0,0,diario,0,0,diario,0,0,diario,0,0
+stationery,agenda,giornaliera,mensile,0,1,calendario,0,0,elenco,0,0,calendario da tavolo,0,0,digitale,0,0,online,0,0,calendario di lavoro,0,0,digitale,0,0,organizzatore,0,0,,0,0
+stationery,agenda,annuale,annuale,1,1,orologio,0,0,tabella,0,0,calendario da murale,0,0,settimanale,0,1,a spirale,0,0,calendario di appuntamenti,0,0,di lavoro,0,0,calendario digitale,0,0,,0,0
+stationery,agenda,tascabile,digitale,0,0,planner,0,0,elenco di attività,0,0,calendario da desktop,0,0,mensile,0,1,a quaderni,0,0,calendario di eventi,0,0,personalizzata,0,0,calendario online,0,0,,0,0
+furnishings/fittings,appendiabiti,da parete,gruccia,0,0,a stendibiancheria,0,0,cassettone,0,0,vestaglia,0,0,gancio appendiabiti,0,0,a parete,0,0,scarpe,0,0,hangar,0,0,jeans,0,0,camisa,0,0
+furnishings/fittings,appendiabiti,da terra,attaccapanni,0,0,a parete,0,0,cassettiera,0,0,cintura per cintura,0,0,portaombrelli,0,0,a piantana,0,0,calze,0,0,pannello,0,0,pantaloni,0,0,pantaloni,0,0
+furnishings/fittings,appendiabiti,da muro,a muro,0,0,a muro,0,0,cassettiera a muro,0,0,cintura per pantaloni,0,0,attaccapanni a muro,0,0,da viaggio,0,0,pantaloni,0,0,tavolo,0,0,camise,0,0,giacca,0,0
+furnishings/fittings,appendiabiti,a rastrelliera,a stanga,0,0,a soffitto,0,0,cassettiera a tenda,0,0,cintura per camicie,0,0,attaccapanni da parete,0,0,da porta,0,0,camicie,0,0,tavolo di legno,0,0,giacche,0,0,jeans,0,0
+furniture,armadio,a muro,a muro,1,1,a muro,1,1,a muro,1,1,a porta rovescia,0,0,a due ante,0,1,a muro,1,1,a scomparsa,0,0,aperto,0,0,armario,0,0,scaffale,0,0
+furniture,armadio,scorrevole,scorrevole,1,1,a tre ante,0,0,a cassettone,0,0,arredo a parete,0,0,a una ante,0,0,guardaroba,0,0,a vista,0,0,chiuso,0,0,scaffale,0,0,scaffale mobile,0,0
+furniture,armadio,a due ante,a ponte,0,0,a due ante,1,1,a stile,0,0,armatura a cassettone,0,0,angolare,0,0,a ponte,0,0,a vista aperto,0,0,aperto con porte aperte,0,0,scaffale per biciclette,0,0,scaffale per biancheria,0,0
+furniture,armadio,a battente,a giorno,0,0,a quattro ante,0,0,a vetro,0,0,armatura a stivali,0,0,a muro,0,1,a cassetti,0,0,a vista chiuso,0,0,aperto con porte chiuse,0,0,scaffale per scarpe,0,0,scaffale per abbigliamento,0,0
+furniture,armadio,in legno,a specchio,0,0,a cassettone,0,0,a porta,0,0,armatura a scomposte,0,0,a quattro ante,0,0,a colonna,0,0,a vista chiuso con chiave,0,0,aperto con porte aperte e contenuto,0,0,scaffale per abbigliamento,0,0,scaffale per scarpe,0,0
+stationery,astuccio,rigido,per occhiali,0,0,borsa,0,0,cappello,0,0,tazza,0,0,per matite,0,0,per matite,0,0,fornace,0,0,a mano,0,0,per caffè,0,0,valigia,0,0
+stationery,astuccio,portapenne,per penna,0,0,cartellino,0,0,guanti,0,0,coppa,0,0,per penne,0,0,per penne,0,0,radiatore,0,0,elettrico,0,0,per tè,0,0,valigia a mano,0,0
+stationery,astuccio,per la scuola,per trucco,0,0,cassetta,0,0,guanti da lavoro,0,0,calice,0,0,per colori,0,0,per pennarelli,0,0,stufa,0,0,a vapore,0,0,per caffè e tè,0,0,valigia a due mani,0,0
+stationery,astuccio,portaocchiali,per strumenti musicali,0,0,cassetta di metallo,0,0,guanti da neve,0,0,bicchierino,0,0,per trucchi,0,0,per colori,0,0,caldaia,0,0,a vapore elettrico,0,0,per caffè e tè e cioccolata,0,0,valigia a ruote,0,0
+stationery,astuccio,a bustina,per pistola,0,0,cassetta di plastica,0,0,guanti da sci,0,0,ciotola,0,0,per matite colorate,0,0,per strumenti da disegno,0,0,riscaldamento,0,0,a vapore elettrico con funzione di riscaldamento,0,0,,0,0,valigia a ruote a mano,0,0
+hobbies,attrezzo,martello,martello,1,1,martello,1,1,forbici,0,0,martello,1,1,cacciavite,0,1,martello,1,1,pala,0,0,da lavoro,0,0,scopa,0,0,martello,1,1
+hobbies,attrezzo,cacciavite,cacciavite,1,1,sega,0,0,forbici da cucito,0,0,scala,0,0,martello,0,1,chiave inglese,0,1,raccapo,0,0,da giardinaggio,0,0,spugna,0,0,scopa,0,0
+hobbies,attrezzo,chiave inglese,pinza,0,0,trapano,0,1,forbici da giardinaggio,0,0,chiavetta,0,0,pinza,0,0,cacciavite,0,1,scopa,0,0,da cucina,0,1,spugna per lavaggio,0,0,sciabola,0,0
+hobbies,attrezzo,da cucina,tenaglia,0,0,scalpello,0,0,forbici da pesca,0,0,ruota spia,0,0,chiave inglese,0,1,pinza,0,0,spazzola,0,0,da pesca,0,0,spugna per pulitura,0,0,scovolatore,0,0
+hobbies,attrezzo,trapano,scalpello,0,0,cesoie,0,0,forbici da cucina,0,0,pinzette,0,0,lima,0,0,forbice,0,0,tazza,0,0,da gioco,0,0,spugna per pulit,0,0,,0,0
+vehicles,autobus,a due piani,a due piani,1,1,filobus,0,0,urbano,0,0,urbano,0,0,urbano,0,0,urbano,0,0,bus,0,0,bus,0,0,pullman,0,1,pullman,0,1
+vehicles,autobus,di linea,a tre assi,0,0,a due piani,0,1,interurbano,0,0,interurbano,0,0,interurbano,0,0,interurbano,0,0,minibus,0,0,minibus,0,0,pullman-standard,0,0,pullman-bus,0,0
+vehicles,autobus,scuolabus,a pianale ribassato,0,0,a tre piani,0,0,notturno,0,0,scolastico,0,0,scolastico,0,0,turistico,0,0,pullman,0,1,tram,0,0,pullman-sleeper,0,0,pullman-limousine,0,0
+vehicles,autobus,elettrico,a pianale rialzato,0,0,a lunga percorrenza,0,0,a lungo percorso,0,0,extraurbano,0,0,turistico,0,0,scolastico,0,0,a due piani,0,1,trolleybus,0,0,pullman-palace,0,0,pullman-sonnenwagen,0,0
+vehicles,autobus,pullman,a propulsione ibrida,0,0,a corta percorrenza,0,0,a lungo percorso con fermate,0,0,a pianale alto,0,0,a due piani,0,1,a due piani,0,1,a tre piani,0,0,school bus,0,0,pullman-park,0,0,pullman-sonnenwagen-limousine,0,0
+vehicles,automobile,elettrica,berlina,0,0,auto,0,0,auto,0,0,berlina,0,0,berlina,0,0,berline,0,0,berlina,0,0,berlina,0,0,auto,0,0,auto,0,0
+vehicles,automobile,suv,coupé,0,0,camion,0,0,motocicletta,0,0,monoposto,0,0,coupé,0,0,suv,1,1,coupé,0,0,station wagon,0,0,motociclette,0,0,auto da turismo,0,0
+vehicles,automobile,a benzina,cabriolet,0,0,furgone,0,0,autobus,0,0,sedan,0,0,cabriolet,0,0,coupé,0,0,station wagon,0,0,coupé,0,0,camion,0,0,auto da competizione,0,0
+vehicles,automobile,monovolume,spider,0,0,camper,0,0,camion,0,0,sport utility vehicle,0,0,station wagon,0,0,cabriolet,0,0,minivan,0,0,cabriolet,0,0,furgonette,0,0,auto da corsa,0,0
+vehicles,automobile,ibrida,station wagon,0,0,motocicletta,0,0,scooter,0,0,pick-up,0,0,suv,0,1,furgone,0,0,suv,0,1,pickup,0,0,autobus,0,0,auto da strada,0,0
+housing buildings,bagno,pubblico,vasca,0,0,vasca,0,0,doccia,0,0,doccia,0,0,vasca da bagno,0,0,vasca da bagno,0,0,vaso,0,0,doccia,0,0,vaso da bagno,0,0,lavandino,0,0
+housing buildings,bagno,turco,doccia,0,0,doccia,0,0,vasca,0,0,vasca da bagno,0,0,doccia,0,0,doccia,0,0,bidet,0,0,vaso,0,0,doccia,0,0,vasca,0,0
+housing buildings,bagno,giapponese,bidet,0,0,bidet,0,0,bidet,0,0,turco,0,1,water,0,0,water,0,0,doccia,0,0,bidet,0,0,vaso da doccia,0,0,toilette,0,0
+housing buildings,bagno,chimico,lavabo,0,0,lavabo,0,0,lavabo,0,0,sauna,0,0,bidet,0,0,lavabo,0,0,piscina,0,0,lavandino,0,0,vaso da lavandaggio,0,0,doccia,0,0
+housing buildings,bagno,di lusso,water,0,0,wc,0,0,lavandino,0,0,bidet,0,0,lavandino,0,0,bidet,0,0,sauna,0,0,piscina,0,0,vaso da,0,0,scaldovino,0,0
+housing buildings,balcone,a incasso,a sbalzo,0,0,di ferro,0,0,scale,0,0,terrazzo,0,1,francese,0,0,a vista,0,0,terrazza,0,0,terrazza,0,0,terrazza,0,0,terrazza,0,0
+housing buildings,balcone,terrazzo,pensile,0,0,di legno,0,0,scale a pié,0,0,loggia,0,0,juliet,0,0,chiuso,0,0,loggia,0,0,corridoio,0,0,loggia,0,0,terrazza panoramica,0,0
+housing buildings,balcone,aggettante,a ringhiera,0,0,di vetro,0,0,scale a manovella,0,0,veranda,0,0,sporgente,0,0,aperto,0,0,cornicione,0,0,patio,0,0,terrazzino,0,0,terrazza con vista,0,0
+housing buildings,balcone,esterno,a loggia,0,0,di pietra,0,0,scale a cassetta,0,0,ponteggio,0,0,avvolgente,0,0,panoramico,0,0,pavimento,0,0,loggia,0,0,,0,0,terrazza con tettoie,0,0
+housing buildings,balcone,coperto,a veranda,0,0,di cemento,0,0,scale a puleggia,0,0,soprapporte,0,0,a mensola,0,0,fiorito,0,0,ringhiera,0,0,veranda,0,0,,0,0,terrazza con tettoie e tavoli,0,0
+plants,basilico,genovese,genovese,1,1,comune,0,0,comune,0,0,comune,0,0,genovese,1,1,dolce,0,0,comune,0,0,fresco,0,0,piccante,0,0,,0,0
+plants,basilico,verde,napoletano,0,0,genovese,0,1,di genova,0,0,sacro,0,0,limone,0,1,genovese,0,1,piave,0,0,secco,0,0,dolce,0,0,,0,0
+plants,basilico,viola,thai,0,0,di genova,0,0,di napoli,0,0,thai,0,0,greco,0,1,nano,0,0,genovese,0,1,in pesto,0,0,bianco,0,0,,0,0
+plants,basilico,greco,limone,0,1,di napoli,0,0,di sicilia,0,0,messicano,0,0,thai,0,0,thai,0,0,napoletano,0,0,in salsa,0,0,nero,0,0,,0,0
+plants,basilico,limone,viola,0,1,di sarno,0,0,di calabria,0,0,cinese,0,0,sacro,0,0,cinese,0,0,messinese,0,0,in pasta,0,0,rosso,0,0,,0,0
+kitchenware,bicchiere,di vetro,da vino,0,1,da vino,0,1,da vino,0,1,da vino,0,1,di vetro,1,1,calice,0,1,di vetro,1,1,coppa,0,0,tazza,0,0,da vino,0,1
+kitchenware,bicchiere,di plastica,da birra,0,0,da cocktail,0,0,da acqua,0,0,da acqua,0,0,di plastica,1,1,tumbler,0,0,di plastica,1,1,tazza,0,0,tulipano,0,0,da birra,0,0
+kitchenware,bicchiere,calice,da acqua,0,0,da birra,0,0,da caffè,0,0,da birra,0,0,di carta,0,0,flûte,0,0,di cristallo,0,0,tazzina,0,0,coppa,0,0,da caffè,0,0
+kitchenware,bicchiere,flute,da caffè,0,0,da champagne,0,0,da soda,0,0,da cocktail,0,0,da tè,0,0,coppa,0,0,di ceramica,0,0,tazzinaio,0,0,da caffè,0,0,da latte,0,0
+kitchenware,bicchiere,da vino,da cocktail,0,0,da digestivo,0,0,da bibita,0,0,tazza,0,0,da caffè,0,0,da shot,0,0,di porcellana,0,0,tazzaio,0,0,da vino,1,1,da acqua,0,0
+vehicles,bicicletta,elettrica,mountain bike,0,1,da corsa,0,1,mountain bike,0,1,montagna,0,0,city bike,0,0,mountain bike,0,1,mountain bike,0,1,biciclo,0,0,mountain bike,0,1,da montagna,0,0
+vehicles,bicicletta,mountain bike,da corsa,0,1,da strada,0,0,da strada,0,0,strada,0,0,mountain bike,1,1,bici da corsa,0,0,road bike,0,0,biciclo da strada,0,0,bicycle,0,0,da corsa,0,1
+vehicles,bicicletta,da corsa,da strada,0,0,mountain bike,0,1,da pista,0,0,corsa,0,0,racing bike,0,0,bici da città,0,0,cruiser,0,0,biciclo da montagna,0,0,road bike,0,0,da strada,0,0
+vehicles,bicicletta,da città,da pista,0,0,da città,1,1,da mountain bike,0,0,fissafondo,0,0,hybrid bike,0,0,bici da turismo,0,0,bmx,0,0,biciclo da corsa,0,0,hybrid bicycle,0,0,da museo,0,0
+vehicles,bicicletta,tandem,ibrida,0,0,da trekking,0,0,da corsa,0,1,mountainboard,0,0,cruiser bike,0,0,bici da triathlon,0,0,folding bike,0,0,biciclo da mountain bike,0,0,recumbent bicycle,0,0,da viaggio,0,0
+body parts,bocca,carnosa,umana,0,0,umana,0,0,labbra,0,0,dell'uomo,0,0,umana,0,0,umana,0,0,di leone,0,0,labbra,0,0,inferiore,0,0,labbra,0,0
+body parts,bocca,sottile,di un fiume,0,0,di pesce,0,0,narice,0,0,dell'animale,0,0,di un animale,0,0,di un fiume,0,0,di cane,0,0,denti,0,0,superiore,0,0,lingua,0,0
+body parts,bocca,larga,di una caverna,0,0,di serpente,0,0,lingua,0,0,di un fiume o un lago,0,0,di un pesce,0,0,di un vulcano,0,0,di gatto,0,0,lingua,0,0,labbra,0,0,denti,0,0
+body parts,bocca,grande,di un vulcano,0,0,di animale,0,0,gola,0,0,di un conteneur,0,0,di un uccello,0,0,di un fucile,0,0,di cavallo,0,0,palato,0,0,denti,0,0,palato,0,0
+body parts,bocca,piccola,di un animale,0,0,di fiume,0,0,naso,0,0,di un tubo,0,0,di un rettile,0,0,di un leone,0,0,di pesce,0,0,fauce,0,0,lingua,0,0,gola,0,0
+body parts,braccio,meccanico,meccanico,1,1,umano,0,1,umano,0,1,umano,0,1,arti superiori,0,0,robotico,0,0,umano,0,1,umano,0,1,umano,0,1,destro,0,0
+body parts,braccio,muscoloso,robotico,0,0,meccanico,0,1,di un animale,0,0,robotico,0,0,umano,0,1,artificiale,0,0,di gomma,0,0,di un robot,0,0,robotico,0,0,sinistro,0,0
+body parts,braccio,umano,umano,1,1,robotico,0,0,di una macchina,0,0,artificiale,0,0,robotico,0,0,di un orologio,0,0,di legno,0,0,di un animale,0,0,artificiale,0,0,,0,0
+body parts,braccio,lungo,artificiale,0,0,di una macchina,0,0,di un albero,0,0,di gomma,0,0,meccanico,0,1,di un robot,0,0,di metallo,0,0,di un manichino,0,0,meccanico,0,1,,0,0
+body parts,braccio,corto,di una croce,0,0,di un robot,0,0,di una struttura,0,0,di pellegrina,0,0,protesi del braccio,0,0,di un essere umano,0,0,di plastica,0,0,di un'altra entità animata o inanimata,0,0,di legno,0,0,,0,0
+plants,cactus,fico d'india,mammillaria,0,0,di notte,0,0,aloe,0,0,barrel cactus,0,0,saguaro,0,0,barrel,0,0,succulenta,0,0,in vase,0,0,cactaceae,0,0,,0,0
+plants,cactus,del deserto,echinocactus,0,0,di giorno,0,0,cardone,0,0,prickly pear cactus,0,0,barile,0,0,christmas,0,0,cactacea,0,0,in pot,0,0,artichoke,0,0,,0,0
+clothes,calza,a rete,autoreggente,0,0,da donna,0,0,guanti,0,0,calze da ginocchio,0,0,da neve,0,0,di cotone,0,0,calzini,0,0,nera,0,0,da sport,0,0,calzino,0,1
+clothes,calza,calzino,a rete,0,1,da uomo,0,0,cappelli,0,0,calze da tacco,0,0,da running,0,0,di lana,0,0,calziniere,0,0,rossa,0,0,da ginnastica,0,0,calzare,0,0
+clothes,calza,fantasmino,a maglia,0,0,sportiva,0,0,berretti,0,0,calze da tights,0,0,da tennis,0,0,di seta,0,0,calz,0,0,blu,0,0,da lavoro,0,0,calzature,0,0
+clothes,calza,lunga,a compressione,0,0,da sci,0,0,,0,0,calze da sport,0,0,da basket,0,0,di spugna,0,0,,0,0,bianca,0,0,da stivali,0,0,,0,0
+clothes,calza,collant,da donna,0,0,da basket,0,0,,0,0,calze da letto,0,0,da calcio,0,0,di nylon,0,0,,0,0,grigia,0,0,da sandali,0,0,,0,0
+housing buildings,camera,da letto,da letto,1,1,da letto,1,1,da letto,1,1,fotografica,0,0,da letto,1,1,da letto,1,1,fotocamera,0,0,letto,0,0,dslr,0,0,fotocamera,0,0
+housing buildings,camera,cucina,oscura,0,1,da bagno,0,0,da bagno,0,0,da letto,0,1,da pranzo,0,0,da bagno,0,0,telecamera,0,0,albero,0,0,compatt,0,0,telefono,0,0
+housing buildings,camera,bagno,d'albergo,0,0,di controllo,0,0,da studio,0,0,sicurezza,0,0,da bagno,0,0,degli ospiti,0,0,webcam,0,0,cama,0,0,telefono cellulare,0,0,tablet,0,0
+housing buildings,camera,singola,di sicurezza,0,0,di ripresa,0,0,da lettura,0,0,web,0,0,dei bambini,0,0,da pranzo,0,0,di sicurezza,0,0,cuscino,0,0,fotodigitale,0,0,computer,0,0
+housing buildings,camera,oscura,di commercio,0,0,di sicurezza,0,0,da gioco,0,0,obiettivo,0,0,degli ospiti,0,0,oscura,1,1,di sorveglianza,0,0,tavolo,0,0,fotoanalogica,0,0,smartwatch,0,0
+clothes,camicia,hawaiana,a maniche corte,0,1,polo,0,0,polo,0,0,da notte,0,0,abbottonata,0,0,button-down,0,0,bianca,0,0,da lavoro,0,0,da notte,0,0,camisetta,0,0
+clothes,camicia,coreana,a maniche lunghe,0,1,a maniche corte,0,1,da ballo,0,0,da lavoro,0,0,a maniche lunghe,0,1,oxford,0,0,nera,0,0,da seta,0,0,da lavoro,0,0,maglia,0,0
+clothes,camicia,a maniche lunghe,a righe,0,0,a maniche lunghe,1,1,da tennis,0,0,da formalità,0,0,a maniche corte,0,1,a maniche corte,0,1,a maniche lunghe,1,1,da sposa,0,0,da bagnasciuga,0,0,giubbino,0,0
+clothes,camicia,a maniche corte,a pois,0,0,da notte,0,0,da cricket,0,0,da sposa,0,0,hawaiana,0,1,a maniche lunghe,0,1,a maniche corte,1,1,da gala,0,0,,0,0,giacca,0,0
+clothes,camicia,di cotone,a quadri,0,0,da lavoro,0,0,da golf,0,0,da gala,0,0,a collo alto,0,0,a righe,0,0,a maniche lunghe a maniche corte,0,0,da polo,0,0,,0,0,,0,0
+vehicles,camion,furgone,autocarro,0,1,autocarro,0,1,di pompaggio,0,0,cisterna,0,0,da costruzione,0,0,autocarro,0,1,camioncino,0,0,cisterna,0,0,camioncino,0,0,camioncino,0,0
+vehicles,camion,autocarro,autotreno,0,1,furgone,0,1,di trasporto,0,0,merce,0,0,dei pompieri,0,0,autocisterna,0,0,camioncino da lavoro,0,0,cisterna a due piani,0,0,camioncino a due assi,0,0,,0,0
+vehicles,camion,tir,betoniera,0,0,rimorchio,0,0,di pompaggio per incendi,0,0,frigorifero,0,0,dei rifiuti,0,0,autocarro ribaltabile,0,0,camioncino da trasporto,0,0,cisterna a tre piani,0,0,camioncino a tre assi,0,0,,0,0
+vehicles,camion,autotreno,a cassone ribaltabile,0,0,trattore,0,0,di pompaggio per gas,0,0,d'alto rigido,0,0,delle consegne,0,0,autocarro attrezzato,0,0,camioncino da trasporto merci,0,0,cisterna a quattro piani,0,0,camioncino a quattro assi,0,0,,0,0
+vehicles,camion,con rimorchio,a pianale,0,0,autocisterna,0,0,di pompaggio per acqua,0,0,da rimorchio,0,0,autocarro,0,1,autocarro portacontainer,0,0,camioncino da trasporto passeggeri,0,0,cisterna a cinque piani,0,0,camioncino a cinque assi,0,0,,0,0
+furnishings/fittings,candelabro,a tre bracci,a 5 bracci,0,0,a stelo,0,0,a braccioli,0,0,classico,0,0,da tavolo,0,1,a bracci,0,0,a tre ramificazioni,0,0,,0,0,a tre braccia,0,0,a trecce,0,0
+furnishings/fittings,candelabro,ebraico,a 7 bracci,0,0,a tre steli,0,0,a steli,0,0,moderno,0,0,da parete,0,0,a sospensione,0,0,a cinque ramificazioni,0,0,,0,0,a quattro braccia,0,0,,0,0
+furnishings/fittings,candelabro,a due bracci,a 9 bracci,0,0,a quattro steli,0,0,a colonne,0,0,a colonnette,0,0,a braccia,0,0,da tavolo,0,1,a sette ramificazioni,0,0,,0,0,a cinque braccia,0,0,,0,0
+furnishings/fittings,candelabro,da tavolo,a 3 bracci,0,0,a cinque steli,0,0,a piattaforma,0,0,a rami,0,0,a colonna,0,0,da terra,0,0,a nove ramificazioni,0,0,,0,0,a sei braccia,0,0,,0,0
+furnishings/fittings,candelabro,in oro,a 2 bracci,0,0,a sei steli,0,0,a vasi,0,0,a vela,0,0,a candela,0,0,da parete,0,0,a dodici ramificazioni,0,0,,0,0,a sette braccia,0,0,,0,0
+animals,cane,labrador,levriero,0,0,pastore tedesco,0,1,pastore tedesco,0,1,razza basset hound,0,0,pastore tedesco,0,1,pastore tedesco,0,1,da pastore,0,0,golden retriever,0,1,bulldog,0,0,labrador,1,1
+animals,cane,pastore tedesco,pug,0,0,pastore australiano,0,0,chihuahua,0,1,razza bulldog,0,0,labrador,0,1,golden retriever,0,1,da guardia,0,0,labrador retriever,0,0,pug,0,0,bulldog,0,0
+animals,cane,bassotto,da pastore,0,0,pastore inglese,0,0,bulldog,0,0,razza dachshund,0,0,chihuahua,0,1,labrador,0,1,da caccia,0,0,dachshund,0,0,labrador,0,1,pug,0,0
+animals,cane,chihuahua,da caccia,0,0,pastore tedesco a pelo corto,0,0,pug,0,0,razza dobermann,0,0,bulldog,0,0,husky siberiano,0,0,da cacc,0,0,beagle,0,0,golden retriever,0,1,dachshund,0,0
+animals,cane,golden retriever,lupo,0,0,pastore tedesco a pelo lungo,0,0,dachshund,0,0,razza golden retriever,0,0,beagle,0,0,bulldog,0,0,,0,0,bulldog,0,0,pitbull,0,0,golden retriever,1,1
+clothes,canottiera,bianca,classica,0,0,da donna,0,0,canoa,0,0,da regata,0,0,a maniche corte,0,0,a manica corta,0,0,da barca,0,0,canottiere da bagno,0,0,da bagnato,0,0,da bagno,0,0
+clothes,canottiera,intima,a maniche corte,0,0,da uomo,0,0,barca,0,0,da pesca,0,0,a maniche lunghe,0,0,a manica lunga,0,0,da pesca,0,0,canottiere da piscina,0,0,da ginnastica,0,0,da ginnastica,0,0
+clothes,canottiera,senza maniche,a maniche lunghe,0,0,da bambino,0,0,imbarcazione,0,0,da caccia,0,0,senza maniche,1,1,senza maniche,1,1,da ghiaccio,0,0,canottiere da vasca,0,0,da piscina,0,0,da tennis,0,0
+clothes,canottiera,colorata,a maniche a sbuffo,0,0,da neonato,0,0,veliero,0,0,da ghiaccio,0,0,termica,0,0,con scollo a v,0,0,da pesca da ghiaccio,0,0,canottiere da vasca da bagno,0,0,da tennis,0,0,da bicicletta,0,0
+clothes,canottiera,di cotone,a maniche a campana,0,0,da sport,0,0,catamarano,0,0,da escursione,0,0,da notte,0,0,con scollo a barca,0,0,da pesca da ghiaccio con motore,0,0,canottiere da vasca da piscina,0,0,da lavoro,0,0,da golf,0,0
+body parts,capello,riccio,riccio,1,1,biondo,0,1,capelli lunghi,0,0,di cavallo,0,0,liscio,0,1,capelli lunghi,0,0,berretto,0,0,lungo,0,0,boccoli,0,0,boccoli,0,0
+body parts,capello,liscio,liscio,1,1,nero,0,0,capelli corti,0,0,di pecora,0,0,riccio,0,1,capelli corti,0,0,cappello,0,0,corto,0,0,b,0,0,boc,0,0
+body parts,capello,biondo,ondulato,0,0,rosso,0,1,capelli biondi,0,0,di lana,0,0,ondulato,0,0,capelli ricci,0,0,cappellino,0,0,a frangi,0,0,,0,0,,0,0
+body parts,capello,mosso,crespo,0,0,castano,0,0,capelli rossi,0,0,di seta,0,0,corto,0,0,capelli lisci,0,0,cappuccio,0,0,a spazzola,0,0,,0,0,,0,0
+body parts,capello,rosso,mosso,0,1,grigio,0,0,capelli neri,0,0,di velluto,0,0,lungo,0,0,capelli castani,0,0,c,0,0,a caschette,0,0,,0,0,,0,0
+clothes,cappello,berretto,a cilindro,0,0,da baseball,0,0,panama,0,0,berretto,1,1,berretto,1,1,berretto,1,1,di carta,0,0,berretto,1,1,berretta,0,0,fedora,0,1
+clothes,cappello,con visiera,a tesa larga,0,0,da cowboy,0,1,berretto,0,1,da lavoro,0,0,basco,0,0,a cilindro,0,0,di feltro,0,0,fedora,0,1,da baseball,0,0,berbera,0,0
+clothes,cappello,fedora,a tesa stretta,0,0,da gondoliere,0,0,top,0,0,da sole,0,0,berretta,0,0,a falda larga,0,0,di peltro,0,0,cowboy hat,0,0,da borsa,0,0,cowboy,0,0
+clothes,cappello,bombetta,da baseball,0,0,da soldato,0,0,fedora,0,1,da pioggia,0,0,borsalino,0,0,a tesa larga,0,0,di piuma,0,0,trilby,0,0,da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da capp,0,0,fedora,0,1
+clothes,cappello,da cowboy,da cowboy,1,1,da ufficiale,0,0,sombrero,0,0,da pranzo,0,0,da baseball,0,0,da baseball,0,0,di pizzo,0,0,bowler hat,0,0,,0,0,,0,0
+clothes,cappotto,lungo,trench,0,0,di pelliccia,0,0,giacca,0,0,da pioggia,0,0,invernale,0,0,lungo,1,1,da neve,0,0,da neve,0,0,da uomo,0,0,giacca,0,0
+clothes,cappotto,impermeabile,parka,0,0,di pelle,0,0,mantello,0,0,da inverno,0,0,estivo,0,0,corto,0,1,da pioggia,0,0,da pioggia,0,0,da donna,0,0,gilet,0,0
+clothes,cappotto,corto,giaccone,0,0,di lana,0,0,pelliccia,0,0,piumato,0,0,imbottito,0,0,di pelle,0,0,da freddo,0,0,da freddo,0,0,da bambino,0,0,mantello,0,0
+clothes,cappotto,elegante,piumino,0,0,di cotone,0,0,impermeabile,0,1,gommoso,0,0,leggero,0,0,di lana,0,0,da moto,0,0,da moto,0,0,da sport,0,0,overcoat,0,0
+clothes,cappotto,doppiopetto,invernale,0,0,di velluto,0,0,giacca da neve,0,0,con guaina,0,0,da pioggia,0,0,di cotone,0,0,da lavoro,0,0,da lavoro,0,0,da lavoro,0,0,smock,0,0
+foods,carne,di maiale,manzo,0,0,manzo,0,0,manzo,0,0,manzo,0,0,manzo,0,0,manzo,0,0,pollo,0,0,manzo,0,0,suino,0,0,bovino,0,0
+foods,carne,rossa,maiale,0,0,vitello,0,0,vitello,0,0,maiale,0,0,maiale,0,0,maiale,0,0,maiale,0,0,maiale,0,0,bovino,0,0,suino,0,0
+foods,carne,di pollo,agnello,0,0,tacchino,0,0,maiale,0,0,agnello,0,0,pollo,0,0,pollo,0,0,bovino,0,0,pollo,0,0,pesce,0,0,pollame,0,0
+foods,carne,bianca,vitello,0,0,pollo,0,0,tacchino,0,0,maiale asinello,0,0,agnello,0,0,tacchino,0,0,pesce,0,0,pesce,0,0,uccello,0,0,pesce,0,0
+foods,carne,bovina,pollo,0,0,maiale,0,0,agnello,0,0,maiale schiacciato,0,0,vitello,0,0,agnello,0,0,di maiale,0,1,vitello,0,0,,0,0,uccello,0,0
+vehicles,carrozza,calesse,calesse,1,1,ferroviaria,0,0,treno,0,0,ferroviaria,0,0,ferroviaria,0,0,ferroviaria,0,0,autobus,0,0,a cavallo,0,0,passeggeri,0,1,a quattro ruote,0,0
+vehicles,carrozza,a cavalli,phaeton,0,0,da corsa,0,0,autobus,0,0,tranviaria,0,0,tranviaria,0,0,da viaggio,0,0,taxi,0,0,a cavallo con copertura,0,0,merci,0,0,a due ruote,0,0
+vehicles,carrozza,berlina,landò,0,0,da guerra,0,0,autobus a tre piani,0,0,per bestiame,0,0,funebre,0,0,da parata,0,0,treno,0,0,a cavallo con copertura aperta,0,0,per trasporto di persone,0,0,a tre ruote,0,0
+vehicles,carrozza,passeggeri,coupé,0,0,da battaglia,0,0,treno a vapore,0,0,per merci,0,0,da parata,0,0,da corsa,0,0,tranvia,0,0,a cavallo con copertura chiusa,0,0,per trasporto di merci,0,0,a cinque ruote,0,0
+vehicles,carrozza,diligenza,berlina,0,1,da nolo,0,0,treno a elettrico,0,0,funebre,0,0,a cavalli,0,1,da piazza,0,0,metro,0,0,a cavallo con copertura aperta con finestre,0,0,per trasporto di passeggeri e merci,0,0,a sei ruote,0,0
+hobbies,carte,da gioco,carta da parati,0,0,biglietto di credito,0,0,di credito,0,0,carta da parati,0,0,carta igienica,0,1,biglietto da visita,0,0,carta da gioco,0,0,da gioco,1,1,carta da gioco,0,0,carta da gioco,0,0
+hobbies,carte,napoletane,carta da regalo,0,0,carta di credito,0,0,di debito,0,0,carta da scrittura,0,0,carta da parati,0,0,biglietto da lotteria,0,0,carta da parati,0,0,di credito,0,0,carta da visita,0,0,carta da visita,0,0
+hobbies,carte,da poker,carta igienica,0,1,carta di debito,0,0,di identità,0,0,carta igienica,0,1,carta da lettere,0,0,biglietto da banca,0,0,carta da scrivere,0,0,di visita,0,0,carta di credito,0,0,carta da regalo,0,0
+hobbies,carte,carta velina,carta da lettera,0,0,carta di identità,0,0,di prepagate,0,0,carta da gioco,0,0,carta regalo,0,0,biglietto da treno,0,0,carta da fotografia,0,0,di posta,0,0,carta di debito,0,0,carta da telefono,0,0
+hobbies,carte,carta igienica,carta da musica,0,0,carta di prepagata,0,0,di trasporto,0,0,carta moneta,0,0,carta fotografica,0,0,biglietto da aereo,0,0,carta da mangiare,0,0,di identità,0,0,carta di sconto,0,0,carta da posta,0,0
+furniture,cassettiera,di legno,da ufficio,0,0,da bagno,0,0,a mano,0,0,da tavola,0,0,da camera da letto,0,0,da camera da letto,0,0,di legno,1,1,armadio,0,0,cassette,0,0,cassette,0,0
+furniture,cassettiera,settimino,da cucina,0,0,da cucina,0,0,elettrica,0,0,industriale,0,0,da soggiorno,0,0,da ufficio,0,0,di vetro,0,0,armadio a due porte,0,0,cassette vhs,0,0,cassette a cassette,0,0
+furniture,cassettiera,comò,da bagno,0,0,da camera,0,0,a rotelle,0,0,frigorifera,0,0,da ufficio,0,0,da bagno,0,0,di plastica,0,1,armadio a quattro porte,0,0,cassette cd,0,0,cassette a cassette a cassette,0,0
+furniture,cassettiera,di plastica,da camera da letto,0,0,da ingresso,0,0,a ruote,0,0,per cibo,0,0,da sala da pranzo,0,0,da cucina,0,0,di metallo,0,0,armadio a sei porte,0,0,cassette dvd,0,0,cassette a cassette a cassette a cassette,0,0
+furniture,cassettiera,comodino,da ingresso,0,0,da soggiorno,0,0,,0,0,per sigarette,0,0,da studio,0,0,per bambini,0,0,di cristallo,0,0,armadio a otto porte,0,0,cassette blu-ray,0,0,cassette a cassette a cassette a cassette a cassette,0,0
+animals,cavallo,da corsa,purosangue inglese,0,0,destriero,0,0,da corsa,1,1,da corsa,1,1,quarter horse,0,0,purosangue,0,1,da corsa,1,1,da corsa,1,1,pony,0,1,stallione,0,0
+animals,cavallo,pony,haflinger,0,0,purosangue,0,1,da lavoro,0,0,da tiro,0,0,purosangue inglese,0,0,quarter horse,0,0,da lavoro,0,0,da tiro,0,0,stallione,0,0,da corsa,0,1
+animals,cavallo,purosangue,appaloosa,0,0,pony,0,1,da tiro,0,0,da sella,0,0,appaloosa,0,0,appaloosa,0,0,da sella,0,0,da sella,0,0,stallione da corsa,0,0,da lavoro,0,0
+animals,cavallo,bianco,quarter horse,0,0,bardotto,0,0,da compagnia,0,0,da fattoria,0,0,arabo,0,0,arabo,0,0,da carro,0,0,da lavoro,0,0,stallione da lavoro,0,0,,0,0
+animals,cavallo,stallone,andaluso,0,0,bardotto da tiro,0,0,pony,0,1,da trazione,0,0,mustang,0,0,frisone,0,0,da tiro,0,0,da caccia,0,0,st,0,0,,0,0
+hobbies,cd,audio,cd-rom,0,0,singolo,0,0,album,0,0,compact disc,0,0,audio,1,1,audio,1,1,compact disc,0,0,compact disc,0,0,singolo,0,0,box set,0,0
+hobbies,cd,-rom,cd-r,0,0,doppio,0,0,singolo,0,0,cd-audio,0,0,cd-rom,0,0,di dati,0,0,cd-rom,0,0,cd-rom,0,0,box set,0,0,singolo,0,0
+hobbies,cd,musicale,cd-rw,0,0,tripli,0,0,ep,0,0,cd-rom,0,0,cd-r,0,0,cd-rom,0,0,cd-r,0,0,cd-da,0,0,album,0,0,album,0,0
+hobbies,cd,riscrivibile,cd+g,0,0,quadruplo,0,0,mixtape,0,0,cd-r,0,0,cd-rw,0,0,cd-r,0,0,cd-rw,0,0,cd-r,0,0,compilation,0,0,compilation,0,0
+hobbies,cd,-r,cd+eg,0,0,live,0,0,playlist,0,0,cd-rw,0,0,maxi,0,0,cd-rw,0,0,cd-da,0,0,cd-rw,0,0,live,0,0,,0,0
+furnishings/fittings,centrotavola,di fiori,vaso,0,0,in legno,0,0,in legno,0,0,tavolo rotondo,0,0,floreale,0,0,composizione floreale,0,0,pizzeria,0,0,tavola,0,0,tavola,0,0,tavola,0,0
+furnishings/fittings,centrotavola,con candele,candelabro,0,0,in vetro,0,0,in metallo,0,0,tavolo a forma di luna,0,0,di candele,0,0,candelabro,0,0,ristorante,0,0,tavola di legno,0,0,sedie,0,0,tavolino,0,0
+furnishings/fittings,centrotavola,di pizzo,composizione floreale,0,0,in metallo,0,0,in vetro,0,0,tavolo estensibile,0,0,di frutta,0,0,di vetro,0,0,trattoria,0,0,tavola di vetro,0,0,tavolini,0,0,tavola da cucina,0,0
+furnishings/fittings,centrotavola,centrino,portacenere,0,0,in plastica,0,0,con cuscino,0,0,tavolo con gambi,0,0,di vasi,0,0,di legno,0,0,bar,0,0,tavola di carta,0,0,tavolini da cucina,0,0,tavola da cucina mobile,0,0
+foods,cereale,grano,riso,0,0,riso,0,0,riso,0,0,oatmeal,0,0,grano,1,1,frumento,0,0,mais,0,1,mais,0,1,bianco,0,0,farina,0,0
+foods,cereale,avena,grano,0,1,quinoa,0,0,avena,1,1,muesli,0,0,riso,0,0,orzo,0,1,riso,0,0,frumento,0,0,multigrano,0,0,orzo,0,1
+foods,cereale,farro,orzo,0,1,orzo,0,1,mais,0,1,granola,0,0,mais,0,1,avena,0,1,frumento,0,0,orzo,0,1,integrale,0,0,riso,0,0
+foods,cereale,orzo,avena,0,1,farro,0,1,orzo,1,1,corn flakes,0,0,orzo,1,1,segale,0,0,orzo,1,1,riso,0,0,farina,0,0,frumento,0,0
+foods,cereale,mais,quinoa,0,0,avena,0,1,quinoa,0,0,rice krispies,0,0,avena,0,1,riso,0,0,farro,0,1,farro,0,1,pane,0,0,avena,0,1
+body parts,cervello,umano,umano,1,1,umano,1,1,cerebro,0,0,cerebro umano,0,0,umano,1,1,neocorteccia,0,0,cerebro,0,0,cerebro,0,0,cerebro,0,0,cerebro,0,0
+body parts,cervello,animale,artificiale,0,0,di pesce,0,0,cervelletto,0,0,di un animale,0,0,di scimmia,0,0,corteccia cerebrale,0,0,encefalo,0,0,encefalo,0,0,midbrain,0,0,midbrain,0,0
+body parts,cervello,rettiliano,rettile,0,0,di animale,0,0,meningi,0,0,di un invertebrato,0,0,di topo,0,0,corteccia cerebellare,0,0,umano,0,1,cerebrum,0,0,pons,0,0,pons,0,0
+hobbies,chitarra,elettrica,classica,0,1,acustica,0,1,acustica,0,1,acustica,0,1,acustica,0,1,acustica,0,1,acustica,0,1,acustica,0,1,acustica,0,1,elettrica,1,1
+hobbies,chitarra,acustica,acustica,1,1,elettrica,0,1,elettrica,0,1,elettrica,0,1,classica,0,1,elettrica,0,1,elettrica,0,1,elettrica,0,1,elettrica,0,1,acustica,1,1
+hobbies,chitarra,classica,elettrica,0,1,classica,1,1,basso,0,0,basso,0,0,elettrica,0,1,classica,1,1,basso,0,0,basso,0,0,basso,0,0,classica,1,1
+hobbies,chitarra,a dodici corde,semiacustica,0,0,basso,0,0,classica,0,1,classica,0,1,a 12 corde,0,0,basso,0,0,classica,0,1,a 12 corde,0,0,a 12 corde,0,0,a 12 corde,0,0
+hobbies,chitarra,ukulele,resofonica,0,0,barocca,0,0,eletroacustica,0,0,steel,0,0,resofonica,0,0,a 12 corde,0,0,acustica-elettrica,0,0,a 6 corde,0,0,a 6 corde,0,0,a 6 corde,0,0
+plants,ciclamino,bianco,alpino,0,0,di gussago,0,0,rosa,0,1,rosa,0,1,di napoli,0,0,comune,0,0,rosso,0,1,con fiori,0,0,pet,0,0,selvatico,0,0
+plants,ciclamino,rosa,di persia,0,0,di sicilia,0,0,viola,0,0,blu,0,0,persiano,0,1,africano,0,0,blu,0,0,con fiori bianchi,0,0,pvc,0,0,,0,0
+plants,ciclamino,dei boschi,di coum,0,0,di toscana,0,0,lilaccio,0,0,viola,0,0,di cos,0,0,di madagascar,0,0,nero,0,0,con fiori rosa,0,0,polietilene,0,0,,0,0
+plants,ciclamino,rosso,di creta,0,0,di toscana a foglia larga,0,0,porpora,0,0,giallo,0,0,di milano,0,0,di ischia,0,0,bianco,0,1,con fiori rosa bianchi,0,0,polistirene,0,0,,0,0
+plants,ciclamino,persiano,di colchide,0,0,di toscana a foglia stretta,0,0,indaco,0,0,bianco,0,1,purpureum,0,0,di spagna,0,0,verde,0,0,con fiori rosa bianchi e verdi,0,0,polipropilene,0,0,,0,0
+plants,ciliegio,in fiore,dolce,0,1,ciliegia,0,0,ciliegia,0,0,comune,0,0,prunus avium,0,0,acido,0,0,acacia,0,0,in primavera,0,0,acacia,0,0,rosso,0,0
+plants,ciliegio,albero,amaro,0,0,ciliegia acerola,0,0,ciliegia di bosco,0,0,nero,0,0,prunus cerasus,0,0,dolce,0,1,acero,0,0,in autunno,0,0,acer,0,0,bianco,0,0
+plants,ciliegio,dolce,giapponese,0,0,ciliegia di corinto,0,0,ciliegia di frutto,0,0,americano,0,0,prunus serrulata,0,0,selvatico,0,0,fico,0,0,in piena fioritura,0,0,amorfo,0,0,giallo,0,0
+foods,cioccolato,fondente,fondente,1,1,bianco,0,1,cioccolata,0,0,bianco,0,1,fondente,1,1,albero del cacao,0,0,cioccolata,0,0,cioccolata,0,0,bianco,0,1,barra,0,0
+foods,cioccolato,bianco,al latte,0,1,al latte,0,1,cioccolatini,0,0,nero,0,0,al latte,0,1,al latte,0,1,cioccolata fondente,0,0,cioccolata con panna,0,0,nero,0,0,bocca,0,0
+foods,cioccolato,al latte,bianco,0,1,fondente,0,1,cioccolatini per bambini,0,0,fondente,0,1,bianco,0,1,fondente,0,1,cioccolata bianco,0,0,cioccolata con noci,0,0,bianco e nero,0,0,cilindro,0,0
+foods,cioccolato,alle nocciole,gianduja,0,0,amaro,0,0,cioccolatini per cani,0,0,biscotto,0,0,amaro,0,0,bianco,0,1,cioccolata nero,0,0,cioccolata con frullati,0,0,bianco e crema,0,0,cubo,0,0
+foods,cioccolato,alla gianduja,ripieno,0,0,al peperoncino,0,0,cioccolata calda,0,0,gelato,0,0,al gianduia,0,0,cioccolatini,0,0,cioccolata al latte,0,0,cioccolata con banane,0,0,crema,0,0,pallino,0,0
+stationery,colla,vinilica,vinilica,1,1,adesiva,0,0,adesivo,0,0,da carta,0,0,vinilica,1,1,a caldo,0,1,da barba,0,0,da penna,0,0,adesivo,0,0,adesivo,0,0
+stationery,colla,stick,a caldo,0,1,acrilica,0,0,per pietre,0,0,da legno,0,0,a caldo,0,1,a freddo,0,0,da capelli,0,0,da stampa,0,0,adesivo a base di resina,0,0,adesivo per carta,0,0
+stationery,colla,a caldo,a freddo,0,0,biologica,0,0,per legno,0,0,da vetro,0,0,a contatto,0,0,a base di acqua,0,0,da denti,0,0,da schiuma,0,0,adesivo a base di silicone,0,0,adesivo per cartone,0,0
+stationery,colla,super attack,epossidica,0,0,epoxi,0,0,per tessuti,0,0,da metallo,0,0,istantanea,0,0,a base di solvente,0,0,da pizze,0,0,da tinta,0,0,adesivo a base di acrilico,0,0,adesivo per plastica,0,0
+stationery,colla,di pesce,acrilica,0,0,hot glue,0,0,per plastica,0,0,da masticare,0,0,per legno,0,0,a base di resina,0,0,da pane,0,0,da tinta per stampa,0,0,adesivo a base di gomma,0,0,adesivo per metallo,0,0
+body parts,collo,lungo,di camicia,0,0,di cigno,0,0,di vetro,0,0,di animale,0,0,della camicia,0,0,camicia,0,0,di carta,0,0,di persona,0,0,vertebrale,0,0,bocca,0,0
+body parts,collo,all'italiana,di pelliccia,0,0,di gallina,0,0,di legno,0,0,di abbigliamento,0,0,della bottiglia,0,0,cravatta,0,0,di carta da parrucchiere,0,0,di animale,0,0,cervicale,0,0,orecchie,0,0
+body parts,collo,alla coreana,di volpe,0,0,di bottiglia,0,1,di metallo,0,0,di bottiglia,0,1,della maglietta,0,0,sciarpa,0,0,di carta da fotografia,0,0,di persona umana,0,0,cervicale superiori,0,0,naso,0,0
+body parts,collo,di bottiglia,di cigno,0,0,di bottiglia di vetro,0,0,di plastica,0,0,di gioiello,0,0,della giacca,0,0,foulard,0,0,di carta da stampa,0,0,di persona animale,0,0,cervicale inferiori,0,0,cigli,0,0
+body parts,collo,umano,di giraffa,0,0,di bottiglia di plastica,0,0,di gomma,0,0,di cinghia,0,0,di una persona,0,0,maglione a alto,0,0,di carta da taglio,0,0,di persona umana femminile,0,0,cervicale laterali,0,0,,0,0
+housing buildings,colonna,dorica,sonora,0,0,sonora,0,0,sostegno,0,0,idraulica,0,0,di distillazione,0,0,d'aria,0,0,di supporto,0,0,di traiano,0,0,di supporto,0,0,di legno,0,0
+housing buildings,colonna,corinzia,portante,0,1,vertebrale,0,0,pilastro,0,0,di sale,0,0,di fuoco,0,0,di fumo,0,0,di legno,0,0,di marco aurelio,0,0,di trasmissione,0,0,di marmo,0,0
+housing buildings,colonna,ionica,vertebrale,0,0,di supporto,0,0,muro,0,0,di ghiaccio,0,0,di mercurio,0,0,sonora,0,0,di cemento,0,0,di costantino,0,0,di sorreggimento,0,0,di cemento,0,0
+housing buildings,colonna,portante,ionica,0,1,di legno,0,0,palo,0,0,di vapore,0,0,di carico,0,0,,0,0,di ferro,0,0,di giustiniano,0,0,di rinforzo,0,0,,0,0
+housing buildings,colonna,romana,dorica,0,1,di acciaio,0,0,traliccio,0,0,sonora,0,0,portante,0,1,,0,0,di vetro,0,0,di san marco,0,0,di trasporto,0,0,,0,0
+kitchenware,coltello,a serramanico,da cucina,0,1,da cucina,0,1,da cucina,0,1,da cucina,0,1,da cucina,0,1,da cucina,0,1,da cucina,0,1,da cucina,0,1,da cucina,0,1,da cucina,0,1
+kitchenware,coltello,da cucina,da pane,0,1,da carne,0,0,da pesca,0,0,da caccia,0,0,da tavola,0,0,da tavola,0,0,da,0,0,da caccia,0,0,da cucina da taglio,0,0,da cucina da taglio,0,0
+kitchenware,coltello,da pane,da carne,0,0,da pesce,0,0,da caccia,0,0,da cucina da tavola,0,0,da pesca,0,0,da frutta,0,0,,0,0,da,0,0,da cucina da taglio a serrature,0,0,da cucina da taglio a serrature,0,0
+kitchenware,coltello,seghettato,da pesce,0,0,da pane,0,1,da lavoro,0,0,da pettine,0,0,da caccia,0,0,da pane,0,1,,0,0,,0,0,da cucina da taglio a serrature a mano,0,0,da cucina da taglio a serrature a sicurezza,0,0
+kitchenware,coltello,svizzero,da frutta,0,0,da formaggio,0,0,da cucina da cucina,0,0,da falcetto,0,0,da combattimento,0,0,da intaglio,0,0,,0,0,,0,0,da cucina da taglio a serrature a mano con manico,0,0,da cucina da taglio a serrature a sicurezza con manico,0,0
+furniture,comodino,di legno,classico,0,0,singolo,0,0,cuscino,0,0,comodini da cucina,0,0,vintage,0,0,da parete,0,0,lavandino,0,0,con 2 portelli,0,0,cassette,0,0,cassette,0,0
+furniture,comodino,a cassetti,moderno,0,0,matrimoniale,0,0,cuscino a piuma,0,0,da bagno,0,0,moderno,0,0,con cassetti,0,0,lavandino per cucina,0,0,con 3 portelli,0,0,scatole,0,0,scatole,0,0
+furniture,comodino,basso,rustico,0,0,a tre cassetti,0,0,cuscino a schiuma,0,0,da letto,0,0,industriale,0,0,con ante,0,0,lavandino per bagno,0,0,con 4 portelli,0,0,scatole per cassette,0,0,scaffale,0,0
+furniture,comodino,di metallo,in legno,0,0,a quattro cassetti,0,0,cuscino a forma di animale,0,0,da studio,0,0,con cassetti,0,0,con specchio,0,0,lavandino per banco,0,0,con 5 portelli,0,0,scatole per cd,0,0,scaffale per cassette,0,0
+furniture,comodino,sospeso,in vetro,0,0,a due cassetti,0,0,cuscino da letto,0,0,da vestibulo,0,0,con vano aperto,0,0,con illuminazione,0,0,lavandino per lavandinoio,0,0,con 6 portelli,0,0,scatole per dvd,0,0,scaffale per scatole,0,0
+hobbies,computer,portatile,supercomputer,0,0,desktop,0,0,desktop,0,0,desktop computer,0,0,desktop,0,0,desktop,0,0,desktop,0,0,desktop computer,0,0,desktop,0,0,desktop,0,0
+hobbies,computer,fisso,mainframe,0,0,laptop,0,0,laptop,0,0,laptop,0,0,laptop,0,0,laptop,0,0,laptop,0,0,laptop,0,0,laptop,0,0,laptop,0,0
+hobbies,computer,pc,server,0,0,tablet,0,0,tablet,0,0,tablet,0,0,workstation,0,0,tablet,0,0,tablet,0,0,tablet,0,0,tablet,0,0,tablet,0,0
+hobbies,computer,mini,workstation,0,0,smartphone,0,0,smartphone,0,0,smartphone,0,0,server,0,0,netbook,0,0,smartphone,0,0,smartphone,0,0,smartphone,0,0,smartphone,0,0
+furniture,comò,a cassetti,a due ante,0,0,a muro,0,0,cassettone,0,0,scatola a molla,0,0,antico,0,0,a cassetti,1,1,com,0,0,,0,0,a cassette,0,0,monitor,0,0
+furniture,comò,di legno,a tre ante,0,0,a due ante,0,0,a braccio,0,0,scatola a sfera,0,0,moderno,0,0,con specchio,0,0,,0,0,,0,0,a cassette a cassette,0,0,computer,0,0
+furniture,comò,comodino,a quattro ante,0,0,a tre ante,0,0,a muro,0,0,scatola a scomparsa,0,0,in legno,0,0,in stile rustico,0,0,,0,0,,0,0,a cassette a cassette a cassette,0,0,scanner,0,0
+animals,coniglio,nano,nano,1,1,europeo,0,0,comune,0,0,selvatico,0,1,nano,1,1,selvatico,0,1,selvatico,0,1,nero,0,0,selvatico,0,1,selvatico,0,1
+animals,coniglio,bianco,gigante,0,0,di palude,0,0,cinese,0,0,domestico,0,1,ariete,0,0,domestico,0,1,domestico,0,1,bianco,1,1,domestico,0,1,domestico,0,1
+animals,coniglio,lepre,olandese,0,0,di campagna,0,0,di montagna,0,0,da caccia,0,0,fiammingo,0,0,nano,0,1,americano,0,0,gigante,0,0,d'acqua,0,0,selvatico americano,0,0
+animals,coniglio,selvatico,belga,0,0,di palude d'europa,0,0,di sibillia,0,0,d'india,0,0,lanoso,0,0,gigante,0,0,europeo,0,0,di legno,0,0,d'acqua selvatico,0,0,selvatico europeo,0,0
+animals,coniglio,domestico,polacco,0,0,di palude d'asia,0,0,di prussia,0,0,di patagonia,0,0,calcara,0,0,pasquale,0,0,giapponese,0,0,di carta,0,0,d'acqua domestico,0,0,selvatico australiano,0,0
+furnishings/fittings,cornice,di legno,per quadri,0,0,da quadro,0,0,per finestra,0,0,pittorica,0,0,per foto,0,0,per quadri,0,0,di vetro,0,0,di un edificio,0,0,interna,0,0,a scala,0,0
+furnishings/fittings,cornice,barocca,per specchio,0,0,da foto,0,0,per porte,0,0,architetturale,0,0,per specchio,0,0,per foto,0,0,di legno,0,1,di una finestra,0,0,esterna,0,0,a cassetto,0,0
+furnishings/fittings,cornice,di plastica,per finestra,0,0,da specchio,0,0,per pavimento,0,0,fotografica,0,0,digitale,0,0,per specchio,0,0,di marmo,0,0,di una porta,0,0,in legno,0,0,a cassetto a scala,0,0
+furnishings/fittings,cornice,d'argento,per porta,0,0,da porta,0,0,per soffitto,0,0,quadro,0,0,da parete,0,0,per poster,0,0,di gesso,0,0,di una vetrata,0,0,in cemento,0,0,a cassetto a scala con cassette a scala,0,0
+furnishings/fittings,cornice,di alluminio,per occhiali,0,0,da finestra,0,0,per tavolo,0,0,vetro,0,0,da tavolo,0,0,per dipinti,0,0,di alluminio,1,1,di una finestra con arco,0,0,in pietra,0,0,a cassette a scala con cassette a scala con cassette a scala,0,0
+furniture,credenza,di legno,mobile,0,0,a muro,0,0,banca,0,0,armoire,0,0,da cucina,0,0,in stile rustico,0,0,armadio,0,0,armadio,0,0,buffet,0,0,scrivania,0,0
+furniture,credenza,vetrinetta,mobiletto,0,0,a mensola,0,0,cassa di risparmio,0,0,buffet,0,0,da sala da pranzo,0,0,in stile moderno,0,0,buffet,0,0,armadio a due porte,0,0,cassette,0,0,armadio,0,0
+furniture,credenza,religiosa,armadio,0,0,a soppalco,0,0,fondi comuni,0,0,cabinet,0,0,da soggiorno,0,0,in stile shabby chic,0,0,in vetro,0,0,armadio a tre porte,0,0,cassette a scompartimenti,0,0,cassette,0,0
+hobbies,cruciverba,a schema libero,classico,0,0,a parole,0,0,puzzle,0,0,puzzola,0,0,tematico,0,0,classico,0,0,croce,0,0,1,0,0,parola,0,0,parola,0,0
+hobbies,cruciverba,parole crociate,tematico,0,0,a immagini,0,0,anagramma,0,0,croce intersecata,0,0,enigmistico,0,0,tematico,0,0,croce di legno,0,0,2,0,0,risposta,0,0,lettera,0,0
+hobbies,cruciverba,rebus,a schema variabile,0,0,a indovinelli,0,0,acrostico,0,0,enigma a matrice,0,0,a schema fisso,0,1,a tema libero,0,0,croce di ferro,0,0,3,0,0,riddle,0,0,simbolo,0,0
+hobbies,cruciverba,a schema fisso,a schema fisso,1,1,a parole crociate,0,0,palindromo,0,0,parola mista,0,0,a barre,0,0,a griglia,0,0,croce di carta,0,0,4,0,0,enigma,0,0,numerale,0,0
+hobbies,cruciverba,crittografato,a schema libero,0,1,a parole incrociate,0,0,anagramma di parole,0,0,risposta,0,0,a croce,0,0,a parole incrociate,0,0,croce di plastica,0,0,5,0,0,puzzle,0,0,frase,0,0
+kitchenware,cucchiaio,cucchiaino,da dessert,0,0,da tavola,0,0,da tavola,0,0,da tavola,0,0,da tavola,0,0,da tavola,0,0,piatti,0,0,,0,0,da bocca,0,0,da cucina,0,0
+kitchenware,cucchiaio,da tè,da minestra,0,0,da dessert,0,0,da cucina,0,0,da neonato,0,0,da cucina,0,0,da minestra,0,0,piatti da cucina,0,0,,0,0,da bocca per bambini,0,0,da banco,0,0
+kitchenware,cucchiaio,di legno,da tè,0,1,da minestra,0,0,da forno,0,0,da bambino,0,0,dosatore,0,0,da dessert,0,0,piatti da tavola,0,0,,0,0,da bocca per adulti,0,0,da tavola,0,0
+kitchenware,cucchiaio,da dolce,da caffè,0,1,da pesce,0,0,da ghiaccio,0,0,da cane,0,0,misurino,0,0,da tè,0,1,piatti da pranzo,0,0,,0,0,da boc,0,0,da bocca,0,0
+kitchenware,cucchiaio,da caffè,da zuppa,0,0,da zuppa,0,0,da neve,0,0,da cavallo,0,0,di legno,0,1,da caffè,1,1,piatti da pasto,0,0,,0,0,,0,0,da bocca per bambini,0,0
+housing buildings,cucina,italiana,a gas,0,0,in muratura,0,0,pentola,0,0,moderna,0,0,americana,0,0,fornello,0,0,forno,0,0,frullatore,0,0,americana,0,0,da cucina,0,0
+housing buildings,cucina,cinese,elettrica,0,0,in acciaio,0,0,padella,0,0,tradizionale,0,0,a isola,0,0,piano cottura,0,0,frigorifero,0,0,tostapane,0,0,italiana,0,1,,0,0
+housing buildings,cucina,vegetariana,a induzione,0,0,in legno,0,0,teglia,0,0,italiana,0,1,angolare,0,0,forno,0,0,lavastoviglie,0,0,lavatrice,0,0,cinese,0,1,,0,0
+housing buildings,cucina,giapponese,a legna,0,0,in vetro,0,0,forno,0,0,cinese,0,1,con penisola,0,0,frigorifero,0,0,tostapane,0,0,microonde,0,0,indiana,0,0,,0,0
+housing buildings,cucina,ad angolo,a carbone,0,0,in plastica,0,0,frigorifero,0,0,indiana,0,0,a u,0,0,freezer,0,0,microonde,0,0,lavastoviglie,0,0,messicana,0,0,,0,0
+body parts,cuore,anatomico,umano,0,1,umano,0,1,umano,0,1,umano,0,1,umano,0,1,umano,0,1,umano,0,1,immagine del cuore,0,0,ventricolo sinistro,0,0,umano,0,1
+body parts,cuore,umano,di pollo,0,0,di animale,0,0,animale,0,1,animale,0,1,di bovino,0,0,animale,0,1,animale,0,1,simbolo del cuore,0,0,ventricolo destro,0,0,animale,0,1
+body parts,cuore,spezzato,di bue,0,0,di pesce,0,0,di pietra,0,1,vegetale,0,0,di maiale,0,0,vegetale,0,0,vegetale,0,0,icona del cuore,0,0,atrio sinistro,0,0,vegetale,0,0
+body parts,cuore,animale,di maiale,0,0,di insetto,0,0,di legno,0,0,di ghiaccio,0,0,di pollo,0,0,artificiale,0,0,di legno,0,0,emoji del cuore,0,0,atrio destro,0,0,di legno,0,0
+body parts,cuore,di pietra,,0,0,di uccello,0,0,di metallo,0,0,di vetro,0,0,di pesce,0,0,di una città,0,0,di vetro,0,0,grafico del cuore,0,0,tricuspidale valva,0,0,di metallo,0,0
+furnishings/fittings,cuscino,in memory foam,a forma di cuore,0,0,di piuma,0,1,da letto,0,0,da letto,0,0,da seduta,0,0,per il collo,0,0,da letto,0,0,da letto,0,0,da letto,0,0,per la testa,0,0
+furnishings/fittings,cuscino,di piuma,a forma di animale,0,0,di piume,0,0,da poltrona,0,0,da sedere,0,0,da letto,0,0,per la schiena,0,0,da sedere,0,0,da sedere,0,0,per la testa,0,0,per il corpo,0,0
+furnishings/fittings,cuscino,da divano,a forma di persona,0,0,di gomma,0,0,da poltrona esterno,0,0,gonfiabile,0,0,da orlo,0,0,per la pancia,0,0,da schiena,0,0,da bagno,0,0,per il collo,0,0,per il letto,0,0
+furnishings/fittings,cuscino,ortopedico,a forma di oggetto,0,0,di lana,0,0,da giardino,0,0,decorativo,0,0,da poggiatesta,0,0,per il seno,0,0,da testa,0,0,da letto decorativo,0,0,per il piede,0,0,per il divano,0,0
+furnishings/fittings,cuscino,di lattice,a forma di simbolo,0,0,di memory foam,0,0,da spiaggia,0,0,per testa,0,0,da allattamento,0,0,per il capezzale,0,0,da ginocchio,0,0,da sedere decorativo,0,0,per la schiena,0,0,per il sofà,0,0
+animals,delfino,comune,comune,1,1,comune,1,1,comune,1,1,comune,1,1,comune,1,1,comune,1,1,comune,1,1,saltante,0,0,del pacifico,0,0,squalo,0,0
+animals,delfino,orca,di commerson,0,0,cinese,0,0,del mediterraneo,0,0,bottnico,0,0,tursiope,0,0,tursiope,0,0,del pacifico,0,0,in acqua,0,0,del mar del nord,0,0,squalo delfino,0,0
+animals,delfino,rosa,di hector,0,0,del giappone,0,0,del giappone,0,0,del pacifico,0,0,comune striato,0,0,dal naso a bottiglia,0,0,del mar rosso,0,0,in aria,0,0,del mar del baltico,0,0,squalo balena,0,0
+animals,delfino,bianco,di risso,0,0,del pacifico,0,0,del pacifico,0,0,del mar bianco,0,0,dal becco bianco,0,0,di risso,0,0,del golfo,0,0,in oceano,0,0,del mar del giappone,0,0,squalo balena delfino,0,0
+furniture,divano,letto,letto,1,1,letto,1,1,a tre o più posti,0,0,a canape,0,0,letto,1,1,a due posti,0,1,a due posti,0,1,sofa,0,0,da gioco,0,0,da letto,0,0
+furniture,divano,a due posti,a due posti,1,1,reclinabile,0,0,a due posti,1,1,a piedistallo,0,0,angolare,0,0,a tre posti,0,1,a tre posti,0,1,canapé,0,0,da gioco con tavolo,0,0,da sala,0,0
+furniture,divano,ad angolo,a tre posti,0,1,a tre posti,0,1,a sdraio,0,0,a schiena retta,0,0,a due posti,0,1,a l,0,0,a quattro posti,0,0,ottomano,0,0,da gioco con tavolo e sedie,0,0,da sala da gioco,0,0
+furniture,divano,a tre posti,ad angolo,0,1,a due posti,0,1,a cuscino,0,0,a cuscino,0,0,a tre posti,1,1,angolare,0,0,a cinque posti,0,0,poltrona,0,0,da gioco con tavolo e sedie e tavolo,0,0,da sala da musica,0,0
+furniture,divano,con penisola,a forma di l,0,0,a quattro posti,0,0,a slitta,0,0,a rotelle,0,0,reclinabile,0,0,letto,0,1,a sei posti,0,0,cuscino,0,0,,0,0,da sala da cinema,0,0
+plants,edera,rampicante,comune,0,1,per esterni,0,0,comune,0,1,comune,0,1,comune,0,1,hhelix,0,0,comune,0,1,comune,0,1,acacia,0,0,acacia,0,0
+plants,edera,velenosa,terrestre,0,0,per interni,0,0,gigante,0,0,americana,0,0,giapponese,0,0,hcanariensis,0,0,americana,0,0,americana,0,0,arbutus,0,0,aloe,0,0
+plants,edera,comune,arborea,0,0,per pareti,0,0,nana,0,0,rossa,0,0,variegata,0,0,hhibernica,0,0,del caucaso,0,0,nera,0,0,cedro,0,0,arboricola,0,0
+animals,elefante,africano,africano,1,1,africano,1,1,africano,1,1,african elephant,0,0,africano,1,1,africano,1,1,africano,1,1,africano,1,1,african elephant,0,0,africano,1,1
+animals,elefante,indiano,asiatico,0,1,asiatico,0,1,asiatico,0,1,asian elephant,0,0,asiatico,0,1,asiatico,0,1,asiatico,0,1,asiatico,0,1,asian elephant,0,0,asiatico,0,1
+animals,elefante,asiatico,nano,0,0,nano,0,0,di sumatra,0,0,indian elephant,0,0,di savana,0,0,marino,0,0,indiano,0,1,indiano,0,1,indian elephant,0,0,indiano,0,1
+vehicles,elicottero,militare,leggero,0,0,da turismo,0,0,da trasporto,0,0,militare,1,1,da turismo,0,0,da trasporto,0,0,militare,1,1,,0,0,da combattimento,0,0,militare,1,1
+vehicles,elicottero,del pronto soccorso,medio,0,0,da trasporto,0,0,da combattimento,0,0,da trasporto,0,0,da soccorso,0,0,da soccorso,0,0,civile,0,1,,0,0,da trasporto,0,0,da trasporto,0,0
+vehicles,elicottero,privato,pesante,0,0,da combattimento,0,0,da pattugliamento,0,0,da soccorso,0,0,da combattimento,0,0,da combattimento,0,0,di polizia,0,0,,0,0,da ricognizione,0,0,da ricognizione,0,0
+vehicles,elicottero,da guerra,da trasporto,0,0,da ricerca e soccorso,0,0,da pompaggio,0,0,da eliservizi,0,0,utility,0,0,da ricognizione,0,0,di emergenza,0,0,,0,0,da ricerca,0,0,da combattimento,0,0
+vehicles,elicottero,civile,da combattimento,0,0,da trasporto sanitario,0,0,da trasporto di merci,0,0,da polizia,0,0,d'attacco,0,0,da lavoro,0,0,di ricerca e salvataggio,0,0,,0,0,da soccorso,0,0,da soccorso,0,0
+stationery,evidenziatore,giallo,liquido,0,0,a sfera,0,0,pennarelli,0,0,di testo,0,0,a penna,0,0,giallo,1,1,monitor,0,0,di prova,0,0,marker,0,0,penna,0,0
+stationery,evidenziatore,verde,a forma di penna,0,0,a penna,0,0,matite,0,0,di codice,0,0,a punta tonda,0,0,verde,1,1,schermo,0,0,di laboratorio,0,0,penna,0,0,stilo,0,0
+stationery,evidenziatore,fluorescente,a forma di matita,0,0,a matita,0,0,pennelli,0,0,di errore,0,0,ad acqua,0,0,rosa,0,0,display,0,0,di prova di laboratorio,0,0,stilografo,0,0,marker,0,0
+stationery,evidenziatore,stabilo,a forma di pennarello,0,0,a pennarello,0,0,pennarelli a righello,0,0,di tag,0,0,gel,0,0,rosso,0,0,proiettore,0,0,di prova di laboratorio di chimica,0,0,stilografo a inchiostro,0,0,crayon,0,0
+stationery,evidenziatore,a punta fine,a forma di highlighter,0,0,a pennarello a sfera,0,0,pennarelli a sghembo,0,0,di paragrafo,0,0,a secco,0,0,blu,0,0,pannello,0,0,di prova di laboratorio di fisica,0,0,stilografo a carta,0,0,pastello,0,0
+clothes,felpa,con cappuccio,con cappuccio,1,1,da golf,0,0,cappello,0,0,antica,0,0,con cappuccio,1,1,con cappuccio,1,1,di pesce,0,0,da lavoro,0,0,borsa,0,0,camisa,0,0
+clothes,felpa,con cerniera,senza cappuccio,0,1,da basket,0,0,berretto,0,0,usata,0,0,senza cappuccio,0,1,senza cappuccio,0,1,di pollo,0,0,da lavoro con maniche lunghe,0,0,scarpe,0,0,maglia,0,0
+clothes,felpa,senza cappuccio,a maniche lunghe,0,0,da allenamento,0,0,cappuccio,0,0,sporca,0,0,da ginnastica,0,0,con zip,0,0,di carne,0,0,da lavoro con maniche corte,0,0,cappello,0,0,giubbino,0,0
+clothes,felpa,girocollo,a maniche corte,0,0,da ghiaccio,0,0,mantello,0,0,gialla,0,0,termica,0,0,senza zip,0,0,di pesce rosso,0,0,da lavoro con maniche lunghe con collo alto,0,0,cuffia,0,0,sweater,0,0
+clothes,felpa,di pile,oversize,0,0,da skate,0,0,sciarpa,0,0,grasa,0,0,da baseball,0,0,a manica corta,0,0,di pesce bianco,0,0,da lavoro con maniche corte con collo alto,0,0,guantino,0,0,t-shirt,0,0
+plants,ficus,benjamin,aurea,0,0,carica,0,0,benghalensis,0,0,lyrata,0,0,benjamina,0,0,benjamina,0,0,benjamina,0,0,benjamina,0,0,benjamina,0,0,benjamina,0,0
+housing buildings,finestra,a una anta,a ghigliottina,0,0,a ghigliena,0,0,a tenda,0,0,a vetro singolo,0,0,a battente,0,1,a battente,0,1,aperta,0,0,porta,0,1,aperta,0,0,porta,0,1
+housing buildings,finestra,porta,a vasistas,0,0,a sbarra,0,0,a vetro,0,0,a vetro doppio,0,0,a vasistas,0,0,scorrevole,0,0,chiusa,0,0,vetro,0,0,chiusa,0,0,vetro,0,0
+housing buildings,finestra,a battente,a bilico,0,0,a battente,1,1,a sospensione,0,0,in alluminio,0,0,scorrevole,0,0,a vasistas,0,0,fin,0,0,vetroresina,0,0,,0,0,porta-finestra,0,0
+housing buildings,finestra,a due ante,a ribalta,0,0,scorrevole,0,0,a muro,0,0,in legno,0,0,a ribalta,0,0,a ghigliottina,0,0,,0,0,vetrospaccato,0,0,,0,0,porta-fenestra,0,0
+housing buildings,finestra,finestrino,a battente,0,1,a cassetta,0,0,a palazzo,0,0,aperta,0,0,a oscillo-battente,0,0,a ribalta,0,0,,0,0,vetrorete,0,0,,0,0,,0,0
+furnishings/fittings,fioriera,in terracotta,vaso,0,0,vaso da fiori,0,0,vaso,0,0,vaso fiori,0,0,da terra,0,0,vasi,0,0,banco di fiori,0,0,vase,0,0,fiori,0,0,pianta,0,0
+furnishings/fittings,fioriera,in plastica,ciotola,0,0,giardino,0,0,ciotola,0,0,tazza fiori,0,0,sospesa,0,0,urne,0,0,kiosco di fiori,0,0,pianta,0,0,pianta,0,0,fiori,0,0
+furnishings/fittings,fioriera,da balcone,contenitore,0,0,terrazzo,0,0,vaso da fiori,0,0,vasetto fiori,0,0,da interno,0,0,ciotole,0,0,negozio di fiori,0,0,fiori,0,0,arboreo,0,0,vasi,0,0
+furnishings/fittings,fioriera,in pietra,cesto,0,0,balcone,0,0,cassa da fiori,0,0,urna fiori,0,0,da esterno,0,0,contenitori per piante,0,0,fioraio,0,0,pot,0,0,arbusto,0,0,pietra,0,0
+furnishings/fittings,fioriera,in metallo,vasetto,0,0,vasca da fiori,0,0,scatola da fiori,0,0,vaso di porcellana,0,0,in plastica,0,1,fioriere sospese,0,0,fioraio ambulante,0,0,succulente,0,0,erba,0,0,,0,0
+stationery,foglio,a4,di carta,0,1,carta da parati,0,0,carta,0,0,carta da scrittura,0,0,di carta,0,1,di carta,0,1,di carta,0,1,di carta,0,1,carta,0,0,carta,0,0
+stationery,foglio,a quadretti,di calcolo,0,0,carta da lettera,0,0,di velluto,0,0,di piante,0,0,di alluminio,0,0,di alluminio,0,0,di giornale,0,0,di giornale,0,0,carta da scrittura,0,0,carta da scrittura,0,0
+stationery,foglio,a righe,di stile,0,0,carta da regalo,0,0,di carta igienica,0,0,di legno,0,0,di gomma,0,0,di vetro,0,0,di carta da parati,0,0,di carta da parati,0,0,carta da rilevare,0,0,carta da telefono,0,0
+stationery,foglio,bianco,di via,0,0,carta da pacchi,0,0,di carta da cucito,0,0,di metallo,0,0,di plastica,0,0,di metallo,0,0,di carta da stampa,0,0,di carta da stampa,0,0,carta da rilevare a mano,0,0,carta da registro,0,0
+stationery,foglio,di carta,di ruta,0,0,carta da imballaggio,0,0,di carta da scrivere,0,0,di pelliccia,0,0,di stoffa,0,0,di gomma,0,0,di carta da scrittura,0,0,di carta da scrittura,0,0,carta da rilevare a stampo,0,0,carta da spesa,0,0
+kitchenware,forbice,con punta arrotondata,forbici da cucito,0,0,da capelli,0,0,a mano,0,0,da tagliare il filo,0,0,da giardinaggio,0,0,da giardino,0,0,da barba,0,0,da barba,0,0,da taglio,0,0,da taglio,0,0
+kitchenware,forbice,cesoia,forbici da potatura,0,0,da unghie,0,0,elettrico,0,0,da cucito,0,0,da cucito,0,0,da potatura,0,0,da capelli,0,0,da capelli,0,0,da taglio e taglia,0,0,da taglio e taglia,0,0
+kitchenware,forbice,da sarto,forbici da sarto,0,0,da stoffa,0,0,a lama rotante,0,0,da cucina,0,1,da tappezzeria,0,0,da cucina,0,1,da taglio,0,0,da legno,0,0,da taglio e taglia e taglia e taglia,0,0,,0,0
+kitchenware,forbice,da parrucchiere,forbici da chirurgia,0,0,da giardino,0,0,a lama affilata,0,0,da legare,0,0,per unghie,0,0,da unghie,0,0,da cucito,0,0,da tessuto,0,0,da taglio e taglia e taglia e taglia e taglia e taglia,0,0,,0,0
+kitchenware,forbice,da cucina,forbici da ufficio,0,0,da pesce,0,0,a lama a guida manuale,0,0,da tagliare il metallo,0,0,tagliacapelli,0,0,da sarto,0,1,da legno,0,0,da filo,0,0,da taglio e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e taglia e,0,0,,0,0
+kitchenware,forchetta,da dolce,da dessert,0,0,da pesce,0,1,da tavola,0,1,da tavola,0,1,da tavola,0,1,da insalata,0,0,da tavola,0,1,da cucina,0,0,da cucina,0,0,da cucina,0,0
+kitchenware,forchetta,da tavola,da pesce,0,1,da dessert,0,0,da cucina,0,0,da pasta,0,0,da dessert,0,0,da dessert,0,0,da pasta,0,0,da tavola,1,1,da tavola,1,1,da tavola,1,1
+kitchenware,forchetta,da pesce,da carne,0,0,da carne,0,0,da barbecue,0,0,da barbecue,0,0,da frutta,0,0,da frutta,0,0,da pesce,1,1,da pasta,0,0,,0,0,,0,0
+kitchenware,forchetta,di plastica,da insalata,0,0,da cacciagione,0,0,da pesca,0,0,da cucina,0,0,da insalata,0,0,da pesce,0,1,da carne,0,0,da riso,0,0,,0,0,,0,0
+kitchenware,forchetta,a tre punte,da frutta,0,0,da pasto,0,0,,0,0,da pesce,0,1,da pesce,0,1,da carne,0,0,da frullato,0,0,da carne,0,0,,0,0,,0,0
+foods,formaggio,parmigiano,asiago,0,0,parmigiano,1,1,parmigiano,1,1,mozzarella,0,1,cheddar,0,0,cheddar,0,0,parmigiano,1,1,mozzarella,0,1,brie,0,1,pecorino,0,0
+foods,formaggio,stagionato,brie,0,1,mozzarella,0,1,mozzarella,0,1,parmigiano-reggiano,0,0,mozzarella,0,1,mozzarella,0,1,mozzarella,0,1,cheddar,0,0,camembert,0,0,parmigiano reggiano,0,0
+foods,formaggio,brie,burrata,0,0,gorgonzola,0,1,gorgonzola,0,1,cheddar,0,0,brie,1,1,parmigiano reggiano,0,0,gorgonzola,0,1,gouda,0,0,cheddar,0,0,mozzarella,0,1
+foods,formaggio,gorgonzola,fontina,0,0,provolone,0,0,ricotta,0,0,gorgonzola,1,1,gouda,0,0,gorgonzola,1,1,pecorino,0,0,brie,0,1,edam,0,0,gorgonzola,1,1
+foods,formaggio,mozzarella,gorgonzola,0,1,ricotta,0,0,provolone,0,0,feta,0,0,camembert,0,0,brie,0,1,parmesan,0,0,parmigiano,0,1,feta,0,0,brie,0,1
+furnishings/fittings,fotografia,in bianco e nero,autoritratto,0,0,fotocamera,0,0,aerea,0,0,digitale,0,1,ritratto,0,0,fotocamera,0,0,fotocamera,0,0,fotografo,0,0,fotocamera,0,0,scatto,0,0
+furnishings/fittings,fotografia,digitale,ritratto,0,0,polaroid,0,1,notturna,0,0,tradizionale,0,0,paesaggio,0,0,smartphone,0,0,telecamera,0,0,fotocamera,0,0,telefono cellulare,0,0,foto,0,0
+furnishings/fittings,fotografia,a colori,paesaggio,0,0,selfie,0,0,sportiva,0,0,aerea,0,0,natura morta,0,0,obiettivo,0,0,telefono,0,0,fotolab,0,0,tablet,0,0,fotografo,0,0
+furnishings/fittings,fotografia,analogica,still life,0,0,ritratto,0,0,di ritratto,0,0,underwater,0,0,sportiva,0,0,flash,0,0,smartphone,0,0,fotogramma,0,0,computer,0,0,fotocamera,0,0
+furnishings/fittings,fotografia,polaroid,macrofotografia,0,0,paesaggio,0,0,di paesaggio,0,0,macro,0,0,di strada,0,0,treppiede,0,0,dispositivo fotografico,0,0,fotostudio,0,0,smartphone,0,0,fotocopia,0,0
+foods,frutta,banana,mela,0,1,mele,0,0,banana,1,1,mela,0,1,mela,0,1,mela,0,1,mela,0,1,mela,0,1,mela,0,1,mela,0,1
+foods,frutta,mela,pera,0,1,banane,0,0,mela,1,1,banana,0,1,banana,0,1,banana,0,1,banana,0,1,banana,0,1,mango,0,0,ciliegie,0,0
+foods,frutta,arancia,banana,0,1,arance,0,0,pesca,0,0,arancia,1,1,arancia,1,1,arancia,1,1,arancia,1,1,arancia,1,1,banana,0,1,pesche,0,0
+foods,frutta,pera,arancia,0,1,albicocche,0,0,arancia,0,1,pera,1,1,pera,1,1,limone,0,0,pera,1,1,pera,1,1,ciliegie,0,0,mango,0,0
+foods,frutta,fragola,limone,0,0,pesche,0,0,limone,0,0,fico,0,0,ananas,0,0,fragola,1,1,limone,0,0,melone,0,0,uva,0,0,banane,0,0
+vehicles,furgone,camperizzato,postale,0,0,cargo,0,0,a due posti,0,0,pieno,0,0,per trasporto merci,0,0,per le consegne,0,0,fiat panda,0,0,van,0,1,camion,0,0,camion,0,0
+vehicles,furgone,van,blindato,0,0,da lavoro,0,0,a tre posti,0,0,refrigerato,0,0,per passeggeri,0,0,per il trasporto merci,0,0,fiat 500,0,0,minivan,0,0,pickup,0,0,pick-up,0,0
+animals,gallo,cedrone,cedrone,1,1,cedrone,1,1,selvatico,0,0,domestico,0,0,domestico,0,0,gallina,0,0,gallina,0,0,gallina,0,0,gallina,0,0,gallina,0,0
+animals,gallo,nero,bankiva,0,0,di riserva,0,0,domestico,0,0,selvatico,0,0,cedrone,0,1,pollo,0,0,d'oro,0,0,pollo,0,0,petti gallo,0,0,selvatico,0,0
+body parts,gamba,del tavolo,di legno,0,1,anteriore,0,0,di legno,0,1,destra,0,1,zampa di animale,0,0,di una sedia,0,0,gambissaggio,0,0,di legno,0,1,destra,0,1,femorale,0,0
+body parts,gamba,umana,di un tavolo,0,0,posteriore,0,0,di metallo,0,0,sinistra,0,0,umana,1,1,di un tavolo,0,0,,0,0,di vetro,0,0,sinistra,0,0,tibiale,0,0
+body parts,gamba,di legno,di un animale,0,0,femorale,0,0,di plastica,0,0,anteriore,0,0,di tavolo,0,0,di un letto,0,0,,0,0,di metallo,0,0,interna,0,0,peroneale,0,0
+body parts,gamba,destra,di un essere umano,0,0,inferiore,0,0,di vetro,0,0,posteriore,0,0,di sedia,0,0,di un mobile,0,0,,0,0,di carta,0,0,esterna,0,0,fibula,0,0
+body parts,gamba,lunga,di un insetto,0,0,superiore,0,0,di fibra di vetro,0,0,superiore,0,0,di letto,0,0,di un essere umano,0,0,,0,0,di plastica,0,0,superficiale,0,0,tibia,0,0
+animals,gatto,siamese,siamese,1,1,domestico,0,0,domestico,0,0,bengala,0,0,abyssinian,0,0,maine coon,0,1,domestico,0,0,gattino,0,0,domestico,0,0,domestico,0,0
+animals,gatto,persiano,maine coon,0,1,selvatico,0,0,selvatico,0,0,persiano,1,1,bengala,0,0,siamese,0,1,selvatico,0,0,gattina,0,0,selvatico,0,0,selvatico,0,0
+animals,gatto,maine coon,persiano,0,1,di compagnia,0,0,da compagnia,0,0,ragdoll,0,0,british shorthair,0,0,persiano,0,1,da caccia,0,0,gattone,0,0,di casa,0,0,di casa,0,0
+animals,gatto,sphynx,british shorthair,0,0,di strada,0,0,da caccia,0,0,siamese,0,1,devon rex,0,0,bengalese,0,0,da compagnia,0,0,gattuzzo,0,0,di strada,0,0,di strada,0,0
+animals,gatto,a pelo lungo,ragdoll,0,0,di caccia,0,0,da guardia,0,0,british shorthair,0,0,domestic shorthair,0,0,abissino,0,0,da giardino,0,0,gattaccio,0,0,di stalla,0,0,di stalla,0,0
+plants,geranio,rosso,a foglie di quercia,0,0,rosso,1,1,petalo,0,0,comune,0,0,zonale,0,0,comune,0,0,rosso,1,1,geraniolo,0,0,geranium sanguineum,0,0,geranium,0,0
+plants,geranio,edera,a foglie di felce,0,0,bianco,0,1,stelo,0,0,zonale,0,0,di ivy,0,0,odoroso,0,0,bianco,0,1,geraniolo bianco,0,0,geranium phaeum,0,0,pelargonium,0,0
+plants,geranio,rosa,a foglie di vite,0,0,giallo,0,0,foglia,0,0,di pietra,0,0,di martha washington,0,0,zonal,0,0,giallo,0,0,geraniolo rosa,0,0,geranium sessile,0,0,arancio,0,0
+plants,geranio,bianco,a foglie di tasso,0,0,viola,0,1,fioritura,0,0,di acqua,0,0,di sangue,0,0,balcanico,0,0,rosa,0,1,geraniolo rosso,0,0,geranium pyrenaicum,0,0,dianthus,0,0
+plants,geranio,viola,a foglie di agrifoglio,0,0,rosa,0,1,,0,0,rosso,0,1,arrampicanti,0,0,cinese,0,0,viola,1,1,geraniolo giallo,0,0,geranium robertianum,0,0,,0,0
+clothes,giacca,a vento,a vento,1,1,da lavoro,0,0,da uomo,0,0,da pioggia,0,0,blazer,0,1,a vento,1,1,da uomo,0,0,da uomo,0,0,casual,0,0,giubbino,0,0
+clothes,giacca,di pelle,di pelle,1,1,da smoking,0,0,da donna,0,0,denim,0,0,bomber,0,0,di pelle,1,1,da donna,0,0,da donna,0,0,sport,0,0,cappotto,0,1
+clothes,giacca,blazer,sportiva,0,0,da pelle,0,0,da bambino,0,0,bomber,0,0,cappotto,0,1,di jeans,0,1,da bambino,0,0,da lavoro,0,0,business,0,0,fazzoletto,0,0
+clothes,giacca,di jeans,da sci,0,0,da motociclista,0,0,da neve,0,0,windbreaker,0,0,cappotto da cowboy,0,0,sportiva,0,0,da neonato,0,0,da moto,0,0,formal,0,0,gilet,0,0
+clothes,giacca,cappotto,da motociclista,0,0,da sci,0,0,da sci,0,0,impermeabile,0,0,cappotto da motociclista,0,0,a vento imbottita,0,0,da maternità,0,0,da caccia,0,0,denim,0,0,,0,0
+clothes,gilet,doppiopetto,in pelle,0,0,di pelliccia,0,0,camicia,0,0,da motocicletta,0,0,senza maniche,0,0,senza maniche,0,0,di pelle,0,0,vest,0,0,da moto,0,0,veste,0,0
+clothes,gilet,monopetto,imbottito,0,0,di pelle,0,0,giacca,0,0,da equitazione,0,0,imbottito,0,0,con maniche,0,0,di lana,0,1,jacket,0,0,da ciclismo,0,0,giacca,0,0
+clothes,gilet,elegante,antiproiettile,0,0,di cotone,0,0,giacca da ballo,0,0,da neve,0,0,in pelle,0,0,imbottito,0,0,di velluto,0,0,blazer,0,0,da corsa,0,0,giubbino,0,0
+clothes,gilet,di lana,di salvataggio,0,0,di lana,1,1,giacca da sci,0,0,da vestito,0,0,in maglia,0,0,in jeans,0,0,di lana di camoscio,0,0,suit vest,0,0,da bicicletta,0,0,giacca da pranzo,0,0
+clothes,gilet,smanicato,da sci,0,0,da sci,0,0,giacca da neve,0,0,da maglia,0,0,in velluto,0,0,di pelle,0,0,di lana di mohair,0,0,waistcoat,0,0,,0,0,giacca da gala,0,0
+hobbies,gioco da tavola,monopoly,monopoli,0,0,monopoli,0,0,monoposto,0,0,scacchi,0,0,monopoly,1,1,monopoli,0,0,scacchiere,0,0,scacchiere,0,0,scacchiere,0,0,scacchiere,0,0
+hobbies,gioco da tavola,risiko,risiko,1,1,scacchi,0,0,scacchi,0,0,scopone,0,0,scrabble,0,0,scacchi,0,0,gioco del dardo,0,0,gioco del dardo,0,0,domino,0,0,scacchi,0,0
+hobbies,gioco da tavola,cluedo,scarabeo,0,0,chess,0,0,scacchi verticale,0,0,backgammon,0,0,chess,0,0,risiko,0,1,gioco del go,0,0,gioco del lancio,0,0,poker,0,0,go,0,0
+hobbies,gioco da tavola,carte,dama,0,0,backgammon,0,0,scacchi orizzontale,0,0,monopoly,0,1,dama,0,0,carcassonne,0,0,gioco del backgammon,0,0,gioco del gioco del gioco,0,0,bridge,0,0,backgammon,0,0
+hobbies,gioco da tavola,gioco dell'oca,scacchi,0,0,scrabble,0,0,mancala,0,0,chess,0,0,risiko,0,1,jenga,0,0,gioco del mahjong,0,0,gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del gioco del,0,0,monopoly,0,1,domino,0,0
+hobbies,giornale,quotidiano,corriere della sera,0,0,corriere,0,0,quotidiano,1,1,quotidiano,1,1,quotidiano,1,1,quotidiano,1,1,quotidiano,1,1,,0,0,corriere della sera,0,0,quotidiano,1,1
+hobbies,giornale,sportivo,la repubblica,0,0,gazzetta,0,0,settimanale,0,1,online,0,0,settimanale,0,1,settimanale,0,1,settimanale,0,1,,0,0,la repubblica,0,0,settimanale,0,1
+hobbies,giornale,settimanale,la stampa,0,0,notiziario,0,0,mensile,0,1,sportivo,0,1,mensile,0,1,mensile,0,1,mensile,0,1,,0,0,il giornale,0,0,mensile,0,1
+hobbies,giornale,rivista,il sole 24 ore,0,0,periodico,0,0,trimestrale,0,0,economico,0,0,bimestrale,0,0,rivista,1,1,bimestrale,0,0,,0,0,la stampa,0,0,annuale,0,0
+hobbies,giornale,mensile,il messaggero,0,0,online,0,0,annuale,0,0,politico,0,0,trimestrale,0,0,periodico,0,0,trimestrale,0,0,,0,0,il fatto quotidiano,0,0,,0,0
+animals,giraffa,africana,rothschild,0,0,maschio,0,0,africana,1,1,africana,1,1,reticolata,0,1,reticulata,0,0,selvatica,0,0,,0,0,nera,0,0,,0,0
+animals,giraffa,reticolata,masai,0,0,femmina,0,0,banteng,0,0,maschio,0,0,masai,0,0,camelopardalis,0,0,domestica,0,0,,0,0,rossa,0,0,,0,0
+plants,girasole,giallo,annuo,0,0,selvatico,0,0,solare,0,0,comune,0,0,comune,0,0,comune,0,0,selvatico,0,0,gigante,0,0,gigante,0,0,,0,0
+clothes,giubotto,bomber,giubbotto antiproiettile,0,0,giubbotto da lavoro,0,0,di lino,0,0,giubbotto da neve,0,0,giubbotto di pelle,0,0,giubbotto di pelle,0,0,giubbino,0,0,giubbino,0,0,da lavoro,0,0,veste,0,0
+clothes,giubotto,piumino,giubbotto di salvataggio,0,0,giubbotto da sci,0,0,di cotone,0,0,giubbotto da motocicletta,0,0,giubbotto imbottito,0,0,giubbotto di jeans,0,0,giubbino da motociclo,0,0,giubbino da lavoro,0,0,da ginnastica,0,0,giacca,0,0
+clothes,giubotto,di pelle,giubbotto gonfiabile,0,0,giubbotto da immersione,0,0,di seta,0,0,giubbotto da pattinare,0,0,giubbotto antipioggia,0,0,giubbotto di nylon,0,0,giubbino da moto,0,0,giubbino da moto,0,0,da bicicletta,0,0,giubbino,0,0
+clothes,giubotto,gilet,giubbotto di sicurezza,0,0,giubbotto da pesca,0,0,di poliestere,0,0,giubbotto da caccia,0,0,giubbotto militare,0,0,giubbotto imbottito,0,0,giubbino da motocross,0,0,giubbino da motociclo,0,0,da moto,0,0,giacca da pranzo,0,0
+clothes,giubotto,smanicato,giubbotto termico,0,0,giubbotto da motociclista,0,0,di microfibra,0,0,giubbotto da lavoro,0,0,giubbotto da caccia,0,0,giubbotto di cotone,0,0,giubbino da motonuovo,0,0,giubbino da motocross,0,0,da motociclo,0,0,giacca da gala,0,0
+stationery,gomma,da masticare,da masticare,1,1,pneumatico,0,1,auto,0,0,da masticare,1,1,pneumatico,0,1,pneumatico,0,1,da masticare,1,1,da masticare,1,1,pneumatico,0,1,pneumatico,0,1
+stationery,gomma,da cancellare,da cancellare,1,1,guanto,0,0,da bicicletta,0,0,adesiva,0,0,da masticare,0,1,da masticare,0,1,da mangiare,0,0,da masticare per bocca,0,0,pneumatico per bicicletta,0,0,da bicicletta,0,0
+stationery,gomma,pneumatico,arabica,0,0,masticabile,0,0,da neve,0,0,elastica,0,0,guarnizione,0,0,per cancellare,0,0,da sughero,0,0,da masticare per denti,0,0,pneumatico per auto,0,0,da auto,0,0
+stationery,gomma,pane,sintetica,0,0,guaina,0,0,da pneumatici,0,0,pneumatico,0,1,tubo di gomma,0,0,da cancellare,0,1,da bocca,0,0,da masticare per occhi,0,0,pneumatico per camion,0,0,da camion,0,0
+stationery,gomma,piuma,naturale,0,0,guaina di protezione,0,0,,0,0,antiscorrimento,0,0,preservativo,0,0,,0,0,da cucina,0,0,da masticare per piedi,0,0,pneumatico per motociclo,0,0,da motocicletta,0,0
+clothes,gonna,mini,a ruota,0,0,lunga,0,1,corta,0,1,dress,0,0,a tubino,0,1,a tubino,0,1,gonne da calcio,0,0,,0,0,vado,0,0,andare,0,0
+clothes,gonna,lunga,a tubino,0,1,corta,0,1,lunga,1,1,party,0,0,a matita,0,0,a ruota,0,0,gonne da pattinaggio,0,0,,0,0,vai,0,0,andare a cena,0,0
+clothes,gonna,di jeans,a campana,0,0,a pieghe,0,0,a pannoloni,0,0,be,0,0,a pieghe,0,0,a campana,0,0,gonne da tennis,0,0,,0,0,ando,0,0,andare a cena con i tuoi amici,0,0
+clothes,gonna,corta,a cerchio,0,0,a fiori,0,0,a fiori,0,0,have,0,0,a ruota,0,0,a matita,0,0,gonne da baseball,0,0,,0,0,,0,0,andare a cena con i tuoi amici e la tua ragazza/o,0,0
+clothes,gonna,a tubino,a pieghe,0,0,a pois,0,0,da ballo,0,0,make,0,0,a campana,0,0,a trapezio,0,0,gonne da pallavolo,0,0,,0,0,,0,0,andare a cena con i tuoi amici e la tua ragazza/o e i tuoi figli,0,0
+stationery,graffetta,di metallo,da ufficio,0,0,griffa,0,0,carta,0,0,a sfera,0,0,standard,0,0,metallica,0,0,aerosol,0,0,grafitti,0,0,tag,0,0,stampa,0,0
+stationery,graffetta,fermacarte,per capelli,0,0,spillo,0,0,plastica,0,0,a punta,0,0,a strappo,0,0,di plastica,0,1,spray,0,0,stenciling,0,0,grafiti,0,0,penna,0,0
+stationery,graffetta,di plastica,per tessuti,0,0,chiodo,0,0,vetro,0,0,a bulino,0,0,per biglietti da visita,0,0,ad anello,0,0,penna a grafie,0,0,calligrafia,0,0,stencil,0,0,stilo,0,0
+stationery,graffetta,per spillatrice,per legno,0,0,chiodo da parete,0,0,legno,0,0,a punta rotonda,0,0,da elettricista,0,0,ad aletta,0,0,penna a inchiostro,0,0,lettrismo,0,0,calligrafia,0,0,,0,0
+stationery,graffetta,grande,per metallo,0,0,chiodo da legno,0,0,metallo,0,0,a punta tronca,0,0,da gioielliere,0,0,ad ago,0,0,penna a gesso,0,0,street art,0,0,lettering,0,0,,0,0
+clothes,guanti,da sci,da sci,1,1,da lavoro,0,0,da lavoro,0,0,da cucina,0,0,da lavoro,0,0,da lavoro,0,0,da lavoro,0,0,da lavoro,0,0,da lavoro,0,0,da lavoro,0,0
+clothes,guanti,di gomma,da forno,0,0,da sci,0,1,da neve,0,0,da lavoro,0,0,da giardinaggio,0,0,da giardinaggio,0,0,da cucina,0,0,da cucina,0,0,da bicchiere,0,0,da biciclette,0,0
+clothes,guanti,di pelle,da cucina,0,0,da tennis,0,0,da sci,0,1,da pesca,0,0,da cucina,0,0,da cucina,0,0,da bagno,0,0,da giardinaggio,0,0,da cucina,0,0,da cucina,0,0
+clothes,guanti,senza dita,da lavoro,0,0,da boxe,0,0,da ginnastica,0,0,da motocicletta,0,0,da forno,0,0,da boxe,0,0,da giardinaggio,0,0,da bagno,0,0,,0,0,da bocca,0,0
+clothes,guanti,di lattice,da ciclismo,0,0,da golf,0,0,da cucito,0,0,da calcio,0,0,da barbecue,0,0,da guida,0,0,da sport,0,0,da sport,0,0,,0,0,da scopa,0,0
+foods,insalata,iceberg,caprese,0,0,di pollo,0,0,mista,0,1,mista,0,1,di pasta,0,0,mista,0,1,di carote,0,0,lettuce,0,0,mista,0,1,mista,0,1
+foods,insalata,russa,greca,0,0,di mare,0,0,di lattuga,0,0,cesare,0,0,di riso,0,0,di lattuga,0,0,di spinaci,0,0,spinach,0,0,di verdure,0,0,di verdure,0,0
+foods,insalata,mista,russa,0,1,di tonno,0,0,di pomodoro,0,0,grecca,0,0,greca,0,0,di pomodori,0,0,di pomodoro,0,0,arugula,0,0,di carne,0,0,di patate,0,0
+foods,insalata,lattuga,niçoise,0,0,caprese,0,0,di avocado,0,0,caprese,0,0,caprese,0,0,di cetriolo,0,0,di cipolle,0,0,endive,0,0,di pesce,0,0,di carne,0,0
+foods,insalata,rucola,panzanella,0,0,di avocado,0,0,di carote,0,0,di pollo,0,0,di pollo,0,0,di pasta,0,0,di fagioli,0,0,escarole,0,0,di frutta,0,0,di pesce,0,0
+furnishings/fittings,lampada,a led,abat-jour,0,0,a incandescenza,0,0,a muro,0,0,a incandescente,0,0,lampadina a incandescenza,0,0,da tavolo,0,1,a olio,0,0,da tavolo,0,1,a incandescenza,0,0,da tavolo,0,1
+furnishings/fittings,lampada,abat jour,applique,0,0,a led,0,1,da tavolo,0,1,led,0,0,lampadina a risparmio energetico,0,0,da terra,0,0,a gas,0,0,da tavolo con luce led,0,0,led,0,0,da parete,0,0
+furnishings/fittings,lampada,da tavolo,candelabro,0,0,a fluorescenza,0,0,da letto,0,0,fluorescente,0,0,alogena,0,0,da soffitto,0,0,elettrica,0,0,da tavolo con luce fluorescente,0,0,fluorescente,0,0,da soffitto,0,0
+furnishings/fittings,lampada,da muro,cattedrale,0,0,a neon,0,0,da cucina,0,0,al xenon,0,0,led,0,0,da parete,0,0,led,0,0,da tavolo con luce incandescente,0,0,halogena,0,0,da muro,1,1
+furnishings/fittings,lampada,rio,lanterna,0,0,alogena,0,0,da soggiorno,0,0,al mercurio,0,0,da tavolo,0,1,da comodino,0,0,led a led,0,0,da tavolo con luce led rgb,0,0,a bassa pressione,0,0,lamp,0,0
+furnishings/fittings,lampadario,di cristallo,candelabro,0,0,a stella,0,0,lampada,0,0,a candela,0,0,a sospensione,0,0,a bracci,0,0,a candela,0,0,a candela,0,0,lampada,0,0,chandelier,0,0
+furnishings/fittings,lampadario,antico,applique,0,0,a sospensione,0,0,lampada a sospensione,0,0,a led,0,0,a braccio,0,0,a goccia,0,0,a incandescente,0,0,a gas,0,0,lampadina,0,0,sconce,0,0
+furnishings/fittings,lampadario,moderno,plafoniera,0,1,da soffitto,0,1,lampada da tavolo,0,0,a filo,0,0,a parete,0,0,a sospensione,0,0,a led,0,0,elettrico,0,0,lampadina da tavolo,0,0,lampada,0,0
+furnishings/fittings,lampadario,plafoniera,sospensione,0,0,da parete,0,0,lampada da letto,0,0,a halogeno,0,0,da terra,0,0,a piantana,0,0,a fluorescente,0,0,a led,0,0,lampadina da parete,0,0,lampada da tavolo,0,0
+furnishings/fittings,lampadario,da soffitto,lampada da terra,0,0,da tavolo,0,0,lampada da cucina,0,0,a incandescente,0,0,a soffitto,0,0,a soffitto,0,0,a halogeno,0,0,a vapori,0,0,lampadina da soffitto,0,0,lampada da parete,0,0
+foods,latte,intero,di soia,0,0,vaccino,0,0,fresco,0,0,fresco,0,0,di mucca,0,1,intero,1,1,frappé,0,0,caldo,0,0,di bovino,0,0,fresco,0,0
+foods,latte,scremato,di mandorla,0,0,di mandorla,0,0,in polvere,0,0,in polvere,0,0,di capra,0,1,scremato,1,1,macchiato,0,0,freddo,0,0,di formaggio,0,0,in polietilene,0,0
+foods,latte,parzialmente scremato,di cocco,0,0,di soia,0,0,in barrielle,0,0,magro,0,0,di pecora,0,0,parzialmente scremato,1,1,con panna,0,0,macchiato,0,0,di soia,0,0,in cartone,0,0
+foods,latte,di mucca,di riso,0,0,di riso,0,0,in scatola,0,0,scremato,0,1,di soia,0,0,magro,0,0,con soia,0,0,cappuccino,0,0,di coco,0,0,in bottiglia,0,0
+foods,latte,di capra,di arachidi,0,0,di avena,0,0,di soia,0,0,di soia,0,0,di mandorla,0,0,di soia,0,0,con latte,0,0,espresso,0,0,di riso,0,0,in tetraedro,0,0
+foods,legume,fagioli,fagiolo,0,0,fagioli,1,1,lenticchie,0,1,fagioli,1,1,fagioli,1,1,patata,0,0,fagioli,1,1,fagioli,1,1,fagioli,1,1,fagioli,1,1
+foods,legume,lenticchie,pisello,0,0,lenticchie,1,1,fagioli,0,1,patate,0,0,piselli,0,1,carota,0,0,fave,0,1,piselli,0,1,fave,0,1,fave,0,1
+foods,legume,ceci,lenticchia,0,0,piselli,0,1,piselli,0,1,carote,0,0,lenticchie,0,1,sedano,0,0,lenticchie,0,1,carote,0,0,lenticchie,0,1,lenticchie,0,1
+foods,legume,fave,ceci,0,1,fave,1,1,ceci,0,1,zucchine,0,0,ceci,0,1,zucchina,0,0,piselli,0,1,patate,0,0,piselli,0,1,piselli,0,1
+foods,legume,piselli,fava,0,0,ceci,0,1,fagioli neri,0,0,melanzane,0,0,soia,0,0,fagiolo,0,0,carote,0,0,broccoli,0,0,fagiolini,0,0,fagiolini,0,0
+animals,leone,africano,asiatico,0,1,africano,1,1,reale,0,0,africano,1,1,masai,0,0,africano,1,1,leonessa,0,0,reale,0,0,leonessa,0,0,leonessa,0,0
+animals,leone,bianco,del congo,0,0,del congo,0,0,di savana,0,0,asiatico,0,1,bianco,1,1,asiatico,0,1,maschio,0,0,maschile,0,0,leoncino,0,0,leoncino,0,0
+animals,leone,asiatico,dell'atlante,0,0,del capo,0,0,di montagna,0,0,marino,0,1,del tsavo,0,0,delle caverne,0,0,femmina,0,0,femminile,0,0,marino,0,1,,0,0
+animals,leone,marino,berbero,0,0,indiano,0,0,di selva,0,0,americano,0,0,persiano,0,0,marino,1,1,giovane,0,0,di carta,0,0,dorato,0,0,,0,0
+animals,leone,ssa,dell'india,0,0,marino,0,1,di foresta,0,0,di sudan,0,0,asiatico,0,1,di mare,0,0,anziano,0,0,di legno,0,0,,0,0,,0,0
+furniture,letto,matrimoniale,a castello,0,1,matrimoniale,1,1,cuscino,0,0,matrimoniale,1,1,a una piazza e mezza,0,1,singolo,0,1,singolo,0,1,singolo,0,1,libro,0,0,da baby,0,0
+furniture,letto,singolo,a scomparsa,0,0,singolo,1,1,cuscino a piuma,0,0,singolo,1,1,a castello,0,1,matrimoniale,0,1,matrimoniale,0,1,a due piani,0,0,carta,0,0,da bambino,0,0
+furniture,letto,a castello,a una piazza,0,0,a castello,1,1,cuscino a schiuma,0,0,a due piani,0,0,a soppalco,0,0,a castello,1,1,a tre piani,0,0,a tre piani,0,0,tablet,0,0,da adulto,0,0
+furniture,letto,a una piazza e mezza,a due piazze,0,0,a soppalco,0,0,cuscino a materasso,0,0,da camper,0,0,a scomparsa,0,0,a baldacchino,0,1,a quattro piani,0,0,a quattro piani,0,0,telefono,0,0,da dormire,0,0
+furniture,letto,a baldacchino,a tre piazze,0,0,a baldacchino,1,1,divano,0,0,da divano,0,0,ad acqua,0,0,a scomparsa,0,0,a cinque piani,0,0,a cinque piani,0,0,computer,0,0,da nascita,0,0
+hobbies,lettore,cd,di musica,0,0,di cd,0,0,cd,1,1,libro,0,0,dvd,0,1,cd,1,1,libro,0,0,libro,0,0,libro,0,0,libro,0,0
+hobbies,lettore,dvd,di ebook,0,0,di dvd,0,0,dvd,1,1,periodico,0,0,blu-ray,0,0,dvd,1,1,giornale,0,0,libro aperto,0,0,tablet,0,0,rivista,0,0
+hobbies,lettore,mp3,di codici a barre,0,0,di blu-ray,0,0,blu-ray,0,0,newspaper,0,0,cd,0,1,mp3,1,1,rivista,0,0,libro in mano,0,0,smartphone,0,0,carta stampata,0,0
+hobbies,lettore,attento,di schede,0,0,di floppy disk,0,0,usb,0,1,magazino,0,0,di schede di memoria,0,0,e-book,0,0,e-book,0,0,libro in mano aperto,0,0,computer,0,0,tablet,0,0
+hobbies,lettore,usb,di microfilm,0,0,di usb,0,0,di schede di memoria,0,0,e-book,0,0,di codici a barre,0,0,di schede di memoria,0,0,tablet,0,0,libro in mano aperto con occhiali,0,0,e-book,0,0,computer,0,0
+furniture,libreria,a scaffali,biblioteca,0,0,da parete,0,0,in legno,0,0,biblioteca,0,0,biblioteca,0,0,online,0,0,libro,0,0,scaffale,0,0,online,0,0,libro,0,0
+furniture,libreria,a muro,digitale,0,0,a muro,1,1,moderna,0,0,online,0,0,scaffale,0,0,fisica,0,0,rivista,0,0,scaffale di libri,0,0,virtuale,0,0,enciclopedia,0,0
+furniture,libreria,indipendente,personale,0,0,a scaffale,0,0,mobile,0,0,accademica,0,0,a muro,0,1,universitaria,0,0,giornale,0,0,scaffale librario,0,0,di riferimento,0,0,rivista,0,0
+hobbies,libro,romanzo,romanzo,1,1,romanzo,1,1,romanzo,1,1,romanzo,1,1,romanzo,1,1,romanzo,1,1,romanzo,1,1,aperto,0,0,romanzo,1,1,per bambini,0,0
+hobbies,libro,giallo,dizionario,0,0,saggio,0,1,saggio,0,1,saggistico,0,0,saggio,0,1,saggio,0,1,raccolta di racconti,0,0,chiuso,0,0,racconto,0,0,per adulti,0,0
+hobbies,libro,fantasy,enciclopedia,0,0,poesia,0,0,poema,0,0,poesia,0,0,manuale,0,0,di testo,0,0,manuale,0,0,in mano,0,0,poesia,0,0,per ragazzi,0,0
+hobbies,libro,di scuola,saggio,0,1,manuale,0,0,diario,0,0,dramma,0,0,raccolta di poesie,0,0,di cucina,0,0,testo,0,0,in libreria,0,0,saggistica,0,0,per adolescenti,0,0
+hobbies,libro,saggio,manuale,0,0,enciclopedia,0,0,enciclopedia,0,0,guida,0,0,antologia,0,0,per bambini,0,0,enciclopedia,0,0,in bibliofiloteca,0,0,biografia,0,0,per anziani,0,0
+animals,lucertola,geco,iguana,0,1,verde,0,0,comune,0,1,gecko,0,0,agama,0,0,gecko,0,0,comune,0,1,gecko,0,0,gecko,0,0,lucertole d'acqua,0,0
+animals,lucertola,iguana,camaleonte,0,1,comune,0,1,di mare,0,0,iguana,1,1,camaleonte,0,1,gekkonide,0,0,africana,0,0,iguana,1,1,iguana,1,1,lucertole di terra,0,0
+animals,lucertola,comune,gecco,0,0,iberica,0,0,di terra,0,0,camaleontide,0,0,drago di komodo,0,0,iguana,0,1,americana,0,0,skink,0,0,salamandra,0,0,lucertole di foresta,0,0
+animals,lucertola,campestre,anolis,0,0,di grecia,0,0,di montagna,0,0,lacerta,0,0,geco,0,1,camaleonte,0,1,giardino,0,0,gekko,0,0,scinco,0,0,lucertole di deserto,0,0
+animals,lucertola,camaleonte,varano,0,0,di levante,0,0,di palude,0,0,gekko,0,0,iguana,0,1,lacerta,0,0,di casa,0,0,agama,0,0,lizard,0,0,lucertole di montagna,0,0
+clothes,maglia,a maniche corte,a coste,0,0,a collo alto,0,0,da donna,0,0,a reticello,0,0,a coste,0,0,a manica corta,0,0,da polo,0,0,a strisce,0,0,a maniche lunghe,0,1,t-shirt,0,1
+clothes,maglia,a maniche lunghe,a punto,0,0,a collo basso,0,0,da uomo,0,0,a strisce,0,0,a tricot,0,0,a manica lunga,0,0,da calcio,0,0,a righe,0,0,a maniche corte,0,1,giubbino,0,0
+clothes,maglia,t-shirt,a rovescio,0,0,a maniche lunghe,0,1,da bambino,0,0,a quadrati,0,0,a rasata,0,0,a collo alto,0,0,da baseball,0,0,a quadri,0,0,a maniche lunghe con maniche corte,0,0,sweater,0,0
+clothes,maglia,maglione,a tubolare,0,0,a maniche corte,0,1,da neve,0,0,a righe,0,0,a cable,0,0,a v,0,0,da basket,0,0,a pique,0,0,a maniche lunghe con maniche lunghe,0,0,cardigan,0,0
+clothes,maglia,maglietta,a v,0,0,a strisce,0,0,da golf,0,0,a tessuto pieno,0,0,a intarsio,0,0,a girocollo,0,0,da rugby,0,0,a reticello,0,0,a maniche lunghe con maniche corte e maniche lunghe,0,0,pullover,0,0
+animals,maiale,nero,cinghiale,0,1,da latte,0,0,carne,0,0,domestico,0,0,suino,0,0,domestico,0,0,bianco,0,0,porchetta,0,0,porco,0,0,porco,0,0
+animals,maiale,scrofa,mammifero,0,0,da carne,0,0,olio,0,0,selvatico,0,0,verro,0,0,selvatico,0,0,nero,0,1,selvatico,0,0,suino,0,0,suino,0,0
+animals,maiale,cinghiale,suino,0,0,nano,0,0,pelle,0,0,d'india,0,0,scrofa,0,1,vietnamita,0,0,rosa,0,1,nero,0,1,cinghiale,1,1,porcellino,0,0
+animals,maiale,rosa,scrofa,0,1,inglese,0,0,osso,0,0,d'asia,0,0,porcellino d'india,0,0,indiano,0,0,grigio,0,0,bianco,0,0,capra,0,0,maialino,0,0
+body parts,mano,destra,destra,1,1,sinistra,0,1,dita,0,0,destra,1,1,destra,1,1,destra,1,1,destra,1,1,destra,1,1,destra,1,1,destra,1,1
+body parts,mano,sinistra,sinistra,1,1,destra,0,1,palmo,0,0,sinistra,1,1,sinistra,1,1,sinistra,1,1,sinistra,1,1,sinistra,1,1,sinistra,1,1,sinistra,1,1
+body parts,mano,piccola,fantasma,0,0,mancina,0,0,pollice,0,0,sinistra di un uomo,0,0,robotica,0,0,umana,0,0,di un bambino,0,0,di un essere umano,0,0,man,0,0,,0,0
+body parts,mano,grande,di fata,0,0,sinistra mancina,0,0,indice,0,0,destra di una donna,0,0,protesica,0,0,di un altro essere vivente,0,0,di un adulto,0,0,di un essere animato,0,0,,0,0,,0,0
+body parts,mano,affusolata,di gatto,0,0,destra mancina,0,0,medio,0,0,di un bambino,0,0,di neonato,0,0,artificiale,0,0,di un uomo,0,0,di un essere vivente,0,0,,0,0,,0,0
+plants,margherita,crisantemo,comune,0,1,pizza margherita,0,0,pizza,0,1,"pizza: una varietà di pizza con salsa di pomodoro, mozzarella e basilico",0,0,,0,0,pizza margherita,0,0,pizza,0,1,,0,0,pizza,0,1,,0,0
+plants,margherita,pizza,a fiore doppio,0,0,pizza extra,0,0,pasta,0,0,"sandwich: un tipo di sandwiche con mozzarella, pomodoro e basilico",0,0,,0,0,pizza con prosciutto,0,0,pane,0,0,,0,0,pizza al taglio,0,0,,0,0
+plants,margherita,bianca,a fiore semidoppio,0,0,pizza classica,0,0,gelato,0,0,"burger: un tipo di hamburger con mozzarella, pomodoro e basilico",0,0,,0,0,pizza con funghi,0,0,salsa,0,0,,0,0,pizza al forno,0,0,,0,0
+plants,margherita,di campo,a fiore semplice,0,0,pizza napoletana,0,0,sorbetto,0,0,pasta: una ricetta di pasta con salsa di pomodoro e mozzarella,0,0,,0,0,pizza con salame piccante,0,0,mozzarella,0,0,,0,0,pizza al forno a legna,0,0,,0,0
+plants,margherita,comune,a fiore ligulato,0,0,pizza romana,0,0,limone,0,0,"cocktail: una bevanda a base di vodka, triple sec e succo di limone con una goccia di rosso al centro",0,0,,0,0,pizza con spinaci,0,0,pomodoro,0,0,,0,0,pizza al forno a pietra,0,0,,0,0
+stationery,matita,hb,nera,0,0,a sfera,0,0,di grafite,0,0,a graphite,0,0,grafite,0,0,da disegno,0,1,a grafite,0,0,di legno,0,0,a gomma,0,0,a grafite,0,0
+stationery,matita,colorata,colorata,1,1,a pastello,0,0,di carbonio,0,0,a creta,0,0,colorata,1,1,da scrittura,0,0,a gomma,0,0,di grafite,0,0,a gomma a grana,0,0,a carboncino,0,0
+stationery,matita,morbida,a cera,0,0,a grafite,0,0,di plastica,0,0,a olio,0,0,meccanica,0,0,colorata,0,1,a gomma e grafite,0,0,di plastica,0,0,a gomma a grana a gomma,0,0,a grafite e carboncino,0,0
+stationery,matita,2b,pastello,0,0,a carboncino,0,0,di rame,0,0,a colore,0,0,3d,0,0,per gli occhi,0,0,a gomma e grafite e a pennello,0,0,di gomma,0,0,a gomma a grana a gomma a grana,0,0,,0,0
+stationery,matita,da disegno,copiativa,0,0,a cera,0,0,di ferro,0,0,meccanica,0,0,a carboncino,0,0,per le labbra,0,0,a gomma e grafite e a pennello e a spazzolino,0,0,di gomma erasable,0,0,a gomma a grana a gomma a grana a gomma,0,0,,0,0
+kitchenware,mestolo,di legno,forato,0,0,di legno,1,1,bicchiere,0,0,tazza,0,0,di legno,1,1,da cucina,0,0,piatto,0,0,cucchiaio,0,0,acido solforico,0,0,cucchiaio,0,0
+kitchenware,mestolo,schiumarola,lungo,0,0,di plastica,0,0,tazza,0,0,bicchierino,0,0,di acciaio inossidabile,0,0,da minestra,0,0,tazza,0,0,tazza,0,0,acido cloridrico,0,0,teglia,0,0
+kitchenware,mestolo,paletta,corto,0,0,di metallo,0,0,ciotola,0,0,coppa,0,0,di silicone,0,0,da insalata,0,0,coppa,0,0,tazzeria,0,0,acido azotico,0,0,tazza,0,0
+kitchenware,mestolo,di acciaio,di legno,0,1,di silicone,0,0,bicchierino,0,0,plato,0,0,da cucina,0,0,da gelato,0,0,bicchierino,0,0,tazzerino,0,0,acido idrossido,0,0,piatto,0,0
+kitchenware,mestolo,spatola,di plastica,0,0,da cucina,0,0,tazza da caffè,0,0,brodo,0,0,dosatore,0,0,da caffè,0,0,piatto da cucina,0,0,tazzerone,0,0,acido fosforico,0,0,,0,0
+furnishings/fittings,metro,da sartoria,metropolitana,0,0,a nastro,0,1,a mano,0,0,lineare,0,0,a nastro,0,1,lineare,0,0,aereo,0,0,orologio,0,0,della linea 1,0,0,metro-centro,0,0
+furnishings/fittings,metro,a nastro,cubo,0,0,a catena,0,0,a nastro,1,1,quadrato,0,0,pieghevole,0,0,quadrato,0,0,sotterraneo,0,0,cronometro,0,0,della linea 2,0,0,metro-nord,0,0
+furnishings/fittings,metro,laser,quadro,0,0,a ruota,0,0,a cinghia,0,0,cubico,0,0,da falegname,0,0,cubo,0,0,leggero,0,0,cronografo,0,0,della linea 3,0,0,metro-sud,0,0
+plants,mimosa,gialla,comune,0,0,albero di mimosa,0,0,fiore,0,0,Mimosa acida,0,0,pudica,0,0,pudica,0,0,verde,0,0,giallo,0,0,acuminata,0,0,,0,0
+plants,mimosa,delle quattro stagioni,sempreverde,0,0,,0,0,piatto,0,0,pudica,0,0,struthiopteris,0,0,hostilis,0,0,giallo,0,0,verde,0,0,pudica,0,0,,0,0
+plants,mimosa,bianca,a foglie di robinia,0,0,,0,0,bicchiere,0,0,,0,0,scabrella,0,0,scabrella,0,0,bianco,0,0,giallo con frutti,0,0,sylvestris,0,0,,0,0
+vehicles,motocicletta,scooter,enduro,0,0,da corsa,0,0,scooter,1,1,moto scooter,0,0,da strada,0,1,scooter,1,1,scooter,1,1,motociclo,0,0,harley-davidson,0,0,scooter,1,1
+vehicles,motocicletta,da strada,supermotard,0,0,da strada,1,1,da turismo,0,0,motocross,0,0,da cross,0,0,moto da cross,0,0,moto,0,0,mototricicolo,0,0,honda,0,0,moto,0,0
+vehicles,motocicletta,vespa,chopper,0,1,scooter,0,1,da strada,0,1,dirt bike,0,0,da trial,0,0,moto da strada,0,0,quadriciclo,0,0,motociclo da strada,0,0,yamaha,0,0,motorino,0,0
+vehicles,motocicletta,chopper,scooter,0,1,motocross,0,0,da montagna,0,0,chopper,1,1,enduro,0,0,moto da turismo,0,0,motocross,0,0,motociclo da off-road,0,0,suzuki,0,0,moto-cross,0,0
+vehicles,motocicletta,sportiva,cross,0,0,enduro,0,0,da neve,0,0,cruiser,0,0,supersportiva,0,0,moto da enduro,0,0,enduro,0,0,motociclo da trial,0,0,kawasaki,0,0,moto-scooter,0,0
+animals,mucca,da latte,ayrshire,0,0,da latte,1,1,asina,0,0,domestica,0,0,bruna,0,1,vacca,0,1,vacca,0,1,con la testa in primo piano,0,0,bovino,0,0,bovino,0,0
+animals,mucca,vacca,bruna alpina,0,0,da carne,0,0,bue,0,0,indiana,0,0,jersey,0,0,vitello,0,0,bovino,0,0,con la testa in primo piano e il resto del corpo in secondo piano,0,0,bovino domestico,0,0,bovino domestico,0,0
+animals,mucca,frisona,burlina,0,0,da pelo,0,0,,0,0,europea,0,0,holstein,0,0,toro,0,0,bue,0,0,con la testa in primo piano e il resto del corpo in secondo piano con sfondo neutro,0,0,bovino selvatico,0,0,bovino selvatico,0,0
+animals,mucca,simmental,charolaise,0,0,da latte da allevamento,0,0,,0,0,jerseys,0,0,charolaise,0,0,manzo,0,0,bovina,0,0,con la testa in primo piano e il resto del corpo in secondo piano con sfondo colorato,0,0,bovino selvatico europeo,0,0,bovino dom,0,0
+animals,mucca,bruna,chianina,0,0,da latte da allevamento intensivo,0,0,,0,0,holstein,0,0,limousine,0,0,latte,0,0,mucchetta,0,0,con la testa in primo piano e il resto del corpo in secondo piano con sfondo colorato e bordo colorato,0,0,bovino selvatico asiatico,0,0,,0,0
+housing buildings,muro,di mattoni,divisorio,0,0,di cinta,0,0,di cinta,0,0,muri di cinta,0,0,di cinta,0,0,di mattoni,1,1,di pietra,0,1,parte di un edificio,0,0,di cinta,0,0,parete,0,0
+housing buildings,muro,portante,di sostegno,0,0,di confine,0,0,di confine,0,0,di recinzione,0,0,di contenimento,0,0,di pietra,0,1,di mattoni,0,1,parte di un,0,0,di sicurezza,0,0,parapetto,0,0
+housing buildings,muro,a secco,di contenimento,0,0,di recinzione,0,0,di separazione,0,0,di cinta e recinzione,0,0,di sostegno,0,0,di cemento,0,1,di cemento,0,1,,0,0,di controllo,0,0,di cinta,0,0
+housing buildings,muro,di cemento,di cinta,0,0,di pietra,0,1,di sostegno,0,0,di pianterrena,0,0,di separazione,0,0,di mattoni a vista,0,0,di legno,0,0,,0,0,di separazione,0,0,di controllo,0,0
+housing buildings,muro,di pietra,di recinzione,0,0,di mattoni,0,1,di protezione,0,0,di contenimento,0,0,di cinta vegetale,0,0,di contenimento,0,0,di vetro,0,0,,0,0,di supporto,0,0,,0,0
+body parts,naso,aquilino,umano,0,0,umano,0,0,umano,0,0,umano,0,0,umano,0,0,aquilino,1,1,rinoceronte,0,0,profilo,0,0,bocca,0,0,labbra,0,0
+body parts,naso,a patata,artificiale,0,0,di animale,0,0,di cane,0,0,di un animale,0,0,canino,0,0,camuso,0,0,rinocerino,0,0,traccia del naso,0,0,orecchie,0,0,cigli,0,0
+body parts,naso,alla francese,elettronico,0,0,di uccello,0,0,di gatto,0,0,di un uccello,0,0,felino,0,0,greco,0,0,rinocerino africano,0,0,linea del naso,0,0,labbra,0,0,,0,0
+body parts,naso,adunco,artificiale per animali,0,0,di pesce,0,0,di pesce,0,0,di un pesce,0,0,equino,0,0,lungo,0,0,rinocerino indiano,0,0,contorno del naso,0,0,palato,0,0,,0,0
+body parts,naso,a punta,,0,0,di insetto,0,0,,0,0,di un insetto,0,0,bovino,0,0,a patata,0,1,rinocerino asiatico,0,0,,0,0,mascella,0,0,,0,0
+vehicles,nave,da crociera,veliero,0,0,da guerra,0,0,da guerra,0,0,incrociatore,0,0,da crociera,1,1,da crociera,1,1,da crociera,1,1,da crociera,1,1,da crociera,1,1,da crociera,1,1
+vehicles,nave,cargo,transatlantico,0,0,da carico,0,0,da carico,0,0,cargo ship,0,0,da guerra,0,0,da carico,0,0,da guerra,0,0,da guerra,0,0,da guerra,0,0,da carico,0,0
+vehicles,nave,traghetto,portacontainer,0,0,da crociera,0,1,da crociera,0,1,peschereccio,0,0,cargo,0,1,da guerra,0,0,,0,0,da pesca,0,0,da pesca,0,0,da guerra,0,0
+vehicles,nave,yacht,da guerra,0,0,da pesca,0,0,da pesca,0,0,traghetto,0,1,da pesca,0,0,da pesca,0,0,,0,0,da cargo,0,0,da carico,0,0,da passeggio,0,0
+vehicles,nave,battello,da crociera,0,1,da ricerca,0,0,da ricerca,0,0,velaio,0,0,yacht,0,1,passeggeri,0,0,,0,0,da passeggeri,0,0,da passeggiate,0,0,da pescato,0,0
+body parts,occhio,a mandorla,umano,0,0,umano,0,0,palpebra,0,0,umano,0,0,umano,0,0,umano,0,0,umano,0,0,umano,0,0,sinistro,0,0,cornea,0,0
+body parts,occhio,verde,animale,0,0,di pesce,0,0,iride,0,0,di gatto,0,0,di un animale,0,0,di un animale,0,0,animale,0,0,animale,0,0,destro,0,0,iris,0,0
+body parts,occhio,marrone,artificiale,0,0,di falco,0,0,cornea,0,0,di pesce,0,0,di un insetto,0,0,di una telecamera,0,0,artificiale,0,0,robotico,0,0,sinistro-destro,0,0,pupilla,0,0
+body parts,occhio,azzurro,bionico,0,0,di bue,0,0,cristallino,0,0,di rettile,0,0,di un uccello,0,0,di un robot,0,0,meccanico,0,0,di una statua,0,0,cieco,0,0,coroide,0,0
+body parts,occhio,blu,cibernetico,0,0,di tigre,0,0,retina,0,0,di insetto,0,0,di un pesce,0,0,di una macchina fotografica,0,0,di vetro,0,0,di una maschera,0,0,di pesca,0,0,sclera,0,0
+plants,orchidea,bianca,aerides,0,0,cattleya,0,1,azzurra,0,0,orchidee di fioritura unica,0,0,phalaenopsis,0,0,phalaenopsis,0,0,bianca,1,1,bianca,1,1,orchis,0,0,,0,0
+plants,orchidea,cattleya,ascocoryne,0,0,dendrobium,0,0,bianca,0,1,orchidee di fioritura ripetuta,0,0,cattleya,1,1,dendrobium,0,0,rosa,0,1,rosa,0,1,cymbidium,0,0,,0,0
+plants,orchidea,rosa,bletia,0,0,phalaenopsis,0,0,gialla,0,0,orchidee terrestri,0,0,dendrobium,0,0,cymbidium,0,0,gialla,0,0,gialla,0,0,phalaenopsis,0,0,,0,0
+plants,orchidea,miltonia,brassia,0,0,oncidium,0,0,rossa,0,0,orchidee epifite,0,0,oncidium,0,0,paphiopedilum,0,0,rossa,0,0,rossa,0,0,dendrobium,0,0,,0,0
+plants,orchidea,viola,calanthe,0,0,paphiopedilum,0,0,viola,1,1,orchidee lithofite,0,0,paphiopedilum,0,0,cattleya,0,1,blu,0,0,blu,0,0,oncidium,0,0,,0,0
+body parts,orecchio,a sventola,umano,0,0,umano,0,0,interno,0,0,esterno,0,0,umano,0,0,esterno,0,0,orecchino,0,0,orecchino,0,0,destro,0,0,destro,0,0
+body parts,orecchio,a punta,animale,0,0,di topo,0,0,esterno,0,0,medio,0,0,animale,0,0,medio,0,0,orecchietta,0,0,orecchietta,0,0,sinistro,0,0,sinistro,0,0
+body parts,orecchio,piccolo,interno,0,0,di coniglio,0,0,medio,0,0,interno,0,0,esterno,0,0,interno,0,0,orec,0,0,orecchino grande,0,0,interno,0,0,,0,0
+body parts,orecchio,grande,medio,0,0,di cane,0,0,anteriore,0,0,timpano,0,0,medio,0,0,,0,0,,0,0,orecchino piccolo,0,0,esterno,0,0,,0,0
+furnishings/fittings,orologio,da polso,da polso,1,1,da polso,1,1,da polso,1,1,da tasca,0,0,da polso,1,1,da polso,1,1,meccanico,0,0,da polso,1,1,analogico,0,0,analogico,0,0
+furnishings/fittings,orologio,a pendolo,da tasca,0,0,da tasca,0,0,da parete,0,1,da parete,0,1,da tavolo,0,0,da tasca,0,0,elettrico,0,0,da muro,0,0,digitale,0,0,digitale,0,0
+furnishings/fittings,orologio,a cucù,da parete,0,1,da parete,0,1,da taschino,0,1,digitale,0,0,a pendolo,0,1,da parete,0,1,digitale,0,0,da tasca,0,0,smartwatch,0,0,meccanico,0,0
+furnishings/fittings,orologio,da taschino,atomico,0,0,da muro,0,0,digitale,0,0,meccanico,0,0,da parete,0,1,da tavolo,0,0,analogico,0,0,da ponte,0,0,per bicicletta,0,0,elettronico,0,0
+furnishings/fittings,orologio,da parete,a cucù,0,1,da tavolo,0,0,analogico,0,0,quadrato,0,0,da comodino,0,0,a cucù,0,1,suora,0,0,da tavolo,0,0,per auto,0,0,analogico meccanico,0,0
+animals,orso,bruno,bruno,1,1,polare,0,1,grigio,0,0,polare,0,1,polare,0,1,polare,0,1,polare,0,1,polare,0,1,bruno,1,1,bruno,1,1
+animals,orso,polare,polare,1,1,grizzly,0,1,polare,1,1,bruno,0,1,grizzly,0,1,bruno,0,1,bruno,0,1,nero,0,1,polare,1,1,polare,1,1
+animals,orso,bianco,nero,0,1,nero,0,1,bruno,0,1,grizzly,0,1,nero,0,1,grizzly,0,1,nero,0,1,bruno,0,1,d'alaska,0,0,d'alaska,0,0
+animals,orso,grizzly,grizzly,1,1,bruno,0,1,panda,0,0,nero,0,1,bruno,0,1,nero,0,1,rosso,0,0,grizzly,1,1,d'europa,0,0,d'europa,0,0
+animals,orso,nero,panda,0,0,panda,0,0,,0,0,panda,0,0,kodiak,0,0,kodiak,0,0,grigio,0,0,panda,0,0,d'asia,0,0,d'asia,0,0
+kitchenware,padella,antiaderente,antiaderente,1,1,di ghisa,0,1,di rame,0,0,da cucina,0,0,antiaderente,1,1,antiaderente,1,1,da cucina,0,0,da riso,0,0,da cucina,0,0,da cucina,0,0
+kitchenware,padella,wok,in ghisa,0,0,di acciaio,0,1,di acciaio,0,1,da frittura,0,0,in ghisa,0,0,in ghisa,0,0,da pizzeria,0,0,da pasta,0,0,da cucina da forno,0,0,da cucina in ghisa,0,0
+kitchenware,padella,per crepes,di rame,0,0,di rame,0,0,di legno,0,0,da risotto,0,0,in acciaio inossidabile,0,0,in rame,0,0,da ristorante,0,0,da riso con manico,0,0,da cucina da forno con manico,0,0,da cucina in acciaio,0,0
+kitchenware,padella,di acciaio,in acciaio,0,0,di non-stick,0,0,di vetro,0,0,da zuppe,0,0,in rame,0,0,in acciaio inossidabile,0,0,da bar,0,0,da riso con manico e forcola,0,0,da cucina da forno con manico e manico regolabile,0,0,da cucina in ceramica,0,0
+kitchenware,padella,di ghisa,di pietra ollare,0,0,di terracotta,0,0,a mano,0,0,wok,0,1,per wok,0,0,per wok,0,0,da ristorante italiano,0,0,da riso con forcola,0,0,da cucina da forno con manico e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile e manico regolabile,0,0,da cucina in vetro,0,0
+hobbies,palla,da calcio,pallone,0,0,da tennis,0,1,pallone,0,0,pallina da tennis,0,0,pallone da calcio,0,0,da calcio,1,1,pallina,0,0,pallina,0,0,calcio,0,0,calcio,0,0
+hobbies,palla,da basket,da tennis,0,1,da basket,1,1,pallavolo,0,0,pallina da calcio,0,0,pallone da basket,0,0,da tennis,0,1,pallone,0,0,pallone,0,0,tennis,0,0,pallavollo,0,0
+hobbies,palla,da volo,da bowling,0,0,da calcio,0,1,pallacanestro,0,0,pallina da bowling,0,0,pallone da rugby,0,0,da basket,0,1,da tennis,0,1,palloncino,0,0,baseball,0,0,tennis,0,0
+hobbies,palla,da tennis,da golf,0,0,da bowling,0,0,pallamano,0,0,pallina da billiard,0,0,pallina da tennis,0,0,da baseball,0,1,da golf,0,0,palloncino da tennis,0,0,pallavollo,0,0,baseball,0,0
+hobbies,palla,da baseball,da baseball,1,1,da baseball,1,1,pallaboccio,0,0,pallina da squash,0,0,pallina da ping pong,0,0,da golf,0,0,da baseball,1,1,palloncino da calcio,0,0,rugby,0,0,rugby,0,0
+body parts,pancia,piatta,a botte,0,0,pancetta,0,0,camicia,0,0,addome,0,0,stomaco,0,0,piatta,1,1,stomaco,0,0,ventre,0,0,stomaco,0,0,utero,0,0
+body parts,pancia,gonfia,a pera,0,0,pancetta cotta,0,0,pantaloni,0,0,ventre,0,0,ventre,0,0,gonfia,1,1,fegato,0,0,stomaco,0,0,intestino,0,0,ovaio,0,0
+body parts,pancia,piena,a secchio,0,0,pancetta cruda,0,0,gilet,0,0,grembo,0,0,addome,0,0,rotonda,0,0,cieco,0,0,addome,0,0,duodeno,0,0,placenta,0,0
+body parts,pancia,grassa,a clessidra,0,0,pancetta affumicata,0,0,giacca,0,0,abdomine,0,0,pancino,0,0,a birra,0,0,rene,0,0,gastrointestinale,0,0,ileo,0,0,amniotic fluid,0,0
+body parts,pancia,vuota,a melagrana,0,0,pancetta arrotolata,0,0,cappello,0,0,torace superiore,0,0,pancetta,0,0,a tavolino,0,0,milza,0,0,intestino,0,0,colon,0,0,fetus,0,0
+foods,pane,integrale,ciabatta,0,1,integrale,1,1,integrale,1,1,bianco,0,0,baguette,0,1,bianco,0,0,bianco,0,0,integrale,1,1,integrale,1,1,integrale,1,1
+foods,pane,baguette,focaccia,0,0,bianco,0,0,bianco,0,0,integrale,0,1,focaccia,0,0,integrale,0,1,integrale,0,1,bianco,0,0,multigrano,0,0,di frutta,0,0
+foods,pane,ciabatta,grissini,0,0,di segale,0,0,secco,0,0,sourdough,0,0,ciabatta,1,1,ai cereali,0,1,di segale,0,0,di segale,0,0,di frutta,0,0,di grano,0,0
+foods,pane,rosetta,croissant,0,0,di grano,0,0,fresco,0,0,focaccia,0,0,pita,0,0,ai semi,0,0,di frullo,0,0,di frullo,0,0,di avena,0,0,di avena,0,0
+foods,pane,ai cereali,baguette,0,1,di riso,0,0,di grano tenero,0,0,francese,0,0,bagel,0,0,ai semi di sesamo,0,0,di mais,0,0,di mais,0,0,di farina,0,0,di farina,0,0
+clothes,pantalone,jeans,a vita alta,0,0,da lavoro,0,0,pantaloni da ballo,0,0,stretto,0,0,jeans,1,1,jeans,1,1,pantaloncini,0,0,jeans,1,1,rosso,0,0,pantaloni corti,0,0
+clothes,pantalone,a zampa,a vita bassa,0,0,da sci,0,0,pantaloni da ginnastica,0,0,largo,0,0,cargo,0,0,cargo,0,0,pantaloncini corti,0,0,chinos,0,0,blu,0,0,pantaloni lunghi,0,0
+clothes,pantalone,a palazzo,a tubino,0,0,da equitazione,0,0,pantaloni da sci,0,0,a righe,0,0,palazzo,0,0,chino,0,0,pantaloncini lunghi,0,0,capri,0,0,nero,0,0,pantaloni jeans,0,0
+clothes,pantalone,della tuta,a zampa di elefante,0,0,da ciclismo,0,0,pantaloni da ciclismo,0,0,jeans,0,1,a sigaretta,0,0,jogging,0,0,pantaloncini a righe,0,0,corduroy,0,0,bianco,0,0,pantaloni sportivi,0,0
+clothes,pantalone,elegante,a scacchi,0,0,da golf,0,0,pantaloni da golf,0,0,capri,0,0,chino,0,0,pinocchietto,0,0,pantaloncini a strisce,0,0,cargo,0,0,giallo,0,0,,0,0
+foods,pasta,spaghetti,spaghetti,1,1,spaghetti,1,1,spaghetti,1,1,spaghetti,1,1,spaghetti,1,1,spaghetti,1,1,spaghetti,1,1,spaghetti,1,1,a fettuccia,0,0,spaghetti,1,1
+foods,pasta,fusilli,fettuccine,0,0,fettuccine,0,0,fettuccine,0,0,lasagne,0,0,penne,0,1,maccheroni,0,0,penne,0,1,penne,0,1,a tagliatelle,0,0,tagliatelle,0,0
+foods,pasta,farfalle,penne,0,1,penne,0,1,penne,0,1,penne,0,1,fusilli,0,1,penne,0,1,fusilli,0,1,fusilli,0,1,a spaghetti,0,0,fettuccine,0,0
+foods,pasta,penne,rigatoni,0,0,rigatoni,0,0,rigatoni,0,0,rigatoni,0,0,lasagne,0,0,fusilli,0,1,farfalle,0,1,farfalle,0,1,a linguine,0,0,pappardelle,0,0
+foods,pasta,corta,tortellini,0,0,linguine,0,0,lasagne,0,0,fettuccine,0,0,maccheroni,0,0,lasagne,0,0,rigatoni,0,0,rigatoni,0,0,a rotini,0,0,linguine,0,0
+stationery,pastello,a cera,a cera,1,1,a cera,1,1,a mano,0,0,a olio,0,0,a cera,1,1,a olio,0,0,pasta,0,0,di carta,0,0,pasta,0,0,a olio,0,0
+stationery,pastello,ad olio,a olio,0,0,a matita,0,1,elettrico,0,0,a gouache,0,0,a olio,0,0,a cera,0,1,pizza,0,0,di legno,0,0,pane,0,0,a tempera,0,0
+stationery,pastello,colorato,acquerellabile,0,0,a olio,0,0,a seta,0,0,a carboncino,0,0,a pastello,0,0,a secco,0,0,lasagna,0,0,di plastica,0,0,pizza,0,0,a secco,0,0
+stationery,pastello,a matita,a tempera,0,0,a pastello,0,0,in pelle,0,0,a sanguigna,0,0,a gessetto,0,0,a carboncino,0,0,gnocchi,0,0,di gomma,0,0,calzoni,0,0,,0,0
+stationery,pastello,ad acqua,past,0,0,a tempera,0,0,in cuoio,0,0,a cera,0,1,acquarellabile,0,0,a tempera,0,0,tortellini,0,0,di cera,0,0,crostini,0,0,,0,0
+housing buildings,pavimento,parquet,parquet,1,1,in legno,0,1,in legno,0,1,parquet,1,1,piastrelle,0,0,parquet,1,1,in cemento,0,0,tavolo,0,0,cemento,0,0,in cemento,0,0
+housing buildings,pavimento,in marmo,moquette,0,1,in marmo,1,1,in ceramica,0,0,cemento,0,0,parquet,0,1,piastrelle,0,0,in legno,0,1,sedia,0,0,pietra,0,0,in legno,0,1
+housing buildings,pavimento,in legno,piastrelle,0,0,in piastrelle,0,1,in marmo,0,1,granito,0,0,linoleum,0,0,marmo,0,0,in vinile,0,0,t,0,0,legno,0,0,in pietra,0,0
+housing buildings,pavimento,in piastrelle,marmo,0,0,in linoleum,0,0,in piastrelle,1,1,marmo,0,0,moquette,0,1,cemento,0,0,in ceramica,0,0,,0,0,in resina,0,0,in ceramica,0,0
+housing buildings,pavimento,moquette,legno,0,0,in parquet,0,0,in tessuto,0,0,terrazzato,0,0,marmo,0,0,legno,0,0,in marmo,0,1,,0,0,in ceramica,0,0,in vinile,0,0
+stationery,penna,a sfera,a sfera,1,1,stilografica,0,1,biro,0,1,per scrivere,0,0,a sfera,1,1,a sfera,1,1,a sbarre,0,0,a sfera,1,1,a sfera,1,1,stilo,0,0
+stationery,penna,stilografica,a rotolare,0,0,a sfera,0,1,matita,0,0,da calligrafia,0,0,stilografica,1,1,a inchiostro,0,0,a goccia,0,0,a sfera con inchiostro,0,0,a stilo,0,0,a sfera,0,1
+stationery,penna,cancellabile,stilografica,0,1,a inchiostro,0,0,pastello,0,0,da disegno,0,0,a inchiostro,0,0,a china,0,0,a sbarre con inchiostro,0,0,a sfera con inchiostro e capo di gomma,0,0,,0,0,a cartuccia,0,0
+stationery,penna,biro,a inchiostro,0,0,a matita,0,0,stilografica,0,1,da cucina,0,0,a punta fine,0,0,a siringa,0,0,a goccia con inchiostro,0,0,a sfera con inchiostro e capo di gomma con guaina,0,0,,0,0,a inchiostro,0,0
+stationery,penna,a gel,biro,0,1,a piuma,0,0,pastello a olio,0,0,da sintetizzatore grafico,0,0,gel,0,0,a gel,1,1,a sbarre con inchiostro e tinta,0,0,a sfera con inchiostro e capo di gomma con guaina e guarnitura,0,0,,0,0,a gomma,0,0
+hobbies,pennello,piatto,da barba,0,0,da pittore,0,0,a mano,0,0,da dipingere,0,0,da trucco,0,0,per acquerelli,0,0,da dipinto,0,0,da dipinto,0,0,a mano,0,0,a mano,0,0
+hobbies,pennello,da pittura,da capelli,0,0,da barba,0,0,elettrico,0,0,da cucina,0,0,per acquerelli,0,0,per olio,0,0,da cucina,0,0,da acrilico,0,0,per pavimenti,0,0,a mano con tappo,0,0
+hobbies,pennello,fine,da trucco,0,0,per capelli,0,0,a seta,0,0,da disegnare,0,0,per olio,0,0,per tempera,0,0,da disegno,0,0,da tempera,0,0,per tappeti,0,0,a mano con tappo e manico,0,0
+hobbies,pennello,da imbianchino,per acquerello,0,0,per unghie,0,0,da pittore,0,0,da vernice,0,0,per acrilico,0,0,per vernice,0,0,da scrivere,0,0,da olio,0,0,,0,0,a mano con tappo e manico con tassa,0,0
+hobbies,pennello,grande,per olio,0,0,per stucco,0,0,da intonaco,0,0,da make-up,0,0,per tempera,0,0,per trucco,0,0,,0,0,da gouache,0,0,,0,0,a mano con tappo e manico con tassa e manico con tappo,0,0
+kitchenware,pentola,a pressione,a pressione,1,1,a pressione,1,1,a pressione,1,1,da cucina,0,0,a pressione,1,1,a pressione,1,1,a manico,0,0,con manico,0,0,da cucina,0,0,pentolina,0,0
+kitchenware,pentola,antiaderente,di coccio,0,0,a coperchio,0,0,a coperchio,0,0,per riso,0,0,da forno,0,0,per risotti,0,0,a forno,0,0,con manico e fori,0,0,da cucina elettrica,0,0,pentolone,0,0
+kitchenware,pentola,pentolino,di rame,0,0,a fuoco lento,0,0,a vapore,0,0,per zuppe,0,0,casseruola,0,0,per pasta,0,0,a vapore,0,0,con manico e fori per fornire,0,0,da cucina elettrica con riscaldamento,0,0,pentolino,1,1
+kitchenware,pentola,padella,di ghisa,0,0,a vapore,0,0,a gas,0,0,per bollitura,0,0,wok,0,0,per minestre,0,0,a pressione,0,1,con manico e fori per fornire e con manico,0,0,da cucina elettrica con riscaldamento e controllo della temperatura,0,0,pent,0,0
+kitchenware,pentola,di acciaio,di acciaio,1,1,a cottura rapida,0,0,a elettrica,0,0,da fritto,0,0,padella,0,1,per fondue,0,0,a vapore con manico,0,0,con manico e fori per fornire e con manico e fori,0,0,da cucina elettrica con riscaldamento e controllo della temperatura e funzioni di regolazione,0,0,,0,0
+foods,pesce,tonno,sogliola,0,0,squalo,0,1,trutta,0,0,anguilla,0,0,salmone,0,1,salmone,0,1,salmone,0,1,salmone,0,1,d'acqua dolce,0,0,d'acqua dolce,0,0
+foods,pesce,spada,salmone,0,1,squalo bianco,0,0,salmone,0,1,aringa,0,0,trota,0,0,tonno,0,1,spada,1,1,trota,0,0,d'acqua salata,0,0,d'acqua salata,0,0
+foods,pesce,merluzzo,tonno,0,1,squalo martello,0,0,merluzzo,1,1,astice,0,0,carpa,0,0,spada,0,1,gatto,0,0,spada,0,1,d'acqua di mare,0,0,d'acqua di mare,0,0
+foods,pesce,salmone,spigola,0,0,squalo tigre,0,0,sardine,0,0,branzino,0,0,tilapia,0,0,azzurro,0,0,dorato,0,0,gatto,0,0,d'acqua di fiume,0,0,d'acqua di fiume,0,0
+foods,pesce,squalo,anguilla,0,0,squalo albino,0,0,anatra,0,0,calamaro,0,0,branzino,0,0,gatto,0,0,rosso,0,0,g,0,0,d'acqua di laghi,0,0,d'acqua di laghi,0,0
+kitchenware,piatto,fondo,antipasto,0,0,da portata,0,0,da tavola,0,0,da pranzo,0,0,antipasto,0,0,fondo,1,1,da cucina,0,0,da cucina,0,0,da cucina,0,0,da cucina,0,0
+kitchenware,piatto,piano,primo,0,0,da dessert,0,0,da cucina,0,0,da dessert,0,0,primo piatto,0,0,piano,1,1,da tavola,0,0,da tavola,0,0,da tavola,0,0,da tavola,0,0
+kitchenware,piatto,da dolce,secondo,0,0,da riso,0,0,da forno,0,0,da pasta,0,0,secondo piatto,0,0,da portata,0,0,da pranzo,0,0,da pranzo,0,0,da banco,0,0,da banco,0,0
+kitchenware,piatto,di plastica,contorno,0,0,da zuppa,0,0,da bar,0,0,da riso,0,0,contorno,0,0,da insalata,0,0,da cena,0,0,da cena,0,0,,0,0,da caffè,0,0
+kitchenware,piatto,di ceramica,dolce,0,0,da antipasto,0,0,da picnic,0,0,da tazza,0,0,dolce,0,0,da dessert,0,0,da pasto,0,0,da pasta,0,0,,0,0,da birra,0,0
+body parts,piede,destro,umano,0,0,umano,0,0,destro,1,1,destro,1,1,umano,0,0,umano,0,0,umano,0,0,calzatura,0,0,destro,1,1,calzature,0,0
+body parts,piede,piatto,zampa,0,0,di cavallo,0,0,sinistro,0,1,sinistro,0,1,di un animale,0,0,di porco,0,0,animale,0,0,scarpe,0,0,sinistro,0,1,scarpe,0,0
+body parts,piede,sinistro,di porco,0,0,di gallina,0,0,neonato,0,0,umano,0,0,di una sedia,0,0,di gallina,0,0,vegetale,0,0,sandali,0,0,,0,0,stivali,0,0
+body parts,piede,greco,di maiale,0,0,di pollo,0,0,amputato,0,0,animale,0,0,di un tavolo,0,0,di montagna,0,0,inanimato,0,0,stivali,0,0,,0,0,sandali,0,0
+body parts,piede,grande,di elefante,0,0,di cane,0,0,,0,0,di gomma,0,0,di una montagna,0,0,di foto,0,0,di legno,0,0,pantofole,0,0,,0,0,scarpe da ginnastica,0,0
+plants,pino,silvestre,silvestre,1,1,d'aleppo,0,0,da costruzione,0,0,domestico,0,0,silvestre,1,1,marittimo,0,1,d'albero,0,0,d'albero,0,0,pinus,0,0,pinus,0,0
+plants,pino,marittimo,domestico,0,0,cembro,0,0,da falegnameria,0,0,silvestre,0,1,marittimo,1,1,silvestre,0,1,di legno,0,0,verde,0,0,picea,0,0,silvestre,0,1
+plants,pino,mugo,strobo,0,0,silvestre,0,1,da legno,0,0,marittimo,0,1,d'aleppo,0,0,domestico,0,0,silvestre,0,1,d'italia,0,0,abies,0,0,rosso,0,0
+plants,pino,nero,nero,1,1,marittimo,0,1,da scultura,0,0,d'aleppo,0,0,laricio,0,0,mugo,0,1,mugo,0,1,d'aleppo,0,0,tsuga,0,0,cembro,0,0
+plants,pino,bianco,mugo,0,1,manso,0,0,da ornamento,0,0,laricio,0,0,nero,0,1,nero,0,1,pigno,0,0,d'aleppo giallo,0,0,larix,0,0,nero,0,1
+foods,pizza,margherita,quattro formaggi,0,0,margherita,1,1,margherita,1,1,margherita,1,1,margherita,1,1,margherita,1,1,margherita,1,1,margherita,1,1,classica,0,0,al taglio,0,0
+foods,pizza,capricciosa,prosciutto e funghi,0,0,capricciosa,1,1,quattro formaggi,0,0,pepperoni,0,0,marinara,0,1,quattro stagioni,0,1,pepperoni,0,0,pepperoni,0,0,quattro formaggi,0,0,al forno,0,0
+foods,pizza,marinara,quattro stagioni,0,1,quattro formaggi,0,0,prosciutto e funghi,0,0,quattro formaggi,0,0,capricciosa,0,1,al salamino,0,0,quattro stagioni,0,1,hawaiiana,0,0,margherita,0,1,al forno a legna,0,0
+foods,pizza,diavola,capricciosa,0,1,prosciutto e funghi,0,0,capricciosa,0,1,margherita con funghi,0,0,quattro formaggi,0,0,al prosciutto,0,0,hawaiiana,0,0,quattro stagioni,0,1,di pane,0,0,al forno a pietra,0,0
+foods,pizza,quattro stagioni,marinara,0,1,quattro stagioni,1,1,marinara,0,1,hawaiian,0,0,diavola,0,1,ai funghi,0,0,funghi,0,0,funghi,0,0,con carne,0,0,al forno a pietra con olio,0,0
+furniture,poltrona,reclinabile,recliner,0,0,da ufficio,0,0,divano,0,0,classica,0,0,da ufficio,0,0,reclinabile,1,1,divano,0,0,sedia,0,0,divano,0,0,divano,0,0
+furniture,poltrona,a dondolo,chaise longue,0,0,da soggiorno,0,0,divanetto,0,0,reclinabile,0,1,reclinabile,0,1,in pelle,0,1,soffa,0,0,credenza,0,0,sofà,0,0,sofà,0,0
+furniture,poltrona,in pelle,reclinabile,0,1,reclinabile,0,1,a bracciuoli,0,0,a rotelle,0,0,massaggiante,0,1,con braccioli,0,1,sedia,0,0,divano,0,0,canapé,0,0,sedia,0,0
+furniture,poltrona,massaggiante,a dondolo,0,1,da giardino,0,0,a cuscini,0,0,a schiena inclinata,0,0,girevole,0,0,con poggiapiedi,0,0,cuscino,0,0,ottomano,0,0,seduta,0,0,cuscino,0,0
+furniture,poltrona,con braccioli,a rotelle,0,0,da esterno,0,0,,0,0,a sbalzo,0,0,letto,0,0,girevole,0,0,a rotelle,0,0,sofà,0,0,cuscino,0,0,sedia a piatti,0,0
+housing buildings,porta,scorrevole,blindata,0,1,di casa,0,0,d'ingresso,0,0,d'ingresso,0,0,blindata,0,1,d'ingresso,0,0,di legno,0,1,con colonne,0,0,porta-documenti,0,0,d'ingresso,0,0
+housing buildings,porta,blindata,scorrevole,0,1,di ingresso,0,0,di servizio,0,0,d'uscita,0,0,scorrevole,0,1,di servizio,0,0,di vetro,0,0,con colonne e architrave,0,0,porta-pensiero,0,0,d'uscita,0,0
+housing buildings,porta,a vetro,a libro,0,0,di uscita,0,0,di emergenza,0,0,di accesso,0,0,girevole,0,0,finestra,0,0,di metallo,0,0,con colonne e architrave aperta,0,0,porta-pacchetti,0,0,d'ing,0,0
+housing buildings,porta,di legno,a vento,0,0,finestra,0,0,di scolo,0,0,di sicurezza,0,0,a battente,0,0,blindata,0,1,di vetro con vetri,0,0,con colonne e architrave chiusa,0,0,porta-pompe,0,0,,0,0
+housing buildings,porta,portone,a scomparsa,0,0,scorrevole,0,1,di ventilazione,0,0,rotonda,0,0,a libro,0,0,scorrevole,0,1,di vetro con vetri inseriti,0,0,con colonne e architrave aperta con vetri,0,0,porta-scatole,0,0,,0,0
+furnishings/fittings,portafotografia,cornice,album,0,1,portafotocamera,0,0,casco,0,0,fascetta da foto,0,0,album fotografico,0,0,portafoto,0,0,portafoglio,0,0,portafoglio,0,0,canon,0,0,camera,0,0
+furnishings/fittings,portafotografia,di legno,cornice,0,1,portafoto,0,0,cassetta,0,0,portafoglio fotografico,0,0,astuccio per fotocamera,0,0,cornice,0,1,portafoglio di fotografie,0,0,portafoglio di fotografie,0,0,nikon,0,0,telefono,0,0
+furnishings/fittings,portafotografia,quadro,raccoglitore,0,0,album,0,1,schermo,0,0,portafilm,0,0,borsa per reflex,0,0,album fotografico,0,0,album di fotografie,0,0,portafoglio fotografico,0,0,sony,0,0,tablet,0,0
+furnishings/fittings,portafotografia,album,astuccio,0,0,album fotografico,0,0,teleobiettivo,0,0,portascheda,0,0,borsetta per fotocamera,0,0,scatola per foto,0,0,album fotografico,0,0,portafoglio di immagini,0,0,fujifilm,0,0,computer,0,0
+furnishings/fittings,portafotografia,digitale,album da tavolo,0,0,album di famiglia,0,0,flash,0,0,portaservizio,0,0,custodia per obiettivo,0,0,portaritratti,0,0,album di fotografie in carta,0,0,portafoglio di foto,0,0,kodak,0,0,smartphone,0,0
+furnishings/fittings,posacenere,di vetro,da terra,0,0,da tavolo,0,1,bidone,0,0,tazza da caffè,0,0,da tavolo,0,1,da tavolo,0,1,lavastoviglie,0,0,con pizze,0,0,bicchiere,0,0,cenere,0,0
+furnishings/fittings,posacenere,di plastica,da tavolo,0,1,da camino,0,0,contenitore,0,0,tazza da tè,0,0,da terra,0,0,da parete,0,0,lavastoviglie a gettoni,0,0,con pizze e birra,0,0,tazza,0,0,c,0,0
+furnishings/fittings,posacenere,di metallo,portacenere,0,0,da cucina,0,0,scatola,0,0,platino,0,0,da parete,0,0,da esterno,0,0,lavastoviglie a moneta,0,0,con pizze e birra e coca cola,0,0,tavola,0,0,,0,0
+furnishings/fittings,posacenere,da tavolo,da auto,0,0,da giardino,0,0,cassone,0,0,candela,0,0,da auto,0,0,da auto,0,0,lavastoviglie a carta,0,0,"con pizze, birra e coca cola",0,0,piatto,0,0,,0,0
+furnishings/fittings,posacenere,tascabile,da balcone,0,0,da esterno,0,0,cassetta,0,0,lucerna,0,0,da camino,0,0,da tasca,0,0,lavastoviglie a carattere,0,0,"con pizze, birra, coca cola e acqua",0,0,,0,0,,0,0
+stationery,quaderno,a righe,a righe,1,1,di matematica,0,0,di scuola,0,0,rigido,0,0,a spirale,0,0,ad anelli,0,1,di lavoro,0,0,notebook,0,0,notebook,0,0,carta,0,0
+stationery,quaderno,a quadretti,a quadretti,1,1,di scrittura,0,0,di lavoro,0,0,a spira,0,0,rigato,0,0,a spirale,0,0,di spese,0,0,cahier,0,0,diario,0,0,foglio,0,0
+stationery,quaderno,ad anelli,a fogli mobili,0,0,di disegno,0,0,di viaggio,0,0,a tavolino,0,0,a quadretti,0,1,a righe,0,1,di appunti,0,0,taccuino,0,0,agenda,0,0,libro,0,0
+stationery,quaderno,a fogli bianchi,ad anelli,0,1,di musica,0,0,di appunti,0,0,per appunti,0,0,lineato,0,0,a quadretti,0,1,di lavoro di matematica,0,0,diario,0,0,calendario,0,0,notebook,0,0
+stationery,quaderno,da disegno,a spirale,0,0,di storia,0,0,di disegno,0,0,da scuola,0,0,senza margini,0,0,a fogli sciolti,0,0,di fisica,0,0,agenda,0,0,planner,0,0,diario,0,0
+furnishings/fittings,quadro,astratto,ritratto,0,1,dipinto,0,1,d'arte,0,0,pittorico,0,0,ritratto,0,1,dipinto,0,1,analogo,0,0,nero,0,0,da dipingere,0,0,a olio,0,0
+furnishings/fittings,quadro,elettrico,autoritratto,0,0,fotografico,0,0,fotografico,0,0,muralesco,0,0,paesaggio,0,0,disegno,0,0,digitale,0,0,bianco,0,0,da disegnare,0,0,a pastello,0,0
+furnishings/fittings,quadro,ritratto,paesaggio,0,0,di controllo,0,0,di tela,0,0,di controllo,0,0,natura morta,0,1,acquerello,0,0,di pittura,0,0,a colori,0,0,da schizzo,0,0,a gouache,0,0
+furnishings/fittings,quadro,dipinto,natura morta,0,1,di comando,0,0,in legno,0,0,strumentale,0,0,still life,0,0,olio,0,0,di legno,0,0,a pennello,0,0,da cartone,0,0,a carboncino,0,0
+furnishings/fittings,quadro,natura morta,astratto,0,1,di controllo di rete,0,0,in vetro,0,0,elettrico,0,1,raffigurazione storica,0,0,tempera,0,0,di vetro,0,0,a matita,0,0,da cartone animato,0,0,a cera,0,0
+plants,quercia,leccio,quercus robur,0,0,bianca,0,0,albero,0,0,rossa,0,0,bianca,0,0,rossa,0,0,americana,0,0,bianca,0,0,rossa,0,0,rosso,0,0
+plants,quercia,secolare,quercus petraea,0,0,rossa,0,0,legno,0,0,bianca,0,0,rossa,0,0,peduncolata,0,0,bicolor,0,0,rossa,0,0,bianca,0,0,bianca,0,0
+plants,quercia,rovere,quercus cerris,0,0,nera,0,0,scultura,0,0,rossiccia,0,0,da sughero,0,0,da sughero,0,0,cedrina,0,0,sessiliflora,0,0,rosso,0,0,,0,0
+hobbies,racchetta,da tennis,da tennis,1,1,da tennis,1,1,da tennis,1,1,da tennis,1,1,da tennis,1,1,da tennis,1,1,da tennis,1,1,da tennis,1,1,da squash,0,0,da tennis,1,1
+hobbies,racchetta,da padel,da squash,0,0,da squash,0,0,da squash,0,0,da pallavolo,0,0,da ping pong,0,1,da badminton,0,1,da squash,0,0,da squash,0,0,da tennis,0,1,da squash,0,0
+hobbies,racchetta,da ping pong,da badminton,0,1,da badminton,0,1,da badminton,0,1,da squash,0,0,da squash,0,0,da squash,0,0,da badminton,0,1,da badminton,0,1,da badminton,0,1,da badminton,0,1
+hobbies,racchetta,da badminton,da paddle,0,0,da ping-pong,0,0,da pallavolo,0,0,da badminton,1,1,da badminton,1,1,da ping pong,0,1,da pallavolo,0,0,da ping pong,0,1,da ping pong,0,1,da ping pong,0,1
+hobbies,racchetta,da volano,da racquetball,0,0,da pallavolo,0,0,da calcio,0,0,da baseball,0,0,da racquetball,0,0,da padel,0,1,da baseball,0,0,da baseball,0,0,,0,0,,0,0
+stationery,righello,squadra,a triangolo,0,0,a stecchi,0,0,di legno,0,0,da cucina,0,0,in plastica,0,0,da 15 cm,0,0,a sbarre,0,0,da misurare,0,0,a coda,0,0,12,0,0
+stationery,righello,riga,flessibile,0,0,a nastro,0,0,di metallo,0,1,da cucina da forno,0,0,in metallo,0,0,da 30 cm,0,0,a sbarre con denti,0,0,da costruzione,0,0,a coda a sesto,0,0,15,0,0
+stationery,righello,di plastica,a squadra,0,0,a laser,0,0,di plastica,1,1,da cucina da tavola,0,0,da disegno,0,0,da 60 cm,0,0,a sbarre con denti metallici,0,0,da lavoro,0,0,a coda a quattro,0,0,18,0,0
+stationery,righello,goniometro,calibrato,0,0,a livello,0,0,di vetro,0,0,da cucina da bar,0,0,da falegname,0,0,da 1 metro,0,0,a sbarre con denti in ceramica,0,0,da scuola,0,0,a coda a tre,0,0,20,0,0
+stationery,righello,di metallo,a nastro,0,0,a stantuffo,0,0,,0,0,da cucina da laboratorio,0,0,da sarto,0,0,da falegname,0,0,a sbarre con denti in ceramica e metallici,0,0,da muro,0,0,a coda a due,0,0,24,0,0
+housing buildings,ripostiglio,sgabuzzino,armadio,0,0,armadio,0,0,cassettone,0,0,armadio,0,0,armadio,0,0,armadio,0,0,armadio,0,0,camicia,0,0,carta,0,0,armadio,0,0
+housing buildings,ripostiglio,sottoscala,dispensa,0,0,cassettiera,0,0,cassettiera,0,0,cassettiera,0,0,scaffale,0,0,scaffale,0,0,cassa,0,0,calze,0,0,carta da telefono,0,0,scaffale,0,0
+housing buildings,ripostiglio,per scope,a muro,0,0,cassettone,0,0,a muro,0,0,cassaforte,0,0,mensola,0,0,cassettiera,0,0,cassettino,0,0,pantaloni,0,0,carta da posta,0,0,cassette,0,0
+foods,riso,basmati,arborio,0,1,integrale,0,1,integrale,0,1,arborio,0,1,integrale,0,1,bianco,0,0,bianco,0,0,grano di riso,0,0,arancio,0,0,bianco,0,0
+foods,riso,venere,basmati,0,1,glutinoso,0,0,bianco,0,0,basmati,0,1,parboiled,0,0,integrale,0,1,integrale,0,1,bianco,0,0,bianco,0,0,nero,0,0
+foods,riso,carnaroli,carnaroli,1,1,basmati,0,1,rosso,0,0,jasmin,0,0,basmati,0,1,selvaggio,0,0,parboiled,0,0,integrale,0,1,nero,0,0,rosso,0,0
+foods,riso,integrale,jasmine,0,0,arborio,0,1,glutinoso,0,0,orzo,0,0,jasmine,0,0,basmati,0,1,arborio,0,1,parboiled,0,0,rosso,0,0,giallo,0,0
+foods,riso,arborio,ribe,0,0,sushi,0,0,basmati,0,1,risotto,0,0,arborio,1,1,arborio,1,1,nano,0,0,arborio,1,1,blu,0,0,arborio,1,1
+plants,rosa,rossa,damascena,0,0,rossetto,0,0,,0,0,fiorita,0,0,canina,0,1,tea,0,0,fiore,0,0,fiore di rosa,0,0,,0,0,rosso,0,0
+plants,rosa,bianca,gallica,0,0,rosso,0,0,,0,0,colore,0,0,rugosa,0,0,rossa,0,1,fiori,0,0,fiori di rosa,0,0,,0,0,rosa,0,0
+plants,rosa,canina,centifolia,0,0,rubino,0,0,,0,0,vino,0,0,gallica,0,0,gialla,0,1,fiori di rosa,0,0,rossa,0,1,,0,0,rosso,0,0
+plants,rosa,gialla,moschata,0,0,,0,0,,0,0,gemma,0,0,centifolia,0,0,bianca,0,1,rossa,0,1,bianca,0,1,,0,0,rosso rosso,0,0
+plants,rosa,antico,canina,0,1,,0,0,,0,0,tintura,0,0,damascena,0,0,rosa,0,0,bianca,0,1,rosa,0,0,,0,0,rosso rosso rosso,0,0
+plants,salice,piangente,bianco,0,1,da pesca,0,0,di legno,0,0,bianco,0,1,salix alba,0,0,piangente,1,1,bianco,0,1,bianco,0,1,bianco,0,1,salicino,0,0
+plants,salice,bianco,rosso,0,0,da vela,0,0,di metallo,0,0,blu,0,0,salix caprea,0,0,bianco,1,1,rosso,0,0,nero,0,1,rosso,0,0,salicina,0,0
+plants,salice,nero,nero,1,1,da sci,0,0,di plastica,0,0,rosso,0,0,salix fragilis,0,0,rosso,0,0,nero,1,1,verde,0,0,giallo,0,0,salicilina,0,0
+plants,salice,odoroso,da cesto,0,0,da windsurf,0,0,di vetro,0,0,americano,0,0,salix purpurea,0,0,argentato,0,0,bianco rosso,0,0,rosso,0,0,verde,0,0,salicilato,0,0
+housing buildings,scala,a chiocciola,a chiocciola,1,1,a chiocciola,1,1,mobile,0,1,a chiocciola,1,1,a chiocciola,1,1,a chiocciola,1,1,da cucina,0,0,esterna,0,0,a cassa,0,0,per ragazzi,0,0
+housing buildings,scala,a pioli,mobile,0,1,a pioli,1,1,a chiocciola,0,1,rettangolare,0,0,a giorno,0,0,mobile,0,1,da bagno,0,0,interna,0,1,a cassa a sospensione,0,0,per adulti,0,0
+housing buildings,scala,mobile,a pioli,0,1,a piattaforma,0,0,a piastrelle,0,0,elicoidale,0,0,a ponte,0,0,esterna,0,0,esterna,0,0,di accesso,0,0,a cassa a sospensione a cuneo,0,0,per disabili,0,0
+housing buildings,scala,interna,a libro,0,0,a pioli a vite,0,0,a tredini,0,0,esterna,0,0,a sbalzo,0,0,interna,1,1,a chiocciola,0,1,di emergenza,0,0,a cassa a sospensione a cuneo a sospensione,0,0,per bimbi,0,0
+housing buildings,scala,scaletta,elicoidale,0,0,a pioli a rasoio,0,0,a pietra,0,0,interna,0,1,a elica,0,0,di servizio,0,0,a chiocciola per bambini,0,0,di servizio,0,0,a cassa a sospensione a cuneo a sospensione a cuneo,0,0,per anziani,0,0
+clothes,scarpa,da ginnastica,stivale,0,0,da ginnastica,1,1,da ballo,0,0,sandalia,0,0,stivaletto,0,0,da ginnastica,1,1,da ginnastica,1,1,sandalo,0,0,da ginnastica,1,1,da donna,0,0
+clothes,scarpa,col tacco,sandalo,0,0,da calcio,0,0,da ginnastica,0,1,stivali,0,1,sandalo,0,0,con tacco,0,0,da calcio,0,0,stivaletto,0,0,da tennis,0,0,da uomo,0,0
+clothes,scarpa,sneakers,da ginnastica,0,1,da tennis,0,0,da corsa,0,0,scarpe da gara,0,0,décolleté,0,0,sandalo,0,0,da tennis,0,0,sandalo aperto,0,0,da calzature,0,0,da gara,0,0
+clothes,scarpa,stivali,da calcio,0,0,da danza,0,0,da trekking,0,0,scarpe da tennismo,0,0,sneaker,0,0,stivale,0,0,da corsa,0,0,sandalo chiuso,0,0,da gara,0,0,da lavoro,0,0
+clothes,scarpa,elegante,da ballo,0,0,da lavoro,0,0,da neve,0,0,scarpe da calcio,0,0,ballerina,0,0,da calcio,0,0,da lavoro,0,0,sandalo con tacco,0,0,da bocce,0,0,,0,0
+body parts,schiena,dritta,dorso,0,0,alta,0,0,colonna vertebrale,0,0,umana,0,0,colonna vertebrale,0,0,dorsale,0,0,di legno,0,0,di legno,0,0,dorata,0,0,dorata,0,0
+body parts,schiena,curva,dritta,0,1,curva,1,1,muscolo lombarico,0,0,animale,0,0,muscoli dorsali,0,0,vertebrale,0,0,di carta,0,0,di vetro,0,0,d'oro,0,0,d'oro,0,0
+body parts,schiena,scoliotica,curva,0,1,dritta,0,1,muscolo eretto,0,0,di un sedile,0,0,articolazioni vertebrali,0,0,lombare,0,0,di plastica,0,0,di metallo,0,0,d'argento,0,0,d'argento,0,0
+body parts,schiena,storta,inarcata,0,0,larga,0,0,muscolo iliaco,0,0,di una sedia,0,0,midollo spinale,0,0,cervicale,0,0,di cuoio,0,0,di vetro con metallo,0,0,d'oro e d'argento,0,0,d'oro e d'argento,0,0
+clothes,sciarpa,di lana,scialle,0,1,di lana,1,1,cappuccio,0,0,in pelle,0,0,di lana,1,1,di seta,0,0,a collo,0,0,a maniche,0,0,da neve,0,0,a manica corta,0,0
+clothes,sciarpa,scaldacollo,foulard,0,1,di seta,0,0,guanti,0,0,in lana,0,0,di cashmere,0,0,di lana,0,1,a maniche,0,0,a collo,0,0,da bicicletta,0,0,a manica lunga,0,0
+clothes,sciarpa,foulard,boa,0,0,di cotone,0,0,guanti da neve,0,0,a velcro,0,0,di seta,0,0,di cotone,0,0,a guinzaglio,0,0,a capo,0,0,da gara,0,0,a manica lunga con cuffia,0,0
+clothes,sciarpa,scialle,mantiglia,0,0,di cashmere,0,0,guanti da sci,0,0,a tubo,0,0,di cotone,0,0,di cachemire,0,0,a guinzaglio a maniche,0,0,a capo lunga,0,0,da bagnante,0,0,a manica lunga con cuffia a gomma,0,0
+clothes,sciarpa,lunga,scialletto,0,0,di lino,0,0,guanti da sci alpino,0,0,a goccia,0,0,di poliestere,0,0,di tartan,0,0,a guinzaglio a collo,0,0,a capo corta,0,0,da baule,0,0,a manica lunga con cuffia a gomma con cuffia a gomma,0,0
+animals,scimmia,scimpanzè,gorilla,0,1,scimpanzé,0,0,capuchino,0,0,gibbon,0,0,scimpanzé,0,0,babbuino,0,1,comune,0,0,gorilla,0,1,babbuino,0,1,scimpanzé,0,0
+animals,scimmia,gorilla,orango,0,1,gorilla,1,1,mandrillo,0,0,gorilla,1,1,gorilla,1,1,gibbone,0,0,verde,0,0,orangutano,0,0,orangutan,0,0,orangutano,0,0
+animals,scimmia,orango,gibbone,0,0,orangutan,0,0,scimpanzé,0,0,orangutan,0,0,orangotango,0,0,gorilla,0,1,rossa,0,0,gibbon,0,0,chimpanzee,0,0,gorilla,0,1
+animals,scimmia,babbuino,scimpanzé,0,0,gibbon,0,0,gorilla,0,1,capibara-verde,0,0,bonobo,0,0,orangutan,0,0,grigia,0,0,chimpanzee,0,0,gorilla,0,1,babbuino,1,1
+animals,scimmia,macaco,babbuino,0,1,lemure,0,0,langurio,0,0,bonobo,0,0,gibbone,0,0,scimpanzé,0,0,nera,0,0,bonobo,0,0,siamang,0,0,gibbon,0,0
+kitchenware,scolapasta,di plastica,a forbice,0,0,a cerniera,0,0,macchina da cucina,0,0,spaghetti,0,0,in acciaio inossidabile,0,0,a forma di ciotola,0,0,scuola,0,0,,0,0,bianca,0,0,in plastica,0,0
+kitchenware,scolapasta,di acciaio,a stantuffo,0,0,a vite,0,0,pentola,0,0,lasagne,0,0,in plastica,0,0,a forma di imbuto,0,0,docente,0,0,,0,0,rossa,0,0,in carta,0,0
+kitchenware,scolapasta,di metallo,a pressione,0,0,a clip,0,0,padella,0,0,tagliatelle,0,0,in silicone,0,0,a forma di grattugia,0,0,allievo,0,0,,0,0,blu,0,0,in metallo,0,0
+kitchenware,scolapasta,con manico,a mano,0,0,a gancio,0,0,teglia,0,0,fettuccine,0,0,pieghevole,0,0,a forma di rete,0,0,didascalia,0,0,,0,0,nera,0,0,in ceramica,0,0
+kitchenware,scolapasta,di silicone,elettrico,0,0,a cerniera automatica,0,0,ciotola,0,0,pappardelle,0,0,da parete,0,0,a forma di spirale,0,0,didattica,0,0,,0,0,verde,0,0,,0,0
+stationery,scolorina,a nastro,per capelli,0,0,di carbone,0,0,vernice,0,0,tinta a olio,0,0,cloro,0,0,smalto per unghie,0,0,scuola elementare,0,0,,0,0,per bambini,0,0,bicchiere,0,0
+stationery,scolorina,liquida,per pelle,0,0,di rame,0,0,verniciatura,0,0,tinta a acqua,0,0,candeggina,0,0,vernice per unghie,0,0,scuola media,0,0,,0,0,per adulti,0,0,tazza,0,0
+stationery,scolorina,a penna,per tessuti,0,0,di ferro,0,0,verniciatore,0,0,tinta a spray,0,0,ossigeno attivo,0,0,glitter per unghie,0,0,scuola superiore,0,0,,0,0,per uomini,0,0,tazza per caffè,0,0
+stationery,scolorina,bianchetto,per legno,0,0,di zinco,0,0,verniciatore a mano,0,0,tinta a pennello,0,0,perborato di sodio,0,0,strass per unghie,0,0,scuola primaria,0,0,,0,0,per donne,0,0,tazza per tè,0,0
+stationery,scolorina,a pennello,per metalli,0,0,di nichel,0,0,verniciatore a spruzzo,0,0,tinta a spruzzatrice,0,0,percarbonato di sodio,0,0,glitter per ungh,0,0,scuola secondaria di primo grado,0,0,,0,0,per bambini con disabilità,0,0,tazza per latte,0,0
+vehicles,scooter,50,ape,0,0,elettrico,0,1,a due ruote,0,0,a due ruote,0,0,elettrico,0,1,elettrico,0,1,motoscooter,0,0,,0,0,vespa,0,1,,0,0
+vehicles,scooter,elettrico,ape car,0,0,a due ruote,0,0,a tre ruote,0,0,a tre ruote,0,0,a benzina,0,0,a benzina,0,0,moped,0,0,,0,0,lambretta,0,0,,0,0
+vehicles,scooter,vespa,ape tm,0,0,a tre ruote,0,0,a quattro ruote,0,0,elettrico,0,1,pieghevole,0,0,a pedali,0,0,motociclo,0,0,,0,0,genuine company,0,0,,0,0
+vehicles,scooter,125,ciao,0,0,a quattro ruote,0,0,elettrico,0,1,a pedali,0,0,da cross,0,0,a tre ruote,0,0,motocross,0,0,,0,0,yamaha,0,0,,0,0
+vehicles,scooter,motorino,helix,0,0,sportivo,0,0,a motore,0,0,fuori strada,0,0,per bambini,0,0,con sidecar,0,0,quadriciclo,0,0,,0,0,honda,0,0,,0,0
+furniture,scrivania,di legno,da ufficio,0,1,da ufficio,0,1,cassettiera,0,0,tradizionale,0,0,in stile industriale,0,0,da ufficio,0,1,tavolo da lavoro,0,0,tavolo,0,0,tavolo,0,0,tavolo,0,0
+furniture,scrivania,da ufficio,tavolo da lavoro,0,0,da cucina,0,0,portatile,0,0,a ruote,0,0,in stile moderno,0,0,da casa,0,0,tavolo da studio,0,0,sedia,0,0,tavolo da lavoro,0,0,tavolo da lavoro,0,0
+furniture,scrivania,angolare,tavolo da disegno,0,0,da studio,0,0,a rotelle,0,0,modulare,0,0,in stile tradizionale,0,0,per bambini,0,0,tavolo da disegno,0,0,lampadaio,0,0,tavolo da cucina,0,0,tavolo da studio,0,0
+furniture,scrivania,scrittoio,tavolo da studio,0,0,da lavoro,0,0,con tavolo,0,0,ergonomica,0,0,in stile scandinavo,0,0,con cassetti,0,0,tavolo da cucina,0,0,computer,0,0,tavolo da pranzo,0,0,tavolo da ufficio,0,0
+furniture,scrivania,di vetro,tavolo da cucina,0,0,da computer,0,0,con cassettone,0,0,da studio,0,0,in stile rustico,0,0,con ripiano ribaltabile,0,0,tavolo da pranzo,0,0,monitor,0,0,tavolo da cena,0,0,,0,0
+furniture,sedia,a dondolo,poltrona,0,0,da giardino,0,0,a gambe,0,0,a rotelle,0,0,da ufficio,0,1,da ufficio,0,1,a rotelle,0,0,poltrona,0,0,per uomo,0,0,a rotelle,0,0
+furniture,sedia,di legno,sgabello,0,0,da ufficio,0,1,a rotelle,0,0,a quattro gambe,0,0,da pranzo,0,0,da cucina,0,0,a sbalzo,0,0,poltronetta,0,0,per donna,0,0,a piatti,0,0
+furniture,sedia,pieghevole,a rotelle,0,0,da cucina,0,0,a sdraio,0,0,a rotaia,0,0,da salotto,0,0,da giardino,0,0,a sbalzo elettrica,0,0,a rotelle,0,0,per bambino,0,0,a piatti a rotelle,0,0
+furniture,sedia,di plastica,a dondolo,0,1,da soggiorno,0,0,a cuscino,0,0,a rialzo,0,0,pieghevole,0,1,a dondolo,0,1,a sbalzo elettrica con braccioli,0,0,a gambe,0,0,per ufficio,0,0,a piatti a rotelle a bracci,0,0
+furniture,sedia,da ufficio,da giardino,0,0,da spiaggia,0,0,a braccio,0,0,a scomposte,0,0,girevole,0,0,a rotelle,0,0,a sbalzo elettrica con braccioli e tavolo,0,0,a quattro gambe,0,0,per la cucina,0,0,,0,0
+animals,serpente,a sonagli,boa,0,1,cobra,0,1,vipera,0,1,anaconda,0,0,cobra,0,1,velenoso,0,0,anaconda,0,0,cobra,0,1,boa,0,1,rettile,0,0
+animals,serpente,cobra,cobra,1,1,vipera,0,1,adder,0,0,boa,0,1,mamba,0,0,non velenoso,0,0,boa constrictora,0,0,python,0,0,vipera,0,1,velenoso,0,0
+animals,serpente,vipera,vipera,1,1,boa,0,1,cobra,0,1,cobra,0,1,pitone,0,0,marino,0,0,cobra,0,1,boa constrictora,0,0,cobra,0,1,a veleno,0,0
+animals,serpente,biscia,anaconda,0,0,pitone,0,0,anaconda,0,0,python,0,0,biutta,0,0,terrestre,0,0,vipera,0,1,anaconda,0,0,di mare,0,0,a scaglie,0,0
+animals,serpente,boa,pitone,0,0,a sonagli,0,1,boa constrictore,0,0,vipera,0,1,cascabel,0,0,arboricolo,0,0,rattlesnake,0,0,rattlesnake,0,0,di ghiaia,0,0,a squame,0,0
+clothes,slip,perizoma,mutande,0,0,da donna,0,0,guanto,0,0,intimo,0,0,da donna,0,0,da uomo,0,0,slipper,0,0,slip-in,0,0,slip-on,0,0,pantaletto,0,0
+clothes,slip,tanga,boxer,0,1,da uomo,0,0,cappello,0,0,da gara,0,0,da uomo,0,0,da donna,0,0,slip-on,0,0,slip-on,0,0,slip-resistant,0,0,pantyhose,0,0
+clothes,slip,brasiliana,perizoma,0,1,da bambino,0,0,scarpa,0,0,in plastica,0,0,da bambino,0,0,di seta,0,0,slip-off,0,0,slip-off,0,0,slip-on shoes,0,0,tights,0,0
+clothes,slip,boxer,tanga,0,1,da sport,0,0,,0,0,in pelle,0,0,in cotone,0,0,di cotone,0,0,slip-up,0,0,slip-up,0,0,slip-on sandals,0,0,leggings,0,0
+clothes,slip,culotte,da donna,0,0,da bagno,0,0,,0,0,da letto,0,0,in seta,0,0,di raso,0,0,slip-upon,0,0,slip-upon,0,0,slip-on boots,0,0,stockings,0,0
+housing buildings,soffitto,alto,a cassettoni,0,0,a volta,0,1,a volta,0,1,piano,0,0,piatto,0,0,a volta,0,1,in legno,0,0,a cassetto,0,0,a cassette,0,0,a cassette,0,0
+housing buildings,soffitto,a cupola,a volta,0,1,a cassettoni,0,0,a pavimento,0,0,a velatura,0,0,a volta,0,1,a cassettoni,0,0,in alluminio,0,0,a vista,0,0,a tavolato,0,0,a tettoia,0,0
+housing buildings,soffitto,di legno,a botte,0,0,a travi,0,0,a cassetto,0,0,a cassettoni,0,0,a cassettoni,0,0,a travetti,0,0,in pvc,0,0,a vetrata,0,0,a tettoia,0,0,a tettoia a cassette,0,0
+housing buildings,soffitto,contro,piano,0,0,a travetti,0,0,a traliccio,0,0,a travi,0,0,in legno,0,0,sospeso,0,0,in vetro,0,0,a pannelli,0,0,a tetto,0,0,a tettoia a tettoia,0,0
+housing buildings,soffitto,a volta,inclinato,0,0,a travetti a vista,0,0,a tappeto,0,0,a capriate,0,0,in gesso,0,0,in cartongesso,0,0,in lamiera,0,0,a lamiera,0,0,a tetto a tavolato,0,0,a tettoia a tettoia a cassette,0,0
+housing buildings,soggiorno,open space,salotto,0,1,divano,0,0,divano,0,0,living room,0,0,living,0,0,divano,0,0,hotel,0,0,couch,0,0,hotel,0,0,soffitta,0,0
+housing buildings,soggiorno,salotto,tinello,0,0,poltrona,0,0,poltrone,0,0,drawing room,0,0,salotto,1,1,poltrona,0,0,bed and breakfast,0,0,tv,0,0,motel,0,0,soffitto,0,0
+body parts,spalla,umana,a sbalzo,0,0,di pollo,0,0,umana,1,1,destra,0,1,congelata,0,0,umana,1,1,spallina,0,0,di carta,0,0,da lavoro,0,0,da lavoro,0,0
+body parts,spalla,destra,a fascia,0,0,di maiale,0,0,di animale,0,0,sinistra,0,1,dislocata,0,0,di un animale,0,0,spallino,0,0,di cartone,0,0,da borsa,0,0,da uomo,0,0
+body parts,spalla,animale,a cuscino,0,0,di manubrio,0,0,di un oggetto,0,0,superiore,0,0,dolorante,0,0,di una strada,0,0,spalliera,0,0,di legno,0,0,da viaggio,0,0,da donna,0,0
+body parts,spalla,larga,a pizzo,0,0,di cavallo,0,0,,0,0,inferiore,0,0,lussata,0,0,di una giacca,0,0,spallone,0,0,di plastica,0,0,da sport,0,0,da bimbo,0,0
+body parts,spalla,sinistra,a volant,0,0,di asino,0,0,,0,0,vertebrale,0,0,rotatoria,0,0,di un carro armato,0,0,,0,0,di vetro,0,0,da ginnastica,0,0,,0,0
+furnishings/fittings,specchio,da parete,da parete,1,1,da toeletto,0,0,da parete,1,1,a cavalletto,0,0,da trucco,0,0,da parete,1,1,a sessanta,0,0,mirror,0,0,ad angolo,0,0,ad angolo,0,0
+furnishings/fittings,specchio,rotondo,da terra,0,0,da parete,0,1,portatile,0,1,antifoglio,0,0,da bagno,0,1,da borsetta,0,0,a trecce,0,0,,0,0,ad angolo con illuminazione,0,0,ad angolo con illuminazione,0,0
+furnishings/fittings,specchio,portatile,da soffitto,0,0,a muro,0,0,da bagno,0,1,concavo,0,0,a figura intera,0,0,da trucco,0,0,a ventaglio,0,0,,0,0,ad angolo con illuminazione e rilevazione,0,0,ad angolo con illuminazione e riscaldamento,0,0
+furnishings/fittings,specchio,da bagno,da tavolo,0,0,a mano,0,0,da cucina,0,0,convexe,0,0,da tavolo,0,0,da tasca,0,0,a cavallo,0,0,,0,0,ad angolo con illuminazione e rilevazione e gestione,0,0,ad angolo con illuminazione e riscaldamento e regolazione della temperatura,0,0
+furnishings/fittings,specchio,retrovisore,a figura intera,0,0,a sfera,0,0,da studio,0,0,da barba,0,0,da parete,0,1,da bagno,0,1,a cavallo con manico,0,0,,0,0,ad angolo con illuminazione e rilevazione e gestione e rilevazione,0,0,,0,0
+stationery,spillatrice,tascabile,automatica,0,0,a batteria,0,0,aspirapolvere,0,0,a filo singolo,0,0,da birra,0,0,a molla,0,0,lavatrice,0,0,a vapore,0,0,a cuffia,0,0,stapler,0,0
+stationery,spillatrice,manuale,manuale,1,1,a carica,0,0,aspirapolvere con aspiratore,0,0,a filo doppio,0,0,da vino,0,0,elettrica,0,0,asciugatrice,0,0,a vapore con fungo,0,0,a cuffia a cuffia,0,0,,0,0
+clothes,t-shirt,a maniche corte,polo,0,0,polo,0,0,maglia,0,0,a collo rotondo,0,0,a maniche corte,1,1,a maniche corte,1,1,nero,0,0,con maniche lunghe,0,0,per uomo,0,0,,0,0
+clothes,t-shirt,a maniche lunghe,maglietta,0,0,maglietta,0,0,camicia,0,0,a collo a v,0,0,a maniche lunghe,1,1,a maniche lunghe,1,1,bianco,0,0,con maniche corte,0,0,per donna,0,0,,0,0
+clothes,t-shirt,con scollo a v,canotta,0,0,camicia,0,0,camisola,0,0,a maniche lunghe,0,1,senza maniche,0,0,senza maniche,0,0,rosa,0,0,con maniche a capo,0,0,per bambino,0,0,,0,0
+clothes,t-shirt,bianca,baby doll,0,0,canotta,0,0,polo,0,0,a maniche brevi,0,0,premaman,0,0,con scollo a v,0,1,grigio,0,0,con maniche a mezzo,0,0,,0,0,,0,0
+clothes,t-shirt,colorata,a maniche lunghe,0,1,maglietta a maniche lunghe,0,0,camicia da ballo,0,0,a righe,0,0,da notte,0,0,con scollo a barca,0,0,blu,0,0,con maniche a pieghe,0,0,,0,0,,0,0
+stationery,taccuino,a righe,agenda,0,1,di viaggio,0,0,diario,0,0,diario,0,0,a spirale,0,0,a spirale,0,0,di carta,0,0,con tastiera,0,0,diario,0,0,notebook,0,0
+stationery,taccuino,in pelle,quaderno,0,0,di appunti,0,0,agenda,0,1,quaderno,0,0,rilegato,0,0,ad anelli,0,0,di legno,0,0,con tastiera ergonomica,0,0,calendario,0,0,tablet,0,0
+stationery,taccuino,a quadretti,notes,0,0,di disegno,0,0,di viaggio,0,0,notebook,0,0,da viaggio,0,0,a quaderni,0,0,di plastica,0,0,con tastiera meccanica,0,0,agenda,0,1,computer,0,0
+stationery,taccuino,agenda,diario,0,0,di note,0,0,di cucina,0,0,journel,0,0,con copertina rigida,0,0,a fogli sciolti,0,0,di vetro,0,0,con tastiera meccanica ergonomica,0,0,organizzatore,0,0,smartphone,0,0
+stationery,taccuino,block notes,a spirale,0,0,di ricette,0,0,di viaggio per bambini,0,0,diario intimo,0,0,con copertina morbida,0,0,a molla,0,0,di metallo,0,0,con tastiera meccanica ergonomica nero,0,0,calendario digitale,0,0,,0,0
+kitchenware,tagliere,in legno,in legno,1,1,da cucina,0,0,per verdure,0,0,da tavola,0,0,in legno,1,1,in legno,1,1,manuali,0,0,da cucina,0,0,da cucina,0,0,da cucina,0,0
+kitchenware,tagliere,in plastica,in plastica,1,1,da lavoro,0,0,per formaggi,0,0,da cucina,0,0,in plastica,1,1,in plastica,1,1,elettrici,0,0,da barba,0,0,da cucina da cucina,0,0,da cucina da cucina,0,0
+kitchenware,tagliere,per salumi,in vetro,0,0,da pesce,0,0,per frutta,0,0,da legno,0,0,in vetro,0,0,in marmo,0,0,a mano,0,0,da legno,0,0,da cucina da cuc,0,0,,0,0
+kitchenware,tagliere,in acciaio,in bamboo,0,0,da carni,0,0,per pane,0,0,da carne,0,0,in marmo,0,0,in acciaio inossidabile,0,0,elettriche a mano,0,0,da legno elettrico,0,0,,0,0,,0,0
+kitchenware,tagliere,piccolo,in marmo,0,0,da formaggi,0,0,per dolci,0,0,da filo,0,0,in bambù,0,0,per frutta,0,0,rotanti,0,0,da legno elettrico con guida,0,0,,0,0,,0,0
+furnishings/fittings,tappeto,persiano,persiano,1,1,da bagno,0,1,da salotto,0,0,a pile,0,0,persiano,1,1,persiano,1,1,da bagno,0,1,a strisce,0,0,a fibre,0,0,a tasselli,0,0
+furnishings/fittings,tappeto,da bagno,cinese,0,0,da cucina,0,0,da cucina,0,0,persiano,0,1,turco,0,1,turco,0,1,da letto,0,0,a quadrati,0,0,a fibre sintetiche,0,0,a cappello,0,0
+furnishings/fittings,tappeto,turco,berbero,0,0,da soggiorno,0,0,da bagno,0,1,indiano,0,0,kilim,0,0,kilim,0,0,da giochi,0,0,a diamanti,0,0,a fibre naturali,0,0,a cappello a tasselli,0,0
+furnishings/fittings,tappeto,tappetino,tibetano,0,0,da corridoio,0,0,da giardino,0,0,orientale,0,0,shag,0,0,afghano,0,0,da pranzo,0,0,a triangoli,0,0,a fibre miste,0,0,a cappello a tasselli a cappello,0,0
+furnishings/fittings,tappeto,zerbino,nepalese,0,0,da camera da letto,0,0,da ufficio,0,0,turco,0,1,berbero,0,0,marocchino,0,0,da cucina,0,0,a rombo,0,0,a fibre di lana,0,0,a cappello a tasselli a cappello a cappello,0,0
+furniture,tavolo,di legno,da cucina,0,1,da pranzo,0,0,da pranzo,0,0,da pranzo,0,0,da pranzo,0,0,da cucina,0,1,da pranzo,0,0,da cena,0,0,da cucina,0,1,da pranzo,0,0
+furniture,tavolo,da cucina,da pranzo,0,0,da cucina,1,1,da cucina,1,1,da lavoro,0,1,da cucina,1,1,da pranzo,0,0,da lavoro,0,1,da pranzo,0,0,da pranzo,0,0,da cucina,1,1
+furniture,tavolo,rotondo,da lavoro,0,1,da lavoro,0,1,da lavoro,0,1,da gioco,0,0,da salotto,0,0,da lavoro,0,1,da cena,0,0,da lavoro,0,1,da lavoro,0,1,da lavoro,0,1
+furniture,tavolo,allungabile,da gioco,0,0,da gioco,0,0,da gioco,0,0,da cena,0,0,da giardino,0,0,da gioco,0,0,da gioco,0,0,da gioco,0,0,da gioco,0,0,da gioco,0,0
+furniture,tavolo,da lavoro,da disegno,0,0,da biliardo,0,0,da scrivania,0,0,da buffet,0,0,da biliardo,0,0,da caffè,0,0,da cucina,0,1,da cucina,0,1,da cena,0,0,,0,0
+kitchenware,teglia,da forno,per pizza,0,0,per pizza,0,0,per pane,0,0,da forno,1,1,da forno,1,1,per biscotti,0,0,di ceramica,0,0,di vetro,0,0,per pane,0,0,da forno,1,1
+kitchenware,teglia,rotonda,per forno,0,0,per dolci,0,0,per focacce,0,0,da griglia,0,0,per muffin,0,0,per torte,0,0,di porcellana,0,0,di ceramica,0,0,per pasta,0,0,da forno per pane,0,0
+kitchenware,teglia,rettangolare,per muffin,0,0,per crostate,0,0,per pizza,0,0,da frittura,0,0,per tartine,0,0,per pizza,0,0,di vetro,0,0,di porcellana,0,0,per frittata,0,0,da forno per pasta,0,0
+kitchenware,teglia,pirofila,per plumcake,0,0,per tartine,0,0,per focaccine,0,0,da lasagna,0,0,per pizza,0,0,per ciambelle,0,0,di legno,0,0,di legno,0,0,per pizza,0,0,da forno per pizza,0,0
+kitchenware,teglia,per pizze,per biscotti,0,0,per focacce,0,0,per biscotti,0,0,da pizza,0,0,per lasagne,0,0,per muffin,0,0,di metallo,0,0,di metallo,0,0,per muffin,0,0,da forno per frittelle,0,0
+hobbies,televisione,al plasma,al plasma,1,1,tv a schermo piatto,0,0,tv a schermo piatto,0,0,televisore a tubo catodico,0,0,televisore al plasma,0,0,smart tv,0,0,televisore,0,0,televisore,0,0,tv,0,0,monitor,0,0
+hobbies,televisione,a tubo catodico,a schermo piatto,0,1,tv a tubo catodico,0,0,tv a schermo curvo,0,0,televisore a plasma,0,0,televisore a cristalli liquidi,0,0,tv led,0,0,monitor,0,0,antenna,0,0,monitor,0,0,monitor tv,0,0
+hobbies,televisione,a schermo piatto,a tubo catodico,0,1,smart tv,0,0,tv led,0,0,televisore a cristalli liquidi,0,0,televisore al led,0,0,tv al plasma,0,0,televisore a tubo catodico,0,0,decoder,0,0,schermo,0,0,monitor computer,0,0
+hobbies,televisione,led,a led,0,0,tv led,0,0,tv oled,0,0,televisore a cristalli organici,0,0,televisore oled,0,0,tv oled,0,0,televisore a schermo piatto,0,0,modem,0,0,display,0,0,monitor monitor,0,0
+hobbies,televisione,4k,a oled,0,0,tv oled,0,0,tv plasma,0,0,televisore a quasicristallo,0,0,smart tv,0,0,tv al quarzo,0,0,televisore a led,0,0,router,0,0,monitor lcd,0,0,monitor led,0,0
+stationery,temperino,singolo,svizzero,0,0,da cucina,0,0,candelabro,0,0,da cucina,0,0,da tasca,0,0,a sfera,0,0,frullatore,0,0,termometro,0,0,pizza,0,0,scopa,0,0
+stationery,temperino,doppio,coltello a scatto,0,0,da unghie,0,0,lampada,0,0,elettrico,0,1,a sfera,0,0,a matita,0,0,aspirapolvere,0,0,termostato,0,0,pasta,0,0,scovolta,0,0
+stationery,temperino,temperamatite,coltello a serramanico,0,0,da carpenteria,0,0,lampada a sospensione,0,0,a induzione,0,0,a lama retrattile,0,0,a lama,0,0,tostapane,0,0,termosifono,0,0,pane,0,0,scovolta a mano,0,0
+stationery,temperino,elettrico,coltello a scatto automatico,0,0,da artigiano,0,0,lampada da tavolo,0,0,a gas,0,0,a lama fissa,0,0,a scatto,0,0,lavatrice,0,0,termocuore,0,0,pasta al forno,0,0,scovolta elettrica,0,0
+stationery,temperino,con contenitore,coltello a lama fissa,0,0,da giardinaggio,0,0,lampada da letto,0,0,da barbecue,0,0,pieghevole,0,0,a molla,0,0,microonde,0,0,termopile,0,0,pasta al forno con formaggio,0,0,scovolta elettrica a mano,0,0
+furnishings/fittings,tenda,da campeggio,a campana,0,0,da bagno,0,0,da cucina,0,0,da letto,0,0,da sole,0,1,da sole,0,1,da letto,0,0,da letto,0,0,da campeggio,1,1,da camping,0,0
+furnishings/fittings,tenda,da sole,a tunnel,0,0,da giardino,0,0,da giardino,0,0,da camping,0,0,da camera da letto,0,0,da campeggio,0,1,da camper,0,0,da tavolo,0,0,da camping,0,0,da evento,0,0
+furnishings/fittings,tenda,per finestre,a cupola,0,0,da campeggio,0,1,da stanzia,0,0,da tavolo,0,0,da doccia,0,0,da giardino,0,0,da camping,0,0,da tavolo da pranzo,0,0,da viaggio,0,0,da festa,0,0
+furnishings/fittings,tenda,veneziana,a piramide,0,0,da spiaggia,0,0,da spiaggia,0,0,da vetrina,0,0,da sole da balcone,0,0,da doccia,0,0,da spiaggia,0,0,da tavolo da cena,0,0,da caccia,0,0,da cucina,0,0
+housing buildings,terrazzo,balcone,a sbalzo,0,0,terrazzino,0,0,pavimento,0,0,antico,0,0,con giardino,0,0,in marmo,0,0,balcone,1,1,balcone,1,1,pavimento,0,0,pavimento,0,0
+housing buildings,terrazzo,coperto,alla veneziana,0,0,terrazzato,0,0,rivestimento,0,0,moderno,0,0,solarium,0,0,in cemento,0,0,loggia,0,0,piscina,0,0,pavimento in cemento,0,0,pavimento esterno,0,0
+housing buildings,terrazzo,panoramico,alla genovese,0,0,terrazzatura,0,0,intonaco,0,0,in cemento,0,0,panoramico,1,1,in resina,0,0,veranda,0,0,giardino,0,0,pavimento in pietra,0,0,pavimento interno,0,0
+housing buildings,terrazzo,con vista mare,alla romana,0,0,terrazzino in pietra,0,0,calcestruzzo,0,0,in pietra,0,0,a livello,0,0,in mosaico,0,0,pavimento,0,0,sala,0,0,pavimento in legno,0,0,pavimento per terrazza,0,0
+body parts,testa,grande,umana,0,0,di cavallo,0,0,cranio,0,0,umana,0,0,umana,0,0,umana,0,0,cervello,0,0,cefalopia,0,0,umana,0,0,faccia,0,0
+body parts,testa,ovale,di animale,0,0,di leone,0,0,di persona,0,0,animale,0,0,di animale,0,0,di animale,0,0,capo,0,0,cerebro,0,0,animale,0,0,orecchie,0,0
+body parts,testa,rotonda,di cavallo,0,0,di pesce,0,0,di animale,0,0,di vegetale,0,0,di manichino,0,0,di statua,0,0,di legno,0,0,cerebrum,0,0,vegetale,0,0,naso,0,0
+body parts,testa,dura,di moro,0,0,di ponte,0,0,di persona in busto,0,0,di colonna,0,0,di statua,0,0,di veicolo,0,0,test,0,0,encefalo,0,0,di un robot,0,0,bocca,0,0
+body parts,testa,quadrata,di ponte,0,0,di ponte di un fiume,0,0,di persona in cappello,0,0,di martello,0,0,di bambola,0,0,di strumento musicale,0,0,,0,0,frontale,0,0,di un'altra entità,0,0,occhi,0,0
+housing buildings,tetto,spiovente,a falde,0,0,a falda,0,0,a punta,0,1,in tegole,0,0,piano,0,1,a falde,0,0,tettoia,0,0,tettoia,0,0,a tegole,0,0,a tavolato,0,0
+housing buildings,tetto,piano,a padiglione,0,0,a padiglione,0,0,a paglia,0,0,in piombo,0,0,a falde,0,0,piano,1,1,di legno,0,0,di legno,0,0,a scandole,0,0,a tegole,0,0
+housing buildings,tetto,con tegole,a cupola,0,0,a capanna,0,0,a copertura,0,0,in zinco,0,0,a padiglione,0,0,a cupola,0,0,di lamiera,0,0,di lamiera,0,0,a tegole a scandole,0,0,a scala,0,0
+housing buildings,tetto,a punta,a cuspide,0,0,a due falde,0,0,a copertura in legno,0,0,in bitume,0,0,a capanna,0,0,a padiglione,0,0,di zinco,0,0,di zinco,0,0,a tegole a scandole a a tegole,0,0,a tegole a scala,0,0
+animals,tigre,bianca,del bengala,0,1,di sumatra,0,1,del bengala,0,1,indiana,0,0,del bengala,0,1,siberiana,0,1,africana,0,0,tigris,0,0,indiana,0,0,leone,0,0
+animals,tigre,del bengala,di sumatra,0,1,di bali,0,0,del caspico,0,0,siamese,0,0,siberiana,0,1,bengalese,0,0,siamese,0,0,tigris bengalensis,0,0,siberiana,0,1,puma,0,0
+animals,tigre,siberiana,di amur,0,0,di bengala,0,0,del sud-cina,0,0,bianca,0,1,della manciuria,0,0,indocinese,0,0,bengala,0,0,tigris siamensis,0,0,del bengala,0,1,jaguar,0,0
+animals,tigre,di sumatra,del sud della cina,0,0,di siberia,0,0,del sud-est asiatico,0,0,del bengala,0,1,di sumatra,1,1,malese,0,0,del bengala,0,1,tigris sumatranus,0,0,del guatemala,0,0,leopardo,0,0
+animals,tigre,cinese,di bali,0,0,di indocina,0,0,del malais,0,0,malese,0,0,di bali,0,0,di sumatra,0,1,del siberiano,0,0,tigris tigris,0,0,del sumatra,0,0,,0,0
+animals,topo,di campagna,comune,0,0,di laboratorio,0,0,formiche,0,0,domestico,0,1,da laboratorio,0,0,comune,0,0,topolino,0,0,ratto,0,1,domestico,0,1,ratto,0,1
+animals,topo,ragno,domestico,0,1,muschiato,0,0,scarafaggi,0,0,selvatico,0,0,selvatico,0,0,campagnolo,0,0,topolino disney,0,0,ragno,1,1,selvatico,0,0,ratti,0,0
+animals,topo,pantegana,selvatico,0,0,campagnolo,0,0,ragni,0,0,d' laboratorio,0,0,domestico,0,1,delle risaie,0,0,topolino pippo,0,0,ragnetta,0,0,selvatico americano,0,0,ratti topo,0,0
+animals,topo,domestico,da laboratorio,0,0,grigio,0,0,aracnidi,0,0,campione,0,0,delle case,0,0,delle case,0,0,topolino tv,0,0,ragnetta di topo,0,0,selvatico europeo,0,0,,0,0
+animals,topo,ratto,di campagna,0,1,domestico,0,1,mosche,0,0,di laboratorio albinos,0,0,dei campi,0,0,dei granai,0,0,topolino cartoon,0,0,ragnetta di nero,0,0,selvatico asiatico,0,0,,0,0
+vehicles,traghetto,a vapore,a catena,0,0,passeggeri,0,1,a motore,0,0,a vela,0,0,passeggeri,0,1,passeggeri,0,1,a vapore,1,1,passeggero,0,0,a vapore,1,1,a vapore,1,1
+vehicles,traghetto,aliscafo,a fune,0,0,merci,0,0,a remi,0,0,a remi,0,0,ro-ro,0,0,merci,0,0,a funicolare,0,0,ferry,0,0,a vapore a scafo aperto,0,0,a motore,0,0
+vehicles,traghetto,turistico,a cavo,0,0,da crociera,0,0,a vapore,0,1,a motore,0,0,ad alta velocità,0,0,auto,0,0,a gondola,0,0,barca traghetto,0,0,a vapore a scafo chiuso,0,0,a vapore a motore,0,0
+vehicles,traghetto,ferroviario,a ruota,0,0,da carico,0,0,a motoscafo,0,0,passeggeri,0,1,per il trasporto di veicoli,0,0,veloce,0,0,a ponte levatoio,0,0,barca passeggeri,0,0,a vapore a scafo chiuso a cielo aperto,0,0,a vapore a motore a elica,0,0
+vehicles,traghetto,passeggeri,a pale,0,0,da pesca,0,0,a motoschina,0,0,ro-ro,0,0,per il trasporto di merci,0,0,notturno,0,0,a ponte mobile,0,0,barca ferry,0,0,a vapore a scafo chiuso a cielo chiuso,0,0,a vapore a motore a elica a scafa,0,0
+vehicles,tram,elettrico,storico,0,0,a cavalli,0,0,a trazione elettrica,0,0,tramway,0,0,a due piani,0,0,a cavalli,0,0,tranvia,0,0,tramvai,0,0,metro,0,0,tranvia,0,0
+vehicles,tram,su rotaie,a cavalli,0,0,a vapore,0,0,a trazione a vapore,0,0,elettrico,0,1,articolato,0,0,a vapore,0,0,tranvia a vapore,0,0,tramway,0,0,funicolare,0,0,funicular,0,0
+vehicles,tram,merci,a vapore,0,0,a vapore a cremagliera,0,0,a trazione a vapore elettrica,0,0,a scartamento ridotto,0,0,a pianale ribassato,0,0,elettrico,0,1,tranvia elettrica,0,0,tramvia,0,0,monorail,0,0,metro,0,0
+vehicles,tram,urbano,elettrico,0,1,a vapore a cremagliera a scartamento ridotto,0,0,a trazione a gas,0,0,a vapore,0,0,storico,0,0,a batteria,0,0,tranvia a pneumatico,0,0,tramvia aereo,0,0,treno,0,0,,0,0
+vehicles,trattore,standard,agricolo,0,1,agricolo,0,1,agricolo,0,1,a ruote,0,0,agricolo,0,1,a ruote,0,0,agricolo,0,1,agricolo,0,1,a motore,0,0,a motore,0,0
+vehicles,trattore,agricolo,cingolato,0,1,forestale,0,0,per la manutenzione,0,0,a cinghia,0,0,compatto,0,0,a cingoli,0,0,di carro,0,0,di lavoro,0,0,a vapore,0,0,a vapore,0,0
+vehicles,trattore,cingolato,a ruote,0,0,da neve,0,0,per la pesca,0,0,a catena,0,0,cingolato,1,1,a due ruote motrici,0,0,di carro armato,0,0,di campagna,0,0,a vapore a motore,0,0,a benzina,0,0
+vehicles,trattore,snodato,a cingoli,0,0,da ghiaccio,0,0,per la forestazione,0,0,articolato,0,0,a braccio,0,0,a quattro ruote motrici,0,0,di carro blindato,0,0,di lavoro pesante,0,0,a vapore a motore a cinghia,0,0,a gasolina,0,0
+vehicles,trattore,gommato,a ruote motrici,0,0,da cantiere,0,0,per la costruzione,0,0,da giardino,0,0,a traino,0,0,a trazione integrale,0,0,di carro corazzato,0,0,di lavoro leggero,0,0,a vapore a motore a cinghia a cassa,0,0,a diesel,0,0
+vehicles,treno,regionale,regionale,1,1,a vapore,0,1,a vapore,0,1,locomotiva,0,0,a vapore,0,1,locomotiva,0,0,locomotiva,0,0,,0,0,passeggeri,0,0,passeggeri,0,0
+vehicles,treno,ad alta velocità,interregionale,0,0,elettrico,0,0,elettrico,0,0,vagone merci,0,0,diesel,0,0,carrozza,0,0,carro,0,0,,0,0,merci,0,1,merci,0,1
+vehicles,treno,a vapore,intercity,0,0,diesel,0,0,a carbone,0,0,vagone passeggeri,0,0,elettrico,0,0,vagone letto,0,0,carro armato,0,0,,0,0,ad alta velocità,0,1,ad alta velocità,0,1
+vehicles,treno,merci,eurocity,0,0,ad alta velocità,0,1,a gas,0,0,express,0,0,ad alta velocità,0,1,vagone ristorante,0,0,carro blindato,0,0,,0,0,a vapore,0,1,a vapore,0,1
+vehicles,treno,frecciarossa,alta velocità,0,0,merci,0,1,a diesel,0,0,intercity,0,0,merci,0,1,vagone bagagliaio,0,0,carro corazzato,0,0,,0,0,elettrico,0,0,elettrico,0,0
+plants,tulipano,rosso,darwin,0,0,gigante,0,0,di bressa,0,0,rosso,1,1,di darwin,0,0,nero,0,0,rosso,1,1,,0,0,rosso,1,1,,0,0
+plants,tulipano,giallo,fosteriana,0,0,a fiori doppio,0,0,di firenze,0,0,giallo,1,1,greigii,0,0,rosso,0,1,giallo,1,1,,0,0,bianco,0,1,,0,0
+plants,tulipano,bianco,greigii,0,0,a fiori triplo,0,0,di giardino,0,0,arancione,0,0,fosteriana,0,0,giallo,0,1,bianco,1,1,,0,0,giallo,0,1,,0,0
+plants,tulipano,rosa,kaufmanniana,0,0,a fiori singolo,0,0,di saffron,0,0,viola,0,0,single late,0,0,rosa,1,1,viola,0,0,,0,0,blu,0,1,,0,0
+plants,tulipano,blu,lily,0,0,a fiori a forma di fiore di loto,0,0,di tenerife,0,0,bianco,0,1,double late,0,0,multicolore,0,0,rosa,0,1,,0,0,rosa,0,1,,0,0
+plants,ulivo,frantoio,da olio,0,0,domestico,0,0,frutto,0,0,albero di ulivo,0,0,ulmus minor,0,0,selvatico,0,0,olivo,0,0,,0,0,olio extra vergine di oliva,0,0,albero,0,0
+plants,ulivo,leccino,da mensa,0,0,comune,0,0,albero,0,0,olio d'oliva,0,0,quercus suber,0,0,domestico,0,0,olio d'olivo,0,0,,0,0,olio extra virgin,0,0,pianta,0,0
+plants,ulivo,maurino,ornamentale,0,0,di gargano,0,0,vigneto,0,0,oliveto,0,0,ficus carica,0,0,secolare,0,0,olivastro,0,0,,0,0,olio extra virgin olive oil,0,0,arboreo,0,0
+plants,ulivo,pendolino,da olio da tavola,0,0,di toscana,0,0,coltivazione,0,0,olivicolo,0,0,olea europaea,0,0,centenario,0,0,olivicello,0,0,,0,0,olio extra vir,0,0,vegetale,0,0
+foods,uovo,di gallina,di gallina,1,1,di gallina,1,1,di gallina,1,1,di gallina,1,1,di gallina,1,1,di gallina,1,1,di gallina,1,1,di uccello,0,0,di gallina,1,1,di gallina,1,1
+foods,uovo,sodo,di anatra,0,0,di tartaruga,0,0,di quaglia,0,1,di oca,0,0,di struzzo,0,1,di quaglia,0,1,di pollo,0,0,di pollo,0,0,di polledro,0,0,di oca,0,0
+foods,uovo,di struzzo,di quaglia,0,1,di rana,0,0,di tartaruga,0,0,di struzzo,1,1,di anatra,0,0,di anatra,0,0,di oca,0,0,di gallina,0,1,di pavone,0,0,di pavone,0,0
+foods,uovo,di quaglia,di struzzo,0,1,di pesce,0,0,di pesci,0,0,di emu,0,0,di quaglia,1,1,di struzzo,0,1,di anatra,0,0,di oca,0,0,di oca,0,0,di pinguino,0,0
+foods,uovo,alla coque,di cigno,0,0,di tartù,0,0,di tartufo,0,0,di tartaruga,0,0,di oca,0,0,di pesce,0,0,di cigno,0,0,di struzzo,0,1,di pinguino,0,0,di tartaruga,0,0
+furnishings/fittings,vaso,di ceramica,di fiori,0,0,da fiori,0,0,bicchiere,0,0,da birra,0,0,da fiori,0,0,da fiori,0,0,bicchierino,0,0,vase,0,0,bicchiere,0,0,vase,0,0
+furnishings/fittings,vaso,di terracotta,di coccio,0,0,da notte,0,1,tazza,0,0,da fiori,0,0,da frutta,0,0,di terracotta,1,1,coppa,0,0,urna,0,0,tazza,0,0,jar,0,0
+furnishings/fittings,vaso,da notte,di cristallo,0,0,da toilette,0,0,da notte,1,1,da caffè,0,0,da barba,0,0,cinese,0,0,tazza,0,0,flascione,0,0,tulipano,0,0,pot,0,0
+furnishings/fittings,vaso,di plastica,di vetro,0,0,da cucina,0,0,da fiori,0,0,da vino,0,0,cannoli,0,0,di vetro,0,0,piatto,0,0,giarro,0,0,vassoio,0,0,bowl,0,0
+furnishings/fittings,vaso,per fiori,di ceramica,0,1,da liquidi,0,0,da piante,0,0,boccale,0,0,cinese,0,0,di ceramica,0,1,piatto da caffè,0,0,di vetro,0,0,bollito,0,0,cup,0,0
+foods,verdura,zucchina,spinaci,0,1,spinaci,0,1,carote,0,0,carota,0,1,lattuga,0,0,lattuga,0,0,broccoli,0,0,broccoli,0,0,carota,0,1,cipolla,0,0
+foods,verdura,carota,zucchine,0,0,broccoli,0,0,zucchine,0,0,patata,0,0,pomodoro,0,0,spinaci,0,1,carote,0,0,carote,0,0,cipolla,0,0,carota,1,1
+foods,verdura,spinaci,carote,0,0,carote,0,0,melone,0,0,zucchina,0,1,carota,0,1,broccoli,0,0,cipolle,0,0,cipolle,0,0,broccoli,0,0,broccoli,0,0
+foods,verdura,peperone,broccoli,0,0,zucchine,0,0,pomodori,0,0,cipolla,0,0,cavolfiore,0,0,cavoli,0,0,pomodoro,0,0,zucchero,0,0,cavolifiori,0,0,cavolo,0,0
+foods,verdura,melanzana,finocchi,0,0,melanzane,0,0,peperoni,0,0,pomodoro,0,0,peperone,0,1,carote,0,0,zucchero,0,0,pomodoro,0,0,patate,0,0,patata,0,0
+hobbies,videogioco,di sport,avventura,0,0,fortnite,0,0,action,0,0,action game,0,0,platformer,0,0,sparatutto,0,1,playstation,0,0,gamepad,0,0,action,0,0,d'azione,0,0
+hobbies,videogioco,di azione,azione,0,0,minecraft,0,0,avventura,0,0,adventure game,0,0,sparatutto,0,1,avventura,0,0,xbox,0,0,controller,0,0,adventure,0,0,di ruolo,0,1
+hobbies,videogioco,di simulazione,strategia,0,0,call of duty,0,0,strategia,0,0,role-playing game,0,0,avventura grafica,0,0,strategia,0,0,nintendo,0,0,console,0,0,first-person shooter,0,0,di avventura,0,0
+hobbies,videogioco,sparatutto,sportivo,0,0,assassin's creed,0,0,sport,0,0,strategy game,0,0,gioco di ruolo,0,0,simulazione,0,0,wii,0,0,screen,0,0,massively multiplayer online,0,0,di simulazione,0,1
+hobbies,videogioco,di ruolo,simulazione,0,0,the last of us,0,0,simulazione,0,0,simulation game,0,0,puzzle,0,0,sportivo,0,0,game boy,0,0,speaker,0,0,role-playing,0,0,di sport,0,1
+furnishings/fittings,vite,a testa tonda,a testa piatta,0,1,da giardino,0,0,da tavola,0,0,d'ancora,0,0,a testa esagonale,0,0,da legno,0,0,di legno,0,0,di legno,0,0,uva,0,0,a cappuccio,0,0
+furnishings/fittings,vite,a stella,a testa svasata,0,0,da bicicletta,0,0,da vino,0,0,di falciatura,0,0,a testa tonda,0,1,da muratura,0,0,di metallo,0,0,di metallo,0,0,arancio,0,0,a cappuccio a cuscino,0,0
+furnishings/fittings,vite,a testa cilindrica,a testa cilindrica,1,1,da serraggio,0,0,per insulcatura,0,0,di trasmissione,0,0,a testa svasata,0,0,autofilettante,0,0,di plastica,0,0,di plastica,0,0,mela,0,0,a cappuccio a cuscino a cappuccio,0,0
+furnishings/fittings,vite,a testa a croce,a testa sferica,0,0,da parete,0,0,per attrezzi,0,0,di legatura,0,0,a testa a croce,1,1,inossidabile,0,0,di vetro,0,0,di silicone,0,0,pera,0,0,a cappuccio a cuscino a cappuccio a cuscino,0,0
+furnishings/fittings,vite,a testa piatta,a testa a croce,0,1,da parete a espansione,0,0,,0,0,di forasassi,0,0,a testa bombata,0,0,a testa esagonale,0,0,di silicone,0,0,di vetro,0,0,mango,0,0,a cappuccio a cuscino a cappuccio a cuscino a cappuccio,0,0

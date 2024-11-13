@@ -870,7 +870,6 @@ vehicles,veicoli,camion,CAMION_camion merce,merce,1,2,2,2.0,0.0,0.2,5,0.02005
 vehicles,veicoli,camion,CAMION_camion benzinaio,benzinaio,1,3,3,3.0,0.0,0.2,5,0.02005
 vehicles,veicoli,camion,CAMION_camion cassone,cassone,1,5,5,5.0,0.0,0.2,5,0.02005
 furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candeliera,candeliera,1,1,1,1.0,1.0,1.0,1,1.0
-furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_sconso,sconso,1,2,2,2.0,0.0,1.0,1,0.10026
 animals,animali,cane,CANE_golden retriever,golden retriever,5,1,2,1.2,0.8,1.0,5,0.82005
 animals,animali,cane,CANE_labrador retriever,labrador retriever,4,1,2,1.75,0.2,0.8,5,0.26016
 animals,animali,cane,CANE_dachshund,dachshund,4,3,6,4.0,0.0,0.8,5,0.22978
