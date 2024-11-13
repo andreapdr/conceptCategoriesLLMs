@@ -1,0 +1,186 @@
+concept,category,llama-3.1-70b,llama-3.1-8b,llama-3.2-3b,mixtral-8x7b,mistral-7b,nemo-12b,llava-v1.6-mistral-7b,idefics2-8b
+abete,piante,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina
+aereo,veicoli,veicoli,veicoli,veicoli,veicoli,utensili da cucina,utensili da cucina,utensili da cucina,veicoli
+agenda,cancelleria,utensili da cucina,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,edifici residenziali,utensili da cucina
+appendiabiti,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina,mobili,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina
+armadio,mobili,edifici residenziali,mobili,edifici residenziali,mobili,utensili da cucina,utensili da cucina,mobili,utensili da cucina
+astuccio,cancelleria,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina
+attrezzo,passatempi,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+autobus,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli
+automobile,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli
+bagno,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,edifici residenziali,utensili da cucina,edifici residenziali,utensili da cucina
+balcone,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali
+basilico,piante,piante,piante,utensili da cucina,piante,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+bicchiere,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+bicicletta,veicoli,edifici residenziali,veicoli,veicoli,utensili da cucina,veicoli,utensili da cucina,veicoli,utensili da cucina
+bocca,parti del corpo,edifici residenziali,utensili da cucina,piante,utensili da cucina,utensili da cucina,utensili da cucina,parti del corpo,utensili da cucina
+braccio,parti del corpo,parti del corpo,edifici residenziali,edifici residenziali,parti del corpo,parti del corpo,parti del corpo,utensili da cucina,utensili da cucina
+cactus,piante,piante,edifici residenziali,edifici residenziali,piante,utensili da cucina,piante,utensili da cucina,utensili da cucina
+calza,vestiti,utensili da cucina,vestiti,utensili da cucina,parti del corpo,vestiti,utensili da cucina,vestiti,vestiti
+camera,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,mobili,utensili da cucina,mobili,edifici residenziali,utensili da cucina
+camicia,vestiti,vestiti,vestiti,vestiti,utensili da cucina,vestiti,vestiti,vestiti,vestiti
+camion,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli
+candelabro,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+cane,animali,animali,animali,animali,animali,animali,animali,animali,animali
+canottiera,vestiti,edifici residenziali,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti
+capello,parti del corpo,edifici residenziali,parti del corpo,utensili da cucina,parti del corpo,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+cappello,vestiti,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,vestiti,utensili da cucina
+cappotto,vestiti,vestiti,vestiti,vestiti,utensili da cucina,vestiti,utensili da cucina,vestiti,vestiti
+carne,cibi,utensili da cucina,cibi,utensili da cucina,parti del corpo,cibi,utensili da cucina,utensili da cucina,cibi
+carrozza,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli
+carte,passatempi,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina
+cassettiera,mobili,mobili,mobili,mobili,mobili,mobili,mobili,mobili,utensili da cucina
+cavallo,animali,animali,animali,animali,animali,animali,utensili da cucina,animali,animali
+cd,passatempi,utensili da cucina,edifici residenziali,edifici residenziali,utensili da cucina,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina
+centrotavola,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+cereale,cibi,utensili da cucina,cibi,cibi,cibi,cibi,utensili da cucina,cibi,cibi
+cervello,parti del corpo,animali,animali,animali,animali,animali,utensili da cucina,animali,animali
+chitarra,passatempi,edifici residenziali,edifici residenziali,edifici residenziali,parti del corpo,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+ciclamino,piante,piante,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+ciliegio,piante,piante,piante,piante,cibi,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+cioccolato,cibi,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+colla,cancelleria,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+collo,parti del corpo,edifici residenziali,utensili da cucina,vestiti,utensili da cucina,vestiti,utensili da cucina,vestiti,utensili da cucina
+colonna,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+coltello,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+comodino,mobili,mobili,mobili,utensili da cucina,mobili,mobili,mobili,mobili,utensili da cucina
+computer,passatempi,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+comò,mobili,mobili,mobili,mobili,mobili,mobili,mobili,mobili,utensili da cucina
+coniglio,animali,animali,animali,animali,animali,animali,utensili da cucina,animali,animali
+cornice,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,mobili,utensili da cucina,mobili,utensili da cucina
+credenza,mobili,mobili,mobili,utensili da cucina,mobili,utensili da cucina,mobili,utensili da cucina,utensili da cucina
+cruciverba,passatempi,passatempi,passatempi,utensili da cucina,passatempi,arredamenti/accessori,passatempi,passatempi,utensili da cucina
+cucchiaio,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+cucina,edifici residenziali,utensili da cucina,utensili da cucina,cibi,utensili da cucina,cibi,utensili da cucina,utensili da cucina,utensili da cucina
+cuore,parti del corpo,edifici residenziali,animali,edifici residenziali,parti del corpo,utensili da cucina,parti del corpo,utensili da cucina,utensili da cucina
+cuscino,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+delfino,animali,edifici residenziali,animali,edifici residenziali,animali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+divano,mobili,mobili,mobili,mobili,mobili,mobili,mobili,mobili,utensili da cucina
+edera,piante,piante,piante,piante,piante,piante,piante,utensili da cucina,utensili da cucina
+elefante,animali,utensili da cucina,utensili da cucina,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+elicottero,veicoli,veicoli,edifici residenziali,edifici residenziali,utensili da cucina,edifici residenziali,utensili da cucina,edifici residenziali,edifici residenziali
+evidenziatore,cancelleria,cancelleria,edifici residenziali,utensili da cucina,utensili da cucina,arredamenti/accessori,cancelleria,utensili da cucina,utensili da cucina
+felpa,vestiti,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,vestiti,vestiti,utensili da cucina,utensili da cucina
+finestra,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,mobili,utensili da cucina
+fioriera,arredamenti/accessori,piante,edifici residenziali,edifici residenziali,piante,utensili da cucina,utensili da cucina,mobili,utensili da cucina
+foglio,cancelleria,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,edifici residenziali,utensili da cucina
+forbice,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+forchetta,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+formaggio,cibi,edifici residenziali,utensili da cucina,utensili da cucina,cibi,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+fotografia,arredamenti/accessori,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,edifici residenziali,utensili da cucina
+frutta,cibi,utensili da cucina,utensili da cucina,edifici residenziali,utensili da cucina,cibi,utensili da cucina,utensili da cucina,utensili da cucina
+furgone,veicoli,veicoli,veicoli,veicoli,veicoli,utensili da cucina,veicoli,veicoli,utensili da cucina
+gallo,animali,edifici residenziali,animali,edifici residenziali,animali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+gamba,parti del corpo,mobili,utensili da cucina,mobili,utensili da cucina,mobili,mobili,mobili,utensili da cucina
+gatto,animali,animali,animali,animali,animali,animali,utensili da cucina,animali,animali
+geranio,piante,piante,edifici residenziali,utensili da cucina,piante,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+giacca,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti
+gilet,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,utensili da cucina
+gioco da tavola,passatempi,edifici residenziali,passatempi,edifici residenziali,utensili da cucina,arredamenti/accessori,utensili da cucina,passatempi,utensili da cucina
+giornale,passatempi,utensili da cucina,edifici residenziali,passatempi,utensili da cucina,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina
+giraffa,animali,animali,animali,animali,piante,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+giubbotto,vestiti,edifici residenziali,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti
+gomma,cancelleria,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+gonna,vestiti,edifici residenziali,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,utensili da cucina
+graffetta,cancelleria,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+guanti,vestiti,edifici residenziali,utensili da cucina,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+insalata,cibi,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+lampada,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,arredamenti/accessori,utensili da cucina,mobili,utensili da cucina
+lampadario,arredamenti/accessori,edifici residenziali,edifici residenziali,mobili,utensili da cucina,utensili da cucina,utensili da cucina,mobili,utensili da cucina
+latte,cibi,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,cibi,utensili da cucina,utensili da cucina,cibi
+legume,cibi,utensili da cucina,edifici residenziali,utensili da cucina,cibi,utensili da cucina,utensili da cucina,cibi,utensili da cucina
+leone,animali,utensili da cucina,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+letto,mobili,mobili,mobili,edifici residenziali,mobili,mobili,mobili,edifici residenziali,mobili
+lettore,passatempi,utensili da cucina,edifici residenziali,edifici residenziali,utensili da cucina,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina
+libreria,mobili,mobili,edifici residenziali,edifici residenziali,mobili,utensili da cucina,mobili,edifici residenziali,utensili da cucina
+libro,passatempi,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina
+lucertola,animali,animali,animali,animali,animali,animali,animali,animali,animali
+maglia,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti
+maiale,animali,animali,animali,animali,animali,animali,utensili da cucina,animali,animali
+mano,parti del corpo,utensili da cucina,parti del corpo,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+margherita,piante,piante,piante,piante,utensili da cucina,utensili da cucina,piante,utensili da cucina,utensili da cucina
+matita,cancelleria,utensili da cucina,edifici residenziali,edifici residenziali,parti del corpo,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+mestolo,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+metro,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+mimosa,piante,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+motocicletta,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli
+mucca,animali,animali,animali,animali,animali,animali,utensili da cucina,animali,animali
+muro,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,edifici residenziali,edifici residenziali
+naso,parti del corpo,utensili da cucina,utensili da cucina,utensili da cucina,parti del corpo,parti del corpo,utensili da cucina,utensili da cucina,utensili da cucina
+nave,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli
+occhio,parti del corpo,utensili da cucina,utensili da cucina,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+orchidea,piante,piante,piante,piante,piante,piante,piante,piante,utensili da cucina
+orecchio,parti del corpo,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+orologio,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+orso,animali,animali,animali,animali,animali,animali,utensili da cucina,animali,animali
+padella,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+palla,passatempi,edifici residenziali,passatempi,edifici residenziali,utensili da cucina,passatempi,utensili da cucina,passatempi,utensili da cucina
+pancia,parti del corpo,parti del corpo,parti del corpo,utensili da cucina,parti del corpo,parti del corpo,parti del corpo,utensili da cucina,utensili da cucina
+pane,cibi,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,cibi
+pantalone,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti,vestiti
+pasta,cibi,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+pastello,cancelleria,utensili da cucina,edifici residenziali,utensili da cucina,utensili da cucina,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina
+pavimento,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+penna,cancelleria,cancelleria,utensili da cucina,edifici residenziali,utensili da cucina,arredamenti/accessori,cancelleria,arredamenti/accessori,utensili da cucina
+pennello,passatempi,utensili da cucina,utensili da cucina,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+pentola,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+pesce,cibi,animali,animali,utensili da cucina,animali,utensili da cucina,utensili da cucina,cibi,utensili da cucina
+piatto,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+piede,parti del corpo,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,cibi
+pino,piante,piante,piante,edifici residenziali,piante,utensili da cucina,piante,piante,utensili da cucina
+pizza,cibi,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+poltrona,mobili,mobili,mobili,mobili,mobili,mobili,mobili,mobili,mobili
+porta,edifici residenziali,edifici residenziali,mobili,edifici residenziali,parti del corpo,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina
+portafotografia,arredamenti/accessori,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,mobili,utensili da cucina,mobili,utensili da cucina
+posacenere,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,mobili,utensili da cucina
+quaderno,cancelleria,edifici residenziali,edifici residenziali,edifici residenziali,arredamenti/accessori,arredamenti/accessori,cancelleria,utensili da cucina,utensili da cucina
+quadro,arredamenti/accessori,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+quercia,piante,piante,piante,edifici residenziali,piante,utensili da cucina,piante,utensili da cucina,utensili da cucina
+racchetta,passatempi,utensili da cucina,edifici residenziali,edifici residenziali,utensili da cucina,edifici residenziali,utensili da cucina,passatempi,edifici residenziali
+righello,cancelleria,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+ripostiglio,edifici residenziali,edifici residenziali,utensili da cucina,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+riso,cibi,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+rosa,piante,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+salice,piante,piante,edifici residenziali,piante,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+scala,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+scarpa,vestiti,utensili da cucina,utensili da cucina,edifici residenziali,utensili da cucina,arredamenti/accessori,utensili da cucina,vestiti,utensili da cucina
+schiena,parti del corpo,edifici residenziali,parti del corpo,edifici residenziali,utensili da cucina,parti del corpo,utensili da cucina,parti del corpo,utensili da cucina
+sciarpa,vestiti,utensili da cucina,vestiti,vestiti,utensili da cucina,vestiti,utensili da cucina,vestiti,utensili da cucina
+scimmia,animali,animali,animali,animali,animali,animali,utensili da cucina,animali,animali
+scolapasta,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+scolorina,cancelleria,cancelleria,utensili da cucina,utensili da cucina,cancelleria,utensili da cucina,cancelleria,utensili da cucina,utensili da cucina
+scooter,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli
+scrivania,mobili,mobili,mobili,edifici residenziali,mobili,mobili,mobili,mobili,mobili
+sedia,mobili,mobili,mobili,mobili,utensili da cucina,mobili,mobili,mobili,mobili
+serpente,animali,animali,animali,animali,animali,utensili da cucina,utensili da cucina,animali,animali
+slip,vestiti,utensili da cucina,vestiti,vestiti,utensili da cucina,vestiti,utensili da cucina,vestiti,vestiti
+soffitto,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,arredamenti/accessori,utensili da cucina,utensili da cucina,edifici residenziali,edifici residenziali
+soggiorno,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,mobili,utensili da cucina,mobili,edifici residenziali,utensili da cucina
+spalla,parti del corpo,parti del corpo,animali,animali,parti del corpo,parti del corpo,veicoli,animali,utensili da cucina
+specchio,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,mobili,utensili da cucina,utensili da cucina
+spillatrice,cancelleria,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+t-shirt,vestiti,edifici residenziali,vestiti,vestiti,utensili da cucina,vestiti,vestiti,vestiti,utensili da cucina
+taccuino,cancelleria,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,arredamenti/accessori,cancelleria,utensili da cucina,edifici residenziali
+tagliere,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+tappeto,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,mobili,utensili da cucina,mobili,utensili da cucina
+tavolo,mobili,mobili,mobili,utensili da cucina,mobili,mobili,utensili da cucina,mobili,mobili
+teglia,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+televisione,passatempi,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+temperino,cancelleria,utensili da cucina,utensili da cucina,veicoli,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+tenda,arredamenti/accessori,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,edifici residenziali,utensili da cucina
+terrazzo,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,edifici residenziali,utensili da cucina,edifici residenziali,utensili da cucina
+testa,parti del corpo,parti del corpo,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,parti del corpo,utensili da cucina,utensili da cucina
+tetto,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,edifici residenziali,edifici residenziali,utensili da cucina
+tigre,animali,animali,animali,piante,utensili da cucina,animali,utensili da cucina,animali,utensili da cucina
+topo,animali,animali,animali,animali,animali,animali,utensili da cucina,animali,animali
+traghetto,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,utensili da cucina
+tram,veicoli,veicoli,veicoli,edifici residenziali,veicoli,veicoli,veicoli,utensili da cucina,veicoli
+trattore,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,veicoli,utensili da cucina,utensili da cucina
+treno,veicoli,edifici residenziali,veicoli,veicoli,utensili da cucina,veicoli,utensili da cucina,veicoli,utensili da cucina
+tulipano,piante,edifici residenziali,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+ulivo,piante,piante,edifici residenziali,edifici residenziali,piante,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+uovo,cibi,utensili da cucina,utensili da cucina,cibi,utensili da cucina,cibi,utensili da cucina,utensili da cucina,utensili da cucina
+vaso,arredamenti/accessori,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+verdura,cibi,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,cibi
+videogioco,passatempi,edifici residenziali,passatempi,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina
+vite,arredamenti/accessori,edifici residenziali,edifici residenziali,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina,utensili da cucina

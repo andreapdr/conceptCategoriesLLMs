@@ -1,0 +1,37 @@
+concept,category,classif,llama3.1,llama3.2,mistral,llava,idefics2,nemo,llama3.1-70b,mixtral
+cane,animals,many_exemplars,0,1,0,1,1,0,0,1
+capello,body parts,many_exemplars,0,0,0,0,0,0,1,0
+scarpa,clothes,many_exemplars,1,0,1,1,1,1,1,1
+pasta,foods,many_exemplars,1,1,1,1,1,1,1,1
+cuscino,furnishings/fittings,many_exemplars,0,0,1,0,1,0,0,0
+tavolo,furniture,many_exemplars,0,0,0,0,0,0,0,0
+videogioco,hobbies,many_exemplars,1,1,0,0,1,1,1,1
+cucina,housing buildings,many_exemplars,1,1,1,1,1,1,1,0
+coltello,kitchenware,many_exemplars,0,1,1,1,1,1,0,1
+margherita,plants,many_exemplars,1,1,1,1,0,1,1,1
+foglio,stationery,many_exemplars,1,1,0,1,1,0,1,1
+automobile,vehicles,many_exemplars,1,1,0,1,1,1,1,1
+gallo,animals,few_exemplars,0,0,1,1,1,0,0,1
+cervello,body parts,few_exemplars,1,1,1,1,1,0,1,1
+gilet,clothes,few_exemplars,1,1,1,0,1,1,1,1
+cereale,foods,few_exemplars,1,0,1,1,1,1,1,0
+metro,furnishings/fittings,few_exemplars,0,0,1,0,1,1,1,0
+comò,furniture,few_exemplars,0,0,1,0,0,0,0,0
+computer,hobbies,few_exemplars,0,1,1,1,1,1,1,0
+soggiorno,housing buildings,few_exemplars,0,0,0,0,0,0,0,0
+scolapasta,kitchenware,few_exemplars,0,1,0,0,0,0,0,0
+girasole,plants,few_exemplars,1,1,1,1,1,1,1,1
+spillatrice,stationery,few_exemplars,1,0,0,0,0,1,1,1
+furgone,vehicles,few_exemplars,1,1,1,1,0,1,0,1
+orso,animals,medium_exemplars,0,1,0,0,0,0,1,0
+testa,body parts,medium_exemplars,1,0,0,0,0,0,0,0
+t-shirt,clothes,medium_exemplars,0,1,1,1,0,1,0,1
+insalata,foods,medium_exemplars,1,1,1,1,1,1,1,1
+quadro,furnishings/fittings,medium_exemplars,0,0,0,0,0,0,0,0
+letto,furniture,medium_exemplars,1,1,1,1,1,1,0,1
+lettore,hobbies,medium_exemplars,1,1,0,0,0,0,0,0
+soffitto,housing buildings,medium_exemplars,1,1,1,1,1,1,1,1
+pentola,kitchenware,medium_exemplars,1,0,1,0,1,0,0,0
+abete,plants,medium_exemplars,0,0,0,0,0,0,0,0
+righello,stationery,medium_exemplars,1,0,0,0,0,1,0,0
+treno,vehicles,medium_exemplars,0,0,0,0,0,0,0,0

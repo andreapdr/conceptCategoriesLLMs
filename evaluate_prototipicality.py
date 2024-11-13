@@ -17,7 +17,7 @@ from transformers.utils.logging import disable_progress_bar
 
 disable_progress_bar()
 
-DEVICE          = "cuda:3"
+DEVICE          = "cuda:2"
 
 LLAVA_ID        = "llava-hf/llava-v1.6-mistral-7b-hf"
 MISTRAL_ID      = "mistralai/Mistral-7B-Instruct-v0.2"
@@ -79,7 +79,7 @@ def eval(args):
         model, tokenizer, processor = get_model(model_name=model_name, device=DEVICE)
 
         
-        for concept in concepts[:2]:
+        for concept in concepts:
             concept_results = []
 
             selected = data[data.concept == concept].sort_values(by="availability", ascending=False)

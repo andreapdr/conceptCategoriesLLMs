@@ -1,0 +1,2787 @@
+category	concept_eng	concept	concept_exemplar	exemplar	length	freq_ass	freq_rel	outlier
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_4x4	automobile 4x4	2	6	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_audi	audi	1	15073	1.04	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_audi	automobile audi	2	4	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_berlina	berlina	1	37213	2.56	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_berlina	automobile berlina	2	25	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_cabrio	cabrio	1	12411	0.86	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_cabrio	automobile cabrio	2	5	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_citycar	citycar	1	5025	0.35	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_citycar	automobile citycar	2	0	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_coupé	coupé	1	17096	1.18	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_coupé	automobile coupé	2	9	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_crossover	crossover	1	31789	2.19	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_crossover	automobile crossover	2	1	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_decappottabile	automobile decappottabile	2	24	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_elettrica	automobile elettrica	2	554	0.04	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_familiare	automobile familiare	2	36	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_ferrari	ferrari	1	11333	0.78	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_ferrari	automobile ferrari	2	0	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_fuoristrada	fuoristrada	1	35774	2.46	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_fuoristrada	automobile fuoristrada	2	11	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_ibrida	automobile ibrida	2	99	0.01	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_limousine	limousine	1	10400	0.72	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_limousine	automobile limousine	2	0	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_monovolume	monovolume	1	10221	0.7	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_monovolume	automobile monovolume	2	8	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_nuova	automobile nuova	2	551	0.04	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_sportiva	automobile sportiva	2	312	0.02	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_suv	suv	1	20473	1.41	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_suv	automobile suv	2	1	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_utilitaria	utilitaria	1	15403	1.06	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_utilitaria	automobile utilitaria	2	50	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_bianca	canottiera bianca	2	436	0.03	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_colorata	canottiera colorata	2	10	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_intima	canottiera intima	2	63	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_larga	canottiera larga	2	10	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_lunga	canottiera lunga	2	8	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_nera	canottiera nera	2	155	0.01	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_sportiva	canottiera sportiva	2	11	0	no
+BODY PARTS	brain	CERVELLO	CERVELLO_animale	cervello animale	2	113	0.01	no
+BODY PARTS	brain	CERVELLO	CERVELLO_artificiale	cervello artificiale	2	262	0.02	no
+BODY PARTS	brain	CERVELLO	CERVELLO_rettiliano	cervello rettiliano	2	369	0.03	no
+BODY PARTS	brain	CERVELLO	CERVELLO_umano	cervello umano	2	12841	0.88	no
+FURNITURE	cupboard	CREDENZA	CREDENZA_antica	credenza antica	2	129	0.01	no
+FURNITURE	cupboard	CREDENZA	CREDENZA_popolare	credenza popolare	2	4328	0.3	no
+FURNITURE	cupboard	CREDENZA	CREDENZA_religiosa	credenza religiosa	2	1249	0.09	no
+FURNITURE	cupboard	CREDENZA	CREDENZA_vetrinetta	vetrinetta	1	2806	0.19	no
+FURNITURE	cupboard	CREDENZA	CREDENZA_vetrinetta	credenza vetrinetta	2	1	0	no
+FURNITURE	sofa	DIVANO	DIVANO_componibile	divano componibile	2	404	0.03	no
+FURNITURE	sofa	DIVANO	DIVANO_letto	letto	1	44513	3.07	yes
+FURNITURE	sofa	DIVANO	DIVANO_letto	divano letto	2	38937	2.68	no
+FURNITURE	sofa	DIVANO	DIVANO_piccolo	divano piccolo	2	33	0	no
+FURNITURE	sofa	DIVANO	DIVANO_poltrona	poltrona	1	31934	2.2	yes
+FURNITURE	sofa	DIVANO	DIVANO_poltrona	divano poltrona	2	8	0	no
+FURNITURE	sofa	DIVANO	DIVANO_reclinabile	divano reclinabile	2	34	0	no
+VEHICLES	helicopter	ELICOTTERO	ELICOTTERO_civile	elicottero civile	2	65	0	no
+VEHICLES	helicopter	ELICOTTERO	ELICOTTERO_militare	elicottero militare	2	724	0.05	no
+VEHICLES	helicopter	ELICOTTERO	ELICOTTERO_privato	elicottero privato	2	269	0.02	no
+FURNITURE	bed	LETTO	LETTO_brandina	brandina	1	2614	0.18	no
+FURNITURE	bed	LETTO	LETTO_brandina	letto brandina	2	3	0	no
+FURNITURE	bed	LETTO	LETTO_divano	divano	1	33353	2.3	yes
+FURNITURE	bed	LETTO	LETTO_divano	letto divano	2	38937	2.68	no
+FURNITURE	bed	LETTO	LETTO_matrimoniale	letto matrimoniale	2	67060	4.62	no
+FURNITURE	bed	LETTO	LETTO_singolo	letto singolo	2	12981	0.89	no
+HOBBIES	book	LIBRO	LIBRO_biografia	biografia	1	33902	2.34	no
+HOBBIES	book	LIBRO	LIBRO_biografia	libro biografia	2	48	0	no
+HOBBIES	book	LIBRO	LIBRO_diario	diario	1	36885	2.54	no
+HOBBIES	book	LIBRO	LIBRO_diario	libro diario	2	36	0	no
+HOBBIES	book	LIBRO	LIBRO_digitale	libro digitale	2	2194	0.15	no
+HOBBIES	book	LIBRO	LIBRO_dizionario	dizionario	1	22746	1.57	no
+HOBBIES	book	LIBRO	LIBRO_dizionario	libro dizionario	2	5	0	no
+HOBBIES	book	LIBRO	LIBRO_enciclopedia	enciclopedia	1	34577	2.38	no
+HOBBIES	book	LIBRO	LIBRO_enciclopedia	libro enciclopedia	2	5	0	no
+HOBBIES	book	LIBRO	LIBRO_fantasy	fantasy	1	36480	2.51	no
+HOBBIES	book	LIBRO	LIBRO_fantasy	libro fantasy	2	611	0.04	no
+HOBBIES	book	LIBRO	LIBRO_fumetto	fumetto	1	35916	2.47	no
+HOBBIES	book	LIBRO	LIBRO_fumetto	libro fumetto	2	19	0	no
+HOBBIES	book	LIBRO	LIBRO_giallo	libro giallo	2	1163	0.08	no
+HOBBIES	book	LIBRO	LIBRO_manuale	libro manuale	2	30	0	no
+HOBBIES	book	LIBRO	LIBRO_romantico	libro romantico	2	111	0.01	no
+HOBBIES	book	LIBRO	LIBRO_romanzo	romanzo	1	39962	2.75	no
+HOBBIES	book	LIBRO	LIBRO_romanzo	libro romanzo	2	25	0	no
+HOBBIES	book	LIBRO	LIBRO_saggio	saggio	1	21303	1.47	no
+HOBBIES	book	LIBRO	LIBRO_saggio	libro saggio	2	28	0	no
+HOBBIES	book	LIBRO	LIBRO_storico	libro storico	2	693	0.05	no
+HOBBIES	book	LIBRO	LIBRO_tascabile	libro tascabile	2	372	0.03	no
+HOBBIES	book	LIBRO	LIBRO_thriller	thriller	1	26387	1.82	no
+HOBBIES	book	LIBRO	LIBRO_thriller	libro thriller	2	42	0	no
+HOBBIES	book	LIBRO	LIBRO_universitario	libro universitario	2	173	0.01	no
+BODY PARTS	ear	ORECCHIO	ORECCHIO_animale	orecchio animale	2	3	0	no
+BODY PARTS	ear	ORECCHIO	ORECCHIO_assoluto	orecchio assoluto	2	807	0.06	no
+BODY PARTS	ear	ORECCHIO	ORECCHIO_destro	orecchio destro	2	2805	0.19	no
+BODY PARTS	ear	ORECCHIO	ORECCHIO_grande	orecchio grande	2	22	0	no
+BODY PARTS	ear	ORECCHIO	ORECCHIO_ovale	orecchio ovale	2	2	0	no
+BODY PARTS	ear	ORECCHIO	ORECCHIO_piccolo	orecchio piccolo	2	15	0	no
+BODY PARTS	ear	ORECCHIO	ORECCHIO_sinistro	orecchio sinistro	2	2623	0.18	no
+BODY PARTS	ear	ORECCHIO	ORECCHIO_triangolare	orecchio triangolare	2	0	0	no
+BODY PARTS	ear	ORECCHIO	ORECCHIO_umano	orecchio umano	2	3103	0.21	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_moquette	moquette	1	22877	1.58	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_moquette	pavimento moquette	2	14	0	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_parquet	parquet	1	44517	3.07	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_parquet	pavimento parquet	2	107	0.01	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_riscaldato	pavimento riscaldato	2	321	0.02	no
+HOUSING BUILDINGS	stay	SOGGIORNO	SOGGIORNO_estivo	soggiorno estivo	2	2127	0.15	no
+HOUSING BUILDINGS	stay	SOGGIORNO	SOGGIORNO_grande	soggiorno grande	2	518	0.04	no
+HOUSING BUILDINGS	stay	SOGGIORNO	SOGGIORNO_luminoso	soggiorno luminoso	2	828	0.06	no
+HOUSING BUILDINGS	stay	SOGGIORNO	SOGGIORNO_piccolo	soggiorno piccolo	2	93	0.01	no
+HOUSING BUILDINGS	stay	SOGGIORNO	SOGGIORNO_salotto	soggiorno salotto	2	119	0.01	no
+HOUSING BUILDINGS	stay	SOGGIORNO	SOGGIORNO_vacanza	vacanza	1	38619	2.66	no
+HOUSING BUILDINGS	stay	SOGGIORNO	SOGGIORNO_vacanza	soggiorno vacanza	2	196	0.01	no
+BODY PARTS	shoulder	SPALLA	SPALLA_animale	spalla animale	2	1	0	no
+BODY PARTS	shoulder	SPALLA	SPALLA_destra	spalla destra	2	7197	0.5	no
+BODY PARTS	shoulder	SPALLA	SPALLA_larga	spalla larga	2	263	0.02	no
+BODY PARTS	shoulder	SPALLA	SPALLA_muscolosa	spalla muscolosa	2	24	0	no
+BODY PARTS	shoulder	SPALLA	SPALLA_sinistra	sinistra	1	34353	2.37	yes
+BODY PARTS	shoulder	SPALLA	SPALLA_sinistra	spalla sinistra	2	6605	0.46	no
+BODY PARTS	shoulder	SPALLA	SPALLA_umana	spalla umana	2	17	0	no
+STATIONERY	stapler	SPILLATRICE	SPILLATRICE_classica	spillatrice classica	2	0	0	no
+STATIONERY	stapler	SPILLATRICE	SPILLATRICE_grande	spillatrice grande	2	3	0	no
+STATIONERY	stapler	SPILLATRICE	SPILLATRICE_manuale	spillatrice manuale	2	6	0	no
+STATIONERY	stapler	SPILLATRICE	SPILLATRICE_piccola	spillatrice piccola	2	0	0	no
+STATIONERY	stapler	SPILLATRICE	SPILLATRICE_tascabile	spillatrice tascabile	2	0	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_agenda	agenda	1	40107	2.76	no
+STATIONERY	notebook	TACCUINO	TACCUINO_agenda	taccuino agenda	2	1	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_grande	taccuino grande	2	0	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_piccolo	taccuino piccolo	2	5	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_quaderno	quaderno	1	42815	2.95	no
+STATIONERY	notebook	TACCUINO	TACCUINO_quaderno	taccuino quaderno	2	0	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_tascabile	taccuino tascabile	2	40	0	no
+BODY PARTS	head	TESTA	TESTA_calda	testa calda	2	2507	0.17	no
+BODY PARTS	head	TESTA	TESTA_dura	testa dura	2	2611	0.18	no
+BODY PARTS	head	TESTA	TESTA_grande	testa grande	2	830	0.06	no
+BODY PARTS	head	TESTA	TESTA_ovale	testa ovale	2	146	0.01	no
+BODY PARTS	head	TESTA	TESTA_pelata	testa pelata	2	602	0.04	no
+BODY PARTS	head	TESTA	TESTA_piccola	testa piccola	2	983	0.07	no
+BODY PARTS	head	TESTA	TESTA_quadrata	testa quadrata	2	241	0.02	no
+BODY PARTS	head	TESTA	TESTA_rotonda	testa rotonda	2	499	0.03	no
+STATIONERY	case	ASTUCCIO	ASTUCCIO_portaocchiali	portaocchiali	1	581	0.04	no
+STATIONERY	case	ASTUCCIO	ASTUCCIO_portaocchiali	astuccio portaocchiali	2	4	0	no
+STATIONERY	case	ASTUCCIO	ASTUCCIO_portapenne	portapenne	1	2913	0.2	no
+STATIONERY	case	ASTUCCIO	ASTUCCIO_portapenne	astuccio portapenne	2	45	0	no
+STATIONERY	case	ASTUCCIO	ASTUCCIO_rigido	astuccio rigido	2	228	0.02	no
+STATIONERY	case	ASTUCCIO	ASTUCCIO_trousse	trousse	1	3166	0.22	no
+STATIONERY	case	ASTUCCIO	ASTUCCIO_trousse	astuccio trousse	2	0	0	no
+HOUSING BUILDINGS	balcony	BALCONE	BALCONE_aggettante	balcone aggettante	2	193	0.01	no
+HOUSING BUILDINGS	balcony	BALCONE	BALCONE_coperto	balcone coperto	2	857	0.06	no
+HOUSING BUILDINGS	balcony	BALCONE	BALCONE_esterno	balcone esterno	2	715	0.05	no
+HOUSING BUILDINGS	balcony	BALCONE	BALCONE_terrazzo	terrazzo	1	34319	2.36	no
+HOUSING BUILDINGS	balcony	BALCONE	BALCONE_terrazzo	balcone terrazzo	2	388	0.03	no
+BODY PARTS	hair	CAPELLO	CAPELLO_berretto	berretto	1	22640	1.56	yes
+BODY PARTS	hair	CAPELLO	CAPELLO_berretto	capello berretto	2	0	0	yes
+BODY PARTS	hair	CAPELLO	CAPELLO_bianco	capello bianco	2	1505	0.1	no
+BODY PARTS	hair	CAPELLO	CAPELLO_biondo	capello biondo	2	313	0.02	no
+BODY PARTS	hair	CAPELLO	CAPELLO_bombetta	bombetta	1	3580	0.25	yes
+BODY PARTS	hair	CAPELLO	CAPELLO_bombetta	capello bombetta	2	0	0	yes
+BODY PARTS	hair	CAPELLO	CAPELLO_castano	capello castano	2	66	0	no
+BODY PARTS	hair	CAPELLO	CAPELLO_corto	capello corto	2	446	0.03	no
+BODY PARTS	hair	CAPELLO	CAPELLO_grasso	capello grasso	2	93	0.01	no
+BODY PARTS	hair	CAPELLO	CAPELLO_liscio	capello liscio	2	265	0.02	no
+BODY PARTS	hair	CAPELLO	CAPELLO_lungo	capello lungo	2	667	0.05	no
+BODY PARTS	hair	CAPELLO	CAPELLO_moro	capello moro	2	5	0	no
+BODY PARTS	hair	CAPELLO	CAPELLO_mosso	capello mosso	2	163	0.01	no
+BODY PARTS	hair	CAPELLO	CAPELLO_nero	capello nero	2	136	0.01	no
+BODY PARTS	hair	CAPELLO	CAPELLO_riccio	capello riccio	2	246	0.02	no
+BODY PARTS	hair	CAPELLO	CAPELLO_rosso	capello rosso	2	105	0.01	no
+BODY PARTS	hair	CAPELLO	CAPELLO_secco	capello secco	2	125	0.01	no
+BODY PARTS	hair	CAPELLO	CAPELLO_sottile	capello sottile	2	68	0	no
+BODY PARTS	hair	CAPELLO	CAPELLO_spesso	capello spesso	2	22	0	no
+BODY PARTS	hair	CAPELLO	CAPELLO_tinto	capello tinto	2	41	0	no
+FOODS	meat	CARNE	CARNE_bianca	carne bianca	2	6954	0.48	no
+FOODS	meat	CARNE	CARNE_bistecca	bistecca	1	21114	1.45	no
+FOODS	meat	CARNE	CARNE_bistecca	carne bistecca	2	0	0	no
+FOODS	meat	CARNE	CARNE_bovina	carne bovina	2	7408	0.51	no
+FOODS	meat	CARNE	CARNE_macinata	carne macinata	2	5771	0.4	no
+FOODS	meat	CARNE	CARNE_ovina	ovina	1	3328	0.23	yes
+FOODS	meat	CARNE	CARNE_ovina	carne ovina	2	775	0.05	no
+FOODS	meat	CARNE	CARNE_prosciutto	prosciutto	1	32329	2.23	no
+FOODS	meat	CARNE	CARNE_prosciutto	carne prosciutto	2	8	0	no
+FOODS	meat	CARNE	CARNE_rossa	carne rossa	2	12729	0.88	no
+FURNISHINGS/FITTINGS	centerpiece	CENTROTAVOLA	CENTROTAVOLA_centrino	centrino	1	2569	0.18	no
+FURNISHINGS/FITTINGS	centerpiece	CENTROTAVOLA	CENTROTAVOLA_centrino	centrotavola centrino	2	0	0	no
+HOBBIES	guitar	CHITARRA	CHITARRA_acustica	chitarra acustica	2	17258	1.19	no
+HOBBIES	guitar	CHITARRA	CHITARRA_classica	chitarra classica	2	10086	0.69	no
+HOBBIES	guitar	CHITARRA	CHITARRA_elettrica	chitarra elettrica	2	20094	1.38	no
+HOBBIES	guitar	CHITARRA	CHITARRA_folk	folk	1	37806	2.6	yes
+HOBBIES	guitar	CHITARRA	CHITARRA_folk	chitarra folk	2	347	0.02	no
+HOBBIES	guitar	CHITARRA	CHITARRA_multicorde	chitarra multicorde	2	3	0	no
+HOBBIES	guitar	CHITARRA	CHITARRA_ukulele	ukulele	1	4686	0.32	no
+HOBBIES	guitar	CHITARRA	CHITARRA_ukulele	chitarra ukulele	2	9	0	no
+PLANTS	cyclamen	CICLAMINO	CICLAMINO_bianco	ciclamino bianco	2	11	0	no
+PLANTS	cyclamen	CICLAMINO	CICLAMINO_rosa	ciclamino rosa	2	23	0	no
+PLANTS	cyclamen	CICLAMINO	CICLAMINO_rosso	ciclamino rosso	2	8	0	no
+PLANTS	cyclamen	CICLAMINO	CICLAMINO_viola	ciclamino viola	2	8	0	no
+HOBBIES	computer	COMPUTER	COMPUTER_fisso	computer fisso	2	1745	0.12	no
+HOBBIES	computer	COMPUTER	COMPUTER_mini	mini	1	32142	2.21	yes
+HOBBIES	computer	COMPUTER	COMPUTER_mini	computer mini	2	7	0	no
+HOBBIES	computer	COMPUTER	COMPUTER_pc	computer pc	1	75	0.01	no
+HOBBIES	computer	COMPUTER	COMPUTER_pc	computer pc	2	75	0.01	no
+HOBBIES	computer	COMPUTER	COMPUTER_portatile	computer portatile	2	31272	2.15	no
+BODY PARTS	leg	GAMBA	GAMBA_corta	gamba corta	2	342	0.02	no
+BODY PARTS	leg	GAMBA	GAMBA_destra	gamba destra	2	13327	0.92	no
+BODY PARTS	leg	GAMBA	GAMBA_lunga	gamba lunga	2	374	0.03	no
+BODY PARTS	leg	GAMBA	GAMBA_sinistra	sinistra	1	1768158	121.82	yes
+BODY PARTS	leg	GAMBA	GAMBA_sinistra	gamba sinistra	2	11540	0.8	no
+BODY PARTS	leg	GAMBA	GAMBA_umana	gamba umana	2	67	0	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_alogena	lampada alogena	2	1048	0.07	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_fluorescente	lampada fluorescente	2	454	0.03	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_rio	rio	1	29285	2.02	yes
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_rio	lampadario	2	15629	1.08	no
+CLOTHES	trouser	PANTALONE	PANTALONE_bermuda	bermuda	1	5907	0.41	no
+CLOTHES	trouser	PANTALONE	PANTALONE_bermuda	pantalone bermuda	2	11	0	no
+CLOTHES	trouser	PANTALONE	PANTALONE_cargo	pantalone cargo	2	44	0	no
+CLOTHES	trouser	PANTALONE	PANTALONE_corto	pantalone corto	2	247	0.02	no
+CLOTHES	trouser	PANTALONE	PANTALONE_elegante	pantalone elegante	2	154	0.01	no
+CLOTHES	trouser	PANTALONE	PANTALONE_jeans	jeans	1	23688	1.63	no
+CLOTHES	trouser	PANTALONE	PANTALONE_jeans	pantalone jeans	2	82	0.01	no
+CLOTHES	trouser	PANTALONE	PANTALONE_leggings	leggings	1	7946	0.55	no
+CLOTHES	trouser	PANTALONE	PANTALONE_leggings	pantalone leggings	2	2	0	no
+CLOTHES	trouser	PANTALONE	PANTALONE_lungo	pantalone lungo	2	613	0.04	no
+CLOTHES	trouser	PANTALONE	PANTALONE_pantaloncino	pantaloncini	1	22564	1.55	no
+CLOTHES	trouser	PANTALONE	PANTALONE_pantaloncino	pantalone pantaloncino	1	0	0	no
+CLOTHES	trouser	PANTALONE	PANTALONE_pantaloncino	pantalone pantaloncino	2	0	0	no
+CLOTHES	trouser	PANTALONE	PANTALONE_pinocchietto	pinocchietto	1	692	0.05	no
+CLOTHES	trouser	PANTALONE	PANTALONE_pinocchietto	pantalone pinocchietto	2	8	0	no
+CLOTHES	trouser	PANTALONE	PANTALONE_shorts	shorts	1	8304	0.57	no
+CLOTHES	trouser	PANTALONE	PANTALONE_shorts	pantalone shorts	2	1	0	no
+CLOTHES	trouser	PANTALONE	PANTALONE_skinny	skinny	1	5853	0.4	no
+CLOTHES	trouser	PANTALONE	PANTALONE_skinny	pantalone skinny	2	109	0.01	no
+CLOTHES	shoe	SCARPA	SCARPA_alta	scarpa alta	2	169	0.01	no
+CLOTHES	shoe	SCARPA	SCARPA_ballerine	ballerine	1	30972	2.13	no
+CLOTHES	shoe	SCARPA	SCARPA_ballerine	scarpa ballerine	2	3	0	no
+CLOTHES	shoe	SCARPA	SCARPA_bassa	scarpa bassa	2	369	0.03	no
+CLOTHES	shoe	SCARPA	SCARPA_ciabatta	ciabatta	1	7158	0.49	no
+CLOTHES	shoe	SCARPA	SCARPA_ciabatta	scarpa ciabatta	2	1	0	no
+CLOTHES	shoe	SCARPA	SCARPA_elegante	scarpa elegante	2	183	0.01	no
+CLOTHES	shoe	SCARPA	SCARPA_espadrillas	espadrillas	1	2017	0.14	no
+CLOTHES	shoe	SCARPA	SCARPA_espadrillas	scarpa espadrillas	2	1	0	no
+CLOTHES	shoe	SCARPA	SCARPA_infradito	infradito	1	13416	0.92	no
+CLOTHES	shoe	SCARPA	SCARPA_infradito	scarpa infradito	2	0	0	no
+CLOTHES	shoe	SCARPA	SCARPA_mocassino	mocassino	1	2349	0.16	no
+CLOTHES	shoe	SCARPA	SCARPA_mocassino	scarpa mocassino	2	7	0	no
+CLOTHES	shoe	SCARPA	SCARPA_pantofole	pantofole	1	12791	0.88	no
+CLOTHES	shoe	SCARPA	SCARPA_pantofole	scarpa pantofole	2	0	0	no
+CLOTHES	shoe	SCARPA	SCARPA_sandali	sandali	1	34472	2.37	no
+CLOTHES	shoe	SCARPA	SCARPA_sandali	scarpa sandali	2	1	0	no
+CLOTHES	shoe	SCARPA	SCARPA_scarponi	scarponi	1	28194	1.94	no
+CLOTHES	shoe	SCARPA	SCARPA_scarponi	scarpa scarponi	2	0	0	no
+CLOTHES	shoe	SCARPA	SCARPA_sneakers	sneakers	1	20780	1.43	no
+CLOTHES	shoe	SCARPA	SCARPA_sneakers	scarpa sneakers	2	7	0	no
+CLOTHES	shoe	SCARPA	SCARPA_stivaletti	stivaletti	1	11260	0.78	no
+CLOTHES	shoe	SCARPA	SCARPA_stivaletti	scarpa stivaletti	2	0	0	no
+CLOTHES	shoe	SCARPA	SCARPA_stivali	stivali	1	44096	3.04	no
+CLOTHES	shoe	SCARPA	SCARPA_stivali	scarpa stivali	2	3	0	no
+CLOTHES	shoe	SCARPA	SCARPA_stringata	scarpa stringata	2	97	0.01	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_3d	televisione 3d	1	4	0	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_3d	televisione 3d	2	4	0	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_4k	televisione 4k	1	2	0	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_4k	televisione 4k	2	2	0	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_analogica	televisione analogica	2	552	0.04	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_digitale	televisione digitale	2	2791	0.19	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_hd	televisione hd	1	1	0	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_hd	televisione hd	2	1	0	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_lcd	lcd	1	10240	0.71	yes
+HOBBIES	television	TELEVISIONE	TELEVISIONE_lcd	televisione lcd	2	55	0	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_led	led	1	35404	2.44	yes
+HOBBIES	television	TELEVISIONE	TELEVISIONE_led	televisione led	2	11	0	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_oled	oled	1	1185	0.08	yes
+HOBBIES	television	TELEVISIONE	TELEVISIONE_oled	televisione oled	2	0	0	no
+ANIMALS	tiger	TIGRE	TIGRE_bianca	tigre bianca	2	554	0.04	no
+ANIMALS	tiger	TIGRE	TIGRE_cinese	tigre cinese	2	41	0	no
+ANIMALS	tiger	TIGRE	TIGRE_siberiana	tigre siberiana	2	444	0.03	no
+STATIONERY	diary	AGENDA	AGENDA_annuale	agenda annuale	2	66	0	no
+STATIONERY	diary	AGENDA	AGENDA_diario	diario	1	159328	10.98	no
+STATIONERY	diary	AGENDA	AGENDA_diario	agenda diario	2	11	0	no
+STATIONERY	diary	AGENDA	AGENDA_digitale	agenda digitale	2	3445	0.24	no
+STATIONERY	diary	AGENDA	AGENDA_giornaliera	agenda giornaliera	2	272	0.02	no
+STATIONERY	diary	AGENDA	AGENDA_mensile	agenda mensile	2	39	0	no
+STATIONERY	diary	AGENDA	AGENDA_settimanale	agenda settimanale	2	403	0.03	no
+STATIONERY	diary	AGENDA	AGENDA_tascabile	agenda tascabile	2	61	0	no
+HOUSING BUILDINGS	bathroom	BAGNO	BAGNO_chimico	bagno chimico	2	708	0.05	no
+HOUSING BUILDINGS	bathroom	BAGNO	BAGNO_giapponese	bagno giapponese	2	154	0.01	no
+HOUSING BUILDINGS	bathroom	BAGNO	BAGNO_privato	bagno privato	2	54613	3.76	no
+HOUSING BUILDINGS	bathroom	BAGNO	BAGNO_pubblico	bagno pubblico	2	2702	0.19	no
+HOUSING BUILDINGS	bathroom	BAGNO	BAGNO_sauna	sauna	1	47094	3.24	no
+HOUSING BUILDINGS	bathroom	BAGNO	BAGNO_sauna	bagno sauna	2	15	0	no
+HOUSING BUILDINGS	bathroom	BAGNO	BAGNO_turco	bagno turco	2	28554	1.97	no
+HOUSING BUILDINGS	bathroom	BAGNO	BAGNO_zen	zen	1	21875	1.51	yes
+HOUSING BUILDINGS	bathroom	BAGNO	BAGNO_zen	bagno zen	2	16	0	no
+PLANTS	basil	BASILICO	BASILICO_genovese	basilico genovese	2	413	0.03	no
+PLANTS	basil	BASILICO	BASILICO_greco	basilico greco	2	118	0.01	no
+PLANTS	basil	BASILICO	BASILICO_limone	limone	1	46099	3.18	yes
+PLANTS	basil	BASILICO	BASILICO_limone	basilico limone	2	31	0	no
+PLANTS	basil	BASILICO	BASILICO_verde	basilico verde	2	49	0	no
+PLANTS	basil	BASILICO	BASILICO_viola	basilico viola	2	74	0.01	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_basco	cappello basco	2	13	0	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_beanie	beanie	1	424	0.03	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_beanie	cappello beanie	2	5	0	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_berretto	berretto	1	22640	1.56	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_berretto	cappello berretto	2	9	0	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_bombetta	bombetta	1	3580	0.25	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_bombetta	cappello bombetta	2	5	0	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_borsalino	cappello borsalino	2	30	0	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_colbacco	colbacco	1	1487	0.1	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_colbacco	cappello colbacco	2	0	0	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_coppola	coppola	1	3494	0.24	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_coppola	cappello coppola	2	2	0	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_fedora	fedora	1	1388	0.1	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_fedora	cappello fedora	2	47	0	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_panama	panama	1	1488	0.1	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_panama	cappello panama	2	52	0	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_sombrero	sombrero	1	1989	0.14	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_sombrero	cappello sombrero	2	5	0	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_tuba	tuba	1	9825	0.68	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_tuba	cappello tuba	2	1	0	no
+FURNITURE	dresser	COMÒ	COMÒ_comodino	comodino	1	28547	1.97	no
+FURNITURE	dresser	COMÒ	COMÒ_comodino	comò comodino	2	3	0	no
+HOBBIES	crossword	CRUCIVERBA	CRUCIVERBA_crittografato	cruciverba crittografato	2	3	0	no
+HOBBIES	crossword	CRUCIVERBA	CRUCIVERBA_facilitato	cruciverba facilitato	2	3	0	no
+HOBBIES	crossword	CRUCIVERBA	CRUCIVERBA_rebus	rebus	1	19079	1.31	no
+HOBBIES	crossword	CRUCIVERBA	CRUCIVERBA_rebus	cruciverba rebus	2	2	0	no
+HOBBIES	crossword	CRUCIVERBA	CRUCIVERBA_sudoku	sudoku	1	2547	0.18	no
+HOBBIES	crossword	CRUCIVERBA	CRUCIVERBA_sudoku	cruciverba sudoku	2	0	0	no
+FOODS	salad	INSALATA	INSALATA_greca	insalata greca	2	965	0.07	no
+FOODS	salad	INSALATA	INSALATA_iceberg	iceberg	1	25673	1.77	no
+FOODS	salad	INSALATA	INSALATA_iceberg	insalata iceberg	2	208	0.01	no
+FOODS	salad	INSALATA	INSALATA_indivia	indivia	1	3397	0.23	no
+FOODS	salad	INSALATA	INSALATA_indivia	insalata indivia	2	26	0	no
+FOODS	salad	INSALATA	INSALATA_lattuga	lattuga	1	18468	1.27	no
+FOODS	salad	INSALATA	INSALATA_lattuga	insalata lattuga	2	56	0	no
+FOODS	salad	INSALATA	INSALATA_mista	insalata mista	2	3501	0.24	no
+FOODS	salad	INSALATA	INSALATA_misticanza	misticanza	1	1495	0.1	no
+FOODS	salad	INSALATA	INSALATA_misticanza	insalata misticanza	2	34	0	no
+FOODS	salad	INSALATA	INSALATA_radicchio	radicchio	1	24140	1.66	no
+FOODS	salad	INSALATA	INSALATA_radicchio	insalata radicchio	2	3	0	no
+FOODS	salad	INSALATA	INSALATA_riccia	insalata riccia	2	178	0.01	no
+FOODS	salad	INSALATA	INSALATA_romana	insalata romana	2	94	0.01	no
+FOODS	salad	INSALATA	INSALATA_rucola	rucola	1	18532	1.28	no
+FOODS	salad	INSALATA	INSALATA_rucola	insalata rucola	2	16	0	no
+FOODS	salad	INSALATA	INSALATA_russa	insalata russa	2	2339	0.16	no
+FOODS	salad	INSALATA	INSALATA_scarola	scarola	1	4202	0.29	no
+FOODS	salad	INSALATA	INSALATA_scarola	insalata scarola	2	30	0	no
+FOODS	salad	INSALATA	INSALATA_songino	songino	1	658	0.05	no
+FOODS	salad	INSALATA	INSALATA_songino	insalata songino	2	16	0	no
+FOODS	salad	INSALATA	INSALATA_valeriana	valeriana	1	7666	0.53	no
+FOODS	salad	INSALATA	INSALATA_valeriana	insalata valeriana	2	75	0.01	no
+ANIMALS	lizard	LUCERTOLA	LUCERTOLA_camaleonte	camaleonte	1	5549	0.38	no
+ANIMALS	lizard	LUCERTOLA	LUCERTOLA_camaleonte	lucertola camaleonte	2	0	0	no
+ANIMALS	lizard	LUCERTOLA	LUCERTOLA_campestre	lucertola campestre	2	158	0.01	no
+ANIMALS	lizard	LUCERTOLA	LUCERTOLA_comune	lucertola comune	2	29	0	no
+ANIMALS	lizard	LUCERTOLA	LUCERTOLA_geco	geco	1	3410	0.23	no
+ANIMALS	lizard	LUCERTOLA	LUCERTOLA_geco	lucertola geco	2	0	0	no
+ANIMALS	lizard	LUCERTOLA	LUCERTOLA_iguana	iguana	1	3480	0.24	no
+ANIMALS	lizard	LUCERTOLA	LUCERTOLA_iguana	lucertola iguana	2	1	0	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_analogico	orologio analogico	2	751	0.05	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_cronografo	cronografo	1	7523	0.52	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_cronografo	orologio cronografo	2	90	0.01	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_digitale	orologio digitale	2	1523	0.1	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_smartwatch	smartwatch	1	27423	1.89	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_smartwatch	orologio smartwatch	2	26	0	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_subacqueo	orologio subacqueo	2	828	0.06	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_sveglia	sveglia	1	36306	2.5	yes
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_sveglia	orologio sveglia	2	135	0.01	no
+FOODS	fish	PESCE	PESCE_acciuga	acciuga	1	5627	0.39	no
+FOODS	fish	PESCE	PESCE_acciuga	pesce acciuga	2	0	0	no
+FOODS	fish	PESCE	PESCE_alice	alice	1	9262	0.64	no
+FOODS	fish	PESCE	PESCE_alice	pesce alice	2	0	0	no
+FOODS	fish	PESCE	PESCE_aringa	aringa	1	3862	0.27	no
+FOODS	fish	PESCE	PESCE_aringa	pesce aringa	2	2	0	no
+FOODS	fish	PESCE	PESCE_azzurro	pesce azzurro	2	9975	0.69	no
+FOODS	fish	PESCE	PESCE_branzino	branzino	1	6329	0.44	no
+FOODS	fish	PESCE	PESCE_branzino	pesce branzino	2	8	0	no
+FOODS	fish	PESCE	PESCE_cane	cane	1	40701	2.8	yes
+FOODS	fish	PESCE	PESCE_cane	pesce cane	2	94	0.01	no
+FOODS	fish	PESCE	PESCE_carpa	carpa	1	9458	0.65	no
+FOODS	fish	PESCE	PESCE_carpa	pesce carpa	2	23	0	no
+FOODS	fish	PESCE	PESCE_luccio	luccio	1	7942	0.55	no
+FOODS	fish	PESCE	PESCE_luccio	pesce luccio	2	6	0	no
+FOODS	fish	PESCE	PESCE_martello	martello	1	33242	2.29	yes
+FOODS	fish	PESCE	PESCE_martello	pesce martello	2	130	0.01	no
+FOODS	fish	PESCE	PESCE_merluzzo	merluzzo	1	17131	1.18	no
+FOODS	fish	PESCE	PESCE_merluzzo	pesce merluzzo	2	23	0	no
+FOODS	fish	PESCE	PESCE_orata	pesce orata	2	12	0	no
+FOODS	fish	PESCE	PESCE_pagliaccio	pagliaccio	1	12087	0.83	yes
+FOODS	fish	PESCE	PESCE_pagliaccio	pesce pagliaccio	2	772	0.05	no
+FOODS	fish	PESCE	PESCE_palla	palla	1	32935	2.27	yes
+FOODS	fish	PESCE	PESCE_palla	pesce palla	2	1438	0.1	no
+FOODS	fish	PESCE	PESCE_platessa	platessa	1	1667	0.11	no
+FOODS	fish	PESCE	PESCE_platessa	pesce platessa	2	2	0	no
+FOODS	fish	PESCE	PESCE_rosso	pesce rosso	2	3700	0.25	no
+FOODS	fish	PESCE	PESCE_salmone	salmone	1	37125	2.56	no
+FOODS	fish	PESCE	PESCE_salmone	pesce salmone	2	33	0	no
+FOODS	fish	PESCE	PESCE_sardina	sardina	1	3058	0.21	no
+FOODS	fish	PESCE	PESCE_sardina	pesce sardina	2	0	0	no
+FOODS	fish	PESCE	PESCE_scorfano	scorfano	1	2436	0.17	no
+FOODS	fish	PESCE	PESCE_scorfano	pesce scorfano	2	8	0	no
+FOODS	fish	PESCE	PESCE_sgombro	sgombro	1	14750	1.02	no
+FOODS	fish	PESCE	PESCE_sgombro	pesce sgombro	2	13	0	no
+FOODS	fish	PESCE	PESCE_sogliola	sogliola	1	4771	0.33	no
+FOODS	fish	PESCE	PESCE_sogliola	pesce sogliola	2	3	0	no
+FOODS	fish	PESCE	PESCE_spada	spada	1	36773	2.53	yes
+FOODS	fish	PESCE	PESCE_spada	pesce spada	2	13310	0.92	no
+FOODS	fish	PESCE	PESCE_spigola	spigola	1	7594	0.52	no
+FOODS	fish	PESCE	PESCE_spigola	pesce spigola	2	3	0	no
+FOODS	fish	PESCE	PESCE_squalo	squalo	1	34905	2.4	no
+FOODS	fish	PESCE	PESCE_squalo	pesce squalo	2	15	0	no
+FOODS	fish	PESCE	PESCE_tonno	tonno	1	30181	2.08	no
+FOODS	fish	PESCE	PESCE_tonno	pesce tonno	2	17	0	no
+FOODS	fish	PESCE	PESCE_trota	trota	1	24408	1.68	no
+FOODS	fish	PESCE	PESCE_trota	pesce trota	2	11	0	no
+PLANTS	oak	QUERCIA	QUERCIA_leccio	leccio	1	7564	0.52	no
+PLANTS	oak	QUERCIA	QUERCIA_leccio	quercia leccio	2	2	0	no
+PLANTS	oak	QUERCIA	QUERCIA_rovere	rovere	1	22788	1.57	no
+PLANTS	oak	QUERCIA	QUERCIA_rovere	quercia rovere	2	23	0	no
+PLANTS	oak	QUERCIA	QUERCIA_secolare	quercia secolare	2	818	0.06	no
+PLANTS	rose	ROSA	ROSA_antico	rosa antico	2	3411	0.24	no
+PLANTS	rose	ROSA	ROSA_bianca	rosa bianca	2	2451	0.17	no
+PLANTS	rose	ROSA	ROSA_blu	rosa blu	2	674	0.05	no
+PLANTS	rose	ROSA	ROSA_canina	rosa canina	2	6653	0.46	no
+PLANTS	rose	ROSA	ROSA_fucsia	fucsia	1	17719	1.22	no
+PLANTS	rose	ROSA	ROSA_fucsia	rosa fucsia	2	596	0.04	no
+PLANTS	rose	ROSA	ROSA_gialla	rosa gialla	2	569	0.04	no
+PLANTS	rose	ROSA	ROSA_nera	rosa nera	2	620	0.04	no
+PLANTS	rose	ROSA	ROSA_rossa	rosa rossa	2	4331	0.3	no
+HOUSING BUILDINGS	stairs	SCALA	SCALA_esterna	scala esterna	2	6536	0.45	no
+HOUSING BUILDINGS	stairs	SCALA	SCALA_interna	scala interna	2	14640	1.01	no
+HOUSING BUILDINGS	stairs	SCALA	SCALA_mobile	scala mobile	2	9034	0.62	no
+HOUSING BUILDINGS	stairs	SCALA	SCALA_scaletta	scaletta	1	36350	2.5	no
+HOUSING BUILDINGS	stairs	SCALA	SCALA_scaletta	scala scaletta	2	4	0	no
+FURNITURE	desk	SCRIVANIA	SCRIVANIA_angolare	scrivania angolare	2	109	0.01	no
+FURNITURE	desk	SCRIVANIA	SCRIVANIA_scrittoio	scrittoio	1	7732	0.53	no
+FURNITURE	desk	SCRIVANIA	SCRIVANIA_scrittoio	scrivania scrittoio	2	1	0	no
+STATIONERY	pencil sharpener	TEMPERINO	TEMPERINO_doppio	temperino doppio	2	4	0	no
+STATIONERY	pencil sharpener	TEMPERINO	TEMPERINO_elettrico	temperino elettrico	2	5	0	no
+STATIONERY	pencil sharpener	TEMPERINO	TEMPERINO_singolo	temperino singolo	2	0	0	no
+STATIONERY	pencil sharpener	TEMPERINO	TEMPERINO_temperamatite	temperamatite	1	1070	0.07	no
+STATIONERY	pencil sharpener	TEMPERINO	TEMPERINO_temperamatite	temperino temperamatite	2	0	0	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_bagno	bagno	1	28883	1.99	yes
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_bagno	camera bagno	2	1298	0.09	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_cameretta	cameretta	1	21399	1.47	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_cameretta	camera cameretta	2	544	0.04	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_cucina	cucina	1	28862	1.99	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_cucina	camera cucina	2	656	0.05	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_doppia	camera doppia	2	35510	2.45	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_foto	foto	1	30556	2.11	yes
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_foto	fotocamera	2	36937	2.54	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_ingresso	ingresso	1	37375	2.57	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_ingresso	camera ingresso	2	20	0	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_matrimoniale	camera matrimoniale	2	81708	5.63	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_oscura	camera oscura	2	8001	0.55	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_salotto	camera salotto	2	15	0	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_singola	camera singola	2	21101	1.45	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_soggiorno	soggiorno	1	18562	1.28	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_soggiorno	camera soggiorno	2	209	0.01	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_studio	studio	1	27125	1.87	yes
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_studio	camera studio	2	385	0.03	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_video	video	1	33015	2.27	yes
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_video	videocamera	2	28322	1.95	no
+ANIMALS	horse	CAVALLO	CAVALLO_appaloosa	cavallo appaloosa	2	5	0	no
+ANIMALS	horse	CAVALLO	CAVALLO_arabo	cavallo arabo	2	379	0.03	no
+ANIMALS	horse	CAVALLO	CAVALLO_baio	baio	1	1792	0.12	no
+ANIMALS	horse	CAVALLO	CAVALLO_baio	cavallo baio	2	124	0.01	no
+ANIMALS	horse	CAVALLO	CAVALLO_bianco	cavallo bianco	2	4478	0.31	no
+ANIMALS	horse	CAVALLO	CAVALLO_mustang	mustang	1	1289	0.09	no
+ANIMALS	horse	CAVALLO	CAVALLO_mustang	cavallo mustang	2	3	0	no
+ANIMALS	horse	CAVALLO	CAVALLO_nero	cavallo nero	2	1081	0.07	no
+ANIMALS	horse	CAVALLO	CAVALLO_pony	pony	1	17337	1.19	no
+ANIMALS	horse	CAVALLO	CAVALLO_pony	cavallo pony	2	11	0	no
+ANIMALS	horse	CAVALLO	CAVALLO_puledro	puledro	2	6180	0.43	no
+ANIMALS	horse	CAVALLO	CAVALLO_puledro	cavallo puledro	2	0	0	no
+ANIMALS	horse	CAVALLO	CAVALLO_purosangue	cavallo purosangue	2	108	0.01	no
+ANIMALS	horse	CAVALLO	CAVALLO_selvaggio	cavallo selvaggio	2	599	0.04	no
+ANIMALS	horse	CAVALLO	CAVALLO_stallone	stallone	1	7367	0.51	no
+ANIMALS	horse	CAVALLO	CAVALLO_stallone	cavallo stallone	2	12	0	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_amaro	cioccolato amaro	2	1364	0.09	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_bianco	cioccolato bianco	2	15579	1.07	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_caldo	cioccolato caldo	2	945	0.07	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_fondente	cioccolato fondente	2	30829	2.12	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_pralinato	cioccolato pralinato	2	23	0	no
+BODY PARTS	heart	CUORE	CUORE_anatomico	cuore anatomico	2	42	0	no
+BODY PARTS	heart	CUORE	CUORE_animale	cuore animale	2	39	0	no
+BODY PARTS	heart	CUORE	CUORE_disegnato	cuore disegnato	2	135	0.01	no
+BODY PARTS	heart	CUORE	CUORE_rosso	cuore rosso	2	1967	0.14	no
+BODY PARTS	heart	CUORE	CUORE_spezzato	cuore spezzato	2	4077	0.28	no
+BODY PARTS	heart	CUORE	CUORE_stilizzato	cuore stilizzato	2	131	0.01	no
+BODY PARTS	heart	CUORE	CUORE_umano	cuore umano	2	7650	0.53	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_decorativo	cuscino decorativo	2	93	0.01	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_duro	cuscino duro	2	25	0	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_ergonomico	cuscino ergonomico	2	102	0.01	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_guanciale	guanciale	1	13027	0.9	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_guanciale	cuscino guanciale	2	9	0	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_imbottito	cuscino imbottito	2	385	0.03	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_morbido	cuscino morbido	2	353	0.02	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_ortopedico	cuscino ortopedico	2	191	0.01	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_quadrato	cuscino quadrato	2	74	0.01	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_rotondo	cuscino rotondo	2	66	0	no
+CLOTHES	sweatshirt	FELPA	FELPA_girocollo	girocollo	1	6877	0.47	yes
+CLOTHES	sweatshirt	FELPA	FELPA_girocollo	felpa girocollo	2	68	0	no
+CLOTHES	sweatshirt	FELPA	FELPA_invernale	felpa invernale	2	30	0	no
+CLOTHES	sweatshirt	FELPA	FELPA_leggera	felpa leggera	2	252	0.02	no
+CLOTHES	sweatshirt	FELPA	FELPA_oversize	oversize	1	8054	0.55	yes
+CLOTHES	sweatshirt	FELPA	FELPA_oversize	felpa oversize	2	64	0	no
+CLOTHES	sweatshirt	FELPA	FELPA_pesante	felpa pesante	2	97	0.01	no
+PLANTS	rubber plant	FICUS	FICUS_benjamin	benjamin	1	692	0.05	yes
+PLANTS	rubber plant	FICUS	FICUS_benjamin	ficus benjamin	2	287	0.02	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_briscola	briscola	1	8238	0.57	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_carte	carte	1	682842	47.05	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_cluedo	cluedo	1	106	0.01	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_cranium	cranium	1	30	0	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_dama	dama	1	36375	2.51	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_dixit	dixit	1	6129	0.42	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_fantasy	fantasy	1	85531	5.89	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_monopoly	monopoly	1	238	0.02	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_risiko	risiko	1	2866	0.2	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_scacchi	scacchi	1	23325	1.61	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_scarabeo	scarabeo	1	4996	0.34	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_taboo	taboo	1	1255	0.09	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_tombola	tombola	1	9860	0.68	no
+FURNITURE	bookcase	LIBRERIA	LIBRERIA_aperta	libreria aperta	2	178	0.01	no
+FURNITURE	bookcase	LIBRERIA	LIBRERIA_biblioteca	biblioteca	1	17429	1.2	no
+FURNITURE	bookcase	LIBRERIA	LIBRERIA_biblioteca	libreria biblioteca	2	5	0	no
+FURNITURE	bookcase	LIBRERIA	LIBRERIA_indipendente	libreria indipendente	2	794	0.05	no
+FURNITURE	bookcase	LIBRERIA	LIBRERIA_universitaria	libreria universitaria	2	238	0.02	no
+STATIONERY	pastel	PASTELLO	PASTELLO_colorato	pastello colorato	2	47	0	no
+STATIONERY	pastel	PASTELLO	PASTELLO_duro	pastello duro	2	5	0	no
+STATIONERY	pastel	PASTELLO	PASTELLO_morbido	pastello morbido	2	54	0	no
+STATIONERY	pastel	PASTELLO	PASTELLO_nero	pastello nero	2	56	0	no
+HOUSING BUILDINGS	door	PORTA	PORTA_automatica	porta automatica	2	575	0.04	no
+HOUSING BUILDINGS	door	PORTA	PORTA_blindata	porta blindata	2	15691	1.08	no
+HOUSING BUILDINGS	door	PORTA	PORTA_finestra	porta finestra	2	6632	0.46	no
+HOUSING BUILDINGS	door	PORTA	PORTA_girevole	porta girevole	2	1226	0.08	no
+HOUSING BUILDINGS	door	PORTA	PORTA_portiera	portiera	1	17163	1.18	no
+HOUSING BUILDINGS	door	PORTA	PORTA_portiera	porta portiera	2	1	0	no
+HOUSING BUILDINGS	door	PORTA	PORTA_portone	portone	1	29682	2.04	no
+HOUSING BUILDINGS	door	PORTA	PORTA_portone	porta portone	2	1	0	no
+HOUSING BUILDINGS	door	PORTA	PORTA_scorrevole	porta scorrevole	2	5568	0.38	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_antiaderente	teglia antiaderente	2	641	0.04	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_leccarda	leccarda	1	3805	0.26	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_leccarda	teglia leccarda	2	0	0	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_pirofila	pirofila	1	13185	0.91	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_pirofila	teglia pirofila	2	0	0	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_quadrata	teglia quadrata	2	362	0.02	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_rettangolare	teglia rettangolare	2	1139	0.08	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_rotonda	teglia rotonda	2	773	0.05	no
+HOUSING BUILDINGS	roof	TETTO	TETTO_curvo	tetto curvo	2	76	0.01	no
+HOUSING BUILDINGS	roof	TETTO	TETTO_piano	tetto piano	2	1742	0.12	no
+HOUSING BUILDINGS	roof	TETTO	TETTO_spiovente	tetto spiovente	2	1912	0.13	no
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_aliscafo	aliscafo	1	6454	0.44	no
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_aliscafo	traghetto aliscafo	2	2	0	no
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_ferroviario	traghetto ferroviario	2	40	0	no
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_merci	merci	1	37836	2.61	yes
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_merci	traghetto merci	2	56	0	no
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_nave	nave	1	57920	3.99	yes
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_nave	traghetto nave	2	1	0	no
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_passeggeri	passeggeri	1	39817	2.74	yes
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_passeggeri	traghetto passeggeri	2	153	0.01	no
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_turistico	traghetto turistico	2	21	0	no
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_veloce	traghetto veloce	2	374	0.03	no
+PLANTS	fir	ABETE	ABETE_bianco	abete bianco	2	3185	0.22	no
+PLANTS	fir	ABETE	ABETE_rosso	abete rosso	2	5119	0.35	no
+VEHICLES	plane	AEREO	AEREO_aeroplano	aereo aeroplano	2	5	0	no
+VEHICLES	plane	AEREO	AEREO_aliante	aereo aliante	2	1	0	no
+VEHICLES	plane	AEREO	AEREO_boeing	boeing	1	1411	0.1	no
+VEHICLES	plane	AEREO	AEREO_boeing	aereo boeing	2	5	0	no
+VEHICLES	plane	AEREO	AEREO_caccia	caccia	1	31905	2.2	yes
+VEHICLES	plane	AEREO	AEREO_caccia	aereo caccia	2	56	0	no
+VEHICLES	plane	AEREO	AEREO_cargo	aereo cargo	2	473	0.03	no
+VEHICLES	plane	AEREO	AEREO_commerciale	aereo commerciale	2	648	0.04	no
+VEHICLES	plane	AEREO	AEREO_elicottero	elicottero	1	37358	2.57	no
+VEHICLES	plane	AEREO	AEREO_elicottero	aereo elicottero	2	2	0	no
+VEHICLES	plane	AEREO	AEREO_jet	jet	1	36081	2.49	no
+VEHICLES	plane	AEREO	AEREO_jet	aereo jet	2	52	0	no
+VEHICLES	plane	AEREO	AEREO_militare	aereo militare	2	2480	0.17	no
+VEHICLES	plane	AEREO	AEREO_passeggeri	passeggeri	1	270301	18.62	yes
+VEHICLES	plane	AEREO	AEREO_passeggeri	aereo passeggeri	2	901	0.06	no
+VEHICLES	plane	AEREO	AEREO_privato	aereo privato	2	2172	0.15	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_avvitatore	avvitatore	1	5366	0.37	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_avvitatore	attrezzo avvitatore	2	0	0	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_cacciavite	cacciavite	1	18287	1.26	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_cacciavite	attrezzo cacciavite	2	0	0	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_cesoie	cesoie	1	6181	0.43	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_cesoie	attrezzo cesoie	2	0	0	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_forbici	forbici	1	38983	2.69	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_forbici	attrezzo forbici	2	0	0	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_lima	lima	1	11902	0.82	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_lima	attrezzo lima	2	0	0	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_martello	martello	1	62776	4.33	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_martello	attrezzo martello	2	0	0	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_pala	pala	1	45099	3.11	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_pala	attrezzo pala	2	0	0	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_pinze	pinze	1	39070	2.69	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_pinze	attrezzo pinze	2	0	0	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_scalpello	scalpello	1	9330	0.64	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_scalpello	attrezzo scalpello	2	0	0	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_sega	sega	1	33457	2.31	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_sega	attrezzo sega	2	0	0	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_trapano	trapano	1	27695	1.91	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_trapano	attrezzo trapano	2	0	0	no
+BODY PARTS	mouth	BOCCA	BOCCA_aperta	bocca aperta	2	45744	3.15	no
+BODY PARTS	mouth	BOCCA	BOCCA_carnosa	bocca carnosa	2	587	0.04	no
+BODY PARTS	mouth	BOCCA	BOCCA_grande	bocca grande	2	962	0.07	no
+BODY PARTS	mouth	BOCCA	BOCCA_larga	bocca larga	2	1837	0.13	no
+BODY PARTS	mouth	BOCCA	BOCCA_piccola	bocca piccola	2	717	0.05	no
+BODY PARTS	mouth	BOCCA	BOCCA_sottile	bocca sottile	2	235	0.02	no
+BODY PARTS	mouth	BOCCA	BOCCA_stretta	bocca stretta	2	348	0.02	no
+ANIMALS	rabbit	CONIGLIO	CONIGLIO_ariete	ariete	1	13771	0.95	yes
+ANIMALS	rabbit	CONIGLIO	CONIGLIO_ariete	coniglio ariete	2	170	0.01	no
+ANIMALS	rabbit	CONIGLIO	CONIGLIO_bianco	coniglio bianco	2	1111	0.08	no
+ANIMALS	rabbit	CONIGLIO	CONIGLIO_domestico	coniglio domestico	2	240	0.02	no
+ANIMALS	rabbit	CONIGLIO	CONIGLIO_lepre	lepre	1	21228	1.46	no
+ANIMALS	rabbit	CONIGLIO	CONIGLIO_lepre	coniglio lepre	2	1	0	no
+ANIMALS	rabbit	CONIGLIO	CONIGLIO_nano	coniglio nano	2	902	0.06	no
+ANIMALS	rabbit	CONIGLIO	CONIGLIO_nero	coniglio nero	2	136	0.01	no
+ANIMALS	rabbit	CONIGLIO	CONIGLIO_selvatico	coniglio selvatico	2	1053	0.07	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_analogica	fotografia analogica	2	1586	0.11	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_artistica	fotografia artistica	2	914	0.06	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_digitale	fotografia digitale	2	7381	0.51	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_macro	fotografia macro	2	571	0.04	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_naturalistica	fotografia naturalistica	2	3561	0.25	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_paesaggistica	fotografia paesaggistica	2	601	0.04	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_panoramica	fotografia panoramica	2	355	0.02	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_polaroid	polaroid	1	5201	0.36	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_polaroid	fotografia polaroid	2	4	0	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_pubblicitaria	fotografia pubblicitaria	2	707	0.05	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_ritratto	ritratto	1	36495	2.51	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_ritratto	fotografia ritratto	2	23	0	no
+VEHICLES	van	FURGONE	FURGONE_camperizzato	furgone camperizzato	2	131	0.01	no
+VEHICLES	van	FURGONE	FURGONE_van	van	1	29407	2.03	no
+VEHICLES	van	FURGONE	FURGONE_van	furgone van	2	7	0	no
+CLOTHES	skirt	GONNA	GONNA_corta	gonna corta	2	1024	0.07	no
+CLOTHES	skirt	GONNA	GONNA_kilt	kilt	1	2040	0.14	no
+CLOTHES	skirt	GONNA	GONNA_kilt	gonna kilt	2	6	0	no
+CLOTHES	skirt	GONNA	GONNA_lunga	gonna lunga	2	1981	0.14	no
+CLOTHES	skirt	GONNA	GONNA_midi	gonna midi	2	238	0.02	no
+CLOTHES	skirt	GONNA	GONNA_mini	mini	1	220419	15.19	yes
+CLOTHES	skirt	GONNA	GONNA_mini	minigonna	2	8525	0.59	no
+CLOTHES	skirt	GONNA	GONNA_tutù	tutù	1	2592	0.18	no
+CLOTHES	skirt	GONNA	GONNA_tutù	gonna tutù	2	20	0	no
+KITCHENWARE	ladle	MESTOLO	MESTOLO_forchettone	forchettone	1	1363	0.09	no
+KITCHENWARE	ladle	MESTOLO	MESTOLO_forchettone	mestolo forchettone	2	1	0	no
+KITCHENWARE	ladle	MESTOLO	MESTOLO_paletta	paletta	1	22480	1.55	no
+KITCHENWARE	ladle	MESTOLO	MESTOLO_paletta	mestolo paletta	2	1	0	no
+KITCHENWARE	ladle	MESTOLO	MESTOLO_schiumarola	schiumarola	1	3985	0.27	no
+KITCHENWARE	ladle	MESTOLO	MESTOLO_schiumarola	mestolo schiumarola	2	0	0	no
+KITCHENWARE	ladle	MESTOLO	MESTOLO_spatola	spatola	1	27639	1.9	no
+KITCHENWARE	ladle	MESTOLO	MESTOLO_spatola	mestolo spatola	2	0	0	no
+KITCHENWARE	pan	PADELLA	PADELLA_antiaderente	padella antiaderente	2	11723	0.81	no
+KITCHENWARE	pan	PADELLA	PADELLA_grande	padella grande	2	548	0.04	no
+KITCHENWARE	pan	PADELLA	PADELLA_piccola	padella piccola	2	111	0.01	no
+KITCHENWARE	pan	PADELLA	PADELLA_wok	wok	1	5136	0.35	no
+KITCHENWARE	pan	PADELLA	PADELLA_wok	padella wok	2	118	0.01	no
+KITCHENWARE	plate	PIATTO	PIATTO_ciotola	ciotola	1	18274	1.26	no
+KITCHENWARE	plate	PIATTO	PIATTO_ciotola	piatto ciotola	2	5	0	no
+KITCHENWARE	plate	PIATTO	PIATTO_fondo	fondo	1	36199	2.49	yes
+KITCHENWARE	plate	PIATTO	PIATTO_fondo	piatto fondo	2	1986	0.14	no
+KITCHENWARE	plate	PIATTO	PIATTO_piano	piatto piano	2	1762	0.12	no
+KITCHENWARE	plate	PIATTO	PIATTO_quadrato	piatto quadrato	2	105	0.01	no
+STATIONERY	copybook	QUADERNO	QUADERNO_diario	diario	1	159328	10.98	no
+STATIONERY	copybook	QUADERNO	QUADERNO_diario	quaderno diario	2	8	0	no
+STATIONERY	copybook	QUADERNO	QUADERNO_grande	quaderno grande	2	26	0	no
+STATIONERY	copybook	QUADERNO	QUADERNO_piccolo	quaderno piccolo	2	21	0	no
+CLOTHES	scarf	SCIARPA	SCIARPA_foulard	foulard	1	17468	1.2	no
+CLOTHES	scarf	SCIARPA	SCIARPA_foulard	sciarpa foulard	2	1	0	no
+CLOTHES	scarf	SCIARPA	SCIARPA_invernale	sciarpa invernale	2	37	0	no
+CLOTHES	scarf	SCIARPA	SCIARPA_lunga	sciarpa lunga	2	66	0	no
+CLOTHES	scarf	SCIARPA	SCIARPA_scaldacollo	scaldacollo	1	2071	0.14	no
+CLOTHES	scarf	SCIARPA	SCIARPA_scaldacollo	sciarpa scaldacollo	2	5	0	no
+CLOTHES	scarf	SCIARPA	SCIARPA_scialle	scialle	1	7780	0.54	no
+CLOTHES	scarf	SCIARPA	SCIARPA_scialle	sciarpa scialle	2	1	0	no
+FURNITURE	chair	SEDIA	SEDIA_girevole	sedia girevole	2	546	0.04	no
+FURNITURE	chair	SEDIA	SEDIA_pieghevole	sedia pieghevole	2	729	0.05	no
+FURNITURE	chair	SEDIA	SEDIA_poltrona	poltrona	1	115260	7.94	no
+FURNITURE	chair	SEDIA	SEDIA_poltrona	sedia poltrona	2	30	0	no
+FURNITURE	chair	SEDIA	SEDIA_reclinabile	sedia reclinabile	2	87	0.01	no
+FURNITURE	chair	SEDIA	SEDIA_sgabello	sgabello	1	20424	1.41	no
+FURNITURE	chair	SEDIA	SEDIA_sgabello	sedia sgabello	2	12	0	no
+HOUSING BUILDINGS	ceiling	SOFFITTO	SOFFITTO_alto	soffitto alto	2	814	0.06	no
+HOUSING BUILDINGS	ceiling	SOFFITTO	SOFFITTO_basso	soffitto basso	2	578	0.04	no
+HOUSING BUILDINGS	ceiling	SOFFITTO	SOFFITTO_contro	contro	1	22017	1.52	yes
+HOUSING BUILDINGS	ceiling	SOFFITTO	SOFFITTO_contro	controsoffitto	1	10534	0.73	no
+VEHICLES	tram	TRAM	TRAM_elettrico	tram elettrico	2	339	0.02	no
+VEHICLES	tram	TRAM	TRAM_merci	merci	1	303458	20.91	yes
+VEHICLES	tram	TRAM	TRAM_merci	tram merci	2	2	0	no
+VEHICLES	tram	TRAM	TRAM_urbano	tram urbano	2	47	0	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_bmx	bmx	1	1228	0.08	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_bmx	bicicletta bmx	2	6	0	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_elettrica	bicicletta elettrica	2	2589	0.18	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_graziella	graziella	1	1048	0.07	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_graziella	bicicletta graziella	2	3	0	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_ibrida	bicicletta ibrida	2	59	0	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_pieghevole	bicicletta pieghevole	2	619	0.04	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_tandem	tandem	1	15932	1.1	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_tandem	bicicletta tandem	2	12	0	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_triciclo	triciclo	1	6073	0.42	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_triciclo	bicicletta triciclo	2	2	0	no
+BODY PARTS	arm	BRACCIO	BRACCIO_corto	braccio corto	2	731	0.05	no
+BODY PARTS	arm	BRACCIO	BRACCIO_destro	braccio destro	2	38406	2.65	no
+BODY PARTS	arm	BRACCIO	BRACCIO_lungo	braccio lungo	2	1308	0.09	no
+BODY PARTS	arm	BRACCIO	BRACCIO_meccanico	braccio meccanico	2	2360	0.16	no
+BODY PARTS	arm	BRACCIO	BRACCIO_muscoloso	braccio muscoloso	2	86	0.01	no
+BODY PARTS	arm	BRACCIO	BRACCIO_robotico	braccio robotico	2	2130	0.15	no
+BODY PARTS	arm	BRACCIO	BRACCIO_sinistro	braccio sinistro	2	15808	1.09	no
+BODY PARTS	arm	BRACCIO	BRACCIO_umano	braccio umano	2	267	0.02	no
+CLOTHES	shirt	CAMICIA	CAMICIA_blusa	camicia blusa	2	3	0	no
+CLOTHES	shirt	CAMICIA	CAMICIA_coreana	camicia coreana	2	43	0	no
+CLOTHES	shirt	CAMICIA	CAMICIA_elegante	camicia elegante	2	172	0.01	no
+CLOTHES	shirt	CAMICIA	CAMICIA_hawaiana	camicia hawaiana	2	349	0.02	no
+CLOTHES	shirt	CAMICIA	CAMICIA_regular	regular	1	19849	1.37	yes
+CLOTHES	shirt	CAMICIA	CAMICIA_regular	camicia regular	2	10	0	no
+CLOTHES	shirt	CAMICIA	CAMICIA_safari	safari	1	26140	1.8	yes
+CLOTHES	shirt	CAMICIA	CAMICIA_safari	camicia safari	2	0	0	no
+CLOTHES	shirt	CAMICIA	CAMICIA_slim	slim	1	13783	0.95	yes
+CLOTHES	shirt	CAMICIA	CAMICIA_slim	camicia slim	2	56	0	no
+ANIMALS	dog	CANE	CANE_akita	akita	1	503	0.03	no
+ANIMALS	dog	CANE	CANE_akita	cane akita	2	14	0	no
+ANIMALS	dog	CANE	CANE_alano	alano	1	1807	0.12	no
+ANIMALS	dog	CANE	CANE_alano	cane alano	2	37	0	no
+ANIMALS	dog	CANE	CANE_barboncino	barboncino	1	3611	0.25	no
+ANIMALS	dog	CANE	CANE_barboncino	cane barboncino	2	37	0	no
+ANIMALS	dog	CANE	CANE_bassotto	bassotto	1	4881	0.34	no
+ANIMALS	dog	CANE	CANE_bassotto	cane bassotto	2	224	0.02	no
+ANIMALS	dog	CANE	CANE_bastardino	cane bastardino	2	53	0	no
+ANIMALS	dog	CANE	CANE_beagle	beagle	1	8591	0.59	no
+ANIMALS	dog	CANE	CANE_beagle	cane beagle	2	64	0	no
+ANIMALS	dog	CANE	CANE_boxer	boxer	1	18190	1.25	no
+ANIMALS	dog	CANE	CANE_boxer	cane boxer	2	91	0.01	no
+ANIMALS	dog	CANE	CANE_bulldog	bulldog	1	4818	0.33	no
+ANIMALS	dog	CANE	CANE_bulldog	cane bulldog	2	44	0	no
+ANIMALS	dog	CANE	CANE_carlino	carlino	1	3327	0.23	no
+ANIMALS	dog	CANE	CANE_carlino	cane carlino	2	52	0	no
+ANIMALS	dog	CANE	CANE_chihuahua	chihuahua	1	4300	0.3	no
+ANIMALS	dog	CANE	CANE_chihuahua	cane chihuahua	2	36	0	no
+ANIMALS	dog	CANE	CANE_corgi	corgi	1	472	0.03	no
+ANIMALS	dog	CANE	CANE_corgi	cane corgi	2	6	0	no
+ANIMALS	dog	CANE	CANE_corso	corso	1	43593	3	no
+ANIMALS	dog	CANE	CANE_corso	cane corso	2	1420	0.1	no
+ANIMALS	dog	CANE	CANE_dalmata	dalmata	1	8065	0.56	no
+ANIMALS	dog	CANE	CANE_dalmata	cane dalmata	2	123	0.01	no
+ANIMALS	dog	CANE	CANE_dobermann	dobermann	1	1796	0.12	no
+ANIMALS	dog	CANE	CANE_dobermann	cane dobermann	2	18	0	no
+ANIMALS	dog	CANE	CANE_guida	guida	1	38146	2.63	yes
+ANIMALS	dog	CANE	CANE_guida	cane guida	2	2614	0.18	no
+ANIMALS	dog	CANE	CANE_husky	husky	1	4393	0.3	no
+ANIMALS	dog	CANE	CANE_husky	cane husky	2	55	0	no
+ANIMALS	dog	CANE	CANE_labrador	labrador	1	7155	0.49	no
+ANIMALS	dog	CANE	CANE_labrador	cane labrador	2	111	0.01	no
+ANIMALS	dog	CANE	CANE_levriero	levriero	1	2903	0.2	no
+ANIMALS	dog	CANE	CANE_levriero	cane levriero	2	68	0	no
+ANIMALS	dog	CANE	CANE_maltese	maltese	1	17490	1.2	no
+ANIMALS	dog	CANE	CANE_maltese	cane maltese	2	138	0.01	no
+ANIMALS	dog	CANE	CANE_maremmano	maremmano	1	6360	0.44	no
+ANIMALS	dog	CANE	CANE_maremmano	cane maremmano	2	66	0	no
+ANIMALS	dog	CANE	CANE_mastino	mastino	1	5961	0.41	no
+ANIMALS	dog	CANE	CANE_mastino	cane mastino	2	106	0.01	no
+ANIMALS	dog	CANE	CANE_meticcio	cane meticcio	2	782	0.05	no
+ANIMALS	dog	CANE	CANE_pinscher	pinscher	1	992	0.07	no
+ANIMALS	dog	CANE	CANE_pinscher	cane pinscher	2	8	0	no
+ANIMALS	dog	CANE	CANE_pitbull	pitbull	1	4787	0.33	no
+ANIMALS	dog	CANE	CANE_pitbull	cane pitbull	2	34	0	no
+ANIMALS	dog	CANE	CANE_rottweiler	rottweiler	1	2425	0.17	no
+ANIMALS	dog	CANE	CANE_rottweiler	cane rottweiler	2	24	0	no
+ANIMALS	dog	CANE	CANE_volpino	volpino	1	2131	0.15	no
+ANIMALS	dog	CANE	CANE_volpino	cane volpino	2	42	0	no
+ANIMALS	dog	CANE	CANE_yorkshire	yorkshire	1	1306	0.09	no
+ANIMALS	dog	CANE	CANE_yorkshire	cane yorkshire	2	12	0	no
+VEHICLES	carriage	CARROZZA	CARROZZA_berlina	berlina	1	40926	2.82	yes
+VEHICLES	carriage	CARROZZA	CARROZZA_berlina	carrozza berlina	2	3	0	no
+VEHICLES	carriage	CARROZZA	CARROZZA_calesse	calesse	1	5189	0.36	no
+VEHICLES	carriage	CARROZZA	CARROZZA_calesse	carrozza calesse	2	0	0	no
+VEHICLES	carriage	CARROZZA	CARROZZA_diligenza	diligenza	1	29794	2.05	no
+VEHICLES	carriage	CARROZZA	CARROZZA_diligenza	carrozza diligenza	2	1	0	no
+VEHICLES	carriage	CARROZZA	CARROZZA_giardiniera	giardiniera	1	3277	0.23	yes
+VEHICLES	carriage	CARROZZA	CARROZZA_giardiniera	carrozza giardiniera	2	0	0	no
+VEHICLES	carriage	CARROZZA	CARROZZA_passeggeri	passeggeri	1	270301	18.62	yes
+VEHICLES	carriage	CARROZZA	CARROZZA_passeggeri	carrozza passeggeri	2	105	0.01	no
+HOBBIES	cards	CARTE	CARTE_francesi	carte francesi	2	1127	0.08	no
+HOBBIES	cards	CARTE	CARTE_geografiche	carte geografiche	2	9226	0.64	no
+HOBBIES	cards	CARTE	CARTE_napoletane	carte napoletane	2	1053	0.07	no
+HOBBIES	cards	CARTE	CARTE_piacentine	carte piacentine	2	122	0.01	no
+HOUSING BUILDINGS	column	COLONNA	COLONNA_corinzia	colonna corinzia	2	109	0.01	no
+HOUSING BUILDINGS	column	COLONNA	COLONNA_dorica	colonna dorica	2	290	0.02	no
+HOUSING BUILDINGS	column	COLONNA	COLONNA_gotica	colonna gotica	2	14	0	no
+HOUSING BUILDINGS	column	COLONNA	COLONNA_greca	colonna greca	2	60	0	no
+HOUSING BUILDINGS	column	COLONNA	COLONNA_ionica	colonna ionica	2	84	0.01	no
+HOUSING BUILDINGS	column	COLONNA	COLONNA_portante	colonna portante	2	8577	0.59	no
+HOUSING BUILDINGS	column	COLONNA	COLONNA_romana	colonna romana	2	976	0.07	no
+FURNISHINGS/FITTINGS	frame	CORNICE	CORNICE_barocca	cornice barocca	2	491	0.03	no
+FURNISHINGS/FITTINGS	frame	CORNICE	CORNICE_decorata	cornice decorata	2	252	0.02	no
+FURNISHINGS/FITTINGS	frame	CORNICE	CORNICE_portafoto	portafoto	1	3794	0.26	no
+FURNISHINGS/FITTINGS	frame	CORNICE	CORNICE_portafoto	cornice portafoto	2	262	0.02	no
+ANIMALS	dolphin	DELFINO	DELFINO_bianco	delfino bianco	2	99	0.01	no
+ANIMALS	dolphin	DELFINO	DELFINO_comune	delfino comune	2	315	0.02	no
+ANIMALS	dolphin	DELFINO	DELFINO_globicefalo	delfino globicefalo	2	3	0	no
+ANIMALS	dolphin	DELFINO	DELFINO_orca	orca	1	2570	0.18	no
+ANIMALS	dolphin	DELFINO	DELFINO_orca	delfino orca	2	1	0	no
+ANIMALS	dolphin	DELFINO	DELFINO_rosa	delfino rosa	2	123	0.01	no
+ANIMALS	dolphin	DELFINO	DELFINO_tursiope	tursiope	1	826	0.06	no
+ANIMALS	dolphin	DELFINO	DELFINO_tursiope	delfino tursiope	2	49	0	no
+ANIMALS	cat	GATTO	GATTO_abissino	gatto abissino	2	91	0.01	no
+ANIMALS	cat	GATTO	GATTO_bengala	bengala	1	2539	0.17	no
+ANIMALS	cat	GATTO	GATTO_bengala	gatto bengala	2	68	0	no
+ANIMALS	cat	GATTO	GATTO_bianco	gatto bianco	2	1213	0.08	no
+ANIMALS	cat	GATTO	GATTO_birmano	gatto birmano	2	54	0	no
+ANIMALS	cat	GATTO	GATTO_certosino	gatto certosino	2	143	0.01	no
+ANIMALS	cat	GATTO	GATTO_domestico	gatto domestico	2	1715	0.12	no
+ANIMALS	cat	GATTO	GATTO_nero	gatto nero	2	5672	0.39	no
+ANIMALS	cat	GATTO	GATTO_norvegese	gatto norvegese	2	185	0.01	no
+ANIMALS	cat	GATTO	GATTO_persiano	gatto persiano	2	609	0.04	no
+ANIMALS	cat	GATTO	GATTO_ragdoll	ragdoll	1	1267	0.09	no
+ANIMALS	cat	GATTO	GATTO_ragdoll	gatto ragdoll	2	23	0	no
+ANIMALS	cat	GATTO	GATTO_randagio	gatto randagio	2	1115	0.08	no
+ANIMALS	cat	GATTO	GATTO_rosso	gatto rosso	2	690	0.05	no
+ANIMALS	cat	GATTO	GATTO_selvatico	gatto selvatico	2	2795	0.19	no
+ANIMALS	cat	GATTO	GATTO_siamese	gatto siamese	2	425	0.03	no
+ANIMALS	cat	GATTO	GATTO_siberiano	gatto siberiano	2	491	0.03	no
+ANIMALS	cat	GATTO	GATTO_soriano	gatto soriano	2	209	0.01	no
+ANIMALS	cat	GATTO	GATTO_sphynx	sphynx	1	209	0.01	no
+ANIMALS	cat	GATTO	GATTO_sphynx	gatto sphynx	2	15	0	no
+CLOTHES	gloves	GUANTI	GUANTI_antitaglio	guanti antitaglio	2	140	0.01	no
+CLOTHES	gloves	GUANTI	GUANTI_invernali	guanti invernali	2	397	0.03	no
+CLOTHES	gloves	GUANTI	GUANTI_lunghi	guanti lunghi	2	373	0.03	no
+CLOTHES	gloves	GUANTI	GUANTI_medicali	guanti medicali	2	80	0.01	no
+CLOTHES	gloves	GUANTI	GUANTI_monouso	guanti monouso	2	2413	0.17	no
+FOODS	milk	LATTE	LATTE_fresco	latte fresco	2	9382	0.65	no
+FOODS	milk	LATTE	LATTE_intero	latte intero	2	7419	0.51	no
+FOODS	milk	LATTE	LATTE_scremato	latte scremato	2	4977	0.34	no
+BODY PARTS	belly	PANCIA	PANCIA_alcolica	pancia alcolica	2	11	0	no
+BODY PARTS	belly	PANCIA	PANCIA_gonfia	pancia gonfia	2	4628	0.32	no
+BODY PARTS	belly	PANCIA	PANCIA_grande	pancia grande	2	106	0.01	no
+BODY PARTS	belly	PANCIA	PANCIA_grassa	pancia grassa	2	579	0.04	no
+BODY PARTS	belly	PANCIA	PANCIA_muscolosa	pancia muscolosa	2	3	0	no
+BODY PARTS	belly	PANCIA	PANCIA_piatta	pancia piatta	2	6660	0.46	no
+BODY PARTS	belly	PANCIA	PANCIA_piena	pancia piena	2	4352	0.3	no
+BODY PARTS	belly	PANCIA	PANCIA_vuota	pancia vuota	2	964	0.07	no
+CLOTHES	briefs	SLIP	SLIP_bikini	bikini	1	21820	1.5	yes
+CLOTHES	briefs	SLIP	SLIP_bikini	slip bikini	2	29	0	no
+CLOTHES	briefs	SLIP	SLIP_boxer	boxer	1	18190	1.25	no
+CLOTHES	briefs	SLIP	SLIP_boxer	slip boxer	2	4	0	no
+CLOTHES	briefs	SLIP	SLIP_brasiliana	slip brasiliana	2	25	0	no
+CLOTHES	briefs	SLIP	SLIP_culotte	culotte	1	2776	0.19	no
+CLOTHES	briefs	SLIP	SLIP_culotte	slip culotte	2	2	0	no
+CLOTHES	briefs	SLIP	SLIP_femminile	slip femminile	2	23	0	no
+CLOTHES	briefs	SLIP	SLIP_maschile	slip maschile	2	13	0	no
+CLOTHES	briefs	SLIP	SLIP_mutande	mutande	1	25431	1.75	no
+CLOTHES	briefs	SLIP	SLIP_mutande	slip mutande	2	0	0	no
+CLOTHES	briefs	SLIP	SLIP_perizoma	perizoma	1	8878	0.61	no
+CLOTHES	briefs	SLIP	SLIP_perizoma	slip perizoma	2	6	0	no
+CLOTHES	briefs	SLIP	SLIP_tanga	tanga	1	4036	0.28	no
+CLOTHES	briefs	SLIP	SLIP_tanga	slip tanga	2	11	0	no
+VEHICLES	tractor	TRATTORE	TRATTORE_agricolo	trattore agricolo	2	752	0.05	no
+VEHICLES	tractor	TRATTORE	TRATTORE_cingolato	trattore cingolato	2	235	0.02	no
+VEHICLES	tractor	TRATTORE	TRATTORE_gommato	trattore gommato	2	67	0	no
+VEHICLES	tractor	TRATTORE	TRATTORE_mietitrebbiatrice	trattore mietitrebbiatrice	2	0	0	no
+VEHICLES	tractor	TRATTORE	TRATTORE_snodato	trattore snodato	2	4	0	no
+VEHICLES	tractor	TRATTORE	TRATTORE_standard	standard	1	26185	1.8	yes
+VEHICLES	tractor	TRATTORE	TRATTORE_standard	trattore standard	2	18	0	no
+FOODS	egg	UOVO	UOVO_crudo	uovo crudo	2	842	0.06	no
+FOODS	egg	UOVO	UOVO_fritto	uovo fritto	2	736	0.05	no
+FOODS	egg	UOVO	UOVO_sodo	uovo sodo	2	4019	0.28	no
+FOODS	egg	UOVO	UOVO_strapazzato	uovo strapazzato	2	239	0.02	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_boccale	boccale	1	15008	1.03	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_boccale	bicchiere boccale	2	0	0	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_calice	calice	1	39048	2.69	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_calice	bicchiere calice	2	4	0	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_coppa	coppa	1	34859	2.4	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_coppa	bicchiere coppa	2	0	0	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_flute	flute	1	2351	0.16	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_flute	bicchiere flute	2	16	0	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_tumbler	tumbler	1	1494	0.1	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_tumbler	bicchiere tumbler	2	176	0.01	no
+STATIONERY	glue	COLLA	COLLA_liquida	colla liquida	2	340	0.02	no
+STATIONERY	glue	COLLA	COLLA_stick	stick	1	29655	2.04	yes
+STATIONERY	glue	COLLA	COLLA_stick	colla stick	2	657	0.05	no
+STATIONERY	glue	COLLA	COLLA_vinilica	colla vinilica	2	5677	0.39	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_mannaia	mannaia	1	8440	0.58	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_mannaia	coltello mannaia	2	2	0	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_multifunzione	coltello multifunzione	2	18	0	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_seghettato	coltello seghettato	2	434	0.03	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_spelucchino	coltello spelucchino	2	39	0	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_svizzero	coltello svizzero	2	97	0.01	no
+STATIONERY	marker	EVIDENZIATORE	EVIDENZIATORE_arancione	evidenziatore arancione	2	11	0	no
+STATIONERY	marker	EVIDENZIATORE	EVIDENZIATORE_blu	evidenziatore blu	2	11	0	no
+STATIONERY	marker	EVIDENZIATORE	EVIDENZIATORE_fluorescente	evidenziatore fluorescente	2	8	0	no
+STATIONERY	marker	EVIDENZIATORE	EVIDENZIATORE_giallo	evidenziatore giallo	2	109	0.01	no
+STATIONERY	marker	EVIDENZIATORE	EVIDENZIATORE_pastello	evidenziatore pastello	2	2	0	no
+STATIONERY	marker	EVIDENZIATORE	EVIDENZIATORE_ricaricabile	evidenziatore ricaricabile	2	0	0	no
+STATIONERY	marker	EVIDENZIATORE	EVIDENZIATORE_rosa	evidenziatore rosa	2	19	0	no
+STATIONERY	marker	EVIDENZIATORE	EVIDENZIATORE_stabilo	evidenziatore stabilo	2	1	0	no
+STATIONERY	marker	EVIDENZIATORE	EVIDENZIATORE_verde	evidenziatore verde	2	19	0	no
+BODY PARTS	hand	MANO	MANO_affusolata	mano affusolata	2	101	0.01	no
+BODY PARTS	hand	MANO	MANO_destra	mano destra	2	41754	2.88	no
+BODY PARTS	hand	MANO	MANO_grande	mano grande	2	444	0.03	no
+BODY PARTS	hand	MANO	MANO_piccola	mano piccola	2	238	0.02	no
+BODY PARTS	hand	MANO	MANO_sinistra	sinistra	1	1768158	121.82	yes
+BODY PARTS	hand	MANO	MANO_sinistra	mano sinistra	2	29903	2.06	no
+STATIONERY	pencil	MATITA	MATITA_2b	matita 2b	2	8	0	no
+STATIONERY	pencil	MATITA	MATITA_b	matita b	2	0	0	no
+STATIONERY	pencil	MATITA	MATITA_colorata	matita colorata	2	521	0.04	no
+STATIONERY	pencil	MATITA	MATITA_dura	matita dura	2	86	0.01	no
+STATIONERY	pencil	MATITA	MATITA_hb	matita hb	2	10	0	no
+STATIONERY	pencil	MATITA	MATITA_morbida	matita morbida	2	254	0.02	no
+ANIMALS	bear	ORSO	ORSO_bianco	orso bianco	2	1034	0.07	no
+ANIMALS	bear	ORSO	ORSO_bruno	bruno	1	31223	2.15	yes
+ANIMALS	bear	ORSO	ORSO_bruno	orso bruno	2	3963	0.27	no
+ANIMALS	bear	ORSO	ORSO_grizzly	grizzly	1	2185	0.15	no
+ANIMALS	bear	ORSO	ORSO_grizzly	orso grizzly	2	331	0.02	no
+ANIMALS	bear	ORSO	ORSO_marsicano	orso marsicano	2	1146	0.08	no
+ANIMALS	bear	ORSO	ORSO_nero	orso nero	2	567	0.04	no
+ANIMALS	bear	ORSO	ORSO_panda	panda	1	25284	1.74	no
+ANIMALS	bear	ORSO	ORSO_panda	orso panda	2	21	0	no
+ANIMALS	bear	ORSO	ORSO_polare	orso polare	2	2889	0.2	no
+STATIONERY	pen	PENNA	PENNA_bic	bic	1	1572	0.11	no
+STATIONERY	pen	PENNA	PENNA_bic	penna bic	2	227	0.02	no
+STATIONERY	pen	PENNA	PENNA_biro	biro	1	6055	0.42	no
+STATIONERY	pen	PENNA	PENNA_biro	penna biro	2	739	0.05	no
+STATIONERY	pen	PENNA	PENNA_blu	penna blu	2	424	0.03	no
+STATIONERY	pen	PENNA	PENNA_cancellabile	penna cancellabile	2	107	0.01	no
+STATIONERY	pen	PENNA	PENNA_indelebile	penna indelebile	2	79	0.01	no
+STATIONERY	pen	PENNA	PENNA_nera	penna nera	2	1147	0.08	no
+STATIONERY	pen	PENNA	PENNA_ricaricabile	penna ricaricabile	2	36	0	no
+STATIONERY	pen	PENNA	PENNA_rossa	penna rossa	2	1498	0.1	no
+STATIONERY	pen	PENNA	PENNA_stilografica	penna stilografica	2	2398	0.17	no
+STATIONERY	pen	PENNA	PENNA_trattopen	trattopen	1	55	0	no
+STATIONERY	pen	PENNA	PENNA_trattopen	penna trattopen	2	0	0	no
+STATIONERY	pen	PENNA	PENNA_verde	penna verde	2	98	0.01	no
+BODY PARTS	foot	PIEDE	PIEDE_destro	piede destro	2	10233	0.71	no
+BODY PARTS	foot	PIEDE	PIEDE_egizio	piede egizio	2	38	0	no
+BODY PARTS	foot	PIEDE	PIEDE_grande	piede grande	2	45	0	no
+BODY PARTS	foot	PIEDE	PIEDE_greco	piede greco	2	56	0	no
+BODY PARTS	foot	PIEDE	PIEDE_piatto	piede piatto	2	2022	0.14	no
+BODY PARTS	foot	PIEDE	PIEDE_piccolo	piede piccolo	2	156	0.01	no
+BODY PARTS	foot	PIEDE	PIEDE_romano	piede romano	2	129	0.01	no
+BODY PARTS	foot	PIEDE	PIEDE_sinistro	piede sinistro	2	8620	0.59	no
+FURNISHINGS/FITTINGS	portafotografia	PORTAFOTOGRAFIA	PORTAFOTOGRAFIA_album	album	1	39795	2.74	no
+FURNISHINGS/FITTINGS	portafotografia	PORTAFOTOGRAFIA	PORTAFOTOGRAFIA_album	portafotografia album	2	0	0	no
+FURNISHINGS/FITTINGS	portafotografia	PORTAFOTOGRAFIA	PORTAFOTOGRAFIA_cornice	cornice	1	38254	2.64	no
+FURNISHINGS/FITTINGS	portafotografia	PORTAFOTOGRAFIA	PORTAFOTOGRAFIA_cornice	portafotografia cornice	2	0	0	no
+FURNISHINGS/FITTINGS	portafotografia	PORTAFOTOGRAFIA	PORTAFOTOGRAFIA_digitale	portafotografia digitale	2	0	0	no
+FURNISHINGS/FITTINGS	portafotografia	PORTAFOTOGRAFIA	PORTAFOTOGRAFIA_quadro	quadro	1	28915	1.99	no
+FURNISHINGS/FITTINGS	portafotografia	PORTAFOTOGRAFIA	PORTAFOTOGRAFIA_quadro	portafotografia quadro	2	0	0	no
+KITCHENWARE	colander	SCOLAPASTA	SCOLAPASTA_pieghevole	scolapasta pieghevole	2	3	0	no
+VEHICLES	scooter	SCOOTER	SCOOTER_100	scooter 100	2	34	0	no
+VEHICLES	scooter	SCOOTER	SCOOTER_125	scooter 125	2	489	0.03	no
+VEHICLES	scooter	SCOOTER	SCOOTER_150	scooter 150	2	94	0.01	no
+VEHICLES	scooter	SCOOTER	SCOOTER_250	scooter 250	2	80	0.01	no
+VEHICLES	scooter	SCOOTER	SCOOTER_50	scooter 50	2	570	0.04	no
+VEHICLES	scooter	SCOOTER	SCOOTER_elettrico	scooter elettrico	2	2493	0.17	no
+VEHICLES	scooter	SCOOTER	SCOOTER_motorino	motorino	1	28735	1.98	no
+VEHICLES	scooter	SCOOTER	SCOOTER_motorino	scooter motorino	2	3	0	no
+VEHICLES	scooter	SCOOTER	SCOOTER_vespa	vespa	1	23418	1.61	no
+VEHICLES	scooter	SCOOTER	SCOOTER_vespa	scooter vespa	2	16	0	no
+CLOTHES	t-shirts	T-SHIRT	T-SHIRT_bianca	t-shirt bianca	2	1052	0.07	no
+CLOTHES	t-shirts	T-SHIRT	T-SHIRT_colorata	t-shirt colorata	2	49	0	no
+CLOTHES	t-shirts	T-SHIRT	T-SHIRT_oversize	oversize	1	8054	0.55	yes
+CLOTHES	t-shirts	T-SHIRT	T-SHIRT_oversize	t-shirt oversize	2	67	0	no
+CLOTHES	t-shirts	T-SHIRT	T-SHIRT_polo	polo	1	22258	1.53	no
+CLOTHES	t-shirts	T-SHIRT	T-SHIRT_polo	t-shirt polo	2	13	0	no
+FURNITURE	table	TAVOLO	TAVOLO_allungabile	tavolo allungabile	2	1662	0.11	no
+FURNITURE	table	TAVOLO	TAVOLO_pieghevole	tavolo pieghevole	2	578	0.04	no
+FURNITURE	table	TAVOLO	TAVOLO_quadrato	tavolo quadrato	2	608	0.04	no
+FURNITURE	table	TAVOLO	TAVOLO_rettangolare	tavolo rettangolare	2	878	0.06	no
+FURNITURE	table	TAVOLO	TAVOLO_rotondo	tavolo rotondo	2	1788	0.12	no
+FURNITURE	table	TAVOLO	TAVOLO_scrivania	scrivania	1	38109	2.63	no
+FURNITURE	table	TAVOLO	TAVOLO_scrivania	tavolo scrivania	2	86	0.01	no
+FOODS	vegetable	VERDURA	VERDURA_bietola	bietola	1	3490	0.24	no
+FOODS	vegetable	VERDURA	VERDURA_bietola	verdura bietola	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_broccolo	broccolo	1	5890	0.41	no
+FOODS	vegetable	VERDURA	VERDURA_broccolo	verdura broccolo	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_carciofo	carciofo	1	21261	1.46	no
+FOODS	vegetable	VERDURA	VERDURA_carciofo	verdura carciofo	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_carota	carota	1	34237	2.36	no
+FOODS	vegetable	VERDURA	VERDURA_carota	verdura carota	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_cavolfiore	cavolfiore	1	14789	1.02	no
+FOODS	vegetable	VERDURA	VERDURA_cavolfiore	verdura cavolfiore	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_cavolo	cavolo	1	39961	2.75	no
+FOODS	vegetable	VERDURA	VERDURA_cavolo	verdura cavolo	2	2	0	no
+FOODS	vegetable	VERDURA	VERDURA_cetriolo	cetriolo	1	17525	1.21	no
+FOODS	vegetable	VERDURA	VERDURA_cetriolo	verdura cetriolo	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_cicoria	cicoria	1	13241	0.91	no
+FOODS	vegetable	VERDURA	VERDURA_cicoria	verdura cicoria	2	2	0	no
+FOODS	vegetable	VERDURA	VERDURA_cipolla	cipolla	1	27685	1.91	no
+FOODS	vegetable	VERDURA	VERDURA_cipolla	verdura cipolla	2	1	0	no
+FOODS	vegetable	VERDURA	VERDURA_finocchio	finocchio	1	24617	1.7	no
+FOODS	vegetable	VERDURA	VERDURA_finocchio	verdura finocchio	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_insalata	insalata	1	30106	2.07	no
+FOODS	vegetable	VERDURA	VERDURA_insalata	verdura insalata	2	9	0	no
+FOODS	vegetable	VERDURA	VERDURA_lattuga	lattuga	1	18468	1.27	no
+FOODS	vegetable	VERDURA	VERDURA_lattuga	verdura lattuga	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_melanzana	melanzana	1	13605	0.94	no
+FOODS	vegetable	VERDURA	VERDURA_melanzana	verdura melanzana	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_peperone	peperone	1	16071	1.11	no
+FOODS	vegetable	VERDURA	VERDURA_peperone	verdura peperone	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_piselli	piselli	1	31276	2.15	no
+FOODS	vegetable	VERDURA	VERDURA_piselli	verdura piselli	2	1	0	no
+FOODS	vegetable	VERDURA	VERDURA_pomodoro	pomodoro	1	36007	2.48	no
+FOODS	vegetable	VERDURA	VERDURA_pomodoro	verdura pomodoro	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_radicchio	radicchio	1	24140	1.66	no
+FOODS	vegetable	VERDURA	VERDURA_radicchio	verdura radicchio	2	1	0	no
+FOODS	vegetable	VERDURA	VERDURA_rapa	rapa	1	15928	1.1	no
+FOODS	vegetable	VERDURA	VERDURA_rapa	verdura rapa	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_ravanello	ravanello	1	3769	0.26	no
+FOODS	vegetable	VERDURA	VERDURA_ravanello	verdura ravanello	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_rucola	rucola	1	18532	1.28	no
+FOODS	vegetable	VERDURA	VERDURA_rucola	verdura rucola	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_spinaci	spinaci	1	30817	2.12	no
+FOODS	vegetable	VERDURA	VERDURA_spinaci	verdura spinaci	2	1	0	no
+FOODS	vegetable	VERDURA	VERDURA_verza	verza	1	11609	0.8	no
+FOODS	vegetable	VERDURA	VERDURA_verza	verdura verza	2	0	0	no
+FOODS	vegetable	VERDURA	VERDURA_zucca	zucca	1	37742	2.6	no
+FOODS	vegetable	VERDURA	VERDURA_zucca	verdura zucca	2	2	0	no
+FOODS	vegetable	VERDURA	VERDURA_zucchina	zucchina	1	9555	0.66	no
+FOODS	vegetable	VERDURA	VERDURA_zucchina	verdura zucchina	2	0	0	no
+FURNITURE	closet	ARMADIO	ARMADIO_cabina	cabina	1	37446	2.58	yes
+FURNITURE	closet	ARMADIO	ARMADIO_cabina	cabina armadio	2	17917	1.23	no
+FURNITURE	closet	ARMADIO	ARMADIO_guardaroba	guardaroba	1	39497	2.72	no
+FURNITURE	closet	ARMADIO	ARMADIO_guardaroba	armadio guardaroba	2	600	0.04	no
+FURNITURE	closet	ARMADIO	ARMADIO_scorrevole	armadio scorrevole	2	316	0.02	no
+FURNISHINGS/FITTINGS	candelabrum	CANDELABRO	CANDELABRO_ebraico	candelabro ebraico	2	156	0.01	no
+FURNISHINGS/FITTINGS	candelabrum	CANDELABRO	CANDELABRO_elettrico	candelabro elettrico	2	8	0	no
+HOBBIES	CD	CD	CD_-r	cd-r	1	501	0.03	no
+HOBBIES	CD	CD	CD_-rom	cd-rom	1	6663	0.46	no
+HOBBIES	CD	CD	CD_-rw	cd-rw	1	80	0.01	no
+HOBBIES	CD	CD	CD_audio	audio	1	33464	2.31	yes
+HOBBIES	CD	CD	CD_audio	cd audio	2	1745	0.12	no
+HOBBIES	CD	CD	CD_masterizzato	cd masterizzato	2	122	0.01	no
+HOBBIES	CD	CD	CD_musicale	cd musicale	2	731	0.05	no
+HOBBIES	CD	CD	CD_musicali	cd musicali	2	1420	0.1	yes
+HOBBIES	CD	CD	CD_riscrivibile	cd riscrivibile	2	30	0	no
+HOBBIES	CD	CD	CD_vergine	cd vergine	2	83	0.01	no
+HOBBIES	CD	CD	CD_video	cd video	2	26	0	no
+FURNITURE	bedside table	COMODINO	COMODINO_alto	comodino alto	2	12	0	no
+FURNITURE	bedside table	COMODINO	COMODINO_basso	comodino basso	2	9	0	no
+FURNITURE	bedside table	COMODINO	COMODINO_cilindrico	comodino cilindrico	2	7	0	no
+FURNITURE	bedside table	COMODINO	COMODINO_cubico	comodino cubico	2	1	0	no
+FURNITURE	bedside table	COMODINO	COMODINO_quadrato	comodino quadrato	2	2	0	no
+FURNITURE	bedside table	COMODINO	COMODINO_sospeso	comodino sospeso	2	46	0	no
+FURNITURE	bedside table	COMODINO	COMODINO_stretto	comodino stretto	2	1	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_rettangolare	fioriera rettangolare	2	28	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_vaso	vaso	1	36375	2.51	yes
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_vaso	fioriera vaso	2	5	0	no
+KITCHENWARE	scissors	FORBICE	FORBICE_cesoia	cesoia	1	2481	0.17	no
+KITCHENWARE	scissors	FORBICE	FORBICE_cesoia	forbice cesoia	2	1	0	no
+KITCHENWARE	scissors	FORBICE	FORBICE_seghettata	forbice seghettata	2	0	0	no
+HOBBIES	newspaper	GIORNALE	GIORNALE_annuale	giornale annuale	2	6	0	no
+HOBBIES	newspaper	GIORNALE	GIORNALE_bimestrale	giornale bimestrale	2	34	0	no
+HOBBIES	newspaper	GIORNALE	GIORNALE_mensile	giornale mensile	2	207	0.01	no
+HOBBIES	newspaper	GIORNALE	GIORNALE_periodico	giornale periodico	2	184	0.01	no
+HOBBIES	newspaper	GIORNALE	GIORNALE_quotidiano	giornale quotidiano	2	921	0.06	no
+HOBBIES	newspaper	GIORNALE	GIORNALE_rivista	rivista	1	36108	2.49	no
+HOBBIES	newspaper	GIORNALE	GIORNALE_rivista	giornale rivista	2	5	0	no
+HOBBIES	newspaper	GIORNALE	GIORNALE_settimanale	giornale settimanale	2	255	0.02	no
+HOBBIES	newspaper	GIORNALE	GIORNALE_sportivo	giornale sportivo	2	733	0.05	no
+FOODS	legume	LEGUME	LEGUME_arachidi	arachidi	1	24283	1.67	no
+FOODS	legume	LEGUME	LEGUME_arachidi	legume arachidi	2	0	0	no
+FOODS	legume	LEGUME	LEGUME_ceci	ceci	1	41896	2.89	no
+FOODS	legume	LEGUME	LEGUME_ceci	legume ceci	2	0	0	no
+FOODS	legume	LEGUME	LEGUME_cicerchie	cicerchie	1	1788	0.12	no
+FOODS	legume	LEGUME	LEGUME_cicerchie	legume cicerchie	2	0	0	no
+FOODS	legume	LEGUME	LEGUME_fagioli	fagioli	1	35326	2.43	no
+FOODS	legume	LEGUME	LEGUME_fagioli	legume fagioli	2	0	0	no
+FOODS	legume	LEGUME	LEGUME_fagiolini	fagiolini	1	14438	0.99	no
+FOODS	legume	LEGUME	LEGUME_fagiolini	legume fagiolini	2	0	0	no
+FOODS	legume	LEGUME	LEGUME_fave	fave	1	28584	1.97	no
+FOODS	legume	LEGUME	LEGUME_fave	legume fave	2	0	0	no
+FOODS	legume	LEGUME	LEGUME_lenticchie	lenticchie	1	34658	2.39	no
+FOODS	legume	LEGUME	LEGUME_lenticchie	legume lenticchie	2	0	0	no
+FOODS	legume	LEGUME	LEGUME_lupini	lupini	1	4795	0.33	no
+FOODS	legume	LEGUME	LEGUME_lupini	legume lupini	2	0	0	no
+FOODS	legume	LEGUME	LEGUME_piselli	piselli	1	41407	2.85	no
+FOODS	legume	LEGUME	LEGUME_piselli	legume piselli	2	0	0	no
+FOODS	legume	LEGUME	LEGUME_soia	soia	1	38213	2.63	no
+FOODS	legume	LEGUME	LEGUME_soia	legume soia	2	2	0	no
+ANIMALS	lion	LEONE	LEONE_africano	leone africano	2	117	0.01	no
+ANIMALS	lion	LEONE	LEONE_asiatico	leone asiatico	2	132	0.01	no
+ANIMALS	lion	LEONE	LEONE_bianco	leone bianco	2	575	0.04	no
+ANIMALS	lion	LEONE	LEONE_marino	marino	1	32786	2.26	yes
+ANIMALS	lion	LEONE	LEONE_marino	leone marino	2	605	0.04	no
+ANIMALS	lion	LEONE	LEONE_ssa	ssa	1	33138	2.28	yes
+ANIMALS	lion	LEONE	LEONE_ssa	leonessa	1	5951	0.41	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_chopper	chopper	1	1794	0.12	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_chopper	motocicletta chopper	2	1	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_ciao	ciao	1	27565	1.9	yes
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_ciao	motocicletta ciao	2	0	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_cinquantino	cinquantino	1	1925	0.13	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_cinquantino	motocicletta cinquantino	2	0	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_cruiser	cruiser	1	3926	0.27	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_cruiser	motocicletta cruiser	2	0	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_enduro	enduro	1	22874	1.58	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_enduro	motocicletta enduro	2	11	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_motorino	motorino	1	45521	3.14	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_motorino	motocicletta motorino	2	1	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_scooter	scooter	1	38473	2.65	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_scooter	motocicletta scooter	2	0	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_sportiva	motocicletta sportiva	2	48	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_vespa	vespa	1	23418	1.61	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_vespa	motocicletta vespa	2	1	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_vintage	motocicletta vintage	2	1	0	no
+PLANTS	orchid	ORCHIDEA	ORCHIDEA_bianca	orchidea bianca	2	102	0.01	no
+PLANTS	orchid	ORCHIDEA	ORCHIDEA_blu	orchidea blu	2	32	0	no
+PLANTS	orchid	ORCHIDEA	ORCHIDEA_cattleya	cattleya	1	171	0.01	no
+PLANTS	orchid	ORCHIDEA	ORCHIDEA_cattleya	orchidea cattleya	2	25	0	no
+PLANTS	orchid	ORCHIDEA	ORCHIDEA_dendrobium	dendrobium	1	192	0.01	no
+PLANTS	orchid	ORCHIDEA	ORCHIDEA_dendrobium	orchidea dendrobium	2	6	0	no
+PLANTS	orchid	ORCHIDEA	ORCHIDEA_miltonia	miltonia	1	20	0	no
+PLANTS	orchid	ORCHIDEA	ORCHIDEA_miltonia	orchidea miltonia	2	4	0	no
+PLANTS	orchid	ORCHIDEA	ORCHIDEA_rosa	orchidea rosa	2	49	0	no
+PLANTS	orchid	ORCHIDEA	ORCHIDEA_viola	orchidea viola	2	27	0	no
+FOODS	pasta	PASTA	PASTA_bucatini	bucatini	1	3308	0.23	no
+FOODS	pasta	PASTA	PASTA_bucatini	pasta bucatini	2	3	0	no
+FOODS	pasta	PASTA	PASTA_cannelloni	cannelloni	1	5320	0.37	no
+FOODS	pasta	PASTA	PASTA_cannelloni	pasta cannelloni	2	0	0	no
+FOODS	pasta	PASTA	PASTA_conchiglie	conchiglie	1	30516	2.1	yes
+FOODS	pasta	PASTA	PASTA_conchiglie	pasta conchiglie	2	1	0	no
+FOODS	pasta	PASTA	PASTA_corta	pasta corta	2	2431	0.17	no
+FOODS	pasta	PASTA	PASTA_ditalini	ditalini	1	1168	0.08	no
+FOODS	pasta	PASTA	PASTA_ditalini	pasta ditalini	2	4	0	no
+FOODS	pasta	PASTA	PASTA_farfalle	farfalle	1	31493	2.17	yes
+FOODS	pasta	PASTA	PASTA_farfalle	pasta farfalle	2	2	0	no
+FOODS	pasta	PASTA	PASTA_fettuccine	fettuccine	1	5365	0.37	no
+FOODS	pasta	PASTA	PASTA_fettuccine	pasta fettuccine	2	3	0	no
+FOODS	pasta	PASTA	PASTA_fresca	pasta fresca	2	21110	1.45	no
+FOODS	pasta	PASTA	PASTA_fusilli	fusilli	1	5238	0.36	no
+FOODS	pasta	PASTA	PASTA_fusilli	pasta fusilli	2	8	0	no
+FOODS	pasta	PASTA	PASTA_gnocchi	gnocchi	1	35705	2.46	no
+FOODS	pasta	PASTA	PASTA_gnocchi	pasta gnocchi	2	8	0	no
+FOODS	pasta	PASTA	PASTA_integrale	pasta integrale	2	3537	0.24	no
+FOODS	pasta	PASTA	PASTA_lasagne	lasagne	1	23172	1.6	no
+FOODS	pasta	PASTA	PASTA_lasagne	pasta lasagne	2	4	0	no
+FOODS	pasta	PASTA	PASTA_linguine	linguine	1	5382	0.37	no
+FOODS	pasta	PASTA	PASTA_linguine	pasta linguine	2	2	0	no
+FOODS	pasta	PASTA	PASTA_liscia	pasta liscia	2	923	0.06	no
+FOODS	pasta	PASTA	PASTA_lunga	pasta lunga	2	1585	0.11	no
+FOODS	pasta	PASTA	PASTA_maccheroni	maccheroni	1	10418	0.72	no
+FOODS	pasta	PASTA	PASTA_maccheroni	pasta maccheroni	2	2	0	no
+FOODS	pasta	PASTA	PASTA_orecchiette	orecchiette	1	9416	0.65	no
+FOODS	pasta	PASTA	PASTA_orecchiette	pasta orecchiette	2	4	0	no
+FOODS	pasta	PASTA	PASTA_pappardelle	pappardelle	1	5185	0.36	no
+FOODS	pasta	PASTA	PASTA_pappardelle	pasta pappardelle	2	2	0	no
+FOODS	pasta	PASTA	PASTA_pastina	pastina	1	3832	0.26	no
+FOODS	pasta	PASTA	PASTA_pastina	pasta pastina	2	0	0	no
+FOODS	pasta	PASTA	PASTA_penne	penne	1	38820	2.67	yes
+FOODS	pasta	PASTA	PASTA_penne	pasta penne	2	13	0	no
+FOODS	pasta	PASTA	PASTA_pipe	pipe	1	10975	0.76	yes
+FOODS	pasta	PASTA	PASTA_pipe	pasta pipe	2	1	0	no
+FOODS	pasta	PASTA	PASTA_ravioli	ravioli	1	23543	1.62	no
+FOODS	pasta	PASTA	PASTA_ravioli	pasta ravioli	2	2	0	no
+FOODS	pasta	PASTA	PASTA_rigata	pasta rigata	2	70	0	no
+FOODS	pasta	PASTA	PASTA_rigatoni	rigatoni	1	3172	0.22	no
+FOODS	pasta	PASTA	PASTA_rigatoni	pasta rigatoni	2	5	0	no
+FOODS	pasta	PASTA	PASTA_secca	pasta secca	2	2436	0.17	no
+FOODS	pasta	PASTA	PASTA_spaghetti	spaghetti	1	33269	2.29	no
+FOODS	pasta	PASTA	PASTA_spaghetti	pasta spaghetti	2	22	0	no
+FOODS	pasta	PASTA	PASTA_stelline	stelline	1	16997	1.17	yes
+FOODS	pasta	PASTA	PASTA_stelline	pasta stelline	2	0	0	no
+FOODS	pasta	PASTA	PASTA_strozzapreti	strozzapreti	1	2042	0.14	no
+FOODS	pasta	PASTA	PASTA_strozzapreti	pasta strozzapreti	2	1	0	no
+FOODS	pasta	PASTA	PASTA_tagliatelle	tagliatelle	1	24296	1.67	no
+FOODS	pasta	PASTA	PASTA_tagliatelle	pasta tagliatelle	2	6	0	no
+FOODS	pasta	PASTA	PASTA_tortellini	tortellini	1	13284	0.92	no
+FOODS	pasta	PASTA	PASTA_tortellini	pasta tortellini	2	2	0	no
+FOODS	pasta	PASTA	PASTA_tortiglioni	tortiglioni	1	648	0.04	no
+FOODS	pasta	PASTA	PASTA_tortiglioni	pasta tortiglioni	2	2	0	no
+FOODS	pasta	PASTA	PASTA_trofie	trofie	1	2529	0.17	no
+FOODS	pasta	PASTA	PASTA_trofie	pasta trofie	2	1	0	no
+FURNITURE	armchair	POLTRONA	POLTRONA_letto	letto	1	2095868	144.4	yes
+FURNITURE	armchair	POLTRONA	POLTRONA_letto	poltrona letto	2	1412	0.1	no
+FURNITURE	armchair	POLTRONA	POLTRONA_massaggiante	poltrona massaggiante	2	331	0.02	no
+FURNITURE	armchair	POLTRONA	POLTRONA_pouf	pouf	1	10544	0.73	no
+FURNITURE	armchair	POLTRONA	POLTRONA_pouf	poltrona pouf	2	58	0	no
+FURNITURE	armchair	POLTRONA	POLTRONA_reclinabile	poltrona reclinabile	2	427	0.03	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_astratto	quadro astratto	2	756	0.05	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_dipinto	dipinto	1	86708	5.97	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_dipinto	quadro dipinto	2	1491	0.1	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_elettrico	quadro elettrico	2	6004	0.41	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_paesaggistico	quadro paesaggistico	2	173	0.01	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_ritratto	ritratto	1	191021	13.16	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_ritratto	quadro ritratto	2	12	0	no
+VEHICLES	train	TRENO	TRENO_elettrico	treno elettrico	2	272	0.02	no
+VEHICLES	train	TRENO	TRENO_frecciabianca	frecciabianca	1	94	0.01	no
+VEHICLES	train	TRENO	TRENO_frecciabianca	treno frecciabianca	2	5	0	no
+VEHICLES	train	TRENO	TRENO_frecciarossa	frecciarossa	1	638	0.04	no
+VEHICLES	train	TRENO	TRENO_frecciarossa	treno frecciarossa	2	27	0	no
+VEHICLES	train	TRENO	TRENO_intercity	intercity	1	2751	0.19	no
+VEHICLES	train	TRENO	TRENO_intercity	treno intercity	2	164	0.01	no
+VEHICLES	train	TRENO	TRENO_internazionale	treno internazionale	2	164	0.01	no
+VEHICLES	train	TRENO	TRENO_merci	merci	1	303458	20.91	yes
+VEHICLES	train	TRENO	TRENO_merci	treno merci	2	3270	0.23	no
+VEHICLES	train	TRENO	TRENO_notturno	treno notturno	2	1377	0.09	no
+VEHICLES	train	TRENO	TRENO_regionale	treno regionale	2	3999	0.28	no
+VEHICLES	train	TRENO	TRENO_veloce	treno veloce	2	1572	0.11	no
+PLANTS	olive tree	ULIVO	ULIVO_carboncella	carboncella	1	57	0	no
+PLANTS	olive tree	ULIVO	ULIVO_carboncella	ulivo carboncella	2	0	0	no
+PLANTS	olive tree	ULIVO	ULIVO_frantoio	frantoio	1	19816	1.37	no
+PLANTS	olive tree	ULIVO	ULIVO_frantoio	ulivo frantoio	2	0	0	no
+PLANTS	olive tree	ULIVO	ULIVO_leccino	ulivo leccino	2	6	0	no
+PLANTS	olive tree	ULIVO	ULIVO_maurino	maurino	1	181	0.01	no
+PLANTS	olive tree	ULIVO	ULIVO_maurino	ulivo maurino	2	0	0	no
+PLANTS	olive tree	ULIVO	ULIVO_moraiolo	moraiolo	1	479	0.03	no
+PLANTS	olive tree	ULIVO	ULIVO_moraiolo	ulivo moraiolo	2	0	0	no
+PLANTS	olive tree	ULIVO	ULIVO_pendolino	pendolino	1	2150	0.15	no
+PLANTS	olive tree	ULIVO	ULIVO_pendolino	ulivo pendolino	2	0	0	no
+PLANTS	olive tree	ULIVO	ULIVO_roggiola	roggiola	1	0	0	no
+PLANTS	olive tree	ULIVO	ULIVO_roggiola	ulivo roggiola	2	0	0	no
+PLANTS	olive tree	ULIVO	ULIVO_secolare	ulivo secolare	2	497	0.03	no
+PLANTS	olive tree	ULIVO	ULIVO_verde	ulivo verde	2	19	0	no
+VEHICLES	truck	CAMION	CAMION_autoarticolato	camion autoarticolato	2	8	0	no
+VEHICLES	truck	CAMION	CAMION_autobotte	autobotte	1	3450	0.24	no
+VEHICLES	truck	CAMION	CAMION_autobotte	camion autobotte	2	3	0	no
+VEHICLES	truck	CAMION	CAMION_autocarro	autocarro	1	17509	1.21	no
+VEHICLES	truck	CAMION	CAMION_autocarro	camion autocarro	2	3	0	no
+VEHICLES	truck	CAMION	CAMION_autotreno	autotreno	1	2318	0.16	no
+VEHICLES	truck	CAMION	CAMION_autotreno	camion autotreno	2	2	0	no
+VEHICLES	truck	CAMION	CAMION_cino	camioncino	2	6665	0.46	no
+VEHICLES	truck	CAMION	CAMION_cisterna	cisterna	1	33113	2.28	no
+VEHICLES	truck	CAMION	CAMION_cisterna	camion cisterna	2	589	0.04	no
+VEHICLES	truck	CAMION	CAMION_furgone	furgone	1	51319	3.54	no
+VEHICLES	truck	CAMION	CAMION_furgone	camion furgone	2	10	0	no
+VEHICLES	truck	CAMION	CAMION_tir	tir	1	16147	1.11	no
+VEHICLES	truck	CAMION	CAMION_tir	camion tir	2	16	0	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_corto	cappotto corto	2	87	0.01	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_crombie	crombie	1	12	0	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_crombie	cappotto crombie	2	0	0	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_doppiopetto	cappotto doppiopetto	2	49	0	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_elegante	cappotto elegante	2	96	0.01	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_impermeabile	cappotto impermeabile	2	37	0	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_invernale	cappotto invernale	2	202	0.01	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_lungo	cappotto lungo	2	481	0.03	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_monopetto	cappotto monopetto	2	13	0	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_montgomery	montgomery	1	735	0.05	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_montgomery	cappotto montgomery	2	8	0	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_pesante	cappotto pesante	2	171	0.01	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_termico	cappotto termico	2	4468	0.31	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_trench	trench	1	5472	0.38	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_trench	cappotto trench	2	1	0	no
+PLANTS	cherry tree	CILIEGIO	CILIEGIO_albero	albero	1	39497	2.72	yes
+PLANTS	cherry tree	CILIEGIO	CILIEGIO_albero	ciliegio albero	2	2	0	no
+PLANTS	cherry tree	CILIEGIO	CILIEGIO_dolce	ciliegio dolce	2	232	0.02	no
+BODY PARTS	neck	COLLO	COLLO_alto	collo alto	2	3901	0.27	no
+BODY PARTS	neck	COLLO	COLLO_corto	collo corto	2	757	0.05	no
+BODY PARTS	neck	COLLO	COLLO_largo	collo largo	2	444	0.03	no
+BODY PARTS	neck	COLLO	COLLO_lungo	collo lungo	2	2200	0.15	no
+BODY PARTS	neck	COLLO	COLLO_umano	collo umano	2	23	0	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_cucchiaino	cucchiaino	1	45641	3.14	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_cucchiaino	cucchiaio cucchiaino	2	5	0	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_grande	cucchiaio grande	2	278	0.02	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_mestolo	mestolo	1	15696	1.08	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_mestolo	cucchiaio mestolo	2	0	0	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_antica	cucina antica	2	329	0.02	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_cinese	cucina cinese	2	4096	0.28	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_coreana	cucina coreana	2	583	0.04	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_elettrica	cucina elettrica	2	542	0.04	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_etnica	cucina etnica	2	2073	0.14	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_francese	cucina francese	2	5106	0.35	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_giapponese	cucina giapponese	2	6262	0.43	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_greca	cucina greca	2	1798	0.12	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_indiana	cucina indiana	2	3200	0.22	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_internazionale	cucina internazionale	2	7601	0.52	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_italiana	cucina italiana	2	25522	1.76	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_moderna	cucina moderna	2	4179	0.29	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_regionale	cucina regionale	2	5745	0.4	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_spagnola	cucina spagnola	2	1541	0.11	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_thailandese	cucina thailandese	2	773	0.05	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_tradizionale	cucina tradizionale	2	20758	1.43	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_vegana	cucina vegana	2	2116	0.15	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_vegetariana	cucina vegetariana	2	3046	0.21	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_basculante	finestra basculante	2	43	0	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_finestrino	finestrino	1	32714	2.25	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_finestrino	finestra finestrino	2	0	0	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_fissa	finestra fissa	2	111	0.01	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_lucernario	lucernario	1	5454	0.38	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_lucernario	finestra lucernario	2	10	0	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_oblò	oblò	1	12351	0.85	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_oblò	finestra oblò	2	12	0	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_porta	porta	1	37064	2.55	yes
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_porta	portafinestra	1	3339	0.23	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_scorrevole	finestra scorrevole	2	451	0.03	no
+CLOTHES	jacket	GIACCA	GIACCA_blazer	blazer	1	5568	0.38	no
+CLOTHES	jacket	GIACCA	GIACCA_blazer	giacca blazer	2	52	0	no
+CLOTHES	jacket	GIACCA	GIACCA_cappotto	cappotto	1	37894	2.61	no
+CLOTHES	jacket	GIACCA	GIACCA_cappotto	giacca cappotto	2	8	0	no
+CLOTHES	jacket	GIACCA	GIACCA_doppiopetto	giacca doppiopetto	2	178	0.01	no
+CLOTHES	jacket	GIACCA	GIACCA_elegante	giacca elegante	2	292	0.02	no
+CLOTHES	jacket	GIACCA	GIACCA_gilet	gilet	1	19465	1.34	no
+CLOTHES	jacket	GIACCA	GIACCA_gilet	giacca gilet	2	7	0	no
+CLOTHES	jacket	GIACCA	GIACCA_impermeabile	giacca impermeabile	2	993	0.07	no
+CLOTHES	jacket	GIACCA	GIACCA_leggera	giacca leggera	2	594	0.04	no
+CLOTHES	jacket	GIACCA	GIACCA_lunga	giacca lunga	2	338	0.02	no
+CLOTHES	jacket	GIACCA	GIACCA_monopetto	monopetto	1	647	0.04	no
+CLOTHES	jacket	GIACCA	GIACCA_monopetto	giacca monopetto	2	118	0.01	no
+CLOTHES	jacket	GIACCA	GIACCA_pesante	giacca pesante	2	266	0.02	no
+CLOTHES	jacket	GIACCA	GIACCA_sportiva	giacca sportiva	2	466	0.03	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_antiproiettile	giubotto antiproiettile	2	26	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_bomber	bomber	1	36367	2.51	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_bomber	giubotto bomber	2	2	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_cappotto	cappotto	1	54731	3.77	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_cappotto	giubotto cappotto	2	0	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_chiodo	chiodo	1	36913	2.54	yes
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_chiodo	giubotto chiodo	2	0	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_corto	giubotto corto	2	3	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_giacca	giacca	1	54003	3.72	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_giacca	giubotto giacca	2	0	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_gilet	gilet	1	19465	1.34	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_gilet	giubotto gilet	2	0	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_imbottito	giubotto imbottito	2	4	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_impermeabile	giubotto impermeabile	2	6	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_invernale	giubotto invernale	2	5	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_leggero	giubotto leggero	2	1	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_lungo	giubotto lungo	2	2	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_pesante	giubotto pesante	2	3	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_piumino	piumino	1	14111	0.97	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_piumino	giubotto piumino	2	0	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_smanicato	giubotto smanicato	2	0	0	no
+HOUSING BUILDINGS	wall	MURO	MURO_divisorio	muro divisorio	2	1431	0.1	no
+HOUSING BUILDINGS	wall	MURO	MURO_muraglia	muraglia	1	14129	0.97	no
+HOUSING BUILDINGS	wall	MURO	MURO_muraglia	muro muraglia	2	0	0	no
+HOUSING BUILDINGS	wall	MURO	MURO_muretto	muretto	1	28421	1.96	no
+HOUSING BUILDINGS	wall	MURO	MURO_muretto	muro muretto	2	0	0	no
+HOUSING BUILDINGS	wall	MURO	MURO_perimetrale	muro perimetrale	2	4007	0.28	no
+HOUSING BUILDINGS	wall	MURO	MURO_portante	muro portante	2	1131	0.08	no
+FURNISHINGS/FITTINGS	ashtray	POSACENERE	POSACENERE_quadrato	posacenere quadrato	2	0	0	no
+FURNISHINGS/FITTINGS	ashtray	POSACENERE	POSACENERE_richiudibile	posacenere richiudibile	2	0	0	no
+FURNISHINGS/FITTINGS	ashtray	POSACENERE	POSACENERE_tascabile	posacenere tascabile	2	39	0	no
+FURNISHINGS/FITTINGS	ashtray	POSACENERE	POSACENERE_tondo	posacenere tondo	2	0	0	no
+HOUSING BUILDINGS	closet	RIPOSTIGLIO	RIPOSTIGLIO_sgabuzzino	sgabuzzino	1	6574	0.45	no
+HOUSING BUILDINGS	closet	RIPOSTIGLIO	RIPOSTIGLIO_sgabuzzino	ripostiglio sgabuzzino	2	0	0	no
+HOUSING BUILDINGS	closet	RIPOSTIGLIO	RIPOSTIGLIO_sottoscala	sottoscala	1	8843	0.61	no
+HOUSING BUILDINGS	closet	RIPOSTIGLIO	RIPOSTIGLIO_sottoscala	ripostiglio sottoscala	2	525	0.04	no
+FOODS	rice	RISO	RISO_arborio	arborio	1	382	0.03	no
+FOODS	rice	RISO	RISO_arborio	riso arborio	2	138	0.01	no
+FOODS	rice	RISO	RISO_basmati	basmati	2	4190	0.29	no
+FOODS	rice	RISO	RISO_basmati	riso basmati	2	3062	0.21	no
+FOODS	rice	RISO	RISO_bianco	riso bianco	2	3608	0.25	no
+FOODS	rice	RISO	RISO_carnaroli	carnaroli	1	1059	0.07	no
+FOODS	rice	RISO	RISO_carnaroli	riso carnaroli	2	486	0.03	no
+FOODS	rice	RISO	RISO_integrale	riso integrale	2	7150	0.49	no
+FOODS	rice	RISO	RISO_parboiled	parboiled	1	768	0.05	no
+FOODS	rice	RISO	RISO_parboiled	riso parboiled	2	368	0.03	no
+FOODS	rice	RISO	RISO_ribe	ribe	1	126	0.01	no
+FOODS	rice	RISO	RISO_ribe	riso ribe	2	35	0	no
+FOODS	rice	RISO	RISO_rosso	riso rosso	2	2820	0.19	no
+FOODS	rice	RISO	RISO_soffiato	riso soffiato	2	2680	0.18	no
+FOODS	rice	RISO	RISO_tto	risotto	1	38324	2.64	no
+FOODS	rice	RISO	RISO_venere	venere	1	8780	0.6	si
+FOODS	rice	RISO	RISO_venere	riso venere	2	1758	0.12	no
+ANIMALS	snake	SERPENTE	SERPENTE_anaconda	anaconda	1	1525	0.11	no
+ANIMALS	snake	SERPENTE	SERPENTE_anaconda	serpente anaconda	2	4	0	no
+ANIMALS	snake	SERPENTE	SERPENTE_biscia	biscia	1	2991	0.21	no
+ANIMALS	snake	SERPENTE	SERPENTE_biscia	serpente biscia	2	1	0	no
+ANIMALS	snake	SERPENTE	SERPENTE_boa	boa	1	32199	2.22	no
+ANIMALS	snake	SERPENTE	SERPENTE_boa	serpente boa	2	122	0.01	no
+ANIMALS	snake	SERPENTE	SERPENTE_cobra	cobra	1	7476	0.52	no
+ANIMALS	snake	SERPENTE	SERPENTE_cobra	serpente cobra	2	55	0	no
+ANIMALS	snake	SERPENTE	SERPENTE_corallo	serpente corallo	2	245	0.02	no
+ANIMALS	snake	SERPENTE	SERPENTE_pitone	pitone	1	5947	0.41	no
+ANIMALS	snake	SERPENTE	SERPENTE_pitone	serpente pitone	2	25	0	no
+ANIMALS	snake	SERPENTE	SERPENTE_velenoso	serpente velenoso	2	1019	0.07	no
+ANIMALS	snake	SERPENTE	SERPENTE_vipera	vipera	1	8574	0.59	no
+ANIMALS	snake	SERPENTE	SERPENTE_vipera	serpente vipera	2	0	0	no
+FURNISHINGS/FITTINGS	carpet	TAPPETO	TAPPETO_cinese	tappeto cinese	2	26	0	no
+FURNISHINGS/FITTINGS	carpet	TAPPETO	TAPPETO_persiano	tappeto persiano	2	997	0.07	no
+FURNISHINGS/FITTINGS	carpet	TAPPETO	TAPPETO_tappetino	tappetino	1	21764	1.5	no
+FURNISHINGS/FITTINGS	carpet	TAPPETO	TAPPETO_tappetino	tappeto tappetino	2	0	0	no
+FURNISHINGS/FITTINGS	carpet	TAPPETO	TAPPETO_turco	tappeto turco	2	60	0	no
+FURNISHINGS/FITTINGS	carpet	TAPPETO	TAPPETO_zerbino	tappeto zerbino	2	7	0	no
+ANIMALS	mouse	TOPO	TOPO_bianco	topo bianco	2	146	0.01	no
+ANIMALS	mouse	TOPO	TOPO_domestico	topo domestico	2	194	0.01	no
+ANIMALS	mouse	TOPO	TOPO_grigio	topo grigio	2	56	0	no
+ANIMALS	mouse	TOPO	TOPO_lino	topolino	1	13919	0.96	no
+ANIMALS	mouse	TOPO	TOPO_marrone	topo marrone	2	11	0	no
+ANIMALS	mouse	TOPO	TOPO_pantegana	pantegana	1	730	0.05	no
+ANIMALS	mouse	TOPO	TOPO_pantegana	topo pantegana	2	1	0	no
+ANIMALS	mouse	TOPO	TOPO_ragno	ragno	1	25390	1.75	si
+ANIMALS	mouse	TOPO	TOPO_ragno	topo ragno	2	34	0	no
+ANIMALS	mouse	TOPO	TOPO_ratto	ratto	1	17437	1.2	no
+ANIMALS	mouse	TOPO	TOPO_ratto	topo ratto	2	0	0	no
+ANIMALS	mouse	TOPO	TOPO_selvatico	topo selvatico	2	254	0.02	no
+FOODS	cereal	CEREALE	CEREALE_avena	avena	1	27689	1.91	no
+FOODS	cereal	CEREALE	CEREALE_avena	cereale avena	2	1	0	no
+FOODS	cereal	CEREALE	CEREALE_farro	farro	1	31812	2.19	no
+FOODS	cereal	CEREALE	CEREALE_farro	cereale farro	2	1	0	no
+FOODS	cereal	CEREALE	CEREALE_frumento	frumento	1	43081	2.97	no
+FOODS	cereal	CEREALE	CEREALE_frumento	cereale frumento	2	0	0	no
+FOODS	cereal	CEREALE	CEREALE_grano	grano	1	38988	2.69	no
+FOODS	cereal	CEREALE	CEREALE_grano	cereale grano	2	5	0	no
+FOODS	cereal	CEREALE	CEREALE_integrale	cereale integrale	2	263	0.02	no
+FOODS	cereal	CEREALE	CEREALE_mais	mais	1	39430	2.72	no
+FOODS	cereal	CEREALE	CEREALE_mais	cereale mais	2	0	0	no
+FOODS	cereal	CEREALE	CEREALE_miglio	miglio	1	35585	2.45	no
+FOODS	cereal	CEREALE	CEREALE_miglio	cereale miglio	2	3	0	no
+FOODS	cereal	CEREALE	CEREALE_orzo	orzo	1	46870	3.23	no
+FOODS	cereal	CEREALE	CEREALE_orzo	cereale orzo	2	2	0	no
+FOODS	cereal	CEREALE	CEREALE_quinoa	quinoa	1	16203	1.12	no
+FOODS	cereal	CEREALE	CEREALE_quinoa	cereale quinoa	2	1	0	no
+FOODS	cereal	CEREALE	CEREALE_riso	riso	1	52282	3.6	no
+FOODS	cereal	CEREALE	CEREALE_riso	cereale riso	2	8	0	no
+FOODS	cereal	CEREALE	CEREALE_segale	segale	1	18264	1.26	no
+FOODS	cereal	CEREALE	CEREALE_segale	cereale segale	2	0	0	no
+FOODS	cereal	CEREALE	CEREALE_sorgo	sorgo	1	5705	0.39	no
+FOODS	cereal	CEREALE	CEREALE_sorgo	cereale sorgo	2	1	0	no
+KITCHENWARE	fork	FORCHETTA	FORCHETTA_forchettone	forchettone	1	1363	0.09	no
+KITCHENWARE	fork	FORCHETTA	FORCHETTA_forchettone	forchetta forchettone	2	0	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_asiago	asiago	1	1492	0.1	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_asiago	formaggio asiago	2	74	0.01	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_brie	brie	1	2412	0.17	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_brie	formaggio brie	2	157	0.01	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_burrata	burrata	1	4588	0.32	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_burrata	formaggio burrata	2	2	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_caciocavallo	caciocavallo	1	6927	0.48	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_caciocavallo	formaggio caciocavallo	2	48	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_camembert	camembert	1	957	0.07	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_camembert	formaggio camembert	2	22	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_caprino	caprino	1	8943	0.62	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_caprino	formaggio caprino	2	939	0.06	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_cheddar	cheddar	1	1440	0.1	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_cheddar	formaggio cheddar	2	301	0.02	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_emmental	emmental	1	1011	0.07	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_emmental	formaggio emmental	2	41	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_fontina	fontina	1	5376	0.37	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_fontina	formaggio fontina	2	55	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_fresco	formaggio fresco	2	5649	0.39	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_gorgonzola	gorgonzola	1	14698	1.01	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_gorgonzola	formaggio gorgonzola	2	140	0.01	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_gouda	gouda	1	265	0.02	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_gouda	formaggio gouda	2	30	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_grana	grana	1	34329	2.37	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_grana	formaggio grana	2	1781	0.12	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_groviera	groviera	1	2122	0.15	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_groviera	formaggio groviera	2	104	0.01	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_leerdammer	leerdammer	1	38	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_leerdammer	formaggio leerdammer	2	1	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_mozzarella	mozzarella	1	30277	2.09	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_mozzarella	formaggio mozzarella	2	30	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_parmigiano	parmigiano	1	40035	2.76	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_parmigiano	formaggio parmigiano	2	688	0.05	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_pecorino	pecorino	1	36245	2.5	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_pecorino	formaggio pecorino	2	2565	0.18	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_philadelphia	philadelphia	1	3404	0.23	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_philadelphia	formaggio philadelphia	2	94	0.01	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_provola	provola	1	7559	0.52	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_provola	formaggio provola	2	8	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_ricotta	ricotta	1	26211	1.81	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_ricotta	formaggio ricotta	2	39	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_robiola	robiola	1	4280	0.29	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_robiola	formaggio robiola	2	19	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_spalmabile	formaggio spalmabile	2	2749	0.19	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_stagionato	formaggio stagionato	2	1564	0.11	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_stracchino	stracchino	1	6304	0.43	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_stracchino	formaggio stracchino	2	29	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_taleggio	taleggio	1	3733	0.26	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_taleggio	formaggio taleggio	2	30	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_toma	toma	1	2809	0.19	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_toma	formaggio toma	2	16	0	no
+PLANTS	geranium	GERANIO	GERANIO_bianco	geranio bianco	2	6	0	no
+PLANTS	geranium	GERANIO	GERANIO_edera	edera	1	13541	0.93	no
+PLANTS	geranium	GERANIO	GERANIO_edera	geranio edera	2	110	0.01	no
+PLANTS	geranium	GERANIO	GERANIO_giallo	geranio giallo	2	2	0	no
+PLANTS	geranium	GERANIO	GERANIO_rosa	geranio rosa	2	94	0.01	no
+PLANTS	geranium	GERANIO	GERANIO_rosso	geranio rosso	2	66	0	no
+PLANTS	geranium	GERANIO	GERANIO_viola	viola	1	32254	2.22	si
+PLANTS	geranium	GERANIO	GERANIO_viola	geranio viola	2	0	0	no
+CLOTHES	waistcoat	GILET	GILET_doppiopetto	doppiopetto	1	3966	0.27	no
+CLOTHES	waistcoat	GILET	GILET_doppiopetto	gilet doppiopetto	2	18	0	no
+CLOTHES	waistcoat	GILET	GILET_elegante	gilet elegante	2	9	0	no
+CLOTHES	waistcoat	GILET	GILET_leggero	gilet leggero	2	13	0	no
+CLOTHES	waistcoat	GILET	GILET_monopetto	monopetto	1	647	0.04	no
+CLOTHES	waistcoat	GILET	GILET_monopetto	gilet monopetto	2	6	0	no
+CLOTHES	waistcoat	GILET	GILET_panciotto	panciotto	1	2643	0.18	no
+CLOTHES	waistcoat	GILET	GILET_panciotto	gilet panciotto	2	1	0	no
+CLOTHES	waistcoat	GILET	GILET_smanicato	gilet smanicato	2	33	0	no
+STATIONERY	rubber	GOMMA	GOMMA_naturale	gomma naturale	2	3637	0.25	no
+STATIONERY	rubber	GOMMA	GOMMA_pane	pane	1	38838	2.68	si
+STATIONERY	rubber	GOMMA	GOMMA_pane	gomma pane	2	348	0.02	no
+STATIONERY	rubber	GOMMA	GOMMA_piuma	piuma	1	24895	1.72	si
+STATIONERY	rubber	GOMMA	GOMMA_piuma	gommapiuma	1	7102	0.49	no
+STATIONERY	rubber	GOMMA	GOMMA_piuma	gomma piuma	2	1918	0.13	no
+STATIONERY	rubber	GOMMA	GOMMA_pneumatico	pneumatico	1	24649	1.7	no
+STATIONERY	rubber	GOMMA	GOMMA_pneumatico	gomma pneumatico	2	13	0	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_bianca	margherita bianca	2	56	0	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_comune	margherita comune	2	19	0	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_crisantemo	crisantemo	1	2158	0.15	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_crisantemo	margherita crisantemo	2	0	0	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_fiore	fiore	1	21241	1.46	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_fiore	margherita fiore	2	6	0	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_gialla	margherita gialla	2	74	0.01	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_gigante	gigante	1	36866	2.54	si
+PLANTS	daisy	MARGHERITA	MARGHERITA_gigante	margherita gigante	2	12	0	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_margheritina	margheritina	1	462	0.03	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_margheritina	margherita margheritina	2	0	0	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_nome	nome	1	41475	2.86	si
+PLANTS	daisy	MARGHERITA	MARGHERITA_nome	margherita nome	2	0	0	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_pizza	pizza	1	38305	2.64	si
+PLANTS	daisy	MARGHERITA	MARGHERITA_pizza	margherita pizza	2	1	0	si
+PLANTS	daisy	MARGHERITA	MARGHERITA_rosa	rosa	1	554796	38.22	si
+PLANTS	daisy	MARGHERITA	MARGHERITA_rosa	margherita rosa	2	14	0	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_selvatica	margherita selvatica	2	4	0	no
+FURNISHINGS/FITTINGS	meter	METRO	METRO_laser	laser	1	55038	3.79	no
+FURNISHINGS/FITTINGS	meter	METRO	METRO_laser	metro laser	2	113	0.01	no
+FURNISHINGS/FITTINGS	meter	METRO	METRO_metallico	metro metallico	2	22	0	no
+VEHICLES	ship	NAVE	NAVE_battello	battello	1	30503	2.1	no
+VEHICLES	ship	NAVE	NAVE_battello	nave battello	2	1	0	no
+VEHICLES	ship	NAVE	NAVE_caravella	caravella	1	1705	0.12	no
+VEHICLES	ship	NAVE	NAVE_caravella	nave caravella	2	2	0	no
+VEHICLES	ship	NAVE	NAVE_cargo	nave cargo	2	1091	0.08	no
+VEHICLES	ship	NAVE	NAVE_mercantile	mercantile	1	22791	1.57	no
+VEHICLES	ship	NAVE	NAVE_mercantile	nave mercantile	2	2528	0.17	no
+VEHICLES	ship	NAVE	NAVE_motoscafo	motoscafo	1	10155	0.7	no
+VEHICLES	ship	NAVE	NAVE_motoscafo	nave motoscafo	2	0	0	no
+VEHICLES	ship	NAVE	NAVE_petroliera	petroliera	1	7150	0.49	no
+VEHICLES	ship	NAVE	NAVE_petroliera	nave petroliera	2	181	0.01	no
+VEHICLES	ship	NAVE	NAVE_portaerei	portaerei	1	21490	1.48	no
+VEHICLES	ship	NAVE	NAVE_portaerei	nave portaerei	2	183	0.01	no
+VEHICLES	ship	NAVE	NAVE_traghetto	traghetto	1	23113	1.59	no
+VEHICLES	ship	NAVE	NAVE_traghetto	nave traghetto	2	909	0.06	no
+VEHICLES	ship	NAVE	NAVE_yacht	yacht	1	32382	2.23	no
+VEHICLES	ship	NAVE	NAVE_yacht	nave yacht	2	4	0	no
+VEHICLES	ship	NAVE	NAVE_zattera	zattera	1	12619	0.87	no
+VEHICLES	ship	NAVE	NAVE_zattera	nave zattera	2	0	0	no
+FOODS	bread	PANE	PANE_arabo	pane arabo	2	943	0.06	no
+FOODS	bread	PANE	PANE_azzimo	azzimo	1	2704	0.19	si
+FOODS	bread	PANE	PANE_azzimo	pane azzimo	2	2256	0.16	no
+FOODS	bread	PANE	PANE_baguette	baguette	1	6056	0.42	no
+FOODS	bread	PANE	PANE_baguette	pane baguette	2	15	0	no
+FOODS	bread	PANE	PANE_bianco	pane bianco	2	5516	0.38	no
+FOODS	bread	PANE	PANE_carasau	carasau	1	3085	0.21	no
+FOODS	bread	PANE	PANE_carasau	pane carasau	2	2459	0.17	no
+FOODS	bread	PANE	PANE_ciabatta	ciabatta	1	7158	0.49	no
+FOODS	bread	PANE	PANE_ciabatta	pane ciabatta	2	46	0	no
+FOODS	bread	PANE	PANE_dolce	pane dolce	2	1488	0.1	no
+FOODS	bread	PANE	PANE_filone	filone	1	27601	1.9	no
+FOODS	bread	PANE	PANE_filone	pane filone	2	1	0	no
+FOODS	bread	PANE	PANE_focaccia	focaccia	1	33029	2.28	no
+FOODS	bread	PANE	PANE_focaccia	pane focaccia	2	27	0	no
+FOODS	bread	PANE	PANE_integrale	pane integrale	2	8067	0.56	no
+FOODS	bread	PANE	PANE_mantovana	pane mantovana	2	0	0	no
+FOODS	bread	PANE	PANE_michetta	michetta	1	860	0.06	no
+FOODS	bread	PANE	PANE_michetta	pane michetta	2	1	0	no
+FOODS	bread	PANE	PANE_morbido	pane morbido	2	669	0.05	no
+FOODS	bread	PANE	PANE_pagnotta	pagnotta	1	11629	0.8	no
+FOODS	bread	PANE	PANE_pagnotta	pane pagnotta	2	5	0	no
+FOODS	bread	PANE	PANE_rosetta	rosetta	1	7384	0.51	no
+FOODS	bread	PANE	PANE_rosetta	pane rosetta	2	2	0	no
+FOODS	bread	PANE	PANE_tartaruga	tartaruga	1	34377	2.37	si
+FOODS	bread	PANE	PANE_tartaruga	pane tartaruga	2	6	0	no
+FOODS	bread	PANE	PANE_toscano	pane toscano	2	1623	0.11	no
+PLANTS	pine	PINO	PINO_abete	abete	1	35742	2.46	no
+PLANTS	pine	PINO	PINO_abete	pino abete	2	10	0	no
+PLANTS	pine	PINO	PINO_bianco	pino bianco	2	190	0.01	no
+PLANTS	pine	PINO	PINO_calabro	calabro	1	3009	0.21	no
+PLANTS	pine	PINO	PINO_calabro	pino calabro	2	23	0	no
+PLANTS	pine	PINO	PINO_cembro	cembro	1	1880	0.13	no
+PLANTS	pine	PINO	PINO_cembro	pino cembro	2	1200	0.08	no
+PLANTS	pine	PINO	PINO_domestico	pino domestico	2	965	0.07	no
+PLANTS	pine	PINO	PINO_marittimo	pino marittimo	2	1887	0.13	no
+PLANTS	pine	PINO	PINO_mugo	mugo	1	2799	0.19	no
+PLANTS	pine	PINO	PINO_mugo	pino mugo	2	1853	0.13	no
+PLANTS	pine	PINO	PINO_nero	pino nero	2	1301	0.09	no
+PLANTS	pine	PINO	PINO_silvestre	pino silvestre	2	1728	0.12	no
+FOODS	pizza	PIZZA	PIZZA_bianca	pizza bianca	2	1417	0.1	no
+FOODS	pizza	PIZZA	PIZZA_bufalina	bufalina	1	1021	0.07	no
+FOODS	pizza	PIZZA	PIZZA_bufalina	pizza bufalina	2	10	0	no
+FOODS	pizza	PIZZA	PIZZA_capricciosa	pizza capricciosa	2	158	0.01	no
+FOODS	pizza	PIZZA	PIZZA_diavola	diavola	1	1241	0.09	no
+FOODS	pizza	PIZZA	PIZZA_diavola	pizza diavola	2	26	0	no
+FOODS	pizza	PIZZA	PIZZA_hawaiana	pizza hawaiana	2	39	0	no
+FOODS	pizza	PIZZA	PIZZA_integrale	pizza integrale	2	213	0.01	no
+FOODS	pizza	PIZZA	PIZZA_margherita	margherita	1	19148	1.32	no
+FOODS	pizza	PIZZA	PIZZA_margherita	pizza margherita	2	2131	0.15	no
+FOODS	pizza	PIZZA	PIZZA_marinara	pizza marinara	2	205	0.01	no
+FOODS	pizza	PIZZA	PIZZA_napoletana	pizza napoletana	2	5614	0.39	no
+FOODS	pizza	PIZZA	PIZZA_ortolana	pizza ortolana	2	25	0	no
+FOODS	pizza	PIZZA	PIZZA_romana	pizza romana	2	526	0.04	no
+FOODS	pizza	PIZZA	PIZZA_rossa	pizza rossa	2	247	0.02	no
+FOODS	pizza	PIZZA	PIZZA_vegetariana	pizza vegetariana	2	134	0.01	no
+PLANTS	willow	SALICE	SALICE_bianco	salice bianco	2	1000	0.07	no
+PLANTS	willow	SALICE	SALICE_nero	salice nero	2	18	0	no
+PLANTS	willow	SALICE	SALICE_odoroso	salice odoroso	2	6	0	no
+PLANTS	willow	SALICE	SALICE_piangente	salice piangente	2	1037	0.07	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_babbuino	babbuino	1	1672	0.12	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_babbuino	scimmia babbuino	2	1	0	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_bonobo	bonobo	1	2111	0.15	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_bonobo	scimmia bonobo	2	18	0	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_cappuccino	cappuccino	1	33140	2.28	si
+ANIMALS	monkey	SCIMMIA	SCIMMIA_cappuccino	scimmia cappuccino	2	41	0	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_gibbone	gibbone	1	495	0.03	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_gibbone	scimmia gibbone	2	0	0	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_gorilla	gorilla	1	15575	1.07	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_gorilla	scimmia gorilla	2	3	0	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_lemure	lemure	1	1184	0.08	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_lemure	scimmia lemure	2	0	0	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_macaco	macaco	1	2340	0.16	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_macaco	scimmia macaco	2	14	0	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_mandrillo	mandrillo	1	579	0.04	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_mandrillo	scimmia mandrillo	2	1	0	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_orango	orango	1	2598	0.18	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_orango	scimmia orango	2	1	0	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_scimpanzè	scimpanzè	1	2843	0.2	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_scimpanzè	scimmia scimpanzè	2	0	0	no
+ANIMALS	monkey	SCIMMIA	SCIMMIA_urlatrice	scimmia urlatrice	2	192	0.01	no
+FURNISHINGS/FITTINGS	curtain	TENDA	TENDA_lunga	tenda lunga	2	26	0	no
+FURNISHINGS/FITTINGS	curtain	TENDA	TENDA_veneziana	tenda veneziana	2	153	0.01	no
+HOUSING BUILDINGS	terrace	TERRAZZO	TERRAZZO_balcone	balcone	1	35274	2.43	no
+HOUSING BUILDINGS	terrace	TERRAZZO	TERRAZZO_balcone	terrazzo balcone	2	99	0.01	no
+HOUSING BUILDINGS	terrace	TERRAZZO	TERRAZZO_coperto	terrazzo coperto	2	3016	0.21	no
+HOUSING BUILDINGS	terrace	TERRAZZO	TERRAZZO_panoramico	terrazzo panoramico	2	4618	0.32	no
+HOUSING BUILDINGS	terrace	TERRAZZO	TERRAZZO_veranda	veranda	1	38592	2.66	no
+HOUSING BUILDINGS	terrace	TERRAZZO	TERRAZZO_veranda	terrazzo veranda	2	7	0	no
+CLOTHES	sock	CALZA	CALZA_antiscivolo	calza antiscivolo	2	4	0	no
+CLOTHES	sock	CALZA	CALZA_autoreggente	calza autoreggente	2	64	0	no
+CLOTHES	sock	CALZA	CALZA_calzino	calzino	1	10991	0.76	no
+CLOTHES	sock	CALZA	CALZA_calzino	calza calzino	2	0	0	no
+CLOTHES	sock	CALZA	CALZA_collant	collant	1	14230	0.98	no
+CLOTHES	sock	CALZA	CALZA_collant	calza collant	2	8	0	no
+CLOTHES	sock	CALZA	CALZA_corta	calza corta	2	22	0	no
+CLOTHES	sock	CALZA	CALZA_fantasmino	fantasmino	1	1593	0.11	no
+CLOTHES	sock	CALZA	CALZA_fantasmino	calza fantasmino	2	0	0	no
+CLOTHES	sock	CALZA	CALZA_lunga	calza lunga	2	76	0.01	no
+CLOTHES	sock	CALZA	CALZA_maglia	maglia	1	54310	3.74	si
+CLOTHES	sock	CALZA	CALZA_maglia	calzamaglia	1	4557	0.31	no
+CLOTHES	sock	CALZA	CALZA_maglia	calza maglia	2	50	0	no
+CLOTHES	sock	CALZA	CALZA_parigine	calza parigine	2	0	0	no
+CLOTHES	sock	CALZA	CALZA_trasparente	calza trasparente	2	9	0	no
+PLANTS	ivy	EDERA	EDERA_canariense	edera canariense	2	0	0	no
+PLANTS	ivy	EDERA	EDERA_comune	edera comune	2	46	0	no
+PLANTS	ivy	EDERA	EDERA_rampicante	edera rampicante	2	228	0.02	no
+PLANTS	ivy	EDERA	EDERA_selvatica	edera selvatica	2	34	0	no
+PLANTS	ivy	EDERA	EDERA_velenosa	edera velenosa	2	328	0.02	no
+FOODS	fruit	FRUTTA	FRUTTA_albicocca	albicocca	1	14427	0.99	no
+FOODS	fruit	FRUTTA	FRUTTA_albicocca	frutta albicocca	2	5	0	no
+FOODS	fruit	FRUTTA	FRUTTA_ananas	ananas	1	33295	2.29	no
+FOODS	fruit	FRUTTA	FRUTTA_ananas	frutta ananas	2	12	0	no
+FOODS	fruit	FRUTTA	FRUTTA_anguria	anguria	1	16773	1.16	no
+FOODS	fruit	FRUTTA	FRUTTA_anguria	frutta anguria	2	6	0	no
+FOODS	fruit	FRUTTA	FRUTTA_arancia	arancia	1	38356	2.64	no
+FOODS	fruit	FRUTTA	FRUTTA_arancia	frutta arancia	2	11	0	no
+FOODS	fruit	FRUTTA	FRUTTA_avocado	avocado	1	28164	1.94	no
+FOODS	fruit	FRUTTA	FRUTTA_avocado	frutta avocado	2	3	0	no
+FOODS	fruit	FRUTTA	FRUTTA_banana	banana	1	27537	1.9	no
+FOODS	fruit	FRUTTA	FRUTTA_banana	frutta banana	2	6	0	no
+FOODS	fruit	FRUTTA	FRUTTA_ciliegia	ciliegia	1	23828	1.64	no
+FOODS	fruit	FRUTTA	FRUTTA_ciliegia	frutta ciliegia	2	22	0	no
+FOODS	fruit	FRUTTA	FRUTTA_cocco	cocco	1	41813	2.88	no
+FOODS	fruit	FRUTTA	FRUTTA_cocco	frutta cocco	2	1	0	no
+FOODS	fruit	FRUTTA	FRUTTA_fragola	fragola	1	29241	2.01	no
+FOODS	fruit	FRUTTA	FRUTTA_fragola	frutta fragola	2	11	0	no
+FOODS	fruit	FRUTTA	FRUTTA_fresca	frutta fresca	2	33009	2.27	no
+FOODS	fruit	FRUTTA	FRUTTA_kiwi	kiwi	1	24610	1.7	no
+FOODS	fruit	FRUTTA	FRUTTA_kiwi	frutta kiwi	2	13	0	no
+FOODS	fruit	FRUTTA	FRUTTA_lampone	lampone	1	14888	1.03	no
+FOODS	fruit	FRUTTA	FRUTTA_lampone	frutta lampone	2	9	0	no
+FOODS	fruit	FRUTTA	FRUTTA_limone	limone	1	193259	13.31	no
+FOODS	fruit	FRUTTA	FRUTTA_limone	frutta limone	2	6	0	no
+FOODS	fruit	FRUTTA	FRUTTA_litchi	litchi	1	1795	0.12	no
+FOODS	fruit	FRUTTA	FRUTTA_litchi	frutta litchi	2	2	0	no
+FOODS	fruit	FRUTTA	FRUTTA_mandarino	mandarino	1	18568	1.28	no
+FOODS	fruit	FRUTTA	FRUTTA_mandarino	frutta mandarino	2	0	0	no
+FOODS	fruit	FRUTTA	FRUTTA_mango	mango	1	18905	1.3	no
+FOODS	fruit	FRUTTA	FRUTTA_mango	frutta mango	2	3	0	no
+FOODS	fruit	FRUTTA	FRUTTA_mela	mela	1	17594	1.21	no
+FOODS	fruit	FRUTTA	FRUTTA_mela	frutta mela	2	45	0	no
+FOODS	fruit	FRUTTA	FRUTTA_melograno	melograno	1	19242	1.33	no
+FOODS	fruit	FRUTTA	FRUTTA_melograno	frutta melograno	2	2	0	no
+FOODS	fruit	FRUTTA	FRUTTA_melone	melone	1	21954	1.51	no
+FOODS	fruit	FRUTTA	FRUTTA_melone	frutta melone	2	3	0	no
+FOODS	fruit	FRUTTA	FRUTTA_mirtillo	mirtillo	1	17995	1.24	no
+FOODS	fruit	FRUTTA	FRUTTA_mirtillo	frutta mirtillo	2	4	0	no
+FOODS	fruit	FRUTTA	FRUTTA_mora	mora	1	36057	2.48	no
+FOODS	fruit	FRUTTA	FRUTTA_mora	frutta mora	2	6	0	no
+FOODS	fruit	FRUTTA	FRUTTA_noce	noce	1	45390	3.13	no
+FOODS	fruit	FRUTTA	FRUTTA_noce	frutta noce	2	1	0	no
+FOODS	fruit	FRUTTA	FRUTTA_papaya	papaya	1	6834	0.47	no
+FOODS	fruit	FRUTTA	FRUTTA_papaya	frutta papaya	2	3	0	no
+FOODS	fruit	FRUTTA	FRUTTA_pera	pera	1	27131	1.87	no
+FOODS	fruit	FRUTTA	FRUTTA_pera	frutta pera	2	10	0	no
+FOODS	fruit	FRUTTA	FRUTTA_pesca	pesca	1	34359	2.37	no
+FOODS	fruit	FRUTTA	FRUTTA_pesca	frutta pesca	2	3	0	no
+FOODS	fruit	FRUTTA	FRUTTA_pomodoro	pomodoro	1	144721	9.97	no
+FOODS	fruit	FRUTTA	FRUTTA_pomodoro	frutta pomodoro	2	2	0	no
+FOODS	fruit	FRUTTA	FRUTTA_pompelmo	pompelmo	1	19469	1.34	no
+FOODS	fruit	FRUTTA	FRUTTA_pompelmo	frutta pompelmo	2	4	0	no
+FOODS	fruit	FRUTTA	FRUTTA_prugna	prugna	1	12648	0.87	no
+FOODS	fruit	FRUTTA	FRUTTA_prugna	frutta prugna	2	5	0	no
+FOODS	fruit	FRUTTA	FRUTTA_ribes	ribes	1	15790	1.09	no
+FOODS	fruit	FRUTTA	FRUTTA_ribes	frutta ribes	2	2	0	no
+FOODS	fruit	FRUTTA	FRUTTA_secca	frutta secca	2	49103	3.38	no
+FOODS	fruit	FRUTTA	FRUTTA_susina	susina	1	1814	0.12	no
+FOODS	fruit	FRUTTA	FRUTTA_susina	frutta susina	2	2	0	no
+FOODS	fruit	FRUTTA	FRUTTA_uva	uva	1	35319	2.43	no
+FOODS	fruit	FRUTTA	FRUTTA_uva	frutta uva	2	12	0	no
+ANIMALS	giraffe	GIRAFFA	GIRAFFA_africana	giraffa africana	2	4	0	no
+ANIMALS	giraffe	GIRAFFA	GIRAFFA_masai	masai	1	1337	0.09	si
+ANIMALS	giraffe	GIRAFFA	GIRAFFA_masai	giraffa masai	2	11	0	no
+ANIMALS	giraffe	GIRAFFA	GIRAFFA_reticolata	giraffa reticolata	2	47	0	no
+FURNISHINGS/FITTINGS	chandelier	LAMPADARIO	LAMPADARIO_antico	lampadario antico	2	46	0	no
+FURNISHINGS/FITTINGS	chandelier	LAMPADARIO	LAMPADARIO_moderno	lampadario moderno	2	190	0.01	no
+FURNISHINGS/FITTINGS	chandelier	LAMPADARIO	LAMPADARIO_plafoniera	plafoniera	1	8016	0.55	no
+FURNISHINGS/FITTINGS	chandelier	LAMPADARIO	LAMPADARIO_plafoniera	lampadario plafoniera	2	3	0	no
+HOBBIES	reader	LETTORE	LETTORE_assiduo	lettore assiduo	2	294	0.02	no
+HOBBIES	reader	LETTORE	LETTORE_attento	lettore attento	2	2015	0.14	no
+HOBBIES	reader	LETTORE	LETTORE_blu-ray	blu-ray	1	4041	0.28	no
+HOBBIES	reader	LETTORE	LETTORE_blu-ray	lettore blu-ray	2	253	0.02	no
+HOBBIES	reader	LETTORE	LETTORE_cd	lettore cd	1	3417	0.24	si
+HOBBIES	reader	LETTORE	LETTORE_cd	lettore cd	2	3417	0.24	no
+HOBBIES	reader	LETTORE	LETTORE_distratto	lettore distratto	2	320	0.02	no
+HOBBIES	reader	LETTORE	LETTORE_dvd	dvd	1	24064	1.66	no
+HOBBIES	reader	LETTORE	LETTORE_dvd	lettore dvd	2	2813	0.19	no
+HOBBIES	reader	LETTORE	LETTORE_mp3	mp3	1	38498	2.65	no
+HOBBIES	reader	LETTORE	LETTORE_mp3	lettore mp3	2	4169	0.29	no
+HOBBIES	reader	LETTORE	LETTORE_usb	usb	1	17410	1.2	no
+HOBBIES	reader	LETTORE	LETTORE_usb	lettore usb	2	86	0.01	no
+ANIMALS	pork	MAIALE	MAIALE_adulto	maiale adulto	2	53	0	no
+ANIMALS	pork	MAIALE	MAIALE_bianco	maiale bianco	2	62	0	no
+ANIMALS	pork	MAIALE	MAIALE_cinghiale	cinghiale	1	22318	1.54	no
+ANIMALS	pork	MAIALE	MAIALE_cinghiale	maiale cinghiale	2	2	0	no
+ANIMALS	pork	MAIALE	MAIALE_maialino	maialino	1	9374	0.65	no
+ANIMALS	pork	MAIALE	MAIALE_maialino	maiale maialino	2	0	0	no
+ANIMALS	pork	MAIALE	MAIALE_nero	maiale nero	2	868	0.06	no
+ANIMALS	pork	MAIALE	MAIALE_rosa	maiale rosa	2	52	0	no
+ANIMALS	pork	MAIALE	MAIALE_scrofa	scrofa	1	3773	0.26	no
+ANIMALS	pork	MAIALE	MAIALE_scrofa	maiale scrofa	2	0	0	no
+PLANTS	mimosa	MIMOSA	MIMOSA_bianca	mimosa bianca	2	1	0	no
+PLANTS	mimosa	MIMOSA	MIMOSA_gialla	mimosa gialla	2	12	0	no
+PLANTS	mimosa	MIMOSA	MIMOSA_torta	torta	1	18458	1.27	si
+PLANTS	mimosa	MIMOSA	MIMOSA_torta	mimosa torta	2	1	0	no
+ANIMALS	cow	MUCCA	MUCCA_angus	angus	1	1101	0.08	no
+ANIMALS	cow	MUCCA	MUCCA_angus	mucca angus	2	0	0	no
+ANIMALS	cow	MUCCA	MUCCA_bianca	mucca bianca	2	89	0.01	no
+ANIMALS	cow	MUCCA	MUCCA_bruna	mucca bruna	2	12	0	no
+ANIMALS	cow	MUCCA	MUCCA_chianina	chianina	1	3545	0.24	no
+ANIMALS	cow	MUCCA	MUCCA_chianina	mucca chianina	2	21	0	no
+ANIMALS	cow	MUCCA	MUCCA_frisona	frisona	1	664	0.05	no
+ANIMALS	cow	MUCCA	MUCCA_frisona	mucca frisona	2	18	0	no
+ANIMALS	cow	MUCCA	MUCCA_nera	mucca nera	2	40	0	no
+ANIMALS	cow	MUCCA	MUCCA_pezzata	mucca pezzata	2	64	0	no
+ANIMALS	cow	MUCCA	MUCCA_podolica	mucca podolica	2	39	0	no
+ANIMALS	cow	MUCCA	MUCCA_rossa	mucca rossa	2	51	0	no
+ANIMALS	cow	MUCCA	MUCCA_simmental	simmental	1	94	0.01	no
+ANIMALS	cow	MUCCA	MUCCA_simmental	mucca simmental	2	0	0	no
+ANIMALS	cow	MUCCA	MUCCA_vacca	vacca	1	23972	1.65	no
+ANIMALS	cow	MUCCA	MUCCA_vacca	mucca vacca	2	1	0	no
+ANIMALS	cow	MUCCA	MUCCA_vitello	vitello	1	37973	2.62	no
+ANIMALS	cow	MUCCA	MUCCA_vitello	mucca vitello	2	1	0	no
+HOBBIES	ball	PALLA	PALLA_gonfiabile	palla gonfiabile	2	165	0.01	no
+HOBBIES	brush	PENNELLO	PENNELLO_duro	pennello duro	2	41	0	no
+HOBBIES	brush	PENNELLO	PENNELLO_fine	fine	1	31983	2.2	si
+HOBBIES	brush	PENNELLO	PENNELLO_fine	pennello fine	2	101	0.01	no
+HOBBIES	brush	PENNELLO	PENNELLO_grande	pennello grande	2	795	0.05	no
+HOBBIES	brush	PENNELLO	PENNELLO_largo	pennello largo	2	176	0.01	no
+HOBBIES	brush	PENNELLO	PENNELLO_morbido	pennello morbido	2	572	0.04	no
+HOBBIES	brush	PENNELLO	PENNELLO_piatto	pennello piatto	2	928	0.06	no
+HOBBIES	brush	PENNELLO	PENNELLO_piccolo	pennello piccolo	2	276	0.02	no
+HOBBIES	brush	PENNELLO	PENNELLO_sintetico	pennello sintetico	2	87	0.01	no
+HOBBIES	brush	PENNELLO	PENNELLO_tondo	pennello tondo	2	134	0.01	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_alta	pentola alta	2	584	0.04	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_antiaderente	pentola antiaderente	2	1323	0.09	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_bassa	pentola bassa	2	179	0.01	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_casseruola	casseruola	1	24207	1.67	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_casseruola	pentola casseruola	2	1	0	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_padella	padella	1	34793	2.4	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_padella	pentola padella	2	1	0	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_pentolino	pentolino	1	27370	1.89	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_pentolino	pentola pentolino	2	0	0	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_pentolone	pentolone	1	6724	0.46	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_pentolone	pentola pentolone	2	0	0	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_piccola	pentola piccola	2	114	0.01	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_vaporiera	vaporiera	1	3760	0.26	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_vaporiera	pentola vaporiera	2	18	0	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_wok	wok	1	5136	0.35	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_wok	pentola wok	2	63	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_corto	righello corto	2	0	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_flessibile	righello flessibile	2	7	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_goniometro	goniometro	1	2396	0.17	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_goniometro	righello goniometro	2	1	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_lungo	righello lungo	2	41	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_metro	metro	1	42419	2.92	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_metro	righello metro	2	1	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_riga	riga	1	41272	2.84	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_riga	righello riga	2	1	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_squadra	squadra	1	40521	2.79	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_squadra	righello squadra	2	0	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_trasparente	righello trasparente	2	19	0	no
+BODY PARTS	back	SCHIENA	SCHIENA_curva	schiena curva	2	809	0.06	no
+BODY PARTS	back	SCHIENA	SCHIENA_dritta	schiena dritta	2	7303	0.5	no
+BODY PARTS	back	SCHIENA	SCHIENA_lordotica	schiena lordotica	2	0	0	no
+BODY PARTS	back	SCHIENA	SCHIENA_pelosa	schiena pelosa	2	20	0	no
+BODY PARTS	back	SCHIENA	SCHIENA_scoliotica	schiena scoliotica	2	5	0	no
+BODY PARTS	back	SCHIENA	SCHIENA_storta	schiena storta	2	79	0.01	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_antico	specchio antico	2	131	0.01	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_concavo	specchio concavo	2	414	0.03	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_convesso	specchio convesso	2	318	0.02	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_deformante	specchio deformante	2	806	0.06	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_portatile	specchio portatile	2	38	0	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_quadrato	specchio quadrato	2	54	0	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_retrovisore	specchio retrovisore	2	679	0.05	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_rotondo	specchio rotondo	2	235	0.02	no
+KITCHENWARE	chopping board	TAGLIERE	TAGLIERE_grande	tagliere grande	2	32	0	no
+KITCHENWARE	chopping board	TAGLIERE	TAGLIERE_piccolo	tagliere piccolo	2	14	0	no
+KITCHENWARE	chopping board	TAGLIERE	TAGLIERE_rotondo	tagliere rotondo	2	25	0	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_corriera	corriera	1	8286	0.57	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_corriera	autobus corriera	2	1	0	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_elettrico	autobus elettrico	2	238	0.02	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_extraurbano	autobus extraurbano	2	174	0.01	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_filobus	filobus	1	9985	0.69	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_filobus	autobus filobus	2	5	0	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_minibus	minibus	1	14880	1.03	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_minibus	autobus minibus	2	11	0	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_piccolo	autobus piccolo	2	3	0	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_privato	autobus privato	2	186	0.01	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_pullman	pullman	1	40888	2.82	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_pullman	autobus pullman	2	39	0	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_scoperto	autobus scoperto	2	156	0.01	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_scuolabus	scuolabus	1	14394	0.99	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_scuolabus	autobus scuolabus	2	0	0	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_snodato	autobus snodato	2	24	0	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_turistico	autobus turistico	2	1012	0.07	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_urbano	autobus urbano	2	984	0.07	no
+PLANTS	cactus	CACTUS	CACTUS_saguaro	saguaro	1	165	0.01	no
+PLANTS	cactus	CACTUS	CACTUS_saguaro	cactus saguaro	2	39	0	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_comodino	comodino	1	28547	1.97	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_comodino	cassettiera comodino	2	1	0	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_comò	comò	1	8084	0.56	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_comò	cassettiera comò	2	2	0	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_portascarpe	portascarpe	1	437	0.03	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_portascarpe	cassettiera portascarpe	2	0	0	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_settimino	settimino	1	868	0.06	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_settimino	cassettiera settimino	2	4	0	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_vintage	cassettiera vintage	2	36	0	no
+ANIMALS	elephant	ELEFANTE	ELEFANTE_africano	elefante africano	2	593	0.04	no
+ANIMALS	elephant	ELEFANTE	ELEFANTE_asiatico	elefante asiatico	2	389	0.03	no
+ANIMALS	elephant	ELEFANTE	ELEFANTE_grigio	elefante grigio	2	22	0	no
+ANIMALS	elephant	ELEFANTE	ELEFANTE_indiano	elefante indiano	2	347	0.02	no
+ANIMALS	elephant	ELEFANTE	ELEFANTE_mammut	mammut	1	5001	0.34	no
+ANIMALS	elephant	ELEFANTE	ELEFANTE_mammut	elefante mammut	2	0	0	no
+STATIONERY	sheet	FOGLIO	FOGLIO_a0	foglio A0	2	26	0	no
+STATIONERY	sheet	FOGLIO	FOGLIO_a1	foglio A1	2	36	0	no
+STATIONERY	sheet	FOGLIO	FOGLIO_a2	foglio A2	2	22	0	no
+STATIONERY	sheet	FOGLIO	FOGLIO_a3	foglio A3	2	322	0.02	no
+STATIONERY	sheet	FOGLIO	FOGLIO_a4	foglio A4	2	2956	0.21	no
+STATIONERY	sheet	FOGLIO	FOGLIO_a5	foglio A5	2	105	0	no
+STATIONERY	sheet	FOGLIO	FOGLIO_a6	foglio A6	2	19	0	no
+STATIONERY	sheet	FOGLIO	FOGLIO_bianco	foglio bianco	2	9733	0.67	no
+STATIONERY	sheet	FOGLIO	FOGLIO_colorato	foglio colorato	2	168	0.01	no
+STATIONERY	sheet	FOGLIO	FOGLIO_liscio	foglio liscio	2	43	0	no
+STATIONERY	sheet	FOGLIO	FOGLIO_protocollo	protocollo	1	46877	3.23	si
+STATIONERY	sheet	FOGLIO	FOGLIO_protocollo	foglio protocollo	2	507	0.03	no
+STATIONERY	sheet	FOGLIO	FOGLIO_ruvido	foglio ruvido	2	28	0	no
+ANIMALS	cock	GALLO	GALLO_cedrone	cedrone	1	1489	0.1	no
+ANIMALS	cock	GALLO	GALLO_cedrone	gallo cedrone	2	1078	0.07	no
+ANIMALS	cock	GALLO	GALLO_nero	gallo nero	2	420	0.03	no
+ANIMALS	cock	GALLO	GALLO_ruspante	gallo ruspante	2	29	0	no
+PLANTS	sunflower	GIRASOLE	GIRASOLE_giallo	girasole giallo	2	23	0	no
+PLANTS	sunflower	GIRASOLE	GIRASOLE_rosso	girasole rosso	2	5	0	no
+STATIONERY	clip	GRAFFETTA	GRAFFETTA_colorata	graffetta colorata	2	2	0	no
+STATIONERY	clip	GRAFFETTA	GRAFFETTA_fermacarte	fermacarte	1	2010	0.14	no
+STATIONERY	clip	GRAFFETTA	GRAFFETTA_fermacarte	graffetta fermacarte	2	9	0	no
+STATIONERY	clip	GRAFFETTA	GRAFFETTA_grande	graffetta grande	2	6	0	no
+STATIONERY	clip	GRAFFETTA	GRAFFETTA_piccola	graffetta piccola	2	0	0	no
+CLOTHES	sweater	MAGLIA	MAGLIA_bianca	maglia bianca	2	3907	0.27	no
+CLOTHES	sweater	MAGLIA	MAGLIA_canottiera	canottiera	1	7610	0.52	no
+CLOTHES	sweater	MAGLIA	MAGLIA_canottiera	maglia canottiera	2	0	0	no
+CLOTHES	sweater	MAGLIA	MAGLIA_colorata	maglia colorata	2	82	0.01	no
+CLOTHES	sweater	MAGLIA	MAGLIA_corta	maglia corta	2	74	0.01	no
+CLOTHES	sweater	MAGLIA	MAGLIA_felpa	felpa	1	23545	1.62	no
+CLOTHES	sweater	MAGLIA	MAGLIA_felpa	maglia felpa	2	9	0	no
+CLOTHES	sweater	MAGLIA	MAGLIA_lunga	maglia lunga	2	180	0.01	no
+CLOTHES	sweater	MAGLIA	MAGLIA_maglietta	maglietta	1	41078	2.83	no
+CLOTHES	sweater	MAGLIA	MAGLIA_maglietta	maglia maglietta	2	7	0	no
+CLOTHES	sweater	MAGLIA	MAGLIA_maglione	maglione	1	21166	1.46	no
+CLOTHES	sweater	MAGLIA	MAGLIA_maglione	maglia maglione	2	10	0	no
+CLOTHES	sweater	MAGLIA	MAGLIA_polo	polo	1	183772	12.66	no
+CLOTHES	sweater	MAGLIA	MAGLIA_polo	maglia polo	2	31	0	no
+CLOTHES	sweater	MAGLIA	MAGLIA_pullover	pullover	1	4992	0.34	no
+CLOTHES	sweater	MAGLIA	MAGLIA_pullover	maglia pullover	2	8	0	no
+CLOTHES	sweater	MAGLIA	MAGLIA_scollata	maglia scollata	2	70	0	no
+CLOTHES	sweater	MAGLIA	MAGLIA_t-shirt	t-shirt	1	29336	2.02	no
+CLOTHES	sweater	MAGLIA	MAGLIA_t-shirt	maglia t-shirt	2	11	0	no
+BODY PARTS	nose	NASO	NASO_adunco	naso adunco	2	787	0.05	no
+BODY PARTS	nose	NASO	NASO_aquilino	naso aquilino	2	1078	0.07	no
+BODY PARTS	nose	NASO	NASO_dritto	naso dritto	2	351	0.02	no
+BODY PARTS	nose	NASO	NASO_grande	naso grande	2	239	0.02	no
+BODY PARTS	nose	NASO	NASO_greco	naso greco	2	74	0.01	no
+BODY PARTS	nose	NASO	NASO_piccolo	naso piccolo	2	372	0.03	no
+BODY PARTS	nose	NASO	NASO_romano	naso romano	2	30	0	no
+BODY PARTS	nose	NASO	NASO_schiacciato	naso schiacciato	2	548	0.04	no
+BODY PARTS	nose	NASO	NASO_storto	naso storto	2	424	0.03	no
+BODY PARTS	eye	OCCHIO	OCCHIO_azzurro	occhio azzurro	2	515	0.04	no
+BODY PARTS	eye	OCCHIO	OCCHIO_blu	occhio blu	2	293	0.02	no
+BODY PARTS	eye	OCCHIO	OCCHIO_grande	occhio grande	2	160	0.01	no
+BODY PARTS	eye	OCCHIO	OCCHIO_grigio	occhio grigio	2	43	0	no
+BODY PARTS	eye	OCCHIO	OCCHIO_incappucciato	occhio incappucciato	2	5	0	no
+BODY PARTS	eye	OCCHIO	OCCHIO_marrone	occhio marrone	2	80	0.01	no
+BODY PARTS	eye	OCCHIO	OCCHIO_miope	occhio miope	2	233	0.02	no
+BODY PARTS	eye	OCCHIO	OCCHIO_nero	occhio nero	2	1833	0.13	no
+BODY PARTS	eye	OCCHIO	OCCHIO_piccolo	occhio piccolo	2	109	0.01	no
+BODY PARTS	eye	OCCHIO	OCCHIO_rosso	occhio rosso	2	746	0.05	no
+BODY PARTS	eye	OCCHIO	OCCHIO_rotondo	occhio rotondo	2	75	0.01	no
+BODY PARTS	eye	OCCHIO	OCCHIO_verde	occhio verde	2	225	0.02	no
+STATIONERY	ink remover	SCOLORINA	SCOLORINA_bianchetto	bianchetto	1	2260	0.16	no
+STATIONERY	ink remover	SCOLORINA	SCOLORINA_bianchetto	scolorina bianchetto	2	0	0	no
+STATIONERY	ink remover	SCOLORINA	SCOLORINA_cancellina	cancellina	1	44	0	no
+STATIONERY	ink remover	SCOLORINA	SCOLORINA_cancellina	scolorina cancellina	2	0	0	no
+STATIONERY	ink remover	SCOLORINA	SCOLORINA_liquida	scolorina liquida	2	0	0	no
+PLANTS	tulip	TULIPANO	TULIPANO_bianco	tulipano bianco	2	59	0	no
+PLANTS	tulip	TULIPANO	TULIPANO_blu	tulipano blu	2	8	0	no
+PLANTS	tulip	TULIPANO	TULIPANO_giallo	tulipano giallo	2	73	0.01	no
+PLANTS	tulip	TULIPANO	TULIPANO_rosa	tulipano rosa	2	18	0	no
+PLANTS	tulip	TULIPANO	TULIPANO_rosso	tulipano rosso	2	149	0.01	no
+PLANTS	tulip	TULIPANO	TULIPANO_viola	tulipano viola	2	21	0	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_anfora	anfora	1	8071	0.56	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_anfora	vaso anfora	2	4	0	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_brocca	brocca	1	10628	0.73	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_brocca	vaso brocca	2	0	0	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_caraffa	caraffa	1	8716	0.6	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_caraffa	vaso caraffa	2	1	0	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_cinese	vaso cinese	2	234	0.02	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_giara	giara	1	3819	0.26	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_giara	vaso giara	2	0	0	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_grande	vaso grande	2	309	0.02	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_greco	vaso greco	2	220	0.02	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_largo	vaso largo	2	69	0	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_piccolo	vaso piccolo	1	175	0.01	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_piccolo	vaso piccolo	2	175	0.01	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_arcade	arcade	1	20864	1.44	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_arcade	videogioco arcade	2	819	0.06	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_fantasy	fantasy	1	85531	5.89	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_fantasy	videogioco fantasy	2	62	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_fps	fps	1	19810	1.36	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_fps	videogioco fps	2	2	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_horror	horror	1	36496	2.51	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_horror	videogioco horror	2	102	0.01	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_mmorpg	mmorpg	1	690	0.05	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_mmorpg	videogioco mmorpg	2	2	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_multiplayer	multiplayer	1	35300	2.43	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_multiplayer	videogioco multiplayer	2	63	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_online	online	1	39834	2.74	si
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_online	videogioco online	2	255	0.02	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_picchiaduro	picchiaduro	1	10953	0.75	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_picchiaduro	videogioco picchiaduro	2	174	0.01	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_platform	platform	1	19213	1.32	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_platform	videogioco platform	2	54	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_rpg	rpg	1	3135	0.22	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_rpg	videogioco rpg	2	5	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_sparatutto	sparatutto	1	20259	1.4	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_sparatutto	videogioco sparatutto	2	426	0.03	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_a benzina	automobile a benzina	3	87	0.01	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_a gas	automobile a gas	3	12	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_a gpl	automobile a gpl	3	2	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_a metano	automobile a metano	3	32	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_da corsa	automobile da corsa	3	219	0.02	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_station wagon	station wagon	2	9202	0.63	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_station wagon	automobile station wagon	3	5	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_da donna	canottiera da donna	3	7	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_da uomo	canottiera da uomo	3	13	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_di cotone	canottiera di cotone	3	26	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_di lana	canottiera di lana	3	50	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_senza maniche	canottiera senza maniche	3	5	0	no
+FURNITURE	cupboard	CREDENZA	CREDENZA_di legno	credenza di legno	3	26	0	no
+FURNITURE	sofa	DIVANO	DIVANO_ad angolo	divano ad angolo	3	550	0.04	no
+FURNITURE	sofa	DIVANO	DIVANO_con contenitore	divano con contenitore	3	13	0	no
+FURNITURE	sofa	DIVANO	DIVANO_con isola	divano con isola	3	8	0	no
+FURNITURE	sofa	DIVANO	DIVANO_con penisola	divano con penisola	3	152	0.01	no
+FURNITURE	sofa	DIVANO	DIVANO_in pelle	divano in pelle	3	1292	0.09	no
+FURNITURE	sofa	DIVANO	DIVANO_in stoffa	divano in stoffa	3	19	0	no
+VEHICLES	helicopter	ELICOTTERO	ELICOTTERO_da guerra	elicottero da guerra	3	127	0.01	no
+VEHICLES	helicopter	ELICOTTERO	ELICOTTERO_da salvataggio	elicottero da salvataggio	3	2	0	no
+VEHICLES	helicopter	ELICOTTERO	ELICOTTERO_da trasporto	elicottero da trasporto	3	175	0.01	no
+VEHICLES	helicopter	ELICOTTERO	ELICOTTERO_della polizia	elicottero della polizia	3	469	0.03	no
+FURNITURE	bed	LETTO	LETTO_a baldacchino	letto a baldacchino	3	2793	0.19	no
+FURNITURE	bed	LETTO	LETTO_a castello	letto a castello	3	10344	0.71	no
+FURNITURE	bed	LETTO	LETTO_ad acqua	letto ad acqua	3	195	0.01	no
+FURNITURE	bed	LETTO	LETTO_alla francese	letto alla francese	3	1567	0.11	no
+FURNITURE	bed	LETTO	LETTO_king size	king size	2	3590	0.25	no
+FURNITURE	bed	LETTO	LETTO_king size	letto king size	3	1544	0.11	no
+HOBBIES	book	LIBRO	LIBRO_da colorare	libro da colorare	3	429	0.03	no
+HOBBIES	book	LIBRO	LIBRO_di avventura	libro di avventura	3	161	0.01	no
+HOBBIES	book	LIBRO	LIBRO_di cucina	libro di cucina	3	3299	0.23	no
+HOBBIES	book	LIBRO	LIBRO_di fantascienza	libro di fantascienza	3	733	0.05	no
+HOBBIES	book	LIBRO	LIBRO_di narrativa	libro di narrativa	3	995	0.07	no
+HOBBIES	book	LIBRO	LIBRO_di scuola	libro di scuola	3	514	0.04	no
+HOBBIES	book	LIBRO	LIBRO_per bambini	libro per bambini	3	3938	0.27	no
+HOBBIES	book	LIBRO	LIBRO_romanzo rosa	romanzo rosa	2	1478	0.1	no
+HOBBIES	book	LIBRO	LIBRO_romanzo rosa	libro romanzo rosa	3	0	0	no
+BODY PARTS	ear	ORECCHIO	ORECCHIO_a punta	orecchio a punta	3	26	0	no
+BODY PARTS	ear	ORECCHIO	ORECCHIO_a sventola	orecchio a sventola	3	39	0	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in cemento	pavimento in cemento	3	964	0.07	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in ceramica	pavimento in ceramica	3	579	0.04	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in cotto	pavimento in cotto	3	2380	0.16	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in gres	pavimento in gres	3	866	0.06	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in laminato	pavimento in laminato	3	823	0.06	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in legno	pavimento in legno	3	6422	0.44	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in linoleum	pavimento in linoleum	3	222	0.02	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in marmo	pavimento in marmo	3	1792	0.12	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in mattonelle	pavimento in mattonelle	3	84	0.01	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in piastrelle	pavimento in piastrelle	3	245	0.02	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in pvc	pavimento in pvc	3	277	0.02	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in resina	pavimento in resina	3	1378	0.09	no
+HOUSING BUILDINGS	stay	SOGGIORNO	SOGGIORNO_open space	open space	2	26303	1.81	no
+HOUSING BUILDINGS	stay	SOGGIORNO	SOGGIORNO_open space	soggiorno open space	3	749	0.05	no
+BODY PARTS	shoulder	SPALLA	SPALLA_di maiale	spalla di maiale	3	366	0.03	no
+STATIONERY	stapler	SPILLATRICE	SPILLATRICE_da tavolo	spillatrice da tavolo	3	2	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_a quadretti	taccuino a quadretti	3	6	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_a righe	taccuino a righe	3	11	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_ad anelli	taccuino ad anelli	3	1	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_block notes	block notes	2	2791	0.19	no
+STATIONERY	notebook	TACCUINO	TACCUINO_block notes	taccuino block notes	3	0	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_da disegno	taccuino da disegno	3	16	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_in pelle	taccuino in pelle	3	19	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_per appunti	taccuino per appunti	3	64	0	no
+BODY PARTS	head	TESTA	TESTA_di cavallo	testa di cavallo	3	1035	0.07	no
+FURNISHINGS/FITTINGS	clothes hanger	APPENDIABITI	APPENDIABITI_a rastrelliera	appendiabiti a rastrelliera	3	1	0	no
+FURNISHINGS/FITTINGS	clothes hanger	APPENDIABITI	APPENDIABITI_da muro	appendiabiti da muro	3	43	0	no
+FURNISHINGS/FITTINGS	clothes hanger	APPENDIABITI	APPENDIABITI_da parete	appendiabiti da parete	3	291	0.02	no
+FURNISHINGS/FITTINGS	clothes hanger	APPENDIABITI	APPENDIABITI_da terra	appendiabiti da terra	3	186	0.01	no
+STATIONERY	case	ASTUCCIO	ASTUCCIO_a bustina	astuccio a bustina	3	8	0	no
+STATIONERY	case	ASTUCCIO	ASTUCCIO_a cerniera	astuccio a cerniera	3	1	0	no
+HOUSING BUILDINGS	balcony	BALCONE	BALCONE_a incasso	balcone a incasso	3	0	0	no
+HOUSING BUILDINGS	balcony	BALCONE	BALCONE_a veranda	balcone a veranda	3	13	0	no
+FOODS	meat	CARNE	CARNE_di cavallo	carne di cavallo	3	3055	0.21	no
+FOODS	meat	CARNE	CARNE_di coniglio	carne di coniglio	3	922	0.06	no
+FOODS	meat	CARNE	CARNE_di maiale	carne di maiale	3	10956	0.75	no
+FOODS	meat	CARNE	CARNE_di manzo	carne di manzo	3	6496	0.45	no
+FOODS	meat	CARNE	CARNE_di pollo	carne di pollo	3	4035	0.28	no
+FOODS	meat	CARNE	CARNE_di tacchino	carne di tacchino	3	884	0.06	no
+FOODS	meat	CARNE	CARNE_di vitello	carne di vitello	3	2329	0.16	no
+FURNISHINGS/FITTINGS	centerpiece	CENTROTAVOLA	CENTROTAVOLA_con candele	centrotavola con candele	3	25	0	no
+FURNISHINGS/FITTINGS	centerpiece	CENTROTAVOLA	CENTROTAVOLA_di fiori	centrotavola di fiori	3	60	0	no
+FURNISHINGS/FITTINGS	centerpiece	CENTROTAVOLA	CENTROTAVOLA_di pizzo	centrotavola di pizzo	3	2	0	no
+PLANTS	cyclamen	CICLAMINO	CICLAMINO_dei boschi	ciclamino dei boschi	3	2	0	no
+BODY PARTS	leg	GAMBA	GAMBA_del tavolo	gamba del tavolo	3	333	0.02	no
+BODY PARTS	leg	GAMBA	GAMBA_della sedia	gamba della sedia	3	88	0.01	no
+BODY PARTS	leg	GAMBA	GAMBA_di legno	gamba di legno	3	939	0.06	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_a incandescenza	lampada a incandescenza	3	337	0.02	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_a led	lampada a led	3	767	0.05	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_abat jour	abat jour	2	754	0.05	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_abat jour	lampada abat jour	3	14	0	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_ad olio	lampada ad olio	3	743	0.05	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_da comodino	lampada da comodino	3	463	0.03	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_da muro	lampada da muro	3	49	0	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_da scrivania	lampada da scrivania	3	457	0.03	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_da tavolo	lampada da tavolo	3	4078	0.28	no
+FURNISHINGS/FITTINGS	lamp	LAMPADA	LAMPADA_da terra	lampada da terra	3	2180	0.15	no
+CLOTHES	trouser	PANTALONE	PANTALONE_a palazzo	pantalone a palazzo	3	99	0.01	no
+CLOTHES	trouser	PANTALONE	PANTALONE_a sigaretta	pantalone a sigaretta	3	150	0.01	no
+CLOTHES	trouser	PANTALONE	PANTALONE_a zampa	pantalone a zampa	3	89	0.01	no
+CLOTHES	trouser	PANTALONE	PANTALONE_della tuta	pantalone della tuta	3	112	0.01	no
+CLOTHES	trouser	PANTALONE	PANTALONE_di lino	pantalone di lino	3	42	0	no
+CLOTHES	shoe	SCARPA	SCARPA_col tacco	col tacco	2	3364	0.23	si
+CLOTHES	shoe	SCARPA	SCARPA_col tacco	scarpa col tacco	3	213	0.01	no
+CLOTHES	shoe	SCARPA	SCARPA_da calcio	scarpa da calcio	3	358	0.02	no
+CLOTHES	shoe	SCARPA	SCARPA_da corsa	scarpa da corsa	3	563	0.04	no
+CLOTHES	shoe	SCARPA	SCARPA_da ginnastica	scarpa da ginnastica	3	742	0.05	no
+CLOTHES	shoe	SCARPA	SCARPA_da tennis	scarpa da tennis	3	344	0.02	no
+CLOTHES	shoe	SCARPA	SCARPA_da trekking	scarpa da trekking	3	202	0.01	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_a muro	televisione a muro	3	8	0	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_al plasma	televisione al plasma	3	107	0.01	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_smart tv	smart tv	2	3773	0.26	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_smart tv	televisione smart tv	3	1	0	no
+ANIMALS	tiger	TIGRE	TIGRE_del bengala	tigre del bengala	3	73	0.01	no
+ANIMALS	tiger	TIGRE	TIGRE_di sumatra	tigre di sumatra	3	3	0	no
+STATIONERY	diary	AGENDA	AGENDA_ad anelli	agenda ad anelli	3	25	0	no
+HOUSING BUILDINGS	bathroom	BAGNO	BAGNO_delle donne	bagno delle donne	3	577	0.04	no
+HOUSING BUILDINGS	bathroom	BAGNO	BAGNO_di lusso	bagno di lusso	3	373	0.03	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_a cilindro	cappello a cilindro	3	1393	0.1	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_con visiera	cappello con visiera	3	247	0.02	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_da baseball	cappello da baseball	3	262	0.02	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_da cowboy	cappello da cowboy	3	726	0.05	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_da pescatore	cappello da pescatore	3	144	0.01	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_di lana	cappello di lana	3	693	0.05	no
+CLOTHES	hat	CAPPELLO	CAPPELLO_di paglia	cappello di paglia	3	2727	0.19	no
+FURNITURE	dresser	COMÒ	COMÒ_a cassetti	comò a cassetti	3	4	0	no
+FURNITURE	dresser	COMÒ	COMÒ_di legno	comò di legno	3	12	0	no
+HOBBIES	crossword	CRUCIVERBA	CRUCIVERBA_parole crociate	parole crociate	2	2367	0.16	no
+HOBBIES	crossword	CRUCIVERBA	CRUCIVERBA_parole crociate	cruciverba parole crociate	3	0	0	no
+HOBBIES	crossword	CRUCIVERBA	CRUCIVERBA_senza schema	cruciverba senza schema	3	26	0	no
+FOODS	salad	INSALATA	INSALATA_caesar salad	caesar salad	2	105	0.01	no
+FOODS	salad	INSALATA	INSALATA_caesar salad	insalata caesar salad	3	0	0	no
+FOODS	salad	INSALATA	INSALATA_di pollo	insalata di pollo	3	1145	0.08	no
+FOODS	salad	INSALATA	INSALATA_di riso	insalata di riso	3	2979	0.21	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_a cucù	orologio a cucù	3	714	0.05	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_a pendolo	orologio a pendolo	3	1046	0.07	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_da muro	orologio da muro	3	219	0.02	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_da parete	orologio da parete	3	1324	0.09	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_da polso	orologio da polso	3	3968	0.27	no
+FURNISHINGS/FITTINGS	clock	OROLOGIO	OROLOGIO_da taschino	orologio da taschino	3	631	0.04	no
+FOODS	fish	PESCE	PESCE_di fiume	pesce di fiume	3	443	0.03	no
+FOODS	fish	PESCE	PESCE_di lago	pesce di lago	3	2129	0.15	no
+FOODS	fish	PESCE	PESCE_di mare	pesce di mare	3	2189	0.15	no
+HOUSING BUILDINGS	stairs	SCALA	SCALA_a chiocciola	scala a chiocciola	3	7453	0.51	no
+HOUSING BUILDINGS	stairs	SCALA	SCALA_a pioli	scala a pioli	3	1910	0.13	no
+HOUSING BUILDINGS	stairs	SCALA	SCALA_d emergenza	scala d' emergenza	3	106	0.01	no
+FURNITURE	desk	SCRIVANIA	SCRIVANIA_da ufficio	scrivania da ufficio	3	130	0.01	no
+FURNITURE	desk	SCRIVANIA	SCRIVANIA_di legno	scrivania di legno	3	178	0.01	no
+FURNITURE	desk	SCRIVANIA	SCRIVANIA_di metallo	scrivania di metallo	3	19	0	no
+FURNITURE	desk	SCRIVANIA	SCRIVANIA_di vetro	scrivania di vetro	3	24	0	no
+STATIONERY	pencil sharpener	TEMPERINO	TEMPERINO_a manovella	temperino a manovella	3	1	0	no
+STATIONERY	pencil sharpener	TEMPERINO	TEMPERINO_con contenitore	temperino con contenitore	3	4	0	no
+STATIONERY	pencil sharpener	TEMPERINO	TEMPERINO_di metallo	temperino di metallo	3	4	0	no
+STATIONERY	pencil sharpener	TEMPERINO	TEMPERINO_di plastica	temperino di plastica	3	0	0	no
+STATIONERY	pencil sharpener	TEMPERINO	TEMPERINO_per trucchi	temperino per trucchi	3	0	0	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_a gas	camera a gas	3	3415	0.24	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_d albergo	camera d' albergo	3	5967	0.41	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_da letto	camera da letto	3	26704	1.84	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_da pranzo	camera da pranzo	3	1017	0.07	no
+HOUSING BUILDINGS	bedroom	CAMERA	CAMERA_degli ospiti	camera degli ospiti	3	1068	0.07	no
+ANIMALS	horse	CAVALLO	CAVALLO_da corsa	cavallo da corsa	3	892	0.06	no
+ANIMALS	horse	CAVALLO	CAVALLO_da soma	cavallo da soma	3	92	0.01	no
+ANIMALS	horse	CAVALLO	CAVALLO_da traino	cavallo da traino	3	41	0	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_al latte	cioccolato al latte	3	6418	0.44	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_al peperoncino	cioccolato al peperoncino	3	160	0.01	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_al sale	cioccolato al sale	3	57	0	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_all arancia	cioccolato all' arancia	3	82	0.01	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_alla frutta	cioccolato alla frutta	3	40	0	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_alla gianduja	cioccolato alla gianduja	3	2	0	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_alla menta	cioccolato alla menta	3	65	0	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_alle mandorle	cioccolato alle mandorle	3	18	0	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_alle nocciole	cioccolato alle nocciole	3	116	0.01	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_di modica	cioccolato di modica	3	82	0.01	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_extra fondente	cioccolato extra fondente	3	347	0.02	no
+BODY PARTS	heart	CUORE	CUORE_d oro	cuore d' oro	3	4063	0.28	no
+BODY PARTS	heart	CUORE	CUORE_di pietra	cuore di pietra	3	2070	0.14	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_da cervicale	cuscino da cervicale	3	6	0	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_da divano	cuscino da divano	3	15	0	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_da letto	cuscino da letto	3	19	0	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_da sedia	cuscino da sedia	3	19	0	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_da viaggio	cuscino da viaggio	3	213	0.01	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_di lattice	cuscino di lattice	3	3	0	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_di piuma	cuscino di piuma	3	16	0	no
+CLOTHES	sweatshirt	FELPA	FELPA_con cappuccio	felpa con cappuccio	3	1294	0.09	no
+CLOTHES	sweatshirt	FELPA	FELPA_con cerniera	felpa con cerniera	3	21	0	no
+CLOTHES	sweatshirt	FELPA	FELPA_di pile	felpa di pile	3	51	0	no
+CLOTHES	sweatshirt	FELPA	FELPA_senza cappuccio	felpa senza cappuccio	3	13	0	no
+CLOTHES	sweatshirt	FELPA	FELPA_senza cerniera	felpa senza cerniera	3	0	0	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_di ruolo	gioco da tavola di ruolo	3	0	0	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_seven wonders	seven wonders	2	11	0	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_trivial pursuit	trivial pursuit	2	76	0.01	no
+FURNITURE	bookcase	LIBRERIA	LIBRERIA_a muro	libreria a muro	3	186	0.01	no
+FURNITURE	bookcase	LIBRERIA	LIBRERIA_a scaffali	libreria a scaffali	3	19	0	no
+FURNITURE	bookcase	LIBRERIA	LIBRERIA_da parete	libreria da parete	3	122	0.01	no
+STATIONERY	pastel	PASTELLO	PASTELLO_a cera	pastello a cera	3	237	0.02	no
+STATIONERY	pastel	PASTELLO	PASTELLO_a gesso	pastello a gesso	3	0	0	no
+STATIONERY	pastel	PASTELLO	PASTELLO_a matita	pastello a matita	3	2	0	no
+STATIONERY	pastel	PASTELLO	PASTELLO_ad acqua	pastello ad acqua	3	5	0	no
+STATIONERY	pastel	PASTELLO	PASTELLO_ad olio	pastello ad olio	3	76	0.01	no
+HOUSING BUILDINGS	door	PORTA	PORTA_a battente	porta a battente	3	672	0.05	no
+HOUSING BUILDINGS	door	PORTA	PORTA_a libro	porta a libro	3	309	0.02	no
+HOUSING BUILDINGS	door	PORTA	PORTA_a soffietto	porta a soffietto	3	470	0.03	no
+HOUSING BUILDINGS	door	PORTA	PORTA_a vetro	porta a vetro	3	369	0.03	no
+HOUSING BUILDINGS	door	PORTA	PORTA_d ingresso	porta d' ingresso	3	16612	1.14	no
+HOUSING BUILDINGS	door	PORTA	PORTA_da esterno	porta da esterno	3	14	0	no
+HOUSING BUILDINGS	door	PORTA	PORTA_da interno	porta da interno	3	84	0.01	no
+HOUSING BUILDINGS	door	PORTA	PORTA_di legno	porta di legno	3	1514	0.1	no
+HOBBIES	racket	RACCHETTA	RACCHETTA_da badminton	racchetta da badminton	3	17	0	no
+HOBBIES	racket	RACCHETTA	RACCHETTA_da neve	racchetta da neve	3	96	0.01	no
+HOBBIES	racket	RACCHETTA	RACCHETTA_da padel	racchetta da padel	3	71	0	no
+HOBBIES	racket	RACCHETTA	RACCHETTA_da squash	racchetta da squash	3	42	0	no
+HOBBIES	racket	RACCHETTA	RACCHETTA_da tennis	racchetta da tennis	3	1054	0.07	no
+HOBBIES	racket	RACCHETTA	RACCHETTA_da volano	racchetta da volano	3	5	0	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_a cerniera	teglia a cerniera	3	333	0.02	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_da forno	teglia da forno	3	6045	0.42	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_in acciaio	teglia in acciaio	3	14	0	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_in alluminio	teglia in alluminio	3	75	0.01	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_in terracotta	teglia in terracotta	3	17	0	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_per dolci	teglia per dolci	3	45	0	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_per muffin	teglia per muffin	3	312	0.02	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_per pane	teglia per pane	3	13	0	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_per pizze	teglia per pizze	3	3	0	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_per torte	teglia per torte	3	86	0.01	no
+HOUSING BUILDINGS	roof	TETTO	TETTO_a capanna	tetto a capanna	3	1266	0.09	no
+HOUSING BUILDINGS	roof	TETTO	TETTO_a punta	tetto a punta	3	248	0.02	no
+HOUSING BUILDINGS	roof	TETTO	TETTO_con tegole	tetto con tegole	3	113	0.01	no
+HOUSING BUILDINGS	roof	TETTO	TETTO_di mattoni	tetto di mattoni	3	11	0	no
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_a vapore	traghetto a vapore	3	13	0	no
+VEHICLES	ferry	TRAGHETTO	TRAGHETTO_per auto	traghetto per auto	3	257	0.02	no
+PLANTS	fir	ABETE	ABETE_di natale	abete di natale	3	23	0	no
+VEHICLES	plane	AEREO	AEREO_di linea	aereo di linea	3	3925	0.27	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_chiave inglese	chiave inglese	2	3743	0.26	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_chiave inglese	attrezzo chiave inglese	3	0	0	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_da cucina	attrezzo da cucina	3	211	0.01	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_da giardino	attrezzo da giardino	3	117	0.01	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_da lavoro	attrezzo da lavoro	3	228	0.02	no
+BODY PARTS	mouth	BOCCA	BOCCA_a cuore	bocca a cuore	3	99	0.01	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_a colori	fotografia a colori	3	1122	0.08	no
+FURNISHINGS/FITTINGS	photography	FOTOGRAFIA	FOTOGRAFIA_di matrimonio	fotografia di matrimonio	3	1000	0.07	no
+CLOTHES	skirt	GONNA	GONNA_a balze	gonna a balze	3	176	0.01	no
+CLOTHES	skirt	GONNA	GONNA_a campana	gonna a campana	3	125	0.01	no
+CLOTHES	skirt	GONNA	GONNA_a pieghe	gonna a pieghe	3	428	0.03	no
+CLOTHES	skirt	GONNA	GONNA_a ruota	gonna a ruota	3	779	0.05	no
+CLOTHES	skirt	GONNA	GONNA_a tubino	gonna a tubino	3	358	0.02	no
+CLOTHES	skirt	GONNA	GONNA_al ginocchio	gonna al ginocchio	3	352	0.02	no
+CLOTHES	skirt	GONNA	GONNA_con spacco	gonna con spacco	3	56	0	no
+CLOTHES	skirt	GONNA	GONNA_di jeans	gonna di jeans	3	183	0.01	no
+CLOTHES	skirt	GONNA	GONNA_di pelle	gonna di pelle	3	226	0.02	no
+KITCHENWARE	ladle	MESTOLO	MESTOLO_di acciaio	mestolo di acciaio	3	9	0	no
+KITCHENWARE	ladle	MESTOLO	MESTOLO_di legno	mestolo di legno	3	1758	0.12	no
+KITCHENWARE	ladle	MESTOLO	MESTOLO_di metallo	mestolo di metallo	3	16	0	no
+KITCHENWARE	ladle	MESTOLO	MESTOLO_di plastica	mestolo di plastica	3	10	0	no
+KITCHENWARE	pan	PADELLA	PADELLA_di acciaio	padella di acciaio	3	38	0	no
+KITCHENWARE	pan	PADELLA	PADELLA_di ghisa	padella di ghisa	3	202	0.01	no
+KITCHENWARE	pan	PADELLA	PADELLA_di rame	padella di rame	3	76	0.01	no
+KITCHENWARE	pan	PADELLA	PADELLA_per crepes	padella per crepes	3	78	0.01	no
+KITCHENWARE	plate	PIATTO	PIATTO_da dessert	piatto da dessert	3	108	0.01	no
+KITCHENWARE	plate	PIATTO	PIATTO_da dolce	piatto da dolce	3	45	0	no
+KITCHENWARE	plate	PIATTO	PIATTO_da pizza	piatto da pizza	3	54	0	no
+KITCHENWARE	plate	PIATTO	PIATTO_da portata	piatto da portata	3	8176	0.56	no
+KITCHENWARE	plate	PIATTO	PIATTO_di ceramica	piatto di ceramica	3	444	0.03	no
+KITCHENWARE	plate	PIATTO	PIATTO_di plastica	piatto di plastica	3	460	0.03	no
+STATIONERY	copybook	QUADERNO	QUADERNO_a quadretti	quaderno a quadretti	3	311	0.02	no
+STATIONERY	copybook	QUADERNO	QUADERNO_a quadrettoni	quaderno a quadrettoni	3	9	0	no
+STATIONERY	copybook	QUADERNO	QUADERNO_a righe	quaderno a righe	3	242	0.02	no
+STATIONERY	copybook	QUADERNO	QUADERNO_ad anelli	quaderno ad anelli	3	176	0.01	no
+STATIONERY	copybook	QUADERNO	QUADERNO_da disegno	quaderno da disegno	3	33	0	no
+STATIONERY	copybook	QUADERNO	QUADERNO_per appunti	quaderno per appunti	3	93	0.01	no
+CLOTHES	scarf	SCIARPA	SCIARPA_ad anello	sciarpa ad anello	3	24	0	no
+CLOTHES	scarf	SCIARPA	SCIARPA_di cotone	sciarpa di cotone	3	32	0	no
+CLOTHES	scarf	SCIARPA	SCIARPA_di lana	sciarpa di lana	3	475	0.03	no
+CLOTHES	scarf	SCIARPA	SCIARPA_di seta	sciarpa di seta	3	444	0.03	no
+FURNITURE	chair	SEDIA	SEDIA_a dondolo	sedia a dondolo	3	2097	0.14	no
+FURNITURE	chair	SEDIA	SEDIA_a rotelle	sedia a rotelle	3	10369	0.71	no
+FURNITURE	chair	SEDIA	SEDIA_a sdraio	sedia a sdraio	3	1354	0.09	no
+FURNITURE	chair	SEDIA	SEDIA_da cucina	sedia da cucina	3	133	0.01	no
+FURNITURE	chair	SEDIA	SEDIA_da gaming	sedia da gaming	3	224	0.02	no
+FURNITURE	chair	SEDIA	SEDIA_da giardino	sedia da giardino	3	313	0.02	no
+FURNITURE	chair	SEDIA	SEDIA_da ufficio	sedia da ufficio	3	1133	0.08	no
+FURNITURE	chair	SEDIA	SEDIA_di legno	sedia di legno	3	554	0.04	no
+FURNITURE	chair	SEDIA	SEDIA_di metallo	sedia di metallo	3	109	0.01	no
+FURNITURE	chair	SEDIA	SEDIA_di plastica	sedia di plastica	3	322	0.02	no
+FURNITURE	chair	SEDIA	SEDIA_di vimini	sedia di vimini	3	131	0.01	no
+HOUSING BUILDINGS	ceiling	SOFFITTO	SOFFITTO_a cassettoni	soffitto a cassettoni	3	2664	0.18	no
+HOUSING BUILDINGS	ceiling	SOFFITTO	SOFFITTO_a cupola	soffitto a cupola	3	201	0.01	no
+HOUSING BUILDINGS	ceiling	SOFFITTO	SOFFITTO_a volta	soffitto a volta	3	1925	0.13	no
+HOUSING BUILDINGS	ceiling	SOFFITTO	SOFFITTO_con travi	soffitto con travi	3	798	0.05	no
+HOUSING BUILDINGS	ceiling	SOFFITTO	SOFFITTO_di legno	soffitto di legno	3	318	0.02	no
+VEHICLES	tram	TRAM	TRAM_su rotaie	tram su rotaie	3	35	0	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_con rotelle	bicicletta con rotelle	3	7	0	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_da ciclocross	bicicletta da ciclocross	3	14	0	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_da città	bicicletta da città	3	169	0.01	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_da corsa	bicicletta da corsa	3	1248	0.09	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_mountain bike	mountain bike	2	20291	1.4	no
+VEHICLES	bicycle	BICICLETTA	BICICLETTA_mountain bike	bicicletta mountain bike	3	62	0	no
+CLOTHES	shirt	CAMICIA	CAMICIA_a righe	camicia a righe	3	459	0.03	no
+CLOTHES	shirt	CAMICIA	CAMICIA_button down	button down	2	238	0.02	no
+CLOTHES	shirt	CAMICIA	CAMICIA_button down	camicia button down	3	33	0	no
+CLOTHES	shirt	CAMICIA	CAMICIA_da donna	camicia da donna	3	73	0.01	no
+CLOTHES	shirt	CAMICIA	CAMICIA_da uomo	camicia da uomo	3	381	0.03	no
+CLOTHES	shirt	CAMICIA	CAMICIA_di cotone	camicia di cotone	3	216	0.01	no
+CLOTHES	shirt	CAMICIA	CAMICIA_di flanella	camicia di flanella	3	353	0.02	no
+CLOTHES	shirt	CAMICIA	CAMICIA_di lino	camicia di lino	3	280	0.02	no
+CLOTHES	shirt	CAMICIA	CAMICIA_di seta	camicia di seta	3	454	0.03	no
+ANIMALS	dog	CANE	CANE_border collie	border collie	2	1438	0.1	no
+ANIMALS	dog	CANE	CANE_border collie	cane border collie	3	7	0	no
+ANIMALS	dog	CANE	CANE_cavalier king	cavalier king	2	380	0.03	no
+ANIMALS	dog	CANE	CANE_cavalier king	cane cavalier king	3	2	0	no
+ANIMALS	dog	CANE	CANE_chow chow	chow chow	2	365	0.03	no
+ANIMALS	dog	CANE	CANE_chow chow	cane chow chow	3	6	0	no
+ANIMALS	dog	CANE	CANE_da caccia	cane da caccia	3	3544	0.24	no
+ANIMALS	dog	CANE	CANE_da pastore	cane da pastore	3	2368	0.16	no
+ANIMALS	dog	CANE	CANE_da tartufo	cane da tartufo	3	429	0.03	no
+ANIMALS	dog	CANE	CANE_golden retriever	golden retriever	2	1468	0.1	no
+ANIMALS	dog	CANE	CANE_golden retriever	cane golden retriever	3	12	0	no
+ANIMALS	dog	CANE	CANE_jack russell	jack russell	2	504	0.03	no
+ANIMALS	dog	CANE	CANE_jack russell	cane jack russell	3	3	0	no
+ANIMALS	dog	CANE	CANE_pastore maremmano	pastore maremmano	2	981	0.07	no
+ANIMALS	dog	CANE	CANE_pastore maremmano	cane pastore maremmano	3	36	0	no
+ANIMALS	dog	CANE	CANE_pastore tedesco	pastore tedesco	2	9352	0.64	no
+ANIMALS	dog	CANE	CANE_pastore tedesco	cane pastore tedesco	3	173	0.01	no
+ANIMALS	dog	CANE	CANE_san bernardo	san bernardo	2	558	0.04	no
+ANIMALS	dog	CANE	CANE_san bernardo	cane san bernardo	3	11	0	no
+VEHICLES	carriage	CARROZZA	CARROZZA_a cavalli	carrozza a cavalli	3	244	0.02	no
+VEHICLES	carriage	CARROZZA	CARROZZA_del treno	carrozza del treno	3	234	0.02	no
+HOBBIES	cards	CARTE	CARTE_carta igienica	carte carta igienica	2	0	0	no
+HOBBIES	cards	CARTE	CARTE_carta igienica	carte carta igienica	3	0	0	no
+HOBBIES	cards	CARTE	CARTE_carta velina	carta velina	2	5578	0.38	no
+HOBBIES	cards	CARTE	CARTE_carta velina	carte carta velina	3	1	0	no
+HOBBIES	cards	CARTE	CARTE_da briscola	carte da briscola	3	156	0.01	no
+HOBBIES	cards	CARTE	CARTE_da gioco	carte da gioco	3	6786	0.47	no
+HOBBIES	cards	CARTE	CARTE_da imballaggio	carte da imballaggio	3	30	0	no
+HOBBIES	cards	CARTE	CARTE_da poker	carte da poker	3	597	0.04	no
+HOBBIES	cards	CARTE	CARTE_di credito	carte di credito	3	13342	0.92	no
+FURNISHINGS/FITTINGS	frame	CORNICE	CORNICE_a giorno	cornice a giorno	3	76	0.01	no
+FURNISHINGS/FITTINGS	frame	CORNICE	CORNICE_d argento	cornice d' argento	3	295	0.02	no
+FURNISHINGS/FITTINGS	frame	CORNICE	CORNICE_d oro	cornice d' oro	3	127	0.01	no
+FURNISHINGS/FITTINGS	frame	CORNICE	CORNICE_di alluminio	cornice di alluminio	3	145	0.01	no
+FURNISHINGS/FITTINGS	frame	CORNICE	CORNICE_di ferro	cornice di ferro	3	33	0	no
+FURNISHINGS/FITTINGS	frame	CORNICE	CORNICE_di legno	cornice di legno	3	795	0.05	no
+FURNISHINGS/FITTINGS	frame	CORNICE	CORNICE_di metallo	cornice di metallo	3	101	0.01	no
+FURNISHINGS/FITTINGS	frame	CORNICE	CORNICE_di plastica	cornice di plastica	3	92	0.01	no
+ANIMALS	cat	GATTO	GATTO_british shorthair	british shorthair	2	214	0.01	no
+ANIMALS	cat	GATTO	GATTO_british shorthair	gatto british shorthair	3	4	0	no
+ANIMALS	cat	GATTO	GATTO_maine coon	maine coon	2	563	0.04	no
+ANIMALS	cat	GATTO	GATTO_maine coon	gatto maine coon	3	12	0	no
+CLOTHES	gloves	GUANTI	GUANTI_da baseball	guanti da baseball	3	26	0	no
+CLOTHES	gloves	GUANTI	GUANTI_da boxe	guanti da boxe	3	127	0.01	no
+CLOTHES	gloves	GUANTI	GUANTI_da cucina	guanti da cucina	3	253	0.02	no
+CLOTHES	gloves	GUANTI	GUANTI_da giardinaggio	guanti da giardinaggio	3	315	0.02	no
+CLOTHES	gloves	GUANTI	GUANTI_da lavoro	guanti da lavoro	3	1593	0.11	no
+CLOTHES	gloves	GUANTI	GUANTI_da moto	guanti da moto	3	248	0.02	no
+CLOTHES	gloves	GUANTI	GUANTI_da neve	guanti da neve	3	63	0	no
+CLOTHES	gloves	GUANTI	GUANTI_da portiere	guanti da portiere	3	553	0.04	no
+CLOTHES	gloves	GUANTI	GUANTI_da saldatore	guanti da saldatore	3	21	0	no
+CLOTHES	gloves	GUANTI	GUANTI_da sci	guanti da sci	3	337	0.02	no
+CLOTHES	gloves	GUANTI	GUANTI_da sera	guanti da sera	3	13	0	no
+CLOTHES	gloves	GUANTI	GUANTI_di gomma	guanti di gomma	3	1451	0.1	no
+CLOTHES	gloves	GUANTI	GUANTI_di lana	guanti di lana	3	436	0.03	no
+CLOTHES	gloves	GUANTI	GUANTI_di lattice	guanti di lattice	3	872	0.06	no
+CLOTHES	gloves	GUANTI	GUANTI_di pelle	guanti di pelle	3	601	0.04	no
+CLOTHES	gloves	GUANTI	GUANTI_di seta	guanti di seta	3	178	0.01	no
+CLOTHES	gloves	GUANTI	GUANTI_senza dita	guanti senza dita	3	225	0.02	no
+FOODS	milk	LATTE	LATTE_al cioccolato	latte al cioccolato	3	356	0.02	no
+FOODS	milk	LATTE	LATTE_d asina	latte d' asina	3	1722	0.12	no
+FOODS	milk	LATTE	LATTE_d avena	latte d' avena	3	556	0.04	no
+FOODS	milk	LATTE	LATTE_di bufala	latte di bufala	3	1903	0.13	no
+FOODS	milk	LATTE	LATTE_di capra	latte di capra	3	4231	0.29	no
+FOODS	milk	LATTE	LATTE_di cocco	latte di cocco	3	7050	0.49	no
+FOODS	milk	LATTE	LATTE_di farro	latte di farro	3	58	0	no
+FOODS	milk	LATTE	LATTE_di mandorla	latte di mandorla	3	3498	0.24	no
+FOODS	milk	LATTE	LATTE_di mucca	latte di mucca	3	3324	0.23	no
+FOODS	milk	LATTE	LATTE_di pecora	latte di pecora	3	2943	0.2	no
+FOODS	milk	LATTE	LATTE_di riso	latte di riso	3	3129	0.22	no
+FOODS	milk	LATTE	LATTE_di soia	latte di soia	3	8719	0.6	no
+FOODS	milk	LATTE	LATTE_parzialmente scremato	latte parzialmente scremato	3	1868	0.13	no
+FOODS	milk	LATTE	LATTE_senza lattosio	latte senza lattosio	3	460	0.03	no
+CLOTHES	briefs	SLIP	SLIP_di cotone	slip di cotone	3	157	0.01	no
+FOODS	egg	UOVO	UOVO_al tegamino	uovo al tegamino	3	647	0.04	no
+FOODS	egg	UOVO	UOVO_alla coque	uovo alla coque	3	511	0.04	no
+FOODS	egg	UOVO	UOVO_di anatra	uovo di anatra	3	49	0	no
+FOODS	egg	UOVO	UOVO_di aquila	uovo di aquila	3	12	0	no
+FOODS	egg	UOVO	UOVO_di gallina	uovo di gallina	3	872	0.06	no
+FOODS	egg	UOVO	UOVO_di oca	uovo di oca	3	26	0	no
+FOODS	egg	UOVO	UOVO_di pasqua	uovo di pasqua	3	632	0.04	no
+FOODS	egg	UOVO	UOVO_di quaglia	uovo di quaglia	3	329	0.02	no
+FOODS	egg	UOVO	UOVO_di serpente	uovo di serpente	3	45	0	no
+FOODS	egg	UOVO	UOVO_di struzzo	uovo di struzzo	3	317	0.02	no
+FOODS	egg	UOVO	UOVO_in camicia	uovo in camicia	3	755	0.05	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_da acqua	bicchiere da acqua	3	129	0.01	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_da champagne	bicchiere da champagne	3	19	0	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_da cocktail	bicchiere da cocktail	3	226	0.02	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_da shot	bicchiere da shot	3	23	0	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_da vino	bicchiere da vino	3	475	0.03	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_di carta	bicchiere di carta	3	437	0.03	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_di cristallo	bicchiere di cristallo	3	373	0.03	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_di plastica	bicchiere di plastica	3	1421	0.1	no
+KITCHENWARE	glass	BICCHIERE	BICCHIERE_di vetro	bicchiere di vetro	3	1165	0.08	no
+STATIONERY	glue	COLLA	COLLA_a caldo	colla a caldo	3	6499	0.45	no
+STATIONERY	glue	COLLA	COLLA_di pesce	colla di pesce	3	6293	0.43	no
+STATIONERY	glue	COLLA	COLLA_super attack	colla super attack	3	103	0.01	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_a farfalla	coltello a farfalla	3	78	0.01	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_a scatto	coltello a scatto	3	280	0.02	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_a serramanico	coltello a serramanico	3	2386	0.16	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_da burro	coltello da burro	3	171	0.01	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_da caccia	coltello da caccia	3	380	0.03	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_da carne	coltello da carne	3	67	0	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_da chef	coltello da chef	3	124	0.01	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_da cucina	coltello da cucina	3	3516	0.24	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_da frutta	coltello da frutta	3	58	0	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_da macellaio	coltello da macellaio	3	331	0.02	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_da pane	coltello da pane	3	209	0.01	no
+KITCHENWARE	knife	COLTELLO	COLTELLO_da pesce	coltello da pesce	3	74	0.01	no
+STATIONERY	pencil	MATITA	MATITA_da disegno	matita da disegno	3	71	0	no
+ANIMALS	bear	ORSO	ORSO_orsetto lavatore	orsetto lavatore	2	289	0.02	no
+ANIMALS	bear	ORSO	ORSO_orsetto lavatore	orso orsetto lavatore	3	0	0	no
+STATIONERY	pen	PENNA	PENNA_a gel	penna a gel	3	21	0	no
+STATIONERY	pen	PENNA	PENNA_a inchiostro	penna a inchiostro	3	116	0.01	no
+STATIONERY	pen	PENNA	PENNA_a sfera	penna a sfera	3	2335	0.16	no
+BODY PARTS	foot	PIEDE	PIEDE_di porco	piede di porco	3	2429	0.17	no
+FURNISHINGS/FITTINGS	portafotografia	PORTAFOTOGRAFIA	PORTAFOTOGRAFIA_da parete	portafotografia da parete	3	0	0	no
+FURNISHINGS/FITTINGS	portafotografia	PORTAFOTOGRAFIA	PORTAFOTOGRAFIA_di legno	portafotografia di legno	3	0	0	no
+FURNISHINGS/FITTINGS	portafotografia	PORTAFOTOGRAFIA	PORTAFOTOGRAFIA_di plastica	portafotografia di plastica	3	0	0	no
+KITCHENWARE	colander	SCOLAPASTA	SCOLAPASTA_con manico	scolapasta con manico	3	0	0	no
+KITCHENWARE	colander	SCOLAPASTA	SCOLAPASTA_di acciaio	scolapasta di acciaio	3	7	0	no
+KITCHENWARE	colander	SCOLAPASTA	SCOLAPASTA_di metallo	scolapasta di metallo	3	18	0	no
+KITCHENWARE	colander	SCOLAPASTA	SCOLAPASTA_di plastica	scolapasta di plastica	3	16	0	no
+KITCHENWARE	colander	SCOLAPASTA	SCOLAPASTA_di silicone	scolapasta di silicone	3	0	0	no
+VEHICLES	scooter	SCOOTER	SCOOTER_a benzina	scooter a benzina	3	38	0	no
+CLOTHES	t-shirts	T-SHIRT	T-SHIRT_a girocollo	t-shirt a girocollo	3	30	0	no
+CLOTHES	t-shirts	T-SHIRT	T-SHIRT_con stampa	t-shirt con stampa	3	94	0.01	no
+CLOTHES	t-shirts	T-SHIRT	T-SHIRT_in cotone	t-shirt in cotone	3	260	0.02	no
+FURNITURE	table	TAVOLO	TAVOLO_da biliardo	tavolo da biliardo	3	1764	0.12	no
+FURNITURE	table	TAVOLO	TAVOLO_da caffè	tavolo da caffè	3	123	0.01	no
+FURNITURE	table	TAVOLO	TAVOLO_da cucina	tavolo da cucina	3	776	0.05	no
+FURNITURE	table	TAVOLO	TAVOLO_da giardino	tavolo da giardino	3	1075	0.07	no
+FURNITURE	table	TAVOLO	TAVOLO_da gioco	tavolo da gioco	3	3674	0.25	no
+FURNITURE	table	TAVOLO	TAVOLO_da lavoro	tavolo da lavoro	3	2568	0.18	no
+FURNITURE	table	TAVOLO	TAVOLO_da pranzo	tavolo da pranzo	3	9471	0.65	no
+FURNITURE	table	TAVOLO	TAVOLO_di legno	tavolo di legno	3	1829	0.13	no
+FURNITURE	table	TAVOLO	TAVOLO_di plastica	tavolo di plastica	3	124	0.01	no
+FURNITURE	table	TAVOLO	TAVOLO_di vetro	tavolo di vetro	3	209	0.01	no
+FURNISHINGS/FITTINGS	screw	VITE	VITE_a brugola	vite a brugola	3	247	0.02	no
+FURNISHINGS/FITTINGS	screw	VITE	VITE_a stella	vite a stella	3	43	0	no
+FURNITURE	closet	ARMADIO	ARMADIO_a battente	armadio a battente	3	13	0	no
+FURNITURE	closet	ARMADIO	ARMADIO_a libro	armadio a libro	3	0	0	no
+FURNITURE	closet	ARMADIO	ARMADIO_a muro	armadio a muro	3	4778	0.33	no
+FURNITURE	closet	ARMADIO	ARMADIO_a ponte	armadio a ponte	3	784	0.05	no
+FURNITURE	closet	ARMADIO	ARMADIO_ad ante	armadio ad ante	3	231	0.02	no
+FURNITURE	closet	ARMADIO	ARMADIO_in legno	armadio in legno	3	408	0.03	no
+FURNISHINGS/FITTINGS	candelabrum	CANDELABRO	CANDELABRO_da tavolo	candelabro da tavolo	3	0	0	no
+FURNISHINGS/FITTINGS	candelabrum	CANDELABRO	CANDELABRO_in argento	candelabro in argento	3	14	0	no
+FURNISHINGS/FITTINGS	candelabrum	CANDELABRO	CANDELABRO_in oro	candelabro in oro	3	6	0	no
+FURNITURE	bedside table	COMODINO	COMODINO_a cassetti	comodino a cassetti	3	0	0	no
+FURNITURE	bedside table	COMODINO	COMODINO_di legno	comodino di legno	3	28	0	no
+FURNITURE	bedside table	COMODINO	COMODINO_di metallo	comodino di metallo	3	7	0	no
+FURNITURE	bedside table	COMODINO	COMODINO_di plastica	comodino di plastica	3	1	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_da balcone	fioriera da balcone	3	33	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_da esterno	fioriera da esterno	3	30	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_da interno	fioriera da interno	3	3	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_in cemento	fioriera in cemento	3	50	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_in ceramica	fioriera in ceramica	3	5	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_in ferro	fioriera in ferro	3	53	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_in legno	fioriera in legno	3	128	0.01	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_in metallo	fioriera in metallo	3	12	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_in pietra	fioriera in pietra	3	36	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_in plastica	fioriera in plastica	3	35	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_in resina	fioriera in resina	3	10	0	no
+FURNISHINGS/FITTINGS	flowerpot	FIORIERA	FIORIERA_in terracotta	fioriera in terracotta	3	2	0	no
+KITCHENWARE	scissors	FORBICE	FORBICE_con manico	forbice con manico	3	3	0	no
+KITCHENWARE	scissors	FORBICE	FORBICE_da cucina	forbice da cucina	3	58	0	no
+KITCHENWARE	scissors	FORBICE	FORBICE_da giardinaggio	forbice da giardinaggio	3	13	0	no
+KITCHENWARE	scissors	FORBICE	FORBICE_da parrucchiere	forbice da parrucchiere	3	3	0	no
+KITCHENWARE	scissors	FORBICE	FORBICE_da potatura	forbice da potatura	3	63	0	no
+KITCHENWARE	scissors	FORBICE	FORBICE_da sarto	forbice da sarto	3	11	0	no
+KITCHENWARE	scissors	FORBICE	FORBICE_per mancini	forbice per mancini	3	0	0	no
+KITCHENWARE	scissors	FORBICE	FORBICE_per unghie	forbice per unghie	3	8	0	no
+HOBBIES	newspaper	GIORNALE	GIORNALE_di cronaca	giornale di cronaca	3	56	0	no
+HOBBIES	newspaper	GIORNALE	GIORNALE_di gossip	giornale di gossip	3	248	0.02	no
+HOBBIES	newspaper	GIORNALE	GIORNALE_di moda	giornale di moda	3	153	0.01	no
+FOODS	legume	LEGUME	LEGUME_fagioli borlotti	fagioli borlotti	2	1351	0.09	no
+FOODS	legume	LEGUME	LEGUME_fagioli borlotti	legume fagioli borlotti	3	0	0	no
+FOODS	legume	LEGUME	LEGUME_fagioli cannellini	fagioli cannellini	2	1487	0.1	no
+FOODS	legume	LEGUME	LEGUME_fagioli cannellini	legume fagioli cannellini	3	0	0	no
+FOODS	legume	LEGUME	LEGUME_fagioli rossi	fagioli rossi	2	1324	0.09	no
+FOODS	legume	LEGUME	LEGUME_fagioli rossi	legume fagioli rossi	3	0	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_da corsa	motocicletta da corsa	3	20	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_da cross	motocicletta da cross	3	20	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_da strada	motocicletta da strada	3	19	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_harley davidson	harley davidson	2	439	0.03	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_harley davidson	motocicletta harley davidson	3	0	0	no
+FOODS	pasta	PASTA	PASTA_all uovo	pasta all' uovo	3	5123	0.35	no
+FOODS	pasta	PASTA	PASTA_mezze maniche	pasta mezze maniche	3	1	0	no
+FOODS	pasta	PASTA	PASTA_mezze penne	pasta mezze penne	3	2	0	no
+FOODS	pasta	PASTA	PASTA_penne lisce	penne lisce	2	110	0.01	no
+FOODS	pasta	PASTA	PASTA_penne lisce	pasta penne lisce	3	0	0	no
+FOODS	pasta	PASTA	PASTA_penne rigate	penne rigate	2	662	0.05	no
+FOODS	pasta	PASTA	PASTA_penne rigate	pasta penne rigate	3	2	0	no
+FURNITURE	armchair	POLTRONA	POLTRONA_a dondolo	poltrona a dondolo	3	149	0.01	no
+FURNITURE	armchair	POLTRONA	POLTRONA_a pozzetto	poltrona a pozzetto	3	10	0	no
+FURNITURE	armchair	POLTRONA	POLTRONA_chaise longue	chaise longue	2	3616	0.25	no
+FURNITURE	armchair	POLTRONA	POLTRONA_chaise longue	poltrona chaise longue	3	11	0	no
+FURNITURE	armchair	POLTRONA	POLTRONA_con braccioli	poltrona con braccioli	3	55	0	no
+FURNITURE	armchair	POLTRONA	POLTRONA_di design	poltrona di design	3	155	0.01	no
+FURNITURE	armchair	POLTRONA	POLTRONA_in pelle	poltrona in pelle	3	401	0.03	no
+FURNITURE	armchair	POLTRONA	POLTRONA_senza braccioli	poltrona senza braccioli	3	10	0	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_ad acquerello	quadro ad acquerello	3	16	0	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_ad olio	quadro ad olio	3	501	0.03	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_con cornice	quadro con cornice	3	60	0	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_natura morta	natura morta	2	7606	0.52	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_natura morta	quadro natura morta	3	2	0	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_pop art	pop art	2	4561	0.31	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_pop art	quadro pop art	3	20	0	no
+FURNISHINGS/FITTINGS	picture	QUADRO	QUADRO_su tela	quadro su tela	3	213	0.01	no
+VEHICLES	train	TRENO	TRENO_a carbone	treno a carbone	3	41	0	no
+VEHICLES	train	TRENO	TRENO_a vapore	treno a vapore	3	1997	0.14	no
+VEHICLES	truck	CAMION	CAMION_con rimorchio	camion con rimorchio	3	290	0.02	no
+VEHICLES	truck	CAMION	CAMION_da trasporto	camion da trasporto	3	100	0.01	no
+VEHICLES	truck	CAMION	CAMION_della spazzatura	camion della spazzatura	3	615	0.04	no
+VEHICLES	truck	CAMION	CAMION_trasporto animali	trasporto animali	2	518	0.04	no
+VEHICLES	truck	CAMION	CAMION_trasporto animali	camion trasporto animali	3	17	0	no
+CLOTHES	coat	CAPPOTTO	CAPPOTTO_di pelle	cappotto di pelle	3	151	0.01	no
+PLANTS	cherry tree	CILIEGIO	CILIEGIO_in fiore	ciliegio in fiore	3	376	0.03	no
+BODY PARTS	neck	COLLO	COLLO_all italiana	collo all' italiana	3	14	0	no
+BODY PARTS	neck	COLLO	COLLO_alla coreana	collo alla coreana	3	414	0.03	no
+BODY PARTS	neck	COLLO	COLLO_alla francese	collo alla francese	3	58	0	no
+BODY PARTS	neck	COLLO	COLLO_button down	button down	2	238	0.02	no
+BODY PARTS	neck	COLLO	COLLO_button down	collo button down	3	30	0	no
+BODY PARTS	neck	COLLO	COLLO_dei pacchi	collo dei pacchi	3	0	0	no
+BODY PARTS	neck	COLLO	COLLO_di bottiglia	collo di bottiglia	3	4877	0.34	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_da caffè	cucchiaio da caffè	3	111	0.01	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_da dolce	cucchiaio da dolce	3	12	0	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_da gelato	cucchiaio da gelato	3	50	0	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_da minestra	cucchiaio da minestra	3	479	0.03	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_da tavola	cucchiaio da tavola	3	770	0.05	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_da tè	cucchiaio da tè	3	129	0.01	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_da zuppa	cucchiaio da zuppa	3	21	0	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_di acciaio	cucchiaio di acciaio	3	74	0.01	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_di ferro	cucchiaio di ferro	3	21	0	no
+KITCHENWARE	spoon	CUCCHIAIO	CUCCHIAIO_di legno	cucchiaio di legno	3	11195	0.77	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_a gas	cucina a gas	3	1717	0.12	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_ad angolo	cucina ad angolo	3	329	0.02	no
+HOUSING BUILDINGS	kitchen	CUCINA	CUCINA_ad isola	cucina ad isola	3	250	0.02	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_a battente	finestra a battente	3	51	0	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_a libro	finestra a libro	3	12	0	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_a ribalta	finestra a ribalta	3	21	0	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_a vasistas	finestra a vasistas	3	65	0	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_in legno	finestra in legno	3	374	0.03	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_in pvc	finestra in pvc	3	135	0.01	no
+CLOTHES	jacket	GIACCA	GIACCA_a quadri	giacca a quadri	3	100	0.01	no
+CLOTHES	jacket	GIACCA	GIACCA_a vento	giacca a vento	3	4082	0.28	no
+CLOTHES	jacket	GIACCA	GIACCA_da smoking	giacca da smoking	3	97	0.01	no
+CLOTHES	jacket	GIACCA	GIACCA_di jeans	giacca di jeans	3	441	0.03	no
+CLOTHES	jacket	GIACCA	GIACCA_di pelle	giacca di pelle	3	2514	0.17	no
+CLOTHES	jacket	GIACCA	GIACCA_di velluto	giacca di velluto	3	431	0.03	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_di jeans	giubotto di jeans	3	15	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_di pelle	giubotto di pelle	3	45	0	no
+HOUSING BUILDINGS	wall	MURO	MURO_a secco	muro a secco	3	1815	0.13	no
+HOUSING BUILDINGS	wall	MURO	MURO_di cartongesso	muro di cartongesso	3	55	0	no
+HOUSING BUILDINGS	wall	MURO	MURO_di cemento	muro di cemento	3	1506	0.1	no
+HOUSING BUILDINGS	wall	MURO	MURO_di legno	muro di legno	3	148	0.01	no
+HOUSING BUILDINGS	wall	MURO	MURO_di mattoni	muro di mattoni	3	1495	0.1	no
+HOUSING BUILDINGS	wall	MURO	MURO_di pietra	muro di pietra	3	1258	0.09	no
+FURNISHINGS/FITTINGS	ashtray	POSACENERE	POSACENERE_a colonna	posacenere a colonna	3	8	0	no
+FURNISHINGS/FITTINGS	ashtray	POSACENERE	POSACENERE_da auto	posacenere da auto	3	0	0	no
+FURNISHINGS/FITTINGS	ashtray	POSACENERE	POSACENERE_da strada	posacenere da strada	3	8	0	no
+FURNISHINGS/FITTINGS	ashtray	POSACENERE	POSACENERE_da tavolo	posacenere da tavolo	3	7	0	no
+FURNISHINGS/FITTINGS	ashtray	POSACENERE	POSACENERE_di ceramica	posacenere di ceramica	3	5	0	no
+FURNISHINGS/FITTINGS	ashtray	POSACENERE	POSACENERE_di metallo	posacenere di metallo	3	7	0	no
+FURNISHINGS/FITTINGS	ashtray	POSACENERE	POSACENERE_di plastica	posacenere di plastica	3	8	0	no
+FURNISHINGS/FITTINGS	ashtray	POSACENERE	POSACENERE_di vetro	posacenere di vetro	3	19	0	no
+HOUSING BUILDINGS	closet	RIPOSTIGLIO	RIPOSTIGLIO_per scope	ripostiglio per scope	3	4	0	no
+FOODS	rice	RISO	RISO_per sushi	riso per sushi	3	251	0.02	no
+ANIMALS	snake	SERPENTE	SERPENTE_a sonagli	serpente a sonagli	3	992	0.07	no
+ANIMALS	snake	SERPENTE	SERPENTE_mamba nero	mamba nero	2	323	0.02	no
+ANIMALS	snake	SERPENTE	SERPENTE_mamba nero	serpente mamba nero	3	4	0	no
+FURNISHINGS/FITTINGS	carpet	TAPPETO	TAPPETO_da bagno	tappeto da bagno	3	109	0.01	no
+FURNISHINGS/FITTINGS	carpet	TAPPETO	TAPPETO_da cucina	tappeto da cucina	3	36	0	no
+FURNISHINGS/FITTINGS	carpet	TAPPETO	TAPPETO_da doccia	tappeto da doccia	3	1	0	no
+ANIMALS	mouse	TOPO	TOPO_da laboratorio	topo da laboratorio	3	171	0.01	no
+ANIMALS	mouse	TOPO	TOPO_di campagna	topo di campagna	3	279	0.02	no
+ANIMALS	mouse	TOPO	TOPO_di città	topo di città	3	196	0.01	no
+ANIMALS	mouse	TOPO	TOPO_di fogna	topo di fogna	3	432	0.03	no
+FOODS	cereal	CEREALE	CEREALE_grano saraceno	grano saraceno	2	15567	1.07	no
+FOODS	cereal	CEREALE	CEREALE_grano saraceno	cereale grano saraceno	3	1	0	no
+KITCHENWARE	fork	FORCHETTA	FORCHETTA_da dolce	forchetta da dolce	3	32	0	no
+KITCHENWARE	fork	FORCHETTA	FORCHETTA_da frutta	forchetta da frutta	3	15	0	no
+KITCHENWARE	fork	FORCHETTA	FORCHETTA_da pesce	forchetta da pesce	3	19	0	no
+KITCHENWARE	fork	FORCHETTA	FORCHETTA_da primo	forchetta da primo	3	0	0	no
+KITCHENWARE	fork	FORCHETTA	FORCHETTA_da tavola	forchetta da tavola	3	28	0	no
+KITCHENWARE	fork	FORCHETTA	FORCHETTA_di metallo	forchetta di metallo	3	20	0	no
+KITCHENWARE	fork	FORCHETTA	FORCHETTA_di plastica	forchetta di plastica	3	87	0.01	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_casu marzu	casu marzu	2	226	0.02	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_casu marzu	formaggio casu marzu	3	0	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_di capra	formaggio di capra	3	2597	0.18	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_grana padano	grana padano	2	1994	0.14	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_grana padano	formaggio grana padano	3	26	0	no
+CLOTHES	waistcoat	GILET	GILET_con bottoni	gilet con bottoni	3	12	0	no
+CLOTHES	waistcoat	GILET	GILET_di cotone	gilet di cotone	3	7	0	no
+CLOTHES	waistcoat	GILET	GILET_di jeans	gilet di jeans	3	80	0.01	no
+CLOTHES	waistcoat	GILET	GILET_di lana	gilet di lana	3	55	0	no
+STATIONERY	rubber	GOMMA	GOMMA_da cancellare	gomma da cancellare	3	604	0.04	no
+STATIONERY	rubber	GOMMA	GOMMA_da masticare	gomma da masticare	3	2808	0.19	no
+PLANTS	daisy	MARGHERITA	MARGHERITA_di campo	margherita di campo	3	29	0	no
+FURNISHINGS/FITTINGS	meter	METRO	METRO_a nastro	metro a nastro	3	796	0.05	no
+FURNISHINGS/FITTINGS	meter	METRO	METRO_a stecca	metro a stecca	3	28	0	no
+FURNISHINGS/FITTINGS	meter	METRO	METRO_da carpentiere	metro da carpentiere	3	3	0	no
+FURNISHINGS/FITTINGS	meter	METRO	METRO_da muratore	metro da muratore	3	41	0	no
+FURNISHINGS/FITTINGS	meter	METRO	METRO_da sartoria	metro da sartoria	3	24	0	no
+FURNISHINGS/FITTINGS	meter	METRO	METRO_di legno	metro di legno	3	43	0	no
+VEHICLES	ship	NAVE	NAVE_da crociera	nave da crociera	3	9657	0.67	no
+VEHICLES	ship	NAVE	NAVE_da guerra	nave da guerra	3	5269	0.36	no
+VEHICLES	ship	NAVE	NAVE_da pesca	nave da pesca	3	284	0.02	no
+FOODS	bread	PANE	PANE_a fette	pane a fette	3	485	0.03	no
+FOODS	bread	PANE	PANE_ai cereali	pane ai cereali	3	424	0.03	no
+FOODS	bread	PANE	PANE_al latte	pane al latte	3	255	0.02	no
+FOODS	bread	PANE	PANE_all olio	pane all' olio	3	199	0.01	no
+FOODS	bread	PANE	PANE_alle noci	pane alle noci	3	297	0.02	no
+FOODS	bread	PANE	PANE_alle olive	pane alle olive	3	226	0.02	no
+FOODS	bread	PANE	PANE_di segale	pane di segale	3	3166	0.22	no
+FOODS	bread	PANE	PANE_in cassetta	pane in cassetta	3	1424	0.1	no
+FOODS	bread	PANE	PANE_senza sale	pane senza sale	3	277	0.02	no
+FOODS	pizza	PIZZA	PIZZA_ai funghi	pizza ai funghi	3	63	0	no
+FOODS	pizza	PIZZA	PIZZA_con patatine	pizza con patatine	3	11	0	no
+FOODS	pizza	PIZZA	PIZZA_con prosciutto	pizza con prosciutto	3	35	0	no
+FOODS	pizza	PIZZA	PIZZA_quattro stagioni	pizza quattro stagioni	3	63	0	no
+FOODS	pizza	PIZZA	PIZZA_senza glutine	pizza senza glutine	3	1042	0.07	no
+FURNISHINGS/FITTINGS	curtain	TENDA	TENDA_a pannello	tenda a pannello	3	70	0	no
+FURNISHINGS/FITTINGS	curtain	TENDA	TENDA_da campeggio	tenda da campeggio	3	1044	0.07	no
+FURNISHINGS/FITTINGS	curtain	TENDA	TENDA_da campo	tenda da campo	3	305	0.02	no
+FURNISHINGS/FITTINGS	curtain	TENDA	TENDA_da sole	tenda da sole	3	3164	0.22	no
+FURNISHINGS/FITTINGS	curtain	TENDA	TENDA_della doccia	tenda della doccia	3	455	0.03	no
+FURNISHINGS/FITTINGS	curtain	TENDA	TENDA_per finestre	tenda per finestre	3	18	0	no
+CLOTHES	sock	CALZA	CALZA_a rete	calza a rete	3	104	0.01	no
+CLOTHES	sock	CALZA	CALZA_della befana	calza della befana	3	437	0.03	no
+CLOTHES	sock	CALZA	CALZA_di lana	calza di lana	3	73	0.01	no
+CLOTHES	sock	CALZA	CALZA_di seta	calza di seta	3	95	0.01	no
+FOODS	fruit	FRUTTA	FRUTTA_di stagione	frutta di stagione	3	7614	0.52	no
+FURNISHINGS/FITTINGS	chandelier	LAMPADARIO	LAMPADARIO_a led	lampadario a led	3	26	0	no
+FURNISHINGS/FITTINGS	chandelier	LAMPADARIO	LAMPADARIO_a muro	lampadario a muro	3	2	0	no
+FURNISHINGS/FITTINGS	chandelier	LAMPADARIO	LAMPADARIO_a soffitto	lampadario a soffitto	3	58	0	no
+FURNISHINGS/FITTINGS	chandelier	LAMPADARIO	LAMPADARIO_a sospensione	lampadario a sospensione	3	358	0.02	no
+FURNISHINGS/FITTINGS	chandelier	LAMPADARIO	LAMPADARIO_da parete	lampadario da parete	3	5	0	no
+FURNISHINGS/FITTINGS	chandelier	LAMPADARIO	LAMPADARIO_da soffitto	lampadario da soffitto	3	65	0	no
+FURNISHINGS/FITTINGS	chandelier	LAMPADARIO	LAMPADARIO_di cristallo	lampadario di cristallo	3	294	0.02	no
+FURNISHINGS/FITTINGS	chandelier	LAMPADARIO	LAMPADARIO_di vetro	lampadario di vetro	3	46	0	no
+HOBBIES	reader	LETTORE	LETTORE_di libri	lettore di libri	3	599	0.04	no
+ANIMALS	pork	MAIALE	MAIALE_da allevamento	maiale da allevamento	3	12	0	no
+ANIMALS	cow	MUCCA	MUCCA_a macchie	mucca a macchie	3	1	0	no
+ANIMALS	cow	MUCCA	MUCCA_da carne	mucca da carne	3	6	0	no
+ANIMALS	cow	MUCCA	MUCCA_da latte	mucca da latte	3	304	0.02	no
+HOBBIES	ball	PALLA	PALLA_da baseball	palla da baseball	3	584	0.04	no
+HOBBIES	ball	PALLA	PALLA_da basket	palla da basket	3	418	0.03	no
+HOBBIES	ball	PALLA	PALLA_da biliardo	palla da biliardo	3	402	0.03	no
+HOBBIES	ball	PALLA	PALLA_da bowling	palla da bowling	3	588	0.04	no
+HOBBIES	ball	PALLA	PALLA_da calcio	palla da calcio	3	255	0.02	no
+HOBBIES	ball	PALLA	PALLA_da golf	palla da golf	3	277	0.02	no
+HOBBIES	ball	PALLA	PALLA_da nuoto	palla da nuoto	3	1	0	no
+HOBBIES	ball	PALLA	PALLA_da rugby	palla da rugby	3	229	0.02	no
+HOBBIES	ball	PALLA	PALLA_da tennis	palla da tennis	3	943	0.06	no
+HOBBIES	ball	PALLA	PALLA_da volo	palla da volo	3	0	0	no
+HOBBIES	brush	PENNELLO	PENNELLO_da acquerello	pennello da acquerello	3	6	0	no
+HOBBIES	brush	PENNELLO	PENNELLO_da imbianchino	pennello da imbianchino	3	19	0	no
+HOBBIES	brush	PENNELLO	PENNELLO_da pittura	pennello da pittura	3	33	0	no
+HOBBIES	brush	PENNELLO	PENNELLO_da trucco	pennello da trucco	3	90	0.01	no
+HOBBIES	brush	PENNELLO	PENNELLO_per vernice	pennello per vernice	3	3	0	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_a pressione	pentola a pressione	3	10323	0.71	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_di acciaio	pentola di acciaio	3	340	0.02	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_di rame	pentola di rame	3	285	0.02	no
+KITCHENWARE	pot	PENTOLA	PENTOLA_di terracotta	pentola di terracotta	3	497	0.03	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_di legno	righello di legno	3	23	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_di metallo	righello di metallo	3	29	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_di plastica	righello di plastica	3	19	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_in centimetri	righello in centimetri	3	7	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_in millimetri	righello in millimetri	3	0	0	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_da armadio	specchio da armadio	3	1	0	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_da bagno	specchio da bagno	3	179	0.01	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_da borsa	specchio da borsa	3	6	0	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_da parete	specchio da parete	3	232	0.02	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_da terra	specchio da terra	3	49	0	no
+FURNISHINGS/FITTINGS	mirror	SPECCHIO	SPECCHIO_per trucco	specchio per trucco	3	56	0	no
+KITCHENWARE	chopping board	TAGLIERE	TAGLIERE_da pane	tagliere da pane	3	3	0	no
+KITCHENWARE	chopping board	TAGLIERE	TAGLIERE_in acciaio	tagliere in acciaio	3	9	0	no
+KITCHENWARE	chopping board	TAGLIERE	TAGLIERE_in legno	tagliere in legno	3	370	0.03	no
+KITCHENWARE	chopping board	TAGLIERE	TAGLIERE_in plastica	tagliere in plastica	3	25	0	no
+KITCHENWARE	chopping board	TAGLIERE	TAGLIERE_in vetro	tagliere in vetro	3	35	0	no
+KITCHENWARE	chopping board	TAGLIERE	TAGLIERE_per salumi	tagliere per salumi	3	6	0	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_a metano	autobus a metano	3	309	0.02	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_di linea	autobus di linea	3	5930	0.41	no
+PLANTS	cactus	CACTUS	CACTUS_con fiore	cactus con fiore	3	1	0	no
+PLANTS	cactus	CACTUS	CACTUS_del deserto	cactus del deserto	3	51	0	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_da ufficio	cassettiera da ufficio	3	24	0	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_di ferro	cassettiera di ferro	3	1	0	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_di legno	cassettiera di legno	3	36	0	no
+FURNITURE	chest of drawers	CASSETTIERA	CASSETTIERA_di plastica	cassettiera di plastica	3	1	0	no
+STATIONERY	sheet	FOGLIO	FOGLIO_a quadretti	foglio a quadretti	3	379	0.03	no
+STATIONERY	sheet	FOGLIO	FOGLIO_a righe	foglio a righe	3	111	0.01	no
+STATIONERY	sheet	FOGLIO	FOGLIO_da disegno	foglio da disegno	3	532	0.04	no
+STATIONERY	sheet	FOGLIO	FOGLIO_da lettera	foglio da lettera	3	11	0	no
+STATIONERY	sheet	FOGLIO	FOGLIO_di alluminio	foglio di alluminio	3	3453	0.24	no
+STATIONERY	sheet	FOGLIO	FOGLIO_di carta	foglio di carta	3	13511	0.93	no
+STATIONERY	sheet	FOGLIO	FOGLIO_di cartone	foglio di cartone	3	321	0.02	no
+STATIONERY	sheet	FOGLIO	FOGLIO_di plastica	foglio di plastica	3	1207	0.08	no
+STATIONERY	sheet	FOGLIO	FOGLIO_per stampante	foglio per stampante	3	10	0	no
+STATIONERY	clip	GRAFFETTA	GRAFFETTA_di metallo	graffetta di metallo	3	26	0	no
+STATIONERY	clip	GRAFFETTA	GRAFFETTA_di plastica	graffetta di plastica	3	3	0	no
+STATIONERY	clip	GRAFFETTA	GRAFFETTA_per cavi	graffetta per cavi	3	0	0	no
+STATIONERY	clip	GRAFFETTA	GRAFFETTA_per spillatrice	graffetta per spillatrice	3	0	0	no
+STATIONERY	clip	GRAFFETTA	GRAFFETTA_per tessuti	graffetta per tessuti	3	0	0	no
+CLOTHES	sweater	MAGLIA	MAGLIA_a righe	maglia a righe	3	498	0.03	no
+CLOTHES	sweater	MAGLIA	MAGLIA_della salute	maglia della salute	3	206	0.01	no
+CLOTHES	sweater	MAGLIA	MAGLIA_di cotone	maglia di cotone	3	294	0.02	no
+CLOTHES	sweater	MAGLIA	MAGLIA_di lana	maglia di lana	3	799	0.06	no
+CLOTHES	sweater	MAGLIA	MAGLIA_senza maniche	maglia senza maniche	3	69	0	no
+BODY PARTS	nose	NASO	NASO_a patata	naso a patata	3	349	0.02	no
+BODY PARTS	nose	NASO	NASO_a punta	naso a punta	3	187	0.01	no
+BODY PARTS	nose	NASO	NASO_all insù	naso all' insù	3	5489	0.38	no
+BODY PARTS	nose	NASO	NASO_alla francese	naso alla francese	3	79	0.01	no
+BODY PARTS	eye	OCCHIO	OCCHIO_a goccia	occhio a goccia	3	0	0	no
+BODY PARTS	eye	OCCHIO	OCCHIO_a mandorla	occhio a mandorla	3	47	0	no
+BODY PARTS	eye	OCCHIO	OCCHIO_di vetro	occhio di vetro	3	602	0.04	no
+STATIONERY	ink remover	SCOLORINA	SCOLORINA_a nastro	scolorina a nastro	3	0	0	no
+STATIONERY	ink remover	SCOLORINA	SCOLORINA_a penna	scolorina a penna	3	0	0	no
+STATIONERY	ink remover	SCOLORINA	SCOLORINA_a pennello	scolorina a pennello	3	0	0	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_da notte	vaso da notte	3	656	0.05	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_di ceramica	vaso di ceramica	3	289	0.02	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_di plastica	vaso di plastica	3	254	0.02	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_di terracotta	vaso di terracotta	3	995	0.07	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_di vetro	vaso di vetro	3	1963	0.14	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_per fiori	vaso per fiori	3	172	0.01	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_urna funeraria	urna funeraria	2	326	0.02	no
+FURNISHINGS/FITTINGS	vase	VASO	VASO_urna funeraria	vaso urna funeraria	3	0	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_con console	videogioco con console	3	0	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_di auto	videogioco di auto	3	16	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_di avventura	videogioco di avventura	3	140	0.01	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_di azione	videogioco di azione	3	60	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_di guerra	videogioco di guerra	3	59	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_di puzzle	videogioco di puzzle	3	2	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_di ruolo	videogioco di ruolo	3	729	0.05	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_di simulazione	videogioco di simulazione	3	205	0.01	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_di sport	videogioco di sport	3	6	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_di strategia	videogioco di strategia	3	179	0.01	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_per cellulare	videogioco per cellulare	3	9	0	no
+HOBBIES	video game	VIDEOGIOCO	VIDEOGIOCO_per computer	videogioco per computer	3	57	0	no
+VEHICLES	car	AUTOMOBILE	AUTOMOBILE_a due posti	automobile a due posti	4	13	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_a maniche corte	canottiera a maniche corte	4	1	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_con spalle larghe	canottiera con spalle larghe	4	0	0	no
+CLOTHES	singlet	CANOTTIERA	CANOTTIERA_con spalle strette	canottiera con spalle strette	4	0	0	no
+FURNITURE	sofa	DIVANO	DIVANO_a due posti	divano a due posti	4	374	0.03	no
+FURNITURE	sofa	DIVANO	DIVANO_a quattro posti	divano a quattro posti	4	13	0	no
+FURNITURE	sofa	DIVANO	DIVANO_a tre posti	divano a tre posti	4	291	0.02	no
+FURNITURE	sofa	DIVANO	DIVANO_con chaise longue	divano con chaise longue	4	50	0	no
+VEHICLES	helicopter	ELICOTTERO	ELICOTTERO_del pronto soccorso	elicottero del pronto soccorso	4	7	0	no
+BODY PARTS	ear	ORECCHIO	ORECCHIO_con lobo attaccato	orecchio con lobo attaccato	4	0	0	no
+HOUSING BUILDINGS	floor	PAVIMENTO	PAVIMENTO_in gres porcellanato	pavimento in gres porcellanato	4	529	0.04	no
+STATIONERY	stapler	SPILLATRICE	SPILLATRICE_a pinza classica	spillatrice a pinza classica	4	0	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_con copertina morbida	taccuino con copertina morbida	4	3	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_con copertina rigida	taccuino con copertina rigida	4	4	0	no
+STATIONERY	notebook	TACCUINO	TACCUINO_in carta riciclata	taccuino in carta riciclata	4	0	0	no
+STATIONERY	case	ASTUCCIO	ASTUCCIO_a tre cerniere	astuccio a tre cerniere	4	0	0	no
+STATIONERY	case	ASTUCCIO	ASTUCCIO_per la scuola	astuccio per la scuola	4	35	0	no
+HOBBIES	guitar	CHITARRA	CHITARRA_a dodici corde	chitarra a dodici corde	4	97	0.01	no
+CLOTHES	trouser	PANTALONE	PANTALONE_a vita alta	pantalone a vita alta	4	112	0.01	no
+CLOTHES	trouser	PANTALONE	PANTALONE_a vita bassa	pantalone a vita bassa	4	49	0	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_a schermo piatto	televisione a schermo piatto	4	387	0.03	no
+HOBBIES	television	TELEVISIONE	TELEVISIONE_a tubo catodico	televisione a tubo catodico	4	23	0	no
+HOBBIES	crossword	CRUCIVERBA	CRUCIVERBA_a schema fisso	cruciverba a schema fisso	4	0	0	no
+HOBBIES	crossword	CRUCIVERBA	CRUCIVERBA_a schema libero	cruciverba a schema libero	4	22	0	no
+FOODS	fish	PESCE	PESCE_di acqua dolce	pesce di acqua dolce	4	457	0.03	no
+FOODS	chocolate	CIOCCOLATO	CIOCCOLATO_alla frutta secca	cioccolato alla frutta secca	4	6	0	no
+FURNISHINGS/FITTINGS	pillow	CUSCINO	CUSCINO_in memory foam	cuscino in memory foam	4	74	0.01	no
+CLOTHES	sweatshirt	FELPA	FELPA_a maniche corte	felpa a maniche corte	4	5	0	no
+CLOTHES	sweatshirt	FELPA	FELPA_a maniche lunghe	felpa a maniche lunghe	4	25	0	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_carte da uno	carte da uno	3	18	0	no
+HOBBIES	game table	GIOCO DA TAVOLA	GIOCO DA TAVOLA_gioco dell oca	gioco dell' oca	3	4067	0.28	no
+HOBBIES	racket	RACCHETTA	RACCHETTA_da ping pong	racchetta da ping pong	4	123	0.01	no
+KITCHENWARE	baking pan	TEGLIA	TEGLIA_usa e getta	teglia usa e getta	4	35	0	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_chiave a pappagallo	chiave a pappagallo	3	154	0.01	no
+HOBBIES	tool	ATTREZZO	ATTREZZO_chiave a pappagallo	attrezzo chiave a pappagallo	4	0	0	no
+KITCHENWARE	plate	PIATTO	PIATTO_piattino da caffè	piattino da caffè	3	110	0.01	no
+KITCHENWARE	plate	PIATTO	PIATTO_piattino da caffè	piatto piattino da caffè	4	0	0	no
+STATIONERY	copybook	QUADERNO	QUADERNO_a fogli bianchi	quaderno a fogli bianchi	4	2	0	no
+CLOTHES	shirt	CAMICIA	CAMICIA_a maniche corte	camicia a maniche corte	4	340	0.02	no
+CLOTHES	shirt	CAMICIA	CAMICIA_a maniche lunghe	camicia a maniche lunghe	4	365	0.03	no
+ANIMALS	dog	CANE	CANE_di taglia grande	cane di taglia grande	4	385	0.03	no
+ANIMALS	dog	CANE	CANE_di taglia media	cane di taglia media	4	659	0.05	no
+ANIMALS	dog	CANE	CANE_di taglia piccola	cane di taglia piccola	4	262	0.02	no
+ANIMALS	cat	GATTO	GATTO_a pelo lungo	gatto a pelo lungo	4	152	0.01	no
+FOODS	milk	LATTE	LATTE_a lunga conservazione	latte a lunga conservazione	4	846	0.06	no
+STATIONERY	marker	EVIDENZIATORE	EVIDENZIATORE_a punta fine	evidenziatore a punta fine	4	0	0	no
+STATIONERY	marker	EVIDENZIATORE	EVIDENZIATORE_a punta larga	evidenziatore a punta larga	4	0	0	no
+VEHICLES	scooter	SCOOTER	SCOOTER_a tre ruote	scooter a tre ruote	4	270	0.02	no
+CLOTHES	t-shirts	T-SHIRT	T-SHIRT_a collo alto	t-shirt a collo alto	4	2	0	no
+CLOTHES	t-shirts	T-SHIRT	T-SHIRT_a maniche corte	t-shirt a maniche corte	4	142	0.01	no
+CLOTHES	t-shirts	T-SHIRT	T-SHIRT_a maniche lunghe	t-shirt a maniche lunghe	4	98	0.01	no
+FURNITURE	table	TAVOLO	TAVOLO_da ping pong	tavolo da ping pong	4	1837	0.13	no
+FOODS	vegetable	VERDURA	VERDURA_cime di rapa	cime di rapa	3	5643	0.39	no
+FOODS	vegetable	VERDURA	VERDURA_cime di rapa	verdura cime di rapa	4	1	0	no
+FURNISHINGS/FITTINGS	screw	VITE	VITE_a testa cilindrica	vite a testa cilindrica	4	23	0	no
+FURNISHINGS/FITTINGS	screw	VITE	VITE_a testa piatta	vite a testa piatta	4	18	0	no
+FURNISHINGS/FITTINGS	screw	VITE	VITE_a testa tonda	vite a testa tonda	4	6	0	no
+FURNITURE	closet	ARMADIO	ARMADIO_a due ante	armadio a due ante	4	473	0.03	no
+FURNITURE	closet	ARMADIO	ARMADIO_a tre ante	armadio a tre ante	4	192	0.01	no
+FURNITURE	closet	ARMADIO	ARMADIO_a un anta	armadio a un' anta	4	4	0	no
+FURNISHINGS/FITTINGS	candelabrum	CANDELABRO	CANDELABRO_a due bracci	candelabro a due bracci	4	2	0	no
+FURNISHINGS/FITTINGS	candelabrum	CANDELABRO	CANDELABRO_a sette bracci	candelabro a sette bracci	4	203	0.01	no
+FURNISHINGS/FITTINGS	candelabrum	CANDELABRO	CANDELABRO_a tre bracci	candelabro a tre bracci	4	7	0	no
+KITCHENWARE	scissors	FORBICE	FORBICE_con punta arrotondata	forbice con punta arrotondata	4	1	0	no
+KITCHENWARE	scissors	FORBICE	FORBICE_con taglio rotondo	forbice con taglio rotondo	4	0	0	no
+FOODS	legume	LEGUME	LEGUME_lenticchie rosse decorticate	lenticchie rosse decorticate	3	196	0.01	no
+FOODS	legume	LEGUME	LEGUME_lenticchie rosse decorticate	legume lenticchie rosse decorticate	4	0	0	no
+VEHICLES	motorcycle	MOTOCICLETTA	MOTOCICLETTA_a tre ruote	motocicletta a tre ruote	4	12	0	no
+FOODS	pasta	PASTA	PASTA_spaghetti alla chitarra	spaghetti alla chitarra	3	898	0.06	no
+FOODS	pasta	PASTA	PASTA_spaghetti alla chitarra	pasta spaghetti alla chitarra	4	0	0	no
+VEHICLES	train	TRENO	TRENO_ad alta velocità	treno ad alta velocità	4	2356	0.16	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_a due ante	finestra a due ante	4	111	0.01	no
+HOUSING BUILDINGS	window	FINESTRA	FINESTRA_a una anta	finestra a una anta	4	5	0	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_giacca a vento	giacca a vento	3	4082	0.28	no
+CLOTHES	vest	GIUBOTTO	GIUBOTTO_giacca a vento	giubotto giacca a vento	4	0	0	no
+FURNISHINGS/FITTINGS	carpet	TAPPETO	TAPPETO_tappetino da auto	tappetino da auto	3	2	0	no
+FURNISHINGS/FITTINGS	carpet	TAPPETO	TAPPETO_tappetino da auto	tappeto tappetino da auto	4	0	0	no
+KITCHENWARE	fork	FORCHETTA	FORCHETTA_a quattro punte	forchetta a quattro punte	4	4	0	no
+KITCHENWARE	fork	FORCHETTA	FORCHETTA_a tre punte	forchetta a tre punte	4	14	0	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_mozzarella di bufala	mozzarella di bufala	3	8570	0.59	no
+FOODS	cheese	FORMAGGIO	FORMAGGIO_mozzarella di bufala	formaggio mozzarella di bufala	4	15	0	no
+FOODS	bread	PANE	PANE_di grano duro	pane di grano duro	4	413	0.03	no
+FOODS	pizza	PIZZA	PIZZA_ai quattro formaggi	pizza ai quattro formaggi	4	91	0.01	no
+FOODS	pizza	PIZZA	PIZZA_wurstel e patatine	wurstel e patatine	3	146	0.01	no
+FOODS	pizza	PIZZA	PIZZA_wurstel e patatine	pizza wurstel e patatine	4	9	0	no
+HOUSING BUILDINGS	terrace	TERRAZZO	TERRAZZO_con vista mare	terrazzo con vista mare	4	487	0.03	no
+FOODS	fruit	FRUTTA	FRUTTA_frutto della passione	frutto della passione	3	4130	0.28	no
+FOODS	fruit	FRUTTA	FRUTTA_frutto della passione	frutta frutto della passione	4	0	0	no
+ANIMALS	giraffe	GIRAFFA	GIRAFFA_a collo lungo	giraffa a collo lungo	4	0	0	no
+PLANTS	mimosa	MIMOSA	MIMOSA_delle quattro stagioni	mimosa delle quattro stagioni	4	0	0	no
+HOBBIES	ball	PALLA	PALLA_da ping pong	palla da ping pong	4	23	0	no
+HOBBIES	brush	PENNELLO	PENNELLO_con setole sintetiche	pennello con setole sintetiche	4	5	0	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_metro da sarta	metro da sarta	3	614	0.04	no
+STATIONERY	ruler	RIGHELLO	RIGHELLO_metro da sarta	righello metro da sarta	4	0	0	no
+VEHICLES	bus	AUTOBUS	AUTOBUS_a due piani	autobus a due piani	4	903	0.06	no
+PLANTS	cactus	CACTUS	CACTUS_fico d india	fico d' india	3	1523	0.1	no
+PLANTS	cactus	CACTUS	CACTUS_fico d india	cactus fico d' india	3	0	0	no
+STATIONERY	sheet	FOGLIO	FOGLIO_con i buchi	foglio con i buchi	4	1	0	no
+CLOTHES	sweater	MAGLIA	MAGLIA_a maniche corte	maglia a maniche corte	4	262	0.02	no
+CLOTHES	sweater	MAGLIA	MAGLIA_a maniche lunghe	maglia a maniche lunghe	4	655	0.05	no
+BODY PARTS	nose	NASO	NASO_con la gobba	naso con la gobba	4	25	0	no

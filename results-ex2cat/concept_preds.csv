@@ -1,0 +1,186 @@
+concept,category,llama-3.1-70b,llama-3.1-8b,llama-3.2-3b,mixtral-8x7b,mistral-7b,nemo-12b,llava-v1.6-mistral-7b,idefics2-8b
+abete,piante,cioccolato,cioccolato,bicicletta,centrotavola,giubbotto,candelabro,elicottero,gioco da tavola
+aereo,veicoli,aereo,aereo,aereo,aereo,aereo,aereo,aereo,aereo
+agenda,cancelleria,agenda,orologio,giornale,giornale,giornale,taccuino,giornale,orologio
+appendiabiti,arredamenti/accessori,appendiabiti,ripostiglio,scrivania,appendiabiti,soffitto,ripostiglio,elicottero,gioco da tavola
+armadio,mobili,porta,finestra,scrivania,porta,porta,armadio,libreria,porta
+astuccio,cancelleria,astuccio,attrezzo,bicicletta,astuccio,giubbotto,astuccio,gioco da tavola,gioco da tavola
+attrezzo,passatempi,attrezzo,attrezzo,bicicletta,attrezzo,cucina,attrezzo,cucina,attrezzo
+autobus,veicoli,autobus,autobus,bicicletta,autobus,autobus,furgone,autobus,autobus
+automobile,veicoli,automobile,automobile,bicicletta,automobile,automobile,automobile,automobile,automobile
+bagno,edifici residenziali,bagno,soggiorno,bagno,bagno,bagno,bagno,elicottero,elicottero
+balcone,edifici residenziali,balcone,soggiorno,bicicletta,terrazzo,terrazzo,terrazzo,terrazzo,soffitto
+basilico,piante,frutta,cioccolato,cioccolato,basilico,insalata,frutta,cioccolato,cioccolato
+bicchiere,utensili da cucina,bicchiere,bicchiere,bicchiere,bicchiere,vaso,bicchiere,bicchiere,bicchiere
+bicicletta,veicoli,bicicletta,bicicletta,bicicletta,bicicletta,bicicletta,bicicletta,bicicletta,bicicletta
+bocca,parti del corpo,bocca,motocicletta,bocca,bocca,bocca,insalata,elicottero,gioco da tavola
+braccio,parti del corpo,braccio,braccio,bicicletta,braccio,attrezzo,attrezzo,elicottero,gioco da tavola
+cactus,piante,cactus,cioccolato,bicicletta,cactus,cioccolato,cactus,cucchiaio,gioco da tavola
+calza,vestiti,calza,maglia,bicicletta,calza,giubbotto,calza,gioco da tavola,giubbotto
+camera,edifici residenziali,soggiorno,soggiorno,soggiorno,soggiorno,soggiorno,camera,soggiorno,soggiorno
+camicia,vestiti,camicia,camicia,motocicletta,camicia,cucina,camicia,elicottero,gioco da tavola
+camion,veicoli,camion,camion,furgone,camion,camion,furgone,furgone,elicottero
+candelabro,arredamenti/accessori,candelabro,candelabro,candelabro,candelabro,candelabro,candelabro,tavolo,gioco da tavola
+cane,animali,cane,cane,cioccolato,cane,cane,cane,cane,cane
+canottiera,vestiti,maglia,camicia,camicia,maglia,giubbotto,camicia,t-shirt,t-shirt
+capello,parti del corpo,capello,capello,cioccolato,capello,ciliegio,capello,cioccolato,cioccolato
+cappello,vestiti,cappello,cappello,cappello,cappello,cappello,cappello,cappello,cappello
+cappotto,vestiti,cappotto,giacca,cappello,giacca,giacca,cappotto,giacca,giacca
+carne,cibi,carne,carne,cioccolato,carne,carne,carne,carne,carne
+carrozza,veicoli,carrozza,carrozza,bicicletta,carrozza,automobile,carrozza,automobile,automobile
+carte,passatempi,carte,gioco da tavola,bicicletta,gioco da tavola,gioco da tavola,carte,gioco da tavola,gioco da tavola
+cassettiera,mobili,scrivania,soggiorno,scrivania,cassettiera,cucina,comodino,gioco da tavola,gioco da tavola
+cavallo,animali,cavallo,cavallo,cavallo,cavallo,cavallo,cavallo,cavallo,cavallo
+cd,passatempi,appendiabiti,chitarra,chitarra,lettore,gioco da tavola,videogioco,videogioco,videogioco
+centrotavola,arredamenti/accessori,centrotavola,candelabro,candelabro,centrotavola,giubbotto,centrotavola,tavolo,gioco da tavola
+cereale,cibi,cereale,cioccolato,riso,cereale,frutta,cereale,riso,frutta
+cervello,parti del corpo,serpente,serpente,serpente,elicottero,videogioco,scimmia,serpente,gioco da tavola
+chitarra,passatempi,chitarra,chitarra,chitarra,chitarra,chitarra,chitarra,chitarra,chitarra
+ciclamino,piante,cioccolato,cioccolato,cioccolato,tulipano,pennello,ciliegio,rosa,gioco da tavola
+ciliegio,piante,cioccolato,cioccolato,cioccolato,frutta,frutta,cioccolato,cioccolato,cioccolato
+cioccolato,cibi,cioccolato,cioccolato,cioccolato,cioccolato,cioccolato,cioccolato,cioccolato,cioccolato
+colla,cancelleria,gomma,cioccolato,bicicletta,colla,cucina,cucina,videogioco,cucina
+collo,parti del corpo,camicia,camicia,camicia,camicia,camicia,camicia,bicchiere,bicchiere
+colonna,edifici residenziali,colonna,colonna,candelabro,colonna,soffitto,cornice,soffitto,soffitto
+coltello,utensili da cucina,coltello,coltello,cioccolato,coltello,cucina,coltello,cucina,cucina
+comodino,mobili,scrivania,scrivania,bicicletta,armadio,cassettiera,cassettiera,gioco da tavola,gioco da tavola
+computer,passatempi,computer,computer,centrotavola,computer,computer,computer,gioco da tavola,gioco da tavola
+comò,mobili,scrivania,comodino,comodino,comodino,cassettiera,soggiorno,comodino,gioco da tavola
+coniglio,animali,coniglio,coniglio,cioccolato,coniglio,elicottero,coniglio,elicottero,gioco da tavola
+cornice,arredamenti/accessori,cucchiaio,candelabro,candelabro,candelabro,soffitto,candelabro,candelabro,gioco da tavola
+credenza,mobili,candelabro,scrivania,candelabro,ripostiglio,candelabro,ripostiglio,candelabro,gioco da tavola
+cruciverba,passatempi,cruciverba,gioco da tavola,cruciverba,cruciverba,gioco da tavola,cruciverba,gioco da tavola,gioco da tavola
+cucchiaio,utensili da cucina,cucchiaio,cucchiaio,bicchiere,cucchiaio,cucchiaio,cucchiaio,cucchiaio,cucchiaio
+cucina,edifici residenziali,cucina,cucina,piatto,cucina,cucina,cucina,cucina,cucina
+cuore,parti del corpo,braccio,orologio,bicicletta,cucchiaio,soffitto,attrezzo,gioco da tavola,gioco da tavola
+cuscino,arredamenti/accessori,cuscino,cuscino,cuscino,cuscino,letto,cuscino,letto,cuscino
+delfino,animali,bicicletta,cioccolato,bicicletta,margherita,orchidea,delfino,rosa,gioco da tavola
+divano,mobili,divano,letto,bicicletta,divano,letto,divano,letto,poltrona
+edera,piante,edera,serpente,bicicletta,serpente,serpente,edera,gioco da tavola,gioco da tavola
+elefante,animali,cucchiaio,motocicletta,cioccolato,scimmia,gioco da tavola,cioccolato,gioco da tavola,gioco da tavola
+elicottero,veicoli,elicottero,motocicletta,bicicletta,elicottero,elicottero,elicottero,elicottero,elicottero
+evidenziatore,cancelleria,matita,matita,bicicletta,penna,pennello,matita,pennello,penna
+felpa,vestiti,giacca,giacca,giacca,giacca,giacca,giubbotto,bicchiere,bicicletta
+finestra,edifici residenziali,finestra,finestra,finestra,porta,porta,appendiabiti,porta,porta
+fioriera,arredamenti/accessori,vaso,bicicletta,bicicletta,vaso,soffitto,appendiabiti,pavimento,soffitto
+foglio,cancelleria,foglio,foglio,bicicletta,foglio,quaderno,foglio,gioco da tavola,gioco da tavola
+forbice,utensili da cucina,forbice,coltello,bicicletta,attrezzo,attrezzo,forbice,attrezzo,bicchiere
+forchetta,utensili da cucina,forchetta,forchetta,bicicletta,forchetta,cucina,forchetta,forchetta,cucina
+formaggio,cibi,formaggio,formaggio,formaggio,formaggio,formaggio,formaggio,formaggio,formaggio
+fotografia,arredamenti/accessori,fotografia,fotografia,fotografia,fotografia,fotografia,fotografia,fotografia,fotografia
+frutta,cibi,frutta,frutta,frutta,frutta,frutta,frutta,frutta,frutta
+furgone,veicoli,furgone,motocicletta,bicicletta,furgone,elicottero,furgone,elicottero,elicottero
+gallo,animali,cioccolato,cioccolato,cioccolato,elicottero,gioco da tavola,cioccolato,gioco da tavola,gioco da tavola
+gamba,parti del corpo,tavolo,braccio,poltrona,tavolo,tavolo,poltrona,tavolo,tavolo
+gatto,animali,gatto,gatto,gatto,gatto,gatto,gatto,gatto,gatto
+geranio,piante,cioccolato,cioccolato,cioccolato,vite,pennello,centrotavola,gioco da tavola,gioco da tavola
+giacca,vestiti,giacca,giacca,giacca,giacca,giacca,giacca,giacca,gioco da tavola
+gilet,vestiti,giacca,giacca,cappello,giacca,elicottero,giubbotto,giacca,gioco da tavola
+gioco da tavola,passatempi,gioco da tavola,gioco da tavola,gioco da tavola,gioco da tavola,gioco da tavola,gioco da tavola,gioco da tavola,gioco da tavola
+giornale,passatempi,giornale,giornale,giornale,giornale,giornale,giornale,giornale,giornale
+giraffa,animali,tigre,cioccolato,cioccolato,serpente,cucchiaio,elefante,elicottero,gioco da tavola
+giubbotto,vestiti,giacca,giubbotto,giacca,giacca,giubbotto,giubbotto,giacca,giacca
+gomma,cancelleria,gomma,bocca,bicicletta,bocca,gomma,gomma,elicottero,gioco da tavola
+gonna,vestiti,gonna,giacca,giubbotto,giacca,soffitto,gonna,elefante,gioco da tavola
+graffetta,cancelleria,graffetta,attrezzo,bicicletta,appendiabiti,cassettiera,graffetta,spillatrice,spillatrice
+guanti,vestiti,guanti,guanti,cioccolato,guanti,gomma,guanti,gomma,gomma
+insalata,cibi,insalata,insalata,insalata,insalata,insalata,insalata,insalata,insalata
+lampada,arredamenti/accessori,lampada,lampada,candelabro,lampada,lampada,lampada,lampada,cucina
+lampadario,arredamenti/accessori,lampada,lampada,candelabro,lampadario,lampadario,lampada,soffitto,soffitto
+latte,cibi,latte,latte,cioccolato,latte,frutta,latte,cioccolato,frutta
+legume,cibi,legume,legume,cioccolato,legume,legume,legume,legume,legume
+leone,animali,cucchiaio,cioccolato,cioccolato,gioco da tavola,gioco da tavola,cioccolato,tulipano,gioco da tavola
+letto,mobili,letto,letto,cuscino,letto,letto,letto,soggiorno,gioco da tavola
+lettore,passatempi,lettore,lettore,libreria,libreria,libreria,libreria,libreria,gioco da tavola
+libreria,mobili,libreria,libreria,bicicletta,libreria,soffitto,ripostiglio,soffitto,soffitto
+libro,passatempi,libro,libro,libreria,libro,libreria,libreria,libro,gioco da tavola
+lucertola,animali,lucertola,scimmia,scimmia,lucertola,videogioco,lucertola,elicottero,gioco da tavola
+maglia,vestiti,maglia,camicia,camicia,t-shirt,giacca,maglia,t-shirt,giubbotto
+maiale,animali,elefante,cioccolato,cioccolato,maiale,cucina,insalata,elicottero,gioco da tavola
+mano,parti del corpo,cucchiaio,motocicletta,cioccolato,coltello,elicottero,forchetta,elicottero,gioco da tavola
+margherita,piante,margherita,margherita,margherita,margherita,margherita,margherita,margherita,tulipano
+matita,cancelleria,matita,gomma,cioccolato,matita,gomma,matita,pennello,gioco da tavola
+mestolo,utensili da cucina,cucchiaio,attrezzo,forchetta,cucina,cucchiaio,cucchiaio,cucina,cucchiaio
+metro,arredamenti/accessori,bicicletta,camicia,bicicletta,sciarpa,cucina,appendiabiti,fotografia,gioco da tavola
+mimosa,piante,bicicletta,cioccolato,cioccolato,frutta,cioccolato,cioccolato,videogioco,gioco da tavola
+motocicletta,veicoli,motocicletta,motocicletta,motocicletta,motocicletta,motocicletta,motocicletta,scooter,motocicletta
+mucca,animali,mucca,cioccolato,cioccolato,mucca,carne,latte,carne,elicottero
+muro,edifici residenziali,muro,muro,muro,muro,muro,appendiabiti,pavimento,muro
+naso,parti del corpo,cucchiaio,cucchiaio,cioccolato,cucchiaio,insalata,naso,cucchiaio,cucina
+nave,veicoli,nave,nave,bicicletta,nave,nave,nave,nave,nave
+occhio,parti del corpo,cioccolato,motocicletta,cioccolato,frutta,soffitto,frutta,elicottero,gioco da tavola
+orchidea,piante,orchidea,orchidea,bicicletta,orchidea,orchidea,tulipano,orchidea,orchidea
+orecchio,parti del corpo,cucchiaio,candelabro,bicicletta,cucchiaio,gioco da tavola,gomma,elicottero,gioco da tavola
+orologio,arredamenti/accessori,orologio,orologio,orologio,orologio,orologio,orologio,orologio,orologio
+orso,animali,orso,orso,cioccolato,orso,gioco da tavola,orso,elicottero,gioco da tavola
+padella,utensili da cucina,padella,padella,cucchiaio,pentola,cucina,padella,cucina,cucina
+palla,passatempi,attrezzo,gioco da tavola,cioccolato,gioco da tavola,videogioco,attrezzo,gioco da tavola,gioco da tavola
+pancia,parti del corpo,pancia,pancia,cioccolato,bocca,bicicletta,pancia,elicottero,bocca
+pane,cibi,pane,pane,pane,pane,pane,pane,pane,pane
+pantalone,vestiti,pantalone,pantalone,camicia,pantalone,giacca,pantalone,giacca,gioco da tavola
+pasta,cibi,pasta,pasta,cioccolato,pasta,pasta,pasta,pasta,pasta
+pastello,cancelleria,pastello,matita,cioccolato,matita,pennello,matita,pennello,gioco da tavola
+pavimento,edifici residenziali,pavimento,pavimento,pavimento,pavimento,pavimento,pavimento,pavimento,pavimento
+penna,cancelleria,penna,attrezzo,penna,penna,penna,attrezzo,bicchiere,bicchiere
+pennello,passatempi,pennello,pennello,cioccolato,piatto,piatto,pennello,piatto,piatto
+pentola,utensili da cucina,pentola,pentola,cucina,cucina,cucina,pentola,cucina,cucina
+pesce,cibi,pesce,pesce,pesce,pesce,pesce,pesce,pesce,pesce
+piatto,utensili da cucina,piatto,piatto,piatto,piatto,cucina,piatto,gioco da tavola,cucina
+piede,parti del corpo,cucchiaio,cucchiaio,cioccolato,cucchiaio,cucina,cucina,piatto,piatto
+pino,piante,pino,pino,bicicletta,pino,forbice,abete,quercia,gioco da tavola
+pizza,cibi,pizza,pizza,piatto,pizza,pizza,pizza,margherita,cucina
+poltrona,mobili,poltrona,divano,cuscino,poltrona,divano,poltrona,letto,poltrona
+porta,edifici residenziali,porta,porta,bicicletta,porta,porta,porta,gioco da tavola,porta
+portafotografia,arredamenti/accessori,cornice,cornice,scrivania,cornice,soffitto,cornice,cornice,soffitto
+posacenere,arredamenti/accessori,candelabro,bicicletta,bicicletta,bicchiere,gioco da tavola,posacenere,tavolo,gioco da tavola
+quaderno,cancelleria,quaderno,quaderno,bicicletta,quaderno,pennello,quaderno,taccuino,gioco da tavola
+quadro,arredamenti/accessori,quadro,quadro,quadro,quadro,soffitto,candelabro,pennello,quadro
+quercia,piante,quercia,quercia,bicicletta,quercia,soffitto,candelabro,gioco da tavola,gioco da tavola
+racchetta,passatempi,racchetta,gioco da tavola,bicicletta,racchetta,gioco da tavola,racchetta,gioco da tavola,gioco da tavola
+righello,cancelleria,righello,righello,righello,attrezzo,gioco da tavola,attrezzo,gioco da tavola,gioco da tavola
+ripostiglio,edifici residenziali,ripostiglio,scala,bicicletta,ripostiglio,elicottero,ripostiglio,scala,soffitto
+riso,cibi,riso,riso,riso,riso,riso,riso,riso,riso
+rosa,piante,bicicletta,cioccolato,cioccolato,frutta,videogioco,evidenziatore,bicchiere,gioco da tavola
+salice,piante,cioccolato,cioccolato,cioccolato,cioccolato,frutta,cioccolato,cucchiaio,cioccolato
+scala,edifici residenziali,scala,scala,bicicletta,scala,elicottero,scala,elicottero,elicottero
+scarpa,vestiti,scarpa,scarpa,bicicletta,scarpa,giubbotto,scarpa,attrezzo,elicottero
+schiena,parti del corpo,colonna,motocicletta,cioccolato,schiena,schiena,schiena,schiena,elicottero
+sciarpa,vestiti,sciarpa,cappotto,cappello,sciarpa,cappotto,sciarpa,sciarpa,sciarpa
+scimmia,animali,scimmia,scimmia,scimmia,scimmia,scimmia,scimmia,scimmia,scimmia
+scolapasta,utensili da cucina,cucchiaio,cucchiaio,cucchiaio,cucchiaio,attrezzo,tagliere,cucchiaio,cucchiaio
+scolorina,cancelleria,colla,attrezzo,bicicletta,gomma,pennello,attrezzo,pennello,pennello
+scooter,veicoli,motocicletta,motocicletta,motocicletta,scooter,motocicletta,scooter,scooter,motocicletta
+scrivania,mobili,scrivania,scrivania,scrivania,scrivania,cassettiera,scrivania,tavolo,gioco da tavola
+sedia,mobili,sedia,poltrona,bicicletta,sedia,sedia,poltrona,cucina,cucchiaio
+serpente,animali,serpente,serpente,serpente,serpente,serpente,serpente,serpente,serpente
+slip,vestiti,camicia,camicia,camicia,attrezzo,cucina,slip,elefante,giubbotto
+soffitto,edifici residenziali,soffitto,soffitto,candelabro,soffitto,soffitto,tetto,soffitto,soffitto
+soggiorno,edifici residenziali,soggiorno,soggiorno,bicicletta,soggiorno,soffitto,soggiorno,soffitto,gioco da tavola
+spalla,parti del corpo,braccio,braccio,bicicletta,braccio,elicottero,carrozza,elefante,gioco da tavola
+specchio,arredamenti/accessori,specchio,specchio,bicicletta,specchio,gioco da tavola,specchio,bagno,gioco da tavola
+spillatrice,cancelleria,taccuino,libreria,bicicletta,gioco da tavola,gioco da tavola,libreria,gioco da tavola,gioco da tavola
+t-shirt,vestiti,maglia,camicia,giubbotto,t-shirt,camicia,camicia,t-shirt,t-shirt
+taccuino,cancelleria,taccuino,taccuino,taccuino,quaderno,cassettiera,taccuino,quaderno,quaderno
+tagliere,utensili da cucina,tagliere,piatto,cucchiaio,tagliere,teglia,tagliere,gioco da tavola,cioccolato
+tappeto,arredamenti/accessori,tappeto,pavimento,bagno,tappeto,bagno,tappeto,bagno,cucina
+tavolo,mobili,tavolo,scrivania,scrivania,tavolo,tavolo,appendiabiti,tavolo,tavolo
+teglia,utensili da cucina,teglia,teglia,bicchiere,teglia,teglia,teglia,cucina,cioccolato
+televisione,passatempi,televisione,televisione,televisione,televisione,televisione,televisione,televisione,televisione
+temperino,cancelleria,matita,pennello,bicicletta,pennello,gioco da tavola,matita,gioco da tavola,gioco da tavola
+tenda,arredamenti/accessori,tenda,finestra,soggiorno,tenda,soggiorno,tenda,soggiorno,gioco da tavola
+terrazzo,edifici residenziali,terrazzo,soggiorno,soggiorno,terrazzo,terrazzo,terrazzo,balcone,elicottero
+testa,parti del corpo,testa,motocicletta,cioccolato,frutta,gomma,capello,pavimento,gioco da tavola
+tetto,edifici residenziali,tetto,tetto,bicicletta,tetto,pavimento,tetto,pavimento,gioco da tavola
+tigre,animali,tigre,tigre,cioccolato,gatto,tigre,gatto,tigre,tigre
+topo,animali,topo,coniglio,bicicletta,topo,videogioco,gatto,elicottero,topo
+traghetto,veicoli,traghetto,bicicletta,bicicletta,traghetto,traghetto,attrezzo,elicottero,elicottero
+tram,veicoli,treno,treno,bicicletta,treno,treno,treno,elicottero,treno
+trattore,veicoli,trattore,trattore,bicicletta,trattore,trattore,attrezzo,gomma,gioco da tavola
+treno,veicoli,treno,treno,treno,treno,treno,treno,treno,treno
+tulipano,piante,bicicletta,cioccolato,cioccolato,tulipano,pennello,evidenziatore,pennello,gioco da tavola
+ulivo,piante,quercia,ulivo,bicicletta,ulivo,tagliere,ulivo,ciliegio,frutta
+uovo,cibi,uovo,cucina,cioccolato,uovo,cucina,uovo,cucina,cucina
+vaso,arredamenti/accessori,vaso,vaso,vaso,vaso,terrazzo,vaso,bicchiere,bicchiere
+verdura,cibi,verdura,verdura,frutta,verdura,insalata,verdura,insalata,cucina
+videogioco,passatempi,videogioco,videogioco,videogioco,videogioco,videogioco,videogioco,videogioco,videogioco
+vite,arredamenti/accessori,appendiabiti,testa,testa,vite,testa,attrezzo,testa,testa
