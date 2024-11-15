@@ -1,17 +1,17 @@
-category,category_ita,concept,concept_exemplar,exemplar,count,min_rank,max_rank,mean_rank,first_occurrence,dominance,participant_concept,availability,asb_freq
-plants,piante,abete,ABETE_abete di montagna,di montagna,1,1,1,1.0,1.0,1.0,1,1.0,547.0
-plants,piante,abete,ABETE_abete di foresta,di foresta,1,2,2,2.0,0.0,1.0,1,0.10026,94.0
-plants,piante,abete,ABETE_abete di piantagione,di piantagione,1,3,3,3.0,0.0,1.0,1,0.10026,
-plants,piante,abete,ABETE_abete di giardino,di giardino,1,4,4,4.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,aereo,AEREO_aereo da passeggeri,da passeggeri,1,1,1,1.0,1.0,1.0,1,1.0,42.0
-vehicles,veicoli,aereo,AEREO_aereo da trasporto,da trasporto,1,2,2,2.0,0.0,1.0,1,0.10026,275.0
-vehicles,veicoli,aereo,AEREO_aereo da combattimento,da combattimento,1,3,3,3.0,0.0,1.0,1,0.10026,319.0
-vehicles,veicoli,aereo,AEREO_aereo da ricognizione,da ricognizione,1,4,4,4.0,0.0,1.0,1,0.10026,51.0
-vehicles,veicoli,aereo,AEREO_aereo da addestramento,da addestramento,1,5,5,5.0,0.0,1.0,1,0.10026,97.0
-vehicles,veicoli,aereo,AEREO_aereo da trasporto a lungo raggio,da trasporto a lungo raggio,1,6,6,6.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,aereo,AEREO_aereo da trasporto aereo,da trasporto aereo,1,7,7,7.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,aereo,AEREO_aereo da pattugliamento,da pattugliamento,1,8,8,8.0,0.0,1.0,1,0.10026,45.0
-vehicles,veicoli,aereo,AEREO_aereo da ricerca e salvataggio,da ricerca e salvataggio,1,9,9,9.0,0.0,1.0,1,0.10026,17.0
+category,category_ita,concept,concept_exemplar,exemplar,count,min_rank,max_rank,mean_rank,first_occurrence,dominance,participant_concept,availability,abs_freq
+plants,piante,abete,ABETE_abete di montagna,di montagna,1,1,1,1.0,1.0,1.0,1,1.0,11.0
+plants,piante,abete,ABETE_abete di foresta,di foresta,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
+plants,piante,abete,ABETE_abete di piantagione,di piantagione,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+plants,piante,abete,ABETE_abete di giardino,di giardino,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,aereo,AEREO_aereo da passeggeri,da passeggeri,1,1,1,1.0,1.0,1.0,1,1.0,3.0
+vehicles,veicoli,aereo,AEREO_aereo da trasporto,da trasporto,1,2,2,2.0,0.0,1.0,1,0.10026,70.0
+vehicles,veicoli,aereo,AEREO_aereo da combattimento,da combattimento,1,3,3,3.0,0.0,1.0,1,0.10026,102.0
+vehicles,veicoli,aereo,AEREO_aereo da ricognizione,da ricognizione,1,4,4,4.0,0.0,1.0,1,0.10026,2070.0
+vehicles,veicoli,aereo,AEREO_aereo da addestramento,da addestramento,1,5,5,5.0,0.0,1.0,1,0.10026,74.0
+vehicles,veicoli,aereo,AEREO_aereo da trasporto a lungo raggio,da trasporto a lungo raggio,1,6,6,6.0,0.0,1.0,1,0.10026,7.0
+vehicles,veicoli,aereo,AEREO_aereo da trasporto aereo,da trasporto aereo,1,7,7,7.0,0.0,1.0,1,0.10026,10.0
+vehicles,veicoli,aereo,AEREO_aereo da pattugliamento,da pattugliamento,1,8,8,8.0,0.0,1.0,1,0.10026,27.0
+vehicles,veicoli,aereo,AEREO_aereo da ricerca e salvataggio,da ricerca e salvataggio,1,9,9,9.0,0.0,1.0,1,0.10026,1.0
 stationery,cancelleria,agenda,AGENDA_calendario,calendario,1,1,1,1.0,1.0,1.0,1,1.0,30666.0
 stationery,cancelleria,agenda,AGENDA_piano,piano,1,2,2,2.0,0.0,1.0,1,0.10026,39310.0
 stationery,cancelleria,agenda,AGENDA_elenco,elenco,1,3,3,3.0,0.0,1.0,1,0.10026,39132.0
@@ -26,14 +26,14 @@ furnishings/fittings,arredamenti/accessori,appendiabiti,APPENDIABITI_cassettiera
 furnishings/fittings,arredamenti/accessori,appendiabiti,APPENDIABITI_cassettiera a tenda,cassettiera a tenda,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
 furnishings/fittings,arredamenti/accessori,appendiabiti,APPENDIABITI_cassettiera a tenda con cassetta,cassettiera a tenda con cassetta,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
 furnishings/fittings,arredamenti/accessori,appendiabiti,APPENDIABITI_cassettiera a tenda con cassetta e vetro,cassettiera a tenda con cassetta e vetro,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
-furniture,mobili,armadio,ARMADIO_armadio a muro,a muro,1,1,1,1.0,1.0,1.0,1,1.0,584.0
-furniture,mobili,armadio,ARMADIO_armadio a cassettone,a cassettone,1,2,2,2.0,0.0,1.0,1,0.10026,
-furniture,mobili,armadio,ARMADIO_armadio a stile,a stile,1,3,3,3.0,0.0,1.0,1,0.10026,
-furniture,mobili,armadio,ARMADIO_armadio a vetro,a vetro,1,4,4,4.0,0.0,1.0,1,0.10026,90.0
-furniture,mobili,armadio,ARMADIO_armadio a porta,a porta,1,5,5,5.0,0.0,1.0,1,0.10026,
-furniture,mobili,armadio,ARMADIO_armadio da letto,da letto,1,6,6,6.0,0.0,1.0,1,0.10026,110.0
-furniture,mobili,armadio,ARMADIO_armadio da cucina,da cucina,1,7,7,7.0,0.0,1.0,1,0.10026,27.0
-furniture,mobili,armadio,ARMADIO_armadio da bagno,da bagno,1,8,8,8.0,0.0,1.0,1,0.10026,27.0
+furniture,mobili,armadio,ARMADIO_armadio a muro,a muro,1,1,1,1.0,1.0,1.0,1,1.0,48.0
+furniture,mobili,armadio,ARMADIO_armadio a cassettone,a cassettone,1,2,2,2.0,0.0,1.0,1,0.10026,4.0
+furniture,mobili,armadio,ARMADIO_armadio a stile,a stile,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+furniture,mobili,armadio,ARMADIO_armadio a vetro,a vetro,1,4,4,4.0,0.0,1.0,1,0.10026,20.0
+furniture,mobili,armadio,ARMADIO_armadio a porta,a porta,1,5,5,5.0,0.0,1.0,1,0.10026,10.0
+furniture,mobili,armadio,ARMADIO_armadio da letto,da letto,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+furniture,mobili,armadio,ARMADIO_armadio da cucina,da cucina,1,7,7,7.0,0.0,1.0,1,0.10026,28.0
+furniture,mobili,armadio,ARMADIO_armadio da bagno,da bagno,1,8,8,8.0,0.0,1.0,1,0.10026,12.0
 stationery,cancelleria,astuccio,ASTUCCIO_cappello,cappello,1,1,1,1.0,1.0,1.0,1,1.0,34080.0
 stationery,cancelleria,astuccio,ASTUCCIO_guanti,guanti,1,2,2,2.0,0.0,1.0,1,0.10026,52788.0
 stationery,cancelleria,astuccio,ASTUCCIO_guanti da lavoro,guanti da lavoro,1,3,3,3.0,0.0,1.0,1,0.10026,78.0
@@ -48,14 +48,14 @@ hobbies,passatempi,attrezzo,ATTREZZO_forbici da cucina,forbici da cucina,1,5,5,5
 hobbies,passatempi,attrezzo,ATTREZZO_forbici da barba,forbici da barba,1,6,6,6.0,0.0,1.0,1,0.10026,8.0
 hobbies,passatempi,attrezzo,ATTREZZO_forbici da legno,forbici da legno,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
 hobbies,passatempi,attrezzo,ATTREZZO_forbici da unguento,forbici da unguento,1,8,8,8.0,0.0,1.0,1,0.10026,0.0
-vehicles,veicoli,autobus,AUTOBUS_autobus urbano,urbano,1,1,1,1.0,1.0,1.0,1,1.0,23994.0
-vehicles,veicoli,autobus,AUTOBUS_autobus interurbano,interurbano,1,2,2,2.0,0.0,1.0,1,0.10026,5878.0
-vehicles,veicoli,autobus,AUTOBUS_autobus notturno,notturno,1,3,3,3.0,0.0,1.0,1,0.10026,17081.0
-vehicles,veicoli,autobus,AUTOBUS_autobus a lungo percorso,a lungo percorso,1,4,4,4.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,autobus,AUTOBUS_autobus a lungo percorso con fermate,a lungo percorso con fermate,1,5,5,5.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,autobus,AUTOBUS_autobus a linea,a linea,1,6,6,6.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,autobus,AUTOBUS_autobus a linea con fermate,a linea con fermate,1,7,7,7.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,autobus,AUTOBUS_autobus a linea con fermate e parcheggio,a linea con fermate e parcheggio,1,8,8,8.0,0.0,1.0,1,0.10026,
+vehicles,veicoli,autobus,AUTOBUS_autobus urbano,urbano,1,1,1,1.0,1.0,1.0,1,1.0,238.0
+vehicles,veicoli,autobus,AUTOBUS_autobus interurbano,interurbano,1,2,2,2.0,0.0,1.0,1,0.10026,98.0
+vehicles,veicoli,autobus,AUTOBUS_autobus notturno,notturno,1,3,3,3.0,0.0,1.0,1,0.10026,68.0
+vehicles,veicoli,autobus,AUTOBUS_autobus a lungo percorso,a lungo percorso,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,autobus,AUTOBUS_autobus a lungo percorso con fermate,a lungo percorso con fermate,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,autobus,AUTOBUS_autobus a linea,a linea,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,autobus,AUTOBUS_autobus a linea con fermate,a linea con fermate,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,autobus,AUTOBUS_autobus a linea con fermate e parcheggio,a linea con fermate e parcheggio,1,8,8,8.0,0.0,1.0,1,0.10026,0.0
 vehicles,veicoli,automobile,AUTOMOBILE_auto,auto,1,1,1,1.0,1.0,1.0,1,1.0,37910.0
 vehicles,veicoli,automobile,AUTOMOBILE_motocicletta,motocicletta,1,2,2,2.0,0.0,1.0,1,0.10026,37296.0
 vehicles,veicoli,automobile,AUTOMOBILE_autobus,autobus,1,3,3,3.0,0.0,1.0,1,0.10026,663876.0
@@ -76,41 +76,41 @@ housing buildings,edifici residenziali,balcone,BALCONE_scale a cassetta,scale a 
 housing buildings,edifici residenziali,balcone,BALCONE_scale a puleggia,scale a puleggia,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
 housing buildings,edifici residenziali,balcone,BALCONE_scale a manovella elettrica,scale a manovella elettrica,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
 housing buildings,edifici residenziali,balcone,BALCONE_scale a manovella elettrica con cassetta,scale a manovella elettrica con cassetta,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
-plants,piante,basilico,BASILICO_basilico comune,comune,1,1,1,1.0,1.0,1.0,1,1.0,16107.0
-plants,piante,basilico,BASILICO_basilico di genova,di genova,1,2,2,2.0,0.0,1.0,1,0.10026,
-plants,piante,basilico,BASILICO_basilico di napoli,di napoli,1,3,3,3.0,0.0,1.0,1,0.10026,
-plants,piante,basilico,BASILICO_basilico di sicilia,di sicilia,1,4,4,4.0,0.0,1.0,1,0.10026,
-plants,piante,basilico,BASILICO_basilico di calabria,di calabria,1,5,5,5.0,0.0,1.0,1,0.10026,
-plants,piante,basilico,BASILICO_basilico di puglia,di puglia,1,6,6,6.0,0.0,1.0,1,0.10026,
-plants,piante,basilico,BASILICO_basilico di sibillini,di sibillini,1,7,7,7.0,0.0,1.0,1,0.10026,
-plants,piante,basilico,BASILICO_basilico di prealpi,di prealpi,1,8,8,8.0,0.0,1.0,1,0.10026,
-plants,piante,basilico,BASILICO_basilico di alpi,di alpi,1,9,9,9.0,0.0,1.0,1,0.10026,
-plants,piante,basilico,BASILICO_basilico di appennini,di appennini,1,10,10,10.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da vino,da vino,1,1,1,1.0,1.0,1.0,1,1.0,242.0
-kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da acqua,da acqua,1,2,2,2.0,0.0,1.0,1,0.10026,404.0
-kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da caffè,da caffè,1,3,3,3.0,0.0,1.0,1,0.10026,454.0
-kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da soda,da soda,1,4,4,4.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da bibita,da bibita,1,5,5,5.0,0.0,1.0,1,0.10026,30.0
-kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da cocktail,da cocktail,1,6,6,6.0,0.0,1.0,1,0.10026,54.0
-kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da frutta,da frutta,1,7,7,7.0,0.0,1.0,1,0.10026,207.0
+plants,piante,basilico,BASILICO_basilico comune,comune,1,1,1,1.0,1.0,1.0,1,1.0,76.0
+plants,piante,basilico,BASILICO_basilico di genova,di genova,1,2,2,2.0,0.0,1.0,1,0.10026,20.0
+plants,piante,basilico,BASILICO_basilico di napoli,di napoli,1,3,3,3.0,0.0,1.0,1,0.10026,10.0
+plants,piante,basilico,BASILICO_basilico di sicilia,di sicilia,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+plants,piante,basilico,BASILICO_basilico di calabria,di calabria,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+plants,piante,basilico,BASILICO_basilico di puglia,di puglia,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+plants,piante,basilico,BASILICO_basilico di sibillini,di sibillini,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
+plants,piante,basilico,BASILICO_basilico di prealpi,di prealpi,1,8,8,8.0,0.0,1.0,1,0.10026,0.0
+plants,piante,basilico,BASILICO_basilico di alpi,di alpi,1,9,9,9.0,0.0,1.0,1,0.10026,0.0
+plants,piante,basilico,BASILICO_basilico di appennini,di appennini,1,10,10,10.0,0.0,1.0,1,0.10026,0.0
+kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da vino,da vino,1,1,1,1.0,1.0,1.0,1,1.0,166.0
+kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da acqua,da acqua,1,2,2,2.0,0.0,1.0,1,0.10026,638.0
+kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da caffè,da caffè,1,3,3,3.0,0.0,1.0,1,0.10026,68.0
+kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da soda,da soda,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da bibita,da bibita,1,5,5,5.0,0.0,1.0,1,0.10026,23.0
+kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da cocktail,da cocktail,1,6,6,6.0,0.0,1.0,1,0.10026,517.0
+kitchenware,utensili da cucina,bicchiere,BICCHIERE_bicchiere da frutta,da frutta,1,7,7,7.0,0.0,1.0,1,0.10026,1.0
 vehicles,veicoli,bicicletta,BICICLETTA_mountain bike,mountain bike,1,1,1,1.0,1.0,1.0,1,1.0,6030.0
-vehicles,veicoli,bicicletta,BICICLETTA_bicicletta da strada,da strada,1,2,2,2.0,0.0,1.0,1,0.10026,510.0
-vehicles,veicoli,bicicletta,BICICLETTA_bicicletta da pista,da pista,1,3,3,3.0,0.0,1.0,1,0.10026,93.0
-vehicles,veicoli,bicicletta,BICICLETTA_bicicletta da mountain bike,da mountain bike,1,4,4,4.0,0.0,1.0,1,0.10026,29.0
-vehicles,veicoli,bicicletta,BICICLETTA_bicicletta da corsa,da corsa,1,5,5,5.0,0.0,1.0,1,0.10026,690.0
-vehicles,veicoli,bicicletta,BICICLETTA_bicicletta da bambini,da bambini,1,6,6,6.0,0.0,1.0,1,0.10026,552.0
-vehicles,veicoli,bicicletta,BICICLETTA_bicicletta da neve,da neve,1,7,7,7.0,0.0,1.0,1,0.10026,23.0
-vehicles,veicoli,bicicletta,BICICLETTA_bicicletta elettrica,elettrica,1,8,8,8.0,0.0,1.0,1,0.10026,64450.0
+vehicles,veicoli,bicicletta,BICICLETTA_bicicletta da strada,da strada,1,2,2,2.0,0.0,1.0,1,0.10026,48.0
+vehicles,veicoli,bicicletta,BICICLETTA_bicicletta da pista,da pista,1,3,3,3.0,0.0,1.0,1,0.10026,46.0
+vehicles,veicoli,bicicletta,BICICLETTA_bicicletta da mountain bike,da mountain bike,1,4,4,4.0,0.0,1.0,1,0.10026,32.0
+vehicles,veicoli,bicicletta,BICICLETTA_bicicletta da corsa,da corsa,1,5,5,5.0,0.0,1.0,1,0.10026,88.0
+vehicles,veicoli,bicicletta,BICICLETTA_bicicletta da bambini,da bambini,1,6,6,6.0,0.0,1.0,1,0.10026,26.0
+vehicles,veicoli,bicicletta,BICICLETTA_bicicletta da neve,da neve,1,7,7,7.0,0.0,1.0,1,0.10026,22.0
+vehicles,veicoli,bicicletta,BICICLETTA_bicicletta elettrica,elettrica,1,8,8,8.0,0.0,1.0,1,0.10026,104.0
 body parts,parti del corpo,bocca,BOCCA_labbra,labbra,1,1,1,1.0,1.0,1.0,1,1.0,48526.0
 body parts,parti del corpo,bocca,BOCCA_narice,narice,1,2,2,2.0,0.0,1.0,1,0.10026,21752.0
 body parts,parti del corpo,bocca,BOCCA_lingua,lingua,1,3,3,3.0,0.0,1.0,1,0.10026,36926.0
 body parts,parti del corpo,bocca,BOCCA_gola,gola,1,4,4,4.0,0.0,1.0,1,0.10026,15663.0
 body parts,parti del corpo,bocca,BOCCA_naso,naso,1,5,5,5.0,0.0,1.0,1,0.10026,27830.0
-body parts,parti del corpo,braccio,BRACCIO_braccio umano,umano,1,1,1,1.0,1.0,1.0,1,1.0,39518.0
-body parts,parti del corpo,braccio,BRACCIO_braccio di un animale,di un animale,1,2,2,2.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,braccio,BRACCIO_braccio di una macchina,di una macchina,1,3,3,3.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,braccio,BRACCIO_braccio di un albero,di un albero,1,4,4,4.0,0.0,1.0,1,0.10026,90.0
-body parts,parti del corpo,braccio,BRACCIO_braccio di una struttura,di una struttura,1,5,5,5.0,0.0,1.0,1,0.10026,
+body parts,parti del corpo,braccio,BRACCIO_braccio umano,umano,1,1,1,1.0,1.0,1.0,1,1.0,354.0
+body parts,parti del corpo,braccio,BRACCIO_braccio di un animale,di un animale,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
+body parts,parti del corpo,braccio,BRACCIO_braccio di una macchina,di una macchina,1,3,3,3.0,0.0,1.0,1,0.10026,12.0
+body parts,parti del corpo,braccio,BRACCIO_braccio di un albero,di un albero,1,4,4,4.0,0.0,1.0,1,0.10026,3.0
+body parts,parti del corpo,braccio,BRACCIO_braccio di una struttura,di una struttura,1,5,5,5.0,0.0,1.0,1,0.10026,5.0
 plants,piante,cactus,CACTUS_aloe,aloe,1,1,1,1.0,1.0,1.0,1,1.0,37988.0
 plants,piante,cactus,CACTUS_cardone,cardone,1,2,2,2.0,0.0,1.0,1,0.10026,6143.0
 plants,piante,cactus,CACTUS_echeveria,echeveria,1,3,3,3.0,0.0,1.0,1,0.10026,386.0
@@ -123,47 +123,47 @@ plants,piante,cactus,CACTUS_prickly pear,prickly pear,1,9,9,9.0,0.0,1.0,1,0.1002
 clothes,vestiti,calza,CALZA_guanti,guanti,1,1,1,1.0,1.0,1.0,1,1.0,52788.0
 clothes,vestiti,calza,CALZA_cappelli,cappelli,1,2,2,2.0,0.0,1.0,1,0.10026,21974.0
 clothes,vestiti,calza,CALZA_berretti,berretti,1,3,3,3.0,0.0,1.0,1,0.10026,25944.0
-housing buildings,edifici residenziali,camera,CAMERA_camera da letto,da letto,1,1,1,1.0,1.0,1.0,1,1.0,110.0
-housing buildings,edifici residenziali,camera,CAMERA_camera da bagno,da bagno,1,2,2,2.0,0.0,1.0,1,0.10026,27.0
-housing buildings,edifici residenziali,camera,CAMERA_camera da studio,da studio,1,3,3,3.0,0.0,1.0,1,0.10026,574.0
-housing buildings,edifici residenziali,camera,CAMERA_camera da lettura,da lettura,1,4,4,4.0,0.0,1.0,1,0.10026,133.0
-housing buildings,edifici residenziali,camera,CAMERA_camera da gioco,da gioco,1,5,5,5.0,0.0,1.0,1,0.10026,45.0
-housing buildings,edifici residenziali,camera,CAMERA_camera da musica,da musica,1,6,6,6.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,camera,CAMERA_camera da lavoro,da lavoro,1,7,7,7.0,0.0,1.0,1,0.10026,47.0
-housing buildings,edifici residenziali,camera,CAMERA_camera da pranzo,da pranzo,1,8,8,8.0,0.0,1.0,1,0.10026,1337.0
-housing buildings,edifici residenziali,camera,CAMERA_camera da cucina,da cucina,1,9,9,9.0,0.0,1.0,1,0.10026,27.0
+housing buildings,edifici residenziali,camera,CAMERA_camera da letto,da letto,1,1,1,1.0,1.0,1.0,1,1.0,289476.0
+housing buildings,edifici residenziali,camera,CAMERA_camera da bagno,da bagno,1,2,2,2.0,0.0,1.0,1,0.10026,22.0
+housing buildings,edifici residenziali,camera,CAMERA_camera da studio,da studio,1,3,3,3.0,0.0,1.0,1,0.10026,25.0
+housing buildings,edifici residenziali,camera,CAMERA_camera da lettura,da lettura,1,4,4,4.0,0.0,1.0,1,0.10026,1.0
+housing buildings,edifici residenziali,camera,CAMERA_camera da gioco,da gioco,1,5,5,5.0,0.0,1.0,1,0.10026,12.0
+housing buildings,edifici residenziali,camera,CAMERA_camera da musica,da musica,1,6,6,6.0,0.0,1.0,1,0.10026,9.0
+housing buildings,edifici residenziali,camera,CAMERA_camera da lavoro,da lavoro,1,7,7,7.0,0.0,1.0,1,0.10026,21.0
+housing buildings,edifici residenziali,camera,CAMERA_camera da pranzo,da pranzo,1,8,8,8.0,0.0,1.0,1,0.10026,20.0
+housing buildings,edifici residenziali,camera,CAMERA_camera da cucina,da cucina,1,9,9,9.0,0.0,1.0,1,0.10026,11.0
 clothes,vestiti,camicia,CAMICIA_polo,polo,1,1,1,1.0,1.0,1.0,1,1.0,39028.0
-clothes,vestiti,camicia,CAMICIA_camicia da ballo,da ballo,1,2,2,2.0,0.0,1.0,1,0.10026,696.0
-clothes,vestiti,camicia,CAMICIA_camicia da tennis,da tennis,1,3,3,3.0,0.0,1.0,1,0.10026,896.0
-clothes,vestiti,camicia,CAMICIA_camicia da cricket,da cricket,1,4,4,4.0,0.0,1.0,1,0.10026,46.0
-clothes,vestiti,camicia,CAMICIA_camicia da golf,da golf,1,5,5,5.0,0.0,1.0,1,0.10026,28.0
-clothes,vestiti,camicia,CAMICIA_camicia da sci,da sci,1,6,6,6.0,0.0,1.0,1,0.10026,1023.0
-vehicles,veicoli,camion,CAMION_camion di pompaggio,di pompaggio,1,1,1,1.0,1.0,1.0,1,1.0,
-vehicles,veicoli,camion,CAMION_camion di trasporto,di trasporto,1,2,2,2.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,camion,CAMION_camion di pompaggio per incendi,di pompaggio per incendi,1,3,3,3.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,camion,CAMION_camion di pompaggio per gas,di pompaggio per gas,1,4,4,4.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,camion,CAMION_camion di pompaggio per acqua,di pompaggio per acqua,1,5,5,5.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,camion,CAMION_camion di pompaggio per impianti di irrigazione,di pompaggio per impianti di irrigazione,1,6,6,6.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,camion,CAMION_camion di pompaggio per impianti di scarico,di pompaggio per impianti di scarico,1,7,7,7.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,camion,CAMION_camion di pompaggio per impianti di riscaldamento,di pompaggio per impianti di riscaldamento,1,8,8,8.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,camion,CAMION_camion di pompaggio per impianti di raffreddamento,di pompaggio per impianti di raffreddamento,1,9,9,9.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,camion,CAMION_camion di pompaggio per impianti di smaltimento,di pompaggio per impianti di smaltimento,1,10,10,10.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,camion,CAMION_camion di pompaggio per impianti di smaltimento di rifiuti,di pompaggio per impianti di smaltimento di rifiuti,1,11,11,11.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a braccioli,a braccioli,1,1,1,1.0,1.0,1.0,1,1.0,
-furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a steli,a steli,1,2,2,2.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a colonne,a colonne,1,3,3,3.0,0.0,1.0,1,0.10026,34.0
-furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a piattaforma,a piattaforma,1,4,4,4.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a vasi,a vasi,1,5,5,5.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a steli con candele,a steli con candele,1,6,6,6.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a candele in un vaso,a candele in un vaso,1,7,7,7.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a candele in un contenitore,a candele in un contenitore,1,8,8,8.0,0.0,1.0,1,0.10026,
+clothes,vestiti,camicia,CAMICIA_camicia da ballo,da ballo,1,2,2,2.0,0.0,1.0,1,0.10026,3.0
+clothes,vestiti,camicia,CAMICIA_camicia da tennis,da tennis,1,3,3,3.0,0.0,1.0,1,0.10026,3.0
+clothes,vestiti,camicia,CAMICIA_camicia da cricket,da cricket,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+clothes,vestiti,camicia,CAMICIA_camicia da golf,da golf,1,5,5,5.0,0.0,1.0,1,0.10026,6.0
+clothes,vestiti,camicia,CAMICIA_camicia da sci,da sci,1,6,6,6.0,0.0,1.0,1,0.10026,2.0
+vehicles,veicoli,camion,CAMION_camion di pompaggio,di pompaggio,1,1,1,1.0,1.0,1.0,1,1.0,2.0
+vehicles,veicoli,camion,CAMION_camion di trasporto,di trasporto,1,2,2,2.0,0.0,1.0,1,0.10026,20.0
+vehicles,veicoli,camion,CAMION_camion di pompaggio per incendi,di pompaggio per incendi,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,camion,CAMION_camion di pompaggio per gas,di pompaggio per gas,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,camion,CAMION_camion di pompaggio per acqua,di pompaggio per acqua,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,camion,CAMION_camion di pompaggio per impianti di irrigazione,di pompaggio per impianti di irrigazione,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,camion,CAMION_camion di pompaggio per impianti di scarico,di pompaggio per impianti di scarico,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,camion,CAMION_camion di pompaggio per impianti di riscaldamento,di pompaggio per impianti di riscaldamento,1,8,8,8.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,camion,CAMION_camion di pompaggio per impianti di raffreddamento,di pompaggio per impianti di raffreddamento,1,9,9,9.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,camion,CAMION_camion di pompaggio per impianti di smaltimento,di pompaggio per impianti di smaltimento,1,10,10,10.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,camion,CAMION_camion di pompaggio per impianti di smaltimento di rifiuti,di pompaggio per impianti di smaltimento di rifiuti,1,11,11,11.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a braccioli,a braccioli,1,1,1,1.0,1.0,1.0,1,1.0,0.0
+furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a steli,a steli,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a colonne,a colonne,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a piattaforma,a piattaforma,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a vasi,a vasi,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a steli con candele,a steli con candele,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a candele in un vaso,a candele in un vaso,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,candelabro,CANDELABRO_candelabro a candele in un contenitore,a candele in un contenitore,1,8,8,8.0,0.0,1.0,1,0.10026,0.0
 animals,animali,cane,CANE_pastore tedesco,pastore tedesco,1,1,1,1.0,1.0,1.0,1,1.0,390.0
 animals,animali,cane,CANE_chihuahua,chihuahua,1,2,2,2.0,0.0,1.0,1,0.10026,20458.0
 animals,animali,cane,CANE_bulldog,bulldog,1,3,3,3.0,0.0,1.0,1,0.10026,11165.0
 animals,animali,cane,CANE_pug,pug,1,4,4,4.0,0.0,1.0,1,0.10026,4212.0
 animals,animali,cane,CANE_dachshund,dachshund,1,5,5,5.0,0.0,1.0,1,0.10026,306.0
 animals,animali,cane,CANE_beagle,beagle,1,6,6,6.0,0.0,1.0,1,0.10026,15767.0
-animals,animali,cane,CANE_cane da guardia,da guardia,1,7,7,7.0,0.0,1.0,1,0.10026,
+animals,animali,cane,CANE_cane da guardia,da guardia,1,7,7,7.0,0.0,1.0,1,0.10026,217.0
 animals,animali,cane,CANE_cagnolino,cagnolino,1,8,8,8.0,0.0,1.0,1,0.10026,15844.0
 clothes,vestiti,canottiera,CANOTTIERA_canoa,canoa,1,1,1,1.0,1.0,1.0,1,1.0,43516.0
 clothes,vestiti,canottiera,CANOTTIERA_barca,barca,1,2,2,2.0,0.0,1.0,1,0.10026,53138.0
@@ -187,10 +187,10 @@ clothes,vestiti,cappello,CAPPELLO_berretto,berretto,1,2,2,2.0,0.0,1.0,1,0.10026,
 clothes,vestiti,cappello,CAPPELLO_top,top,1,3,3,3.0,0.0,1.0,1,0.10026,26116.0
 clothes,vestiti,cappello,CAPPELLO_fedora,fedora,1,4,4,4.0,0.0,1.0,1,0.10026,23014.0
 clothes,vestiti,cappello,CAPPELLO_sombrero,sombrero,1,5,5,5.0,0.0,1.0,1,0.10026,2903.0
-clothes,vestiti,cappello,CAPPELLO_cappello da cowboy,da cowboy,1,6,6,6.0,0.0,1.0,1,0.10026,52.0
-clothes,vestiti,cappello,CAPPELLO_cappello da golf,da golf,1,7,7,7.0,0.0,1.0,1,0.10026,28.0
-clothes,vestiti,cappello,CAPPELLO_cappello da neve,da neve,1,8,8,8.0,0.0,1.0,1,0.10026,23.0
-clothes,vestiti,cappello,CAPPELLO_cappello da mare,da mare,1,9,9,9.0,0.0,1.0,1,0.10026,
+clothes,vestiti,cappello,CAPPELLO_cappello da cowboy,da cowboy,1,6,6,6.0,0.0,1.0,1,0.10026,483.0
+clothes,vestiti,cappello,CAPPELLO_cappello da golf,da golf,1,7,7,7.0,0.0,1.0,1,0.10026,10.0
+clothes,vestiti,cappello,CAPPELLO_cappello da neve,da neve,1,8,8,8.0,0.0,1.0,1,0.10026,7.0
+clothes,vestiti,cappello,CAPPELLO_cappello da mare,da mare,1,9,9,9.0,0.0,1.0,1,0.10026,11.0
 clothes,vestiti,cappotto,CAPPOTTO_giacca,giacca,1,1,1,1.0,1.0,1.0,1,1.0,33734.0
 clothes,vestiti,cappotto,CAPPOTTO_mantello,mantello,1,2,2,2.0,0.0,1.0,1,0.10026,49932.0
 clothes,vestiti,cappotto,CAPPOTTO_pelliccia,pelliccia,1,3,3,3.0,0.0,1.0,1,0.10026,18611.0
@@ -215,22 +215,22 @@ vehicles,veicoli,carrozza,CARROZZA_treno a trazione elettrica,treno a trazione e
 vehicles,veicoli,carrozza,CARROZZA_treno a trazione a vapore,treno a trazione a vapore,1,10,10,10.0,0.0,1.0,1,0.10026,4.0
 vehicles,veicoli,carrozza,CARROZZA_treno a trazione a gas,treno a trazione a gas,1,11,11,11.0,0.0,1.0,1,0.10026,0.0
 vehicles,veicoli,carrozza,CARROZZA_treno a trazione diesel,treno a trazione diesel,1,12,12,12.0,0.0,1.0,1,0.10026,25.0
-hobbies,passatempi,carte,CARTE_carte di credito,di credito,1,1,1,1.0,1.0,1.0,1,1.0,
-hobbies,passatempi,carte,CARTE_carte di debito,di debito,1,2,2,2.0,0.0,1.0,1,0.10026,
-hobbies,passatempi,carte,CARTE_carte di identità,di identità,1,3,3,3.0,0.0,1.0,1,0.10026,
-hobbies,passatempi,carte,CARTE_carte di prepagate,di prepagate,1,4,4,4.0,0.0,1.0,1,0.10026,
-hobbies,passatempi,carte,CARTE_carte di trasporto,di trasporto,1,5,5,5.0,0.0,1.0,1,0.10026,
-hobbies,passatempi,carte,CARTE_carte di abbonamento,di abbonamento,1,6,6,6.0,0.0,1.0,1,0.10026,
-hobbies,passatempi,carte,CARTE_carte di regalo,di regalo,1,7,7,7.0,0.0,1.0,1,0.10026,
-hobbies,passatempi,carte,CARTE_carte di identità digitale,di identità digitale,1,8,8,8.0,0.0,1.0,1,0.10026,
-furniture,mobili,cassettiera,CASSETTIERA_cassettiera a mano,a mano,1,1,1,1.0,1.0,1.0,1,1.0,
-furniture,mobili,cassettiera,CASSETTIERA_cassettiera elettrica,elettrica,1,2,2,2.0,0.0,1.0,1,0.10026,64450.0
-furniture,mobili,cassettiera,CASSETTIERA_cassettiera a rotelle,a rotelle,1,3,3,3.0,0.0,1.0,1,0.10026,430.0
-furniture,mobili,cassettiera,CASSETTIERA_cassettiera a ruote,a ruote,1,4,4,4.0,0.0,1.0,1,0.10026,114.0
-animals,animali,cavallo,CAVALLO_cavallo da corsa,da corsa,1,1,1,1.0,1.0,1.0,1,1.0,690.0
-animals,animali,cavallo,CAVALLO_cavallo da lavoro,da lavoro,1,2,2,2.0,0.0,1.0,1,0.10026,47.0
-animals,animali,cavallo,CAVALLO_cavallo da tiro,da tiro,1,3,3,3.0,0.0,1.0,1,0.10026,152.0
-animals,animali,cavallo,CAVALLO_cavallo da compagnia,da compagnia,1,4,4,4.0,0.0,1.0,1,0.10026,
+hobbies,passatempi,carte,CARTE_carte di credito,di credito,1,1,1,1.0,1.0,1.0,1,1.0,602.0
+hobbies,passatempi,carte,CARTE_carte di debito,di debito,1,2,2,2.0,0.0,1.0,1,0.10026,40.0
+hobbies,passatempi,carte,CARTE_carte di identità,di identità,1,3,3,3.0,0.0,1.0,1,0.10026,56.0
+hobbies,passatempi,carte,CARTE_carte di prepagate,di prepagate,1,4,4,4.0,0.0,1.0,1,0.10026,3.0
+hobbies,passatempi,carte,CARTE_carte di trasporto,di trasporto,1,5,5,5.0,0.0,1.0,1,0.10026,22.0
+hobbies,passatempi,carte,CARTE_carte di abbonamento,di abbonamento,1,6,6,6.0,0.0,1.0,1,0.10026,11.0
+hobbies,passatempi,carte,CARTE_carte di regalo,di regalo,1,7,7,7.0,0.0,1.0,1,0.10026,12.0
+hobbies,passatempi,carte,CARTE_carte di identità digitale,di identità digitale,1,8,8,8.0,0.0,1.0,1,0.10026,10.0
+furniture,mobili,cassettiera,CASSETTIERA_cassettiera a mano,a mano,1,1,1,1.0,1.0,1.0,1,1.0,0.0
+furniture,mobili,cassettiera,CASSETTIERA_cassettiera elettrica,elettrica,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
+furniture,mobili,cassettiera,CASSETTIERA_cassettiera a rotelle,a rotelle,1,3,3,3.0,0.0,1.0,1,0.10026,5.0
+furniture,mobili,cassettiera,CASSETTIERA_cassettiera a ruote,a ruote,1,4,4,4.0,0.0,1.0,1,0.10026,4.0
+animals,animali,cavallo,CAVALLO_cavallo da corsa,da corsa,1,1,1,1.0,1.0,1.0,1,1.0,74.0
+animals,animali,cavallo,CAVALLO_cavallo da lavoro,da lavoro,1,2,2,2.0,0.0,1.0,1,0.10026,60.0
+animals,animali,cavallo,CAVALLO_cavallo da tiro,da tiro,1,3,3,3.0,0.0,1.0,1,0.10026,40.0
+animals,animali,cavallo,CAVALLO_cavallo da compagnia,da compagnia,1,4,4,4.0,0.0,1.0,1,0.10026,23.0
 animals,animali,cavallo,CAVALLO_pony,pony,1,5,5,5.0,0.0,1.0,1,0.10026,19511.0
 animals,animali,cavallo,CAVALLO_destriero,destriero,1,6,6,6.0,0.0,1.0,1,0.10026,8237.0
 hobbies,passatempi,cd,CD_album,album,1,1,1,1.0,1.0,1.0,1,1.0,29392.0
@@ -239,13 +239,13 @@ hobbies,passatempi,cd,CD_ep,ep,1,3,3,3.0,0.0,1.0,1,0.10026,21524.0
 hobbies,passatempi,cd,CD_mixtape,mixtape,1,4,4,4.0,0.0,1.0,1,0.10026,5637.0
 hobbies,passatempi,cd,CD_playlist,playlist,1,5,5,5.0,0.0,1.0,1,0.10026,24415.0
 hobbies,passatempi,cd,CD_compilation,compilation,1,6,6,6.0,0.0,1.0,1,0.10026,17409.0
-furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola in legno,in legno,1,1,1,1.0,1.0,1.0,1,1.0,210.0
-furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola in metallo,in metallo,1,2,2,2.0,0.0,1.0,1,0.10026,26.0
-furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola in vetro,in vetro,1,3,3,3.0,0.0,1.0,1,0.10026,637.0
-furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola con cuscino,con cuscino,1,4,4,4.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola con cuscino rotante,con cuscino rotante,1,5,5,5.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola con superficie di vetro,con superficie di vetro,1,6,6,6.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola con superficie di legno,con superficie di legno,1,7,7,7.0,0.0,1.0,1,0.10026,
+furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola in legno,in legno,1,1,1,1.0,1.0,1.0,1,1.0,20.0
+furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola in metallo,in metallo,1,2,2,2.0,0.0,1.0,1,0.10026,6.0
+furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola in vetro,in vetro,1,3,3,3.0,0.0,1.0,1,0.10026,24.0
+furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola con cuscino,con cuscino,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola con cuscino rotante,con cuscino rotante,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola con superficie di vetro,con superficie di vetro,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,centrotavola,CENTROTAVOLA_centrotavola con superficie di legno,con superficie di legno,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
 foods,cibi,cereale,CEREALE_riso,riso,1,1,1,1.0,1.0,1.0,1,1.0,726124.0
 foods,cibi,cereale,CEREALE_avena,avena,1,2,2,2.0,0.0,1.0,1,0.10026,24926.0
 foods,cibi,cereale,CEREALE_mais,mais,1,3,3,3.0,0.0,1.0,1,0.10026,30916.0
@@ -287,20 +287,20 @@ foods,cibi,cioccolato,CIOCCOLATO_cioccolata amara,cioccolata amara,1,9,9,9.0,0.0
 foods,cibi,cioccolato,CIOCCOLATO_cioccolata bianca,cioccolata bianca,1,10,10,10.0,0.0,1.0,1,0.10026,56.0
 foods,cibi,cioccolato,CIOCCOLATO_cioccolata nera,cioccolata nera,1,11,11,11.0,0.0,1.0,1,0.10026,50.0
 stationery,cancelleria,colla,COLLA_adesivo,adesivo,1,1,1,1.0,1.0,1.0,1,1.0,354888.0
-stationery,cancelleria,colla,COLLA_colla per pietre,per pietre,1,2,2,2.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,colla,COLLA_colla per legno,per legno,1,3,3,3.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,colla,COLLA_colla per tessuti,per tessuti,1,4,4,4.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,colla,COLLA_colla per plastica,per plastica,1,5,5,5.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,colla,COLLA_colla per metallo,per metallo,1,6,6,6.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,colla,COLLA_colla per vetro,per vetro,1,7,7,7.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,colla,COLLA_colla per cartone,per cartone,1,8,8,8.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,colla,COLLA_colla per gomma,per gomma,1,9,9,9.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,collo,COLLO_collo di vetro,di vetro,1,1,1,1.0,1.0,1.0,1,1.0,587.0
-body parts,parti del corpo,collo,COLLO_collo di legno,di legno,1,2,2,2.0,0.0,1.0,1,0.10026,35.0
-body parts,parti del corpo,collo,COLLO_collo di metallo,di metallo,1,3,3,3.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,collo,COLLO_collo di plastica,di plastica,1,4,4,4.0,0.0,1.0,1,0.10026,672.0
-body parts,parti del corpo,collo,COLLO_collo di gomma,di gomma,1,5,5,5.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,collo,COLLO_collo di cuoio,di cuoio,1,6,6,6.0,0.0,1.0,1,0.10026,
+stationery,cancelleria,colla,COLLA_colla per pietre,per pietre,1,2,2,2.0,0.0,1.0,1,0.10026,5.0
+stationery,cancelleria,colla,COLLA_colla per legno,per legno,1,3,3,3.0,0.0,1.0,1,0.10026,35.0
+stationery,cancelleria,colla,COLLA_colla per tessuti,per tessuti,1,4,4,4.0,0.0,1.0,1,0.10026,22.0
+stationery,cancelleria,colla,COLLA_colla per plastica,per plastica,1,5,5,5.0,0.0,1.0,1,0.10026,22.0
+stationery,cancelleria,colla,COLLA_colla per metallo,per metallo,1,6,6,6.0,0.0,1.0,1,0.10026,16.0
+stationery,cancelleria,colla,COLLA_colla per vetro,per vetro,1,7,7,7.0,0.0,1.0,1,0.10026,25.0
+stationery,cancelleria,colla,COLLA_colla per cartone,per cartone,1,8,8,8.0,0.0,1.0,1,0.10026,2.0
+stationery,cancelleria,colla,COLLA_colla per gomma,per gomma,1,9,9,9.0,0.0,1.0,1,0.10026,8.0
+body parts,parti del corpo,collo,COLLO_collo di vetro,di vetro,1,1,1,1.0,1.0,1.0,1,1.0,13.0
+body parts,parti del corpo,collo,COLLO_collo di legno,di legno,1,2,2,2.0,0.0,1.0,1,0.10026,6.0
+body parts,parti del corpo,collo,COLLO_collo di metallo,di metallo,1,3,3,3.0,0.0,1.0,1,0.10026,2.0
+body parts,parti del corpo,collo,COLLO_collo di plastica,di plastica,1,4,4,4.0,0.0,1.0,1,0.10026,12.0
+body parts,parti del corpo,collo,COLLO_collo di gomma,di gomma,1,5,5,5.0,0.0,1.0,1,0.10026,1.0
+body parts,parti del corpo,collo,COLLO_collo di cuoio,di cuoio,1,6,6,6.0,0.0,1.0,1,0.10026,1.0
 housing buildings,edifici residenziali,colonna,COLONNA_sostegno,sostegno,1,1,1,1.0,1.0,1.0,1,1.0,16393.0
 housing buildings,edifici residenziali,colonna,COLONNA_pilastro,pilastro,1,2,2,2.0,0.0,1.0,1,0.10026,22694.0
 housing buildings,edifici residenziali,colonna,COLONNA_muro,muro,1,3,3,3.0,0.0,1.0,1,0.10026,43260.0
@@ -309,12 +309,12 @@ housing buildings,edifici residenziali,colonna,COLONNA_traliccio,traliccio,1,5,5
 housing buildings,edifici residenziali,colonna,COLONNA_pilastro di legno,pilastro di legno,1,6,6,6.0,0.0,1.0,1,0.10026,21.0
 housing buildings,edifici residenziali,colonna,COLONNA_pilastro di metallo,pilastro di metallo,1,7,7,7.0,0.0,1.0,1,0.10026,21.0
 housing buildings,edifici residenziali,colonna,COLONNA_pilastro di vetro,pilastro di vetro,1,8,8,8.0,0.0,1.0,1,0.10026,3.0
-kitchenware,utensili da cucina,coltello,COLTELLO_coltello da cucina,da cucina,1,1,1,1.0,1.0,1.0,1,1.0,27.0
-kitchenware,utensili da cucina,coltello,COLTELLO_coltello da pesca,da pesca,1,2,2,2.0,0.0,1.0,1,0.10026,576.0
-kitchenware,utensili da cucina,coltello,COLTELLO_coltello da caccia,da caccia,1,3,3,3.0,0.0,1.0,1,0.10026,33.0
-kitchenware,utensili da cucina,coltello,COLTELLO_coltello da lavoro,da lavoro,1,4,4,4.0,0.0,1.0,1,0.10026,47.0
-kitchenware,utensili da cucina,coltello,COLTELLO_coltello da cucina da cucina,da cucina da cucina,1,5,5,5.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,coltello,COLTELLO_coltello da cucina da forno,da cucina da forno,1,6,6,6.0,0.0,1.0,1,0.10026,
+kitchenware,utensili da cucina,coltello,COLTELLO_coltello da cucina,da cucina,1,1,1,1.0,1.0,1.0,1,1.0,206.0
+kitchenware,utensili da cucina,coltello,COLTELLO_coltello da pesca,da pesca,1,2,2,2.0,0.0,1.0,1,0.10026,20.0
+kitchenware,utensili da cucina,coltello,COLTELLO_coltello da caccia,da caccia,1,3,3,3.0,0.0,1.0,1,0.10026,84.0
+kitchenware,utensili da cucina,coltello,COLTELLO_coltello da lavoro,da lavoro,1,4,4,4.0,0.0,1.0,1,0.10026,22.0
+kitchenware,utensili da cucina,coltello,COLTELLO_coltello da cucina da cucina,da cucina da cucina,1,5,5,5.0,0.0,1.0,1,0.10026,1.0
+kitchenware,utensili da cucina,coltello,COLTELLO_coltello da cucina da forno,da cucina da forno,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
 furniture,mobili,comodino,COMODINO_cuscino,cuscino,1,1,1,1.0,1.0,1.0,1,1.0,33352.0
 furniture,mobili,comodino,COMODINO_cuscino a piuma,cuscino a piuma,1,2,2,2.0,0.0,1.0,1,0.10026,1.0
 furniture,mobili,comodino,COMODINO_cuscino a schiuma,cuscino a schiuma,1,3,3,3.0,0.0,1.0,1,0.10026,3.0
@@ -327,22 +327,22 @@ hobbies,passatempi,computer,COMPUTER_smartphone,smartphone,1,4,4,4.0,0.0,1.0,1,0
 hobbies,passatempi,computer,COMPUTER_server,server,1,5,5,5.0,0.0,1.0,1,0.10026,34604.0
 hobbies,passatempi,computer,COMPUTER_mainframe,mainframe,1,6,6,6.0,0.0,1.0,1,0.10026,11328.0
 furniture,mobili,comò,COMÒ_cassettone,cassettone,1,1,1,1.0,1.0,1.0,1,1.0,34200.0
-furniture,mobili,comò,COMÒ_comò a braccio,a braccio,1,2,2,2.0,0.0,1.0,1,0.10026,391.0
-furniture,mobili,comò,COMÒ_comò a muro,a muro,1,3,3,3.0,0.0,1.0,1,0.10026,584.0
-furniture,mobili,comò,COMÒ_comò a rotelle,a rotelle,1,4,4,4.0,0.0,1.0,1,0.10026,430.0
-furniture,mobili,comò,COMÒ_comò a ruota,a ruota,1,5,5,5.0,0.0,1.0,1,0.10026,418.0
-animals,animali,coniglio,CONIGLIO_coniglio comune,comune,1,1,1,1.0,1.0,1.0,1,1.0,16107.0
-animals,animali,coniglio,CONIGLIO_coniglio cinese,cinese,1,2,2,2.0,0.0,1.0,1,0.10026,33750.0
-animals,animali,coniglio,CONIGLIO_coniglio di montagna,di montagna,1,3,3,3.0,0.0,1.0,1,0.10026,547.0
-animals,animali,coniglio,CONIGLIO_coniglio di sibillia,di sibillia,1,4,4,4.0,0.0,1.0,1,0.10026,
-animals,animali,coniglio,CONIGLIO_coniglio di prussia,di prussia,1,5,5,5.0,0.0,1.0,1,0.10026,
-animals,animali,coniglio,CONIGLIO_coniglio di siam,di siam,1,6,6,6.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,cornice,CORNICE_cornice per finestra,per finestra,1,1,1,1.0,1.0,1.0,1,1.0,
-furnishings/fittings,arredamenti/accessori,cornice,CORNICE_cornice per porte,per porte,1,2,2,2.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,cornice,CORNICE_cornice per pavimento,per pavimento,1,3,3,3.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,cornice,CORNICE_cornice per soffitto,per soffitto,1,4,4,4.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,cornice,CORNICE_cornice per tavolo,per tavolo,1,5,5,5.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,cornice,CORNICE_cornice per parete,per parete,1,6,6,6.0,0.0,1.0,1,0.10026,
+furniture,mobili,comò,COMÒ_comò a braccio,a braccio,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
+furniture,mobili,comò,COMÒ_comò a muro,a muro,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+furniture,mobili,comò,COMÒ_comò a rotelle,a rotelle,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+furniture,mobili,comò,COMÒ_comò a ruota,a ruota,1,5,5,5.0,0.0,1.0,1,0.10026,1.0
+animals,animali,coniglio,CONIGLIO_coniglio comune,comune,1,1,1,1.0,1.0,1.0,1,1.0,23.0
+animals,animali,coniglio,CONIGLIO_coniglio cinese,cinese,1,2,2,2.0,0.0,1.0,1,0.10026,4.0
+animals,animali,coniglio,CONIGLIO_coniglio di montagna,di montagna,1,3,3,3.0,0.0,1.0,1,0.10026,26.0
+animals,animali,coniglio,CONIGLIO_coniglio di sibillia,di sibillia,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+animals,animali,coniglio,CONIGLIO_coniglio di prussia,di prussia,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+animals,animali,coniglio,CONIGLIO_coniglio di siam,di siam,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,cornice,CORNICE_cornice per finestra,per finestra,1,1,1,1.0,1.0,1.0,1,1.0,23.0
+furnishings/fittings,arredamenti/accessori,cornice,CORNICE_cornice per porte,per porte,1,2,2,2.0,0.0,1.0,1,0.10026,20.0
+furnishings/fittings,arredamenti/accessori,cornice,CORNICE_cornice per pavimento,per pavimento,1,3,3,3.0,0.0,1.0,1,0.10026,1.0
+furnishings/fittings,arredamenti/accessori,cornice,CORNICE_cornice per soffitto,per soffitto,1,4,4,4.0,0.0,1.0,1,0.10026,11.0
+furnishings/fittings,arredamenti/accessori,cornice,CORNICE_cornice per tavolo,per tavolo,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,cornice,CORNICE_cornice per parete,per parete,1,6,6,6.0,0.0,1.0,1,0.10026,5.0
 furniture,mobili,credenza,CREDENZA_banca,banca,1,1,1,1.0,1.0,1.0,1,1.0,17490.0
 furniture,mobili,credenza,CREDENZA_cassa di risparmio,cassa di risparmio,1,2,2,2.0,0.0,1.0,1,0.10026,335.0
 furniture,mobili,credenza,CREDENZA_fondi comuni,fondi comuni,1,3,3,3.0,0.0,1.0,1,0.10026,257.0
@@ -359,11 +359,11 @@ hobbies,passatempi,cruciverba,CRUCIVERBA_acrostico,acrostico,1,3,3,3.0,0.0,1.0,1
 hobbies,passatempi,cruciverba,CRUCIVERBA_palindromo,palindromo,1,4,4,4.0,0.0,1.0,1,0.10026,2943.0
 hobbies,passatempi,cruciverba,CRUCIVERBA_anagramma di parole,anagramma di parole,1,5,5,5.0,0.0,1.0,1,0.10026,18.0
 hobbies,passatempi,cruciverba,CRUCIVERBA_indovinello,indovinello,1,6,6,6.0,0.0,1.0,1,0.10026,16555.0
-kitchenware,utensili da cucina,cucchiaio,CUCCHIAIO_cucchiaio da tavola,da tavola,1,1,1,1.0,1.0,1.0,1,1.0,
-kitchenware,utensili da cucina,cucchiaio,CUCCHIAIO_cucchiaio da cucina,da cucina,1,2,2,2.0,0.0,1.0,1,0.10026,27.0
-kitchenware,utensili da cucina,cucchiaio,CUCCHIAIO_cucchiaio da forno,da forno,1,3,3,3.0,0.0,1.0,1,0.10026,24.0
-kitchenware,utensili da cucina,cucchiaio,CUCCHIAIO_cucchiaio da ghiaccio,da ghiaccio,1,4,4,4.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,cucchiaio,CUCCHIAIO_cucchiaio da neve,da neve,1,5,5,5.0,0.0,1.0,1,0.10026,23.0
+kitchenware,utensili da cucina,cucchiaio,CUCCHIAIO_cucchiaio da tavola,da tavola,1,1,1,1.0,1.0,1.0,1,1.0,78.0
+kitchenware,utensili da cucina,cucchiaio,CUCCHIAIO_cucchiaio da cucina,da cucina,1,2,2,2.0,0.0,1.0,1,0.10026,40.0
+kitchenware,utensili da cucina,cucchiaio,CUCCHIAIO_cucchiaio da forno,da forno,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+kitchenware,utensili da cucina,cucchiaio,CUCCHIAIO_cucchiaio da ghiaccio,da ghiaccio,1,4,4,4.0,0.0,1.0,1,0.10026,1.0
+kitchenware,utensili da cucina,cucchiaio,CUCCHIAIO_cucchiaio da neve,da neve,1,5,5,5.0,0.0,1.0,1,0.10026,1.0
 housing buildings,edifici residenziali,cucina,CUCINA_pentola,pentola,1,1,1,1.0,1.0,1.0,1,1.0,28154.0
 housing buildings,edifici residenziali,cucina,CUCINA_padella,padella,1,2,2,2.0,0.0,1.0,1,0.10026,37946.0
 housing buildings,edifici residenziali,cucina,CUCINA_teglia,teglia,1,3,3,3.0,0.0,1.0,1,0.10026,30612.0
@@ -371,45 +371,45 @@ housing buildings,edifici residenziali,cucina,CUCINA_forno,forno,1,4,4,4.0,0.0,1
 housing buildings,edifici residenziali,cucina,CUCINA_frigorifero,frigorifero,1,5,5,5.0,0.0,1.0,1,0.10026,29542.0
 housing buildings,edifici residenziali,cucina,CUCINA_lavastoviglie,lavastoviglie,1,6,6,6.0,0.0,1.0,1,0.10026,43846.0
 housing buildings,edifici residenziali,cucina,CUCINA_elettrodomestico,elettrodomestico,1,7,7,7.0,0.0,1.0,1,0.10026,37960.0
-body parts,parti del corpo,cuore,CUORE_cuore umano,umano,1,1,1,1.0,1.0,1.0,1,1.0,39518.0
-body parts,parti del corpo,cuore,CUORE_cuore animale,animale,1,2,2,2.0,0.0,1.0,1,0.10026,22192.0
-body parts,parti del corpo,cuore,CUORE_cuore di pietra,di pietra,1,3,3,3.0,0.0,1.0,1,0.10026,27.0
-body parts,parti del corpo,cuore,CUORE_cuore di legno,di legno,1,4,4,4.0,0.0,1.0,1,0.10026,35.0
-body parts,parti del corpo,cuore,CUORE_cuore di metallo,di metallo,1,5,5,5.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da letto,da letto,1,1,1,1.0,1.0,1.0,1,1.0,110.0
-furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da poltrona,da poltrona,1,2,2,2.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da poltrona esterno,da poltrona esterno,1,3,3,3.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da giardino,da giardino,1,4,4,4.0,0.0,1.0,1,0.10026,1072.0
-furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da spiaggia,da spiaggia,1,5,5,5.0,0.0,1.0,1,0.10026,681.0
-furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da viaggio,da viaggio,1,6,6,6.0,0.0,1.0,1,0.10026,391.0
-furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da bambino,da bambino,1,7,7,7.0,0.0,1.0,1,0.10026,68.0
-animals,animali,delfino,DELFINO_delfino comune,comune,1,1,1,1.0,1.0,1.0,1,1.0,16107.0
-animals,animali,delfino,DELFINO_delfino del mediterraneo,del mediterraneo,1,2,2,2.0,0.0,1.0,1,0.10026,
-animals,animali,delfino,DELFINO_delfino del giappone,del giappone,1,3,3,3.0,0.0,1.0,1,0.10026,
-animals,animali,delfino,DELFINO_delfino del pacifico,del pacifico,1,4,4,4.0,0.0,1.0,1,0.10026,
-animals,animali,delfino,DELFINO_delfino del nord atlantico,del nord atlantico,1,5,5,5.0,0.0,1.0,1,0.10026,
-furniture,mobili,divano,DIVANO_divano a tre o più posti,a tre o più posti,1,1,1,1.0,1.0,1.0,1,1.0,
-furniture,mobili,divano,DIVANO_divano a due posti,a due posti,1,2,2,2.0,0.0,1.0,1,0.10026,
-furniture,mobili,divano,DIVANO_divano a sdraio,a sdraio,1,3,3,3.0,0.0,1.0,1,0.10026,
-furniture,mobili,divano,DIVANO_divano a cuscino,a cuscino,1,4,4,4.0,0.0,1.0,1,0.10026,42.0
-furniture,mobili,divano,DIVANO_divano a slitta,a slitta,1,5,5,5.0,0.0,1.0,1,0.10026,
-plants,piante,edera,EDERA_edera comune,comune,1,1,1,1.0,1.0,1.0,1,1.0,16107.0
-plants,piante,edera,EDERA_edera gigante,gigante,1,2,2,2.0,0.0,1.0,1,0.10026,31554.0
-plants,piante,edera,EDERA_edera nana,nana,1,3,3,3.0,0.0,1.0,1,0.10026,
-plants,piante,edera,EDERA_edera rossa,rossa,1,4,4,4.0,0.0,1.0,1,0.10026,21256.0
-plants,piante,edera,EDERA_edera verde,verde,1,5,5,5.0,0.0,1.0,1,0.10026,26252.0
-animals,animali,elefante,ELEFANTE_elefante africano,africano,1,1,1,1.0,1.0,1.0,1,1.0,45338.0
-animals,animali,elefante,ELEFANTE_elefante asiatico,asiatico,1,2,2,2.0,0.0,1.0,1,0.10026,33552.0
-animals,animali,elefante,ELEFANTE_elefante di sumatra,di sumatra,1,3,3,3.0,0.0,1.0,1,0.10026,41.0
-animals,animali,elefante,ELEFANTE_elefante di borneo,di borneo,1,4,4,4.0,0.0,1.0,1,0.10026,26.0
-animals,animali,elefante,ELEFANTE_elefante di sumatra orientale,di sumatra orientale,1,5,5,5.0,0.0,1.0,1,0.10026,
-animals,animali,elefante,ELEFANTE_elefante di caspico,di caspico,1,6,6,6.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,elicottero,ELICOTTERO_elicottero da trasporto,da trasporto,1,1,1,1.0,1.0,1.0,1,1.0,275.0
-vehicles,veicoli,elicottero,ELICOTTERO_elicottero da combattimento,da combattimento,1,2,2,2.0,0.0,1.0,1,0.10026,319.0
-vehicles,veicoli,elicottero,ELICOTTERO_elicottero da pattugliamento,da pattugliamento,1,3,3,3.0,0.0,1.0,1,0.10026,45.0
-vehicles,veicoli,elicottero,ELICOTTERO_elicottero da pompaggio,da pompaggio,1,4,4,4.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,elicottero,ELICOTTERO_elicottero da trasporto di merci,da trasporto di merci,1,5,5,5.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,elicottero,ELICOTTERO_elicottero da ricerca e salvataggio,da ricerca e salvataggio,1,6,6,6.0,0.0,1.0,1,0.10026,17.0
+body parts,parti del corpo,cuore,CUORE_cuore umano,umano,1,1,1,1.0,1.0,1.0,1,1.0,98.0
+body parts,parti del corpo,cuore,CUORE_cuore animale,animale,1,2,2,2.0,0.0,1.0,1,0.10026,104.0
+body parts,parti del corpo,cuore,CUORE_cuore di pietra,di pietra,1,3,3,3.0,0.0,1.0,1,0.10026,104.0
+body parts,parti del corpo,cuore,CUORE_cuore di legno,di legno,1,4,4,4.0,0.0,1.0,1,0.10026,48.0
+body parts,parti del corpo,cuore,CUORE_cuore di metallo,di metallo,1,5,5,5.0,0.0,1.0,1,0.10026,40.0
+furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da letto,da letto,1,1,1,1.0,1.0,1.0,1,1.0,46.0
+furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da poltrona,da poltrona,1,2,2,2.0,0.0,1.0,1,0.10026,3.0
+furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da poltrona esterno,da poltrona esterno,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da giardino,da giardino,1,4,4,4.0,0.0,1.0,1,0.10026,31.0
+furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da spiaggia,da spiaggia,1,5,5,5.0,0.0,1.0,1,0.10026,13.0
+furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da viaggio,da viaggio,1,6,6,6.0,0.0,1.0,1,0.10026,44.0
+furnishings/fittings,arredamenti/accessori,cuscino,CUSCINO_cuscino da bambino,da bambino,1,7,7,7.0,0.0,1.0,1,0.10026,2.0
+animals,animali,delfino,DELFINO_delfino comune,comune,1,1,1,1.0,1.0,1.0,1,1.0,246.0
+animals,animali,delfino,DELFINO_delfino del mediterraneo,del mediterraneo,1,2,2,2.0,0.0,1.0,1,0.10026,50.0
+animals,animali,delfino,DELFINO_delfino del giappone,del giappone,1,3,3,3.0,0.0,1.0,1,0.10026,3.0
+animals,animali,delfino,DELFINO_delfino del pacifico,del pacifico,1,4,4,4.0,0.0,1.0,1,0.10026,12.0
+animals,animali,delfino,DELFINO_delfino del nord atlantico,del nord atlantico,1,5,5,5.0,0.0,1.0,1,0.10026,2.0
+furniture,mobili,divano,DIVANO_divano a tre o più posti,a tre o più posti,1,1,1,1.0,1.0,1.0,1,1.0,1.0
+furniture,mobili,divano,DIVANO_divano a due posti,a due posti,1,2,2,2.0,0.0,1.0,1,0.10026,48.0
+furniture,mobili,divano,DIVANO_divano a sdraio,a sdraio,1,3,3,3.0,0.0,1.0,1,0.10026,2.0
+furniture,mobili,divano,DIVANO_divano a cuscino,a cuscino,1,4,4,4.0,0.0,1.0,1,0.10026,2.0
+furniture,mobili,divano,DIVANO_divano a slitta,a slitta,1,5,5,5.0,0.0,1.0,1,0.10026,2.0
+plants,piante,edera,EDERA_edera comune,comune,1,1,1,1.0,1.0,1.0,1,1.0,162.0
+plants,piante,edera,EDERA_edera gigante,gigante,1,2,2,2.0,0.0,1.0,1,0.10026,8.0
+plants,piante,edera,EDERA_edera nana,nana,1,3,3,3.0,0.0,1.0,1,0.10026,1.0
+plants,piante,edera,EDERA_edera rossa,rossa,1,4,4,4.0,0.0,1.0,1,0.10026,44.0
+plants,piante,edera,EDERA_edera verde,verde,1,5,5,5.0,0.0,1.0,1,0.10026,130.0
+animals,animali,elefante,ELEFANTE_elefante africano,africano,1,1,1,1.0,1.0,1.0,1,1.0,300.0
+animals,animali,elefante,ELEFANTE_elefante asiatico,asiatico,1,2,2,2.0,0.0,1.0,1,0.10026,250.0
+animals,animali,elefante,ELEFANTE_elefante di sumatra,di sumatra,1,3,3,3.0,0.0,1.0,1,0.10026,26.0
+animals,animali,elefante,ELEFANTE_elefante di borneo,di borneo,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+animals,animali,elefante,ELEFANTE_elefante di sumatra orientale,di sumatra orientale,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+animals,animali,elefante,ELEFANTE_elefante di caspico,di caspico,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,elicottero,ELICOTTERO_elicottero da trasporto,da trasporto,1,1,1,1.0,1.0,1.0,1,1.0,473.0
+vehicles,veicoli,elicottero,ELICOTTERO_elicottero da combattimento,da combattimento,1,2,2,2.0,0.0,1.0,1,0.10026,43.0
+vehicles,veicoli,elicottero,ELICOTTERO_elicottero da pattugliamento,da pattugliamento,1,3,3,3.0,0.0,1.0,1,0.10026,4.0
+vehicles,veicoli,elicottero,ELICOTTERO_elicottero da pompaggio,da pompaggio,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,elicottero,ELICOTTERO_elicottero da trasporto di merci,da trasporto di merci,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,elicottero,ELICOTTERO_elicottero da ricerca e salvataggio,da ricerca e salvataggio,1,6,6,6.0,0.0,1.0,1,0.10026,1.0
 stationery,cancelleria,evidenziatore,EVIDENZIATORE_pennarelli,pennarelli,1,1,1,1.0,1.0,1.0,1,1.0,15245.0
 stationery,cancelleria,evidenziatore,EVIDENZIATORE_matite,matite,1,2,2,2.0,0.0,1.0,1,0.10026,47118.0
 stationery,cancelleria,evidenziatore,EVIDENZIATORE_pennelli,pennelli,1,3,3,3.0,0.0,1.0,1,0.10026,25574.0
@@ -423,19 +423,19 @@ clothes,vestiti,felpa,FELPA_berretto,berretto,1,2,2,2.0,0.0,1.0,1,0.10026,37350.
 clothes,vestiti,felpa,FELPA_cappuccio,cappuccio,1,3,3,3.0,0.0,1.0,1,0.10026,26178.0
 clothes,vestiti,felpa,FELPA_mantello,mantello,1,4,4,4.0,0.0,1.0,1,0.10026,49932.0
 clothes,vestiti,felpa,FELPA_sciarpa,sciarpa,1,5,5,5.0,0.0,1.0,1,0.10026,45144.0
-plants,piante,ficus,FICUS_ficus benghalensis,benghalensis,1,1,1,1.0,1.0,1.0,1,1.0,
-plants,piante,ficus,FICUS_ficus carica,carica,1,2,2,2.0,0.0,1.0,1,0.10026,20693.0
-plants,piante,ficus,FICUS_ficus benjamina,benjamina,1,3,3,3.0,0.0,1.0,1,0.10026,
-plants,piante,ficus,FICUS_ficus religiosa,religiosa,1,4,4,4.0,0.0,1.0,1,0.10026,
-plants,piante,ficus,FICUS_ficus lyrata,lyrata,1,5,5,5.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,finestra,FINESTRA_finestra a tenda,a tenda,1,1,1,1.0,1.0,1.0,1,1.0,67.0
-housing buildings,edifici residenziali,finestra,FINESTRA_finestra a vetro,a vetro,1,2,2,2.0,0.0,1.0,1,0.10026,90.0
-housing buildings,edifici residenziali,finestra,FINESTRA_finestra a sospensione,a sospensione,1,3,3,3.0,0.0,1.0,1,0.10026,68.0
-housing buildings,edifici residenziali,finestra,FINESTRA_finestra a muro,a muro,1,4,4,4.0,0.0,1.0,1,0.10026,584.0
-housing buildings,edifici residenziali,finestra,FINESTRA_finestra a palazzo,a palazzo,1,5,5,5.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,finestra,FINESTRA_finestra a balcone,a balcone,1,6,6,6.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,finestra,FINESTRA_finestra a terrazza,a terrazza,1,7,7,7.0,0.0,1.0,1,0.10026,70.0
-housing buildings,edifici residenziali,finestra,FINESTRA_finestra a soffitto,a soffitto,1,8,8,8.0,0.0,1.0,1,0.10026,93.0
+plants,piante,ficus,FICUS_ficus benghalensis,benghalensis,1,1,1,1.0,1.0,1.0,1,1.0,42.0
+plants,piante,ficus,FICUS_ficus carica,carica,1,2,2,2.0,0.0,1.0,1,0.10026,76.0
+plants,piante,ficus,FICUS_ficus benjamina,benjamina,1,3,3,3.0,0.0,1.0,1,0.10026,838.0
+plants,piante,ficus,FICUS_ficus religiosa,religiosa,1,4,4,4.0,0.0,1.0,1,0.10026,80.0
+plants,piante,ficus,FICUS_ficus lyrata,lyrata,1,5,5,5.0,0.0,1.0,1,0.10026,202.0
+housing buildings,edifici residenziali,finestra,FINESTRA_finestra a tenda,a tenda,1,1,1,1.0,1.0,1.0,1,1.0,1.0
+housing buildings,edifici residenziali,finestra,FINESTRA_finestra a vetro,a vetro,1,2,2,2.0,0.0,1.0,1,0.10026,24.0
+housing buildings,edifici residenziali,finestra,FINESTRA_finestra a sospensione,a sospensione,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,finestra,FINESTRA_finestra a muro,a muro,1,4,4,4.0,0.0,1.0,1,0.10026,16.0
+housing buildings,edifici residenziali,finestra,FINESTRA_finestra a palazzo,a palazzo,1,5,5,5.0,0.0,1.0,1,0.10026,2.0
+housing buildings,edifici residenziali,finestra,FINESTRA_finestra a balcone,a balcone,1,6,6,6.0,0.0,1.0,1,0.10026,21.0
+housing buildings,edifici residenziali,finestra,FINESTRA_finestra a terrazza,a terrazza,1,7,7,7.0,0.0,1.0,1,0.10026,2.0
+housing buildings,edifici residenziali,finestra,FINESTRA_finestra a soffitto,a soffitto,1,8,8,8.0,0.0,1.0,1,0.10026,26.0
 furnishings/fittings,arredamenti/accessori,fioriera,FIORIERA_vaso,vaso,1,1,1,1.0,1.0,1.0,1,1.0,33038.0
 furnishings/fittings,arredamenti/accessori,fioriera,FIORIERA_ciotola,ciotola,1,2,2,2.0,0.0,1.0,1,0.10026,35986.0
 furnishings/fittings,arredamenti/accessori,fioriera,FIORIERA_vaso da fiori,vaso da fiori,1,3,3,3.0,0.0,1.0,1,0.10026,1475.0
@@ -443,21 +443,21 @@ furnishings/fittings,arredamenti/accessori,fioriera,FIORIERA_cassa da fiori,cass
 furnishings/fittings,arredamenti/accessori,fioriera,FIORIERA_scatola da fiori,scatola da fiori,1,5,5,5.0,0.0,1.0,1,0.10026,1.0
 furnishings/fittings,arredamenti/accessori,fioriera,FIORIERA_vetrina,vetrina,1,6,6,6.0,0.0,1.0,1,0.10026,38396.0
 stationery,cancelleria,foglio,FOGLIO_carta,carta,1,1,1,1.0,1.0,1.0,1,1.0,29882.0
-stationery,cancelleria,foglio,FOGLIO_foglio di velluto,di velluto,1,2,2,2.0,0.0,1.0,1,0.10026,80.0
-stationery,cancelleria,foglio,FOGLIO_foglio di carta igienica,di carta igienica,1,3,3,3.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,foglio,FOGLIO_foglio di carta da cucito,di carta da cucito,1,4,4,4.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,foglio,FOGLIO_foglio di carta da scrivere,di carta da scrivere,1,5,5,5.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,foglio,FOGLIO_foglio di vetro,di vetro,1,6,6,6.0,0.0,1.0,1,0.10026,587.0
-kitchenware,utensili da cucina,forbice,FORBICE_forbice a mano,a mano,1,1,1,1.0,1.0,1.0,1,1.0,
-kitchenware,utensili da cucina,forbice,FORBICE_forbice elettrico,elettrico,1,2,2,2.0,0.0,1.0,1,0.10026,33490.0
-kitchenware,utensili da cucina,forbice,FORBICE_forbice a lama rotante,a lama rotante,1,3,3,3.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,forbice,FORBICE_forbice a lama affilata,a lama affilata,1,4,4,4.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,forbice,FORBICE_forbice a lama a guida manuale,a lama a guida manuale,1,5,5,5.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,forbice,FORBICE_forbice a lama a guida automatica,a lama a guida automatica,1,6,6,6.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,forchetta,FORCHETTA_forchetta da tavola,da tavola,1,1,1,1.0,1.0,1.0,1,1.0,
-kitchenware,utensili da cucina,forchetta,FORCHETTA_forchetta da cucina,da cucina,1,2,2,2.0,0.0,1.0,1,0.10026,27.0
-kitchenware,utensili da cucina,forchetta,FORCHETTA_forchetta da barbecue,da barbecue,1,3,3,3.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,forchetta,FORCHETTA_forchetta da pesca,da pesca,1,4,4,4.0,0.0,1.0,1,0.10026,576.0
+stationery,cancelleria,foglio,FOGLIO_foglio di velluto,di velluto,1,2,2,2.0,0.0,1.0,1,0.10026,6.0
+stationery,cancelleria,foglio,FOGLIO_foglio di carta igienica,di carta igienica,1,3,3,3.0,0.0,1.0,1,0.10026,26.0
+stationery,cancelleria,foglio,FOGLIO_foglio di carta da cucito,di carta da cucito,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+stationery,cancelleria,foglio,FOGLIO_foglio di carta da scrivere,di carta da scrivere,1,5,5,5.0,0.0,1.0,1,0.10026,24.0
+stationery,cancelleria,foglio,FOGLIO_foglio di vetro,di vetro,1,6,6,6.0,0.0,1.0,1,0.10026,26.0
+kitchenware,utensili da cucina,forbice,FORBICE_forbice a mano,a mano,1,1,1,1.0,1.0,1.0,1,1.0,14.0
+kitchenware,utensili da cucina,forbice,FORBICE_forbice elettrico,elettrico,1,2,2,2.0,0.0,1.0,1,0.10026,296.0
+kitchenware,utensili da cucina,forbice,FORBICE_forbice a lama rotante,a lama rotante,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+kitchenware,utensili da cucina,forbice,FORBICE_forbice a lama affilata,a lama affilata,1,4,4,4.0,0.0,1.0,1,0.10026,1.0
+kitchenware,utensili da cucina,forbice,FORBICE_forbice a lama a guida manuale,a lama a guida manuale,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+kitchenware,utensili da cucina,forbice,FORBICE_forbice a lama a guida automatica,a lama a guida automatica,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+kitchenware,utensili da cucina,forchetta,FORCHETTA_forchetta da tavola,da tavola,1,1,1,1.0,1.0,1.0,1,1.0,52.0
+kitchenware,utensili da cucina,forchetta,FORCHETTA_forchetta da cucina,da cucina,1,2,2,2.0,0.0,1.0,1,0.10026,24.0
+kitchenware,utensili da cucina,forchetta,FORCHETTA_forchetta da barbecue,da barbecue,1,3,3,3.0,0.0,1.0,1,0.10026,8.0
+kitchenware,utensili da cucina,forchetta,FORCHETTA_forchetta da pesca,da pesca,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
 foods,cibi,formaggio,FORMAGGIO_parmigiano,parmigiano,1,1,1,1.0,1.0,1.0,1,1.0,36040.0
 foods,cibi,formaggio,FORMAGGIO_mozzarella,mozzarella,1,2,2,2.0,0.0,1.0,1,0.10026,41520.0
 foods,cibi,formaggio,FORMAGGIO_gorgonzola,gorgonzola,1,3,3,3.0,0.0,1.0,1,0.10026,31790.0
@@ -468,17 +468,17 @@ foods,cibi,formaggio,FORMAGGIO_feta,feta,1,7,7,7.0,0.0,1.0,1,0.10026,14230.0
 foods,cibi,formaggio,FORMAGGIO_brie,brie,1,8,8,8.0,0.0,1.0,1,0.10026,15394.0
 foods,cibi,formaggio,FORMAGGIO_camembert,camembert,1,9,9,9.0,0.0,1.0,1,0.10026,5150.0
 foods,cibi,formaggio,FORMAGGIO_mascarpone,mascarpone,1,10,10,10.0,0.0,1.0,1,0.10026,44149.0
-furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia aerea,aerea,1,1,1,1.0,1.0,1.0,1,1.0,21577.0
-furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia notturna,notturna,1,2,2,2.0,0.0,1.0,1,0.10026,25166.0
-furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia sportiva,sportiva,1,3,3,3.0,0.0,1.0,1,0.10026,25800.0
-furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di ritratto,di ritratto,1,4,4,4.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di paesaggio,di paesaggio,1,5,5,5.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di nudo,di nudo,1,6,6,6.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di documentazione,di documentazione,1,7,7,7.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di moda,di moda,1,8,8,8.0,0.0,1.0,1,0.10026,23.0
-furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di guerra,di guerra,1,9,9,9.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di documentazione scientifica,di documentazione scientifica,1,10,10,10.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di scena di studio,di scena di studio,1,11,11,11.0,0.0,1.0,1,0.10026,
+furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia aerea,aerea,1,1,1,1.0,1.0,1.0,1,1.0,136.0
+furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia notturna,notturna,1,2,2,2.0,0.0,1.0,1,0.10026,730.0
+furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia sportiva,sportiva,1,3,3,3.0,0.0,1.0,1,0.10026,33.0
+furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di ritratto,di ritratto,1,4,4,4.0,0.0,1.0,1,0.10026,30.0
+furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di paesaggio,di paesaggio,1,5,5,5.0,0.0,1.0,1,0.10026,32.0
+furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di nudo,di nudo,1,6,6,6.0,0.0,1.0,1,0.10026,23.0
+furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di documentazione,di documentazione,1,7,7,7.0,0.0,1.0,1,0.10026,25.0
+furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di moda,di moda,1,8,8,8.0,0.0,1.0,1,0.10026,2126.0
+furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di guerra,di guerra,1,9,9,9.0,0.0,1.0,1,0.10026,26.0
+furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di documentazione scientifica,di documentazione scientifica,1,10,10,10.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,fotografia,FOTOGRAFIA_fotografia di scena di studio,di scena di studio,1,11,11,11.0,0.0,1.0,1,0.10026,0.0
 foods,cibi,frutta,FRUTTA_banana,banana,1,1,1,1.0,1.0,1.0,1,1.0,33180.0
 foods,cibi,frutta,FRUTTA_mela,mela,1,2,2,2.0,0.0,1.0,1,0.10026,40206.0
 foods,cibi,frutta,FRUTTA_pesca,pesca,1,3,3,3.0,0.0,1.0,1,0.10026,35642.0
@@ -488,36 +488,36 @@ foods,cibi,frutta,FRUTTA_albicocca,albicocca,1,6,6,6.0,0.0,1.0,1,0.10026,50600.0
 foods,cibi,frutta,FRUTTA_fragola,fragola,1,7,7,7.0,0.0,1.0,1,0.10026,38456.0
 foods,cibi,frutta,FRUTTA_ciliegia,ciliegia,1,8,8,8.0,0.0,1.0,1,0.10026,37388.0
 foods,cibi,frutta,FRUTTA_uva,uva,1,9,9,9.0,0.0,1.0,1,0.10026,33032.0
-vehicles,veicoli,furgone,FURGONE_furgone a due posti,a due posti,1,1,1,1.0,1.0,1.0,1,1.0,
-vehicles,veicoli,furgone,FURGONE_furgone a tre posti,a tre posti,1,2,2,2.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,furgone,FURGONE_furgone a quattro posti,a quattro posti,1,3,3,3.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,furgone,FURGONE_furgone a cinque posti,a cinque posti,1,4,4,4.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,furgone,FURGONE_furgone a sei posti,a sei posti,1,5,5,5.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,furgone,FURGONE_furgone a sette posti,a sette posti,1,6,6,6.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,furgone,FURGONE_furgone a noleggio,a noleggio,1,7,7,7.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,furgone,FURGONE_furgone a noleggio con conducente,a noleggio con conducente,1,8,8,8.0,0.0,1.0,1,0.10026,
-animals,animali,gallo,GALLO_gallo selvatico,selvatico,1,1,1,1.0,1.0,1.0,1,1.0,16395.0
-animals,animali,gallo,GALLO_gallo domestico,domestico,1,2,2,2.0,0.0,1.0,1,0.10026,49380.0
-body parts,parti del corpo,gamba,GAMBA_gamba di legno,di legno,1,1,1,1.0,1.0,1.0,1,1.0,35.0
-body parts,parti del corpo,gamba,GAMBA_gamba di metallo,di metallo,1,2,2,2.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,gamba,GAMBA_gamba di plastica,di plastica,1,3,3,3.0,0.0,1.0,1,0.10026,672.0
-body parts,parti del corpo,gamba,GAMBA_gamba di vetro,di vetro,1,4,4,4.0,0.0,1.0,1,0.10026,587.0
-body parts,parti del corpo,gamba,GAMBA_gamba di fibra di vetro,di fibra di vetro,1,5,5,5.0,0.0,1.0,1,0.10026,
-animals,animali,gatto,GATTO_gatto domestico,domestico,1,1,1,1.0,1.0,1.0,1,1.0,49380.0
-animals,animali,gatto,GATTO_gatto selvatico,selvatico,1,2,2,2.0,0.0,1.0,1,0.10026,16395.0
-animals,animali,gatto,GATTO_gatto da compagnia,da compagnia,1,3,3,3.0,0.0,1.0,1,0.10026,
-animals,animali,gatto,GATTO_gatto da caccia,da caccia,1,4,4,4.0,0.0,1.0,1,0.10026,33.0
-animals,animali,gatto,GATTO_gatto da guardia,da guardia,1,5,5,5.0,0.0,1.0,1,0.10026,
-animals,animali,gatto,GATTO_gatto da razza,da razza,1,6,6,6.0,0.0,1.0,1,0.10026,
+vehicles,veicoli,furgone,FURGONE_furgone a due posti,a due posti,1,1,1,1.0,1.0,1.0,1,1.0,2.0
+vehicles,veicoli,furgone,FURGONE_furgone a tre posti,a tre posti,1,2,2,2.0,0.0,1.0,1,0.10026,3.0
+vehicles,veicoli,furgone,FURGONE_furgone a quattro posti,a quattro posti,1,3,3,3.0,0.0,1.0,1,0.10026,2.0
+vehicles,veicoli,furgone,FURGONE_furgone a cinque posti,a cinque posti,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,furgone,FURGONE_furgone a sei posti,a sei posti,1,5,5,5.0,0.0,1.0,1,0.10026,1.0
+vehicles,veicoli,furgone,FURGONE_furgone a sette posti,a sette posti,1,6,6,6.0,0.0,1.0,1,0.10026,1.0
+vehicles,veicoli,furgone,FURGONE_furgone a noleggio,a noleggio,1,7,7,7.0,0.0,1.0,1,0.10026,24.0
+vehicles,veicoli,furgone,FURGONE_furgone a noleggio con conducente,a noleggio con conducente,1,8,8,8.0,0.0,1.0,1,0.10026,1.0
+animals,animali,gallo,GALLO_gallo selvatico,selvatico,1,1,1,1.0,1.0,1.0,1,1.0,188.0
+animals,animali,gallo,GALLO_gallo domestico,domestico,1,2,2,2.0,0.0,1.0,1,0.10026,152.0
+body parts,parti del corpo,gamba,GAMBA_gamba di legno,di legno,1,1,1,1.0,1.0,1.0,1,1.0,50.0
+body parts,parti del corpo,gamba,GAMBA_gamba di metallo,di metallo,1,2,2,2.0,0.0,1.0,1,0.10026,50.0
+body parts,parti del corpo,gamba,GAMBA_gamba di plastica,di plastica,1,3,3,3.0,0.0,1.0,1,0.10026,42.0
+body parts,parti del corpo,gamba,GAMBA_gamba di vetro,di vetro,1,4,4,4.0,0.0,1.0,1,0.10026,32.0
+body parts,parti del corpo,gamba,GAMBA_gamba di fibra di vetro,di fibra di vetro,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+animals,animali,gatto,GATTO_gatto domestico,domestico,1,1,1,1.0,1.0,1.0,1,1.0,218.0
+animals,animali,gatto,GATTO_gatto selvatico,selvatico,1,2,2,2.0,0.0,1.0,1,0.10026,550.0
+animals,animali,gatto,GATTO_gatto da compagnia,da compagnia,1,3,3,3.0,0.0,1.0,1,0.10026,52.0
+animals,animali,gatto,GATTO_gatto da caccia,da caccia,1,4,4,4.0,0.0,1.0,1,0.10026,10.0
+animals,animali,gatto,GATTO_gatto da guardia,da guardia,1,5,5,5.0,0.0,1.0,1,0.10026,23.0
+animals,animali,gatto,GATTO_gatto da razza,da razza,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
 plants,piante,geranio,GERANIO_petalo,petalo,1,1,1,1.0,1.0,1.0,1,1.0,41824.0
 plants,piante,geranio,GERANIO_stelo,stelo,1,2,2,2.0,0.0,1.0,1,0.10026,19996.0
 plants,piante,geranio,GERANIO_foglia,foglia,1,3,3,3.0,0.0,1.0,1,0.10026,27452.0
 plants,piante,geranio,GERANIO_fioritura,fioritura,1,4,4,4.0,0.0,1.0,1,0.10026,34142.0
-clothes,vestiti,giacca,GIACCA_giacca da uomo,da uomo,1,1,1,1.0,1.0,1.0,1,1.0,44.0
-clothes,vestiti,giacca,GIACCA_giacca da donna,da donna,1,2,2,2.0,0.0,1.0,1,0.10026,25.0
-clothes,vestiti,giacca,GIACCA_giacca da bambino,da bambino,1,3,3,3.0,0.0,1.0,1,0.10026,68.0
-clothes,vestiti,giacca,GIACCA_giacca da neve,da neve,1,4,4,4.0,0.0,1.0,1,0.10026,23.0
-clothes,vestiti,giacca,GIACCA_giacca da sci,da sci,1,5,5,5.0,0.0,1.0,1,0.10026,1023.0
+clothes,vestiti,giacca,GIACCA_giacca da uomo,da uomo,1,1,1,1.0,1.0,1.0,1,1.0,80.0
+clothes,vestiti,giacca,GIACCA_giacca da donna,da donna,1,2,2,2.0,0.0,1.0,1,0.10026,88.0
+clothes,vestiti,giacca,GIACCA_giacca da bambino,da bambino,1,3,3,3.0,0.0,1.0,1,0.10026,64.0
+clothes,vestiti,giacca,GIACCA_giacca da neve,da neve,1,4,4,4.0,0.0,1.0,1,0.10026,58.0
+clothes,vestiti,giacca,GIACCA_giacca da sci,da sci,1,5,5,5.0,0.0,1.0,1,0.10026,75.0
 clothes,vestiti,gilet,GILET_camicia,camicia,1,1,1,1.0,1.0,1.0,1,1.0,34140.0
 clothes,vestiti,gilet,GILET_giacca,giacca,1,2,2,2.0,0.0,1.0,1,0.10026,33734.0
 clothes,vestiti,gilet,GILET_giacca da ballo,giacca da ballo,1,3,3,3.0,0.0,1.0,1,0.10026,2.0
@@ -543,64 +543,64 @@ hobbies,passatempi,giornale,GIORNALE_mensile,mensile,1,3,3,3.0,0.0,1.0,1,0.10026
 hobbies,passatempi,giornale,GIORNALE_trimestrale,trimestrale,1,4,4,4.0,0.0,1.0,1,0.10026,17674.0
 hobbies,passatempi,giornale,GIORNALE_annuale,annuale,1,5,5,5.0,0.0,1.0,1,0.10026,22089.0
 hobbies,passatempi,giornale,GIORNALE_online,online,1,6,6,6.0,0.0,1.0,1,0.10026,20644.0
-animals,animali,giraffa,GIRAFFA_giraffa africana,africana,1,1,1,1.0,1.0,1.0,1,1.0,
-animals,animali,giraffa,GIRAFFA_giraffa banteng,banteng,1,2,2,2.0,0.0,1.0,1,0.10026,73.0
-animals,animali,giraffa,GIRAFFA_giraffa camelopardalis,camelopardalis,1,3,3,3.0,0.0,1.0,1,0.10026,257.0
-animals,animali,giraffa,GIRAFFA_giraffa reticulata,reticulata,1,4,4,4.0,0.0,1.0,1,0.10026,700.0
-animals,animali,giraffa,GIRAFFA_giraffa tippelskirchi,tippelskirchi,1,5,5,5.0,0.0,1.0,1,0.10026,
-animals,animali,giraffa,GIRAFFA_giraffa camelopardalis perrieri,camelopardalis perrieri,1,6,6,6.0,0.0,1.0,1,0.10026,
+animals,animali,giraffa,GIRAFFA_giraffa africana,africana,1,1,1,1.0,1.0,1.0,1,1.0,8.0
+animals,animali,giraffa,GIRAFFA_giraffa banteng,banteng,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
+animals,animali,giraffa,GIRAFFA_giraffa camelopardalis,camelopardalis,1,3,3,3.0,0.0,1.0,1,0.10026,90.0
+animals,animali,giraffa,GIRAFFA_giraffa reticulata,reticulata,1,4,4,4.0,0.0,1.0,1,0.10026,2.0
+animals,animali,giraffa,GIRAFFA_giraffa tippelskirchi,tippelskirchi,1,5,5,5.0,0.0,1.0,1,0.10026,4.0
+animals,animali,giraffa,GIRAFFA_giraffa camelopardalis perrieri,camelopardalis perrieri,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
 plants,piante,girasole,GIRASOLE_solare,solare,1,1,1,1.0,1.0,1.0,1,1.0,14932.0
 plants,piante,girasole,GIRASOLE_solare a olio,solare a olio,1,2,2,2.0,0.0,1.0,1,0.10026,1.0
 plants,piante,girasole,GIRASOLE_solare a gas,solare a gas,1,3,3,3.0,0.0,1.0,1,0.10026,3.0
 plants,piante,girasole,GIRASOLE_solare a legna,solare a legna,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
 plants,piante,girasole,GIRASOLE_solare a pellet,solare a pellet,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
-clothes,vestiti,giubotto,GIUBOTTO_giubotto di lino,di lino,1,1,1,1.0,1.0,1.0,1,1.0,171.0
-clothes,vestiti,giubotto,GIUBOTTO_giubotto di cotone,di cotone,1,2,2,2.0,0.0,1.0,1,0.10026,164.0
-clothes,vestiti,giubotto,GIUBOTTO_giubotto di seta,di seta,1,3,3,3.0,0.0,1.0,1,0.10026,157.0
-clothes,vestiti,giubotto,GIUBOTTO_giubotto di poliestere,di poliestere,1,4,4,4.0,0.0,1.0,1,0.10026,
-clothes,vestiti,giubotto,GIUBOTTO_giubotto di microfibra,di microfibra,1,5,5,5.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,gomma,GOMMA_gomma auto,auto,1,1,1,1.0,1.0,1.0,1,1.0,37910.0
-stationery,cancelleria,gomma,GOMMA_gomma da bicicletta,da bicicletta,1,2,2,2.0,0.0,1.0,1,0.10026,31.0
-stationery,cancelleria,gomma,GOMMA_gomma da neve,da neve,1,3,3,3.0,0.0,1.0,1,0.10026,23.0
-stationery,cancelleria,gomma,GOMMA_gomma da pneumatici,da pneumatici,1,4,4,4.0,0.0,1.0,1,0.10026,
-clothes,vestiti,gonna,GONNA_gonna corta,corta,1,1,1,1.0,1.0,1.0,1,1.0,42050.0
-clothes,vestiti,gonna,GONNA_gonna lunga,lunga,1,2,2,2.0,0.0,1.0,1,0.10026,21984.0
-clothes,vestiti,gonna,GONNA_gonna a pannoloni,a pannoloni,1,3,3,3.0,0.0,1.0,1,0.10026,
-clothes,vestiti,gonna,GONNA_gonna a fiori,a fiori,1,4,4,4.0,0.0,1.0,1,0.10026,124.0
-clothes,vestiti,gonna,GONNA_gonna da ballo,da ballo,1,5,5,5.0,0.0,1.0,1,0.10026,696.0
-clothes,vestiti,gonna,GONNA_gonna da sera,da sera,1,6,6,6.0,0.0,1.0,1,0.10026,280.0
+clothes,vestiti,giubotto,GIUBOTTO_giubotto di lino,di lino,1,1,1,1.0,1.0,1.0,1,1.0,0.0
+clothes,vestiti,giubotto,GIUBOTTO_giubotto di cotone,di cotone,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
+clothes,vestiti,giubotto,GIUBOTTO_giubotto di seta,di seta,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+clothes,vestiti,giubotto,GIUBOTTO_giubotto di poliestere,di poliestere,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+clothes,vestiti,giubotto,GIUBOTTO_giubotto di microfibra,di microfibra,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+stationery,cancelleria,gomma,GOMMA_gomma auto,auto,1,1,1,1.0,1.0,1.0,1,1.0,320.0
+stationery,cancelleria,gomma,GOMMA_gomma da bicicletta,da bicicletta,1,2,2,2.0,0.0,1.0,1,0.10026,42.0
+stationery,cancelleria,gomma,GOMMA_gomma da neve,da neve,1,3,3,3.0,0.0,1.0,1,0.10026,40.0
+stationery,cancelleria,gomma,GOMMA_gomma da pneumatici,da pneumatici,1,4,4,4.0,0.0,1.0,1,0.10026,20.0
+clothes,vestiti,gonna,GONNA_gonna corta,corta,1,1,1,1.0,1.0,1.0,1,1.0,99.0
+clothes,vestiti,gonna,GONNA_gonna lunga,lunga,1,2,2,2.0,0.0,1.0,1,0.10026,159.0
+clothes,vestiti,gonna,GONNA_gonna a pannoloni,a pannoloni,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+clothes,vestiti,gonna,GONNA_gonna a fiori,a fiori,1,4,4,4.0,0.0,1.0,1,0.10026,31.0
+clothes,vestiti,gonna,GONNA_gonna da ballo,da ballo,1,5,5,5.0,0.0,1.0,1,0.10026,14.0
+clothes,vestiti,gonna,GONNA_gonna da sera,da sera,1,6,6,6.0,0.0,1.0,1,0.10026,18.0
 stationery,cancelleria,graffetta,GRAFFETTA_carta,carta,1,1,1,1.0,1.0,1.0,1,1.0,29882.0
 stationery,cancelleria,graffetta,GRAFFETTA_plastica,plastica,1,2,2,2.0,0.0,1.0,1,0.10026,17014.0
 stationery,cancelleria,graffetta,GRAFFETTA_vetro,vetro,1,3,3,3.0,0.0,1.0,1,0.10026,30836.0
 stationery,cancelleria,graffetta,GRAFFETTA_legno,legno,1,4,4,4.0,0.0,1.0,1,0.10026,41162.0
 stationery,cancelleria,graffetta,GRAFFETTA_metallo,metallo,1,5,5,5.0,0.0,1.0,1,0.10026,40432.0
-clothes,vestiti,guanti,GUANTI_guanti da lavoro,da lavoro,1,1,1,1.0,1.0,1.0,1,1.0,47.0
-clothes,vestiti,guanti,GUANTI_guanti da neve,da neve,1,2,2,2.0,0.0,1.0,1,0.10026,23.0
-clothes,vestiti,guanti,GUANTI_guanti da sci,da sci,1,3,3,3.0,0.0,1.0,1,0.10026,1023.0
-clothes,vestiti,guanti,GUANTI_guanti da ginnastica,da ginnastica,1,4,4,4.0,0.0,1.0,1,0.10026,393.0
-clothes,vestiti,guanti,GUANTI_guanti da cucito,da cucito,1,5,5,5.0,0.0,1.0,1,0.10026,66.0
-clothes,vestiti,guanti,GUANTI_guanti da pittore,da pittore,1,6,6,6.0,0.0,1.0,1,0.10026,
-clothes,vestiti,guanti,GUANTI_guanti da cuoco,da cuoco,1,7,7,7.0,0.0,1.0,1,0.10026,
-clothes,vestiti,guanti,GUANTI_guanti da forno,da forno,1,8,8,8.0,0.0,1.0,1,0.10026,24.0
-foods,cibi,insalata,INSALATA_insalata mista,mista,1,1,1,1.0,1.0,1.0,1,1.0,38994.0
-foods,cibi,insalata,INSALATA_insalata di lattuga,di lattuga,1,2,2,2.0,0.0,1.0,1,0.10026,107.0
-foods,cibi,insalata,INSALATA_insalata di pomodoro,di pomodoro,1,3,3,3.0,0.0,1.0,1,0.10026,225.0
-foods,cibi,insalata,INSALATA_insalata di avocado,di avocado,1,4,4,4.0,0.0,1.0,1,0.10026,27.0
-foods,cibi,insalata,INSALATA_insalata di carote,di carote,1,5,5,5.0,0.0,1.0,1,0.10026,104.0
-foods,cibi,insalata,INSALATA_insalata di cetriolo,di cetriolo,1,6,6,6.0,0.0,1.0,1,0.10026,
-foods,cibi,insalata,INSALATA_insalata di zucchine,di zucchine,1,7,7,7.0,0.0,1.0,1,0.10026,32.0
-foods,cibi,insalata,INSALATA_insalata di melanzane,di melanzane,1,8,8,8.0,0.0,1.0,1,0.10026,
-foods,cibi,insalata,INSALATA_insalata di peperoni,di peperoni,1,9,9,9.0,0.0,1.0,1,0.10026,75.0
-foods,cibi,insalata,INSALATA_insalata di funghi,di funghi,1,10,10,10.0,0.0,1.0,1,0.10026,66.0
-furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada a muro,a muro,1,1,1,1.0,1.0,1.0,1,1.0,584.0
-furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada da tavolo,da tavolo,1,2,2,2.0,0.0,1.0,1,0.10026,46.0
-furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada da letto,da letto,1,3,3,3.0,0.0,1.0,1,0.10026,110.0
-furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada da cucina,da cucina,1,4,4,4.0,0.0,1.0,1,0.10026,27.0
-furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada da soggiorno,da soggiorno,1,5,5,5.0,0.0,1.0,1,0.10026,727.0
-furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada da corridoio,da corridoio,1,6,6,6.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada da esterni,da esterni,1,7,7,7.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada a led,a led,1,8,8,8.0,0.0,1.0,1,0.10026,535.0
-furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada a neon,a neon,1,9,9,9.0,0.0,1.0,1,0.10026,33.0
+clothes,vestiti,guanti,GUANTI_guanti da lavoro,da lavoro,1,1,1,1.0,1.0,1.0,1,1.0,78.0
+clothes,vestiti,guanti,GUANTI_guanti da neve,da neve,1,2,2,2.0,0.0,1.0,1,0.10026,40.0
+clothes,vestiti,guanti,GUANTI_guanti da sci,da sci,1,3,3,3.0,0.0,1.0,1,0.10026,417.0
+clothes,vestiti,guanti,GUANTI_guanti da ginnastica,da ginnastica,1,4,4,4.0,0.0,1.0,1,0.10026,8.0
+clothes,vestiti,guanti,GUANTI_guanti da cucito,da cucito,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+clothes,vestiti,guanti,GUANTI_guanti da pittore,da pittore,1,6,6,6.0,0.0,1.0,1,0.10026,1.0
+clothes,vestiti,guanti,GUANTI_guanti da cuoco,da cuoco,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
+clothes,vestiti,guanti,GUANTI_guanti da forno,da forno,1,8,8,8.0,0.0,1.0,1,0.10026,42.0
+foods,cibi,insalata,INSALATA_insalata mista,mista,1,1,1,1.0,1.0,1.0,1,1.0,694.0
+foods,cibi,insalata,INSALATA_insalata di lattuga,di lattuga,1,2,2,2.0,0.0,1.0,1,0.10026,48.0
+foods,cibi,insalata,INSALATA_insalata di pomodoro,di pomodoro,1,3,3,3.0,0.0,1.0,1,0.10026,46.0
+foods,cibi,insalata,INSALATA_insalata di avocado,di avocado,1,4,4,4.0,0.0,1.0,1,0.10026,42.0
+foods,cibi,insalata,INSALATA_insalata di carote,di carote,1,5,5,5.0,0.0,1.0,1,0.10026,50.0
+foods,cibi,insalata,INSALATA_insalata di cetriolo,di cetriolo,1,6,6,6.0,0.0,1.0,1,0.10026,54.0
+foods,cibi,insalata,INSALATA_insalata di zucchine,di zucchine,1,7,7,7.0,0.0,1.0,1,0.10026,20.0
+foods,cibi,insalata,INSALATA_insalata di melanzane,di melanzane,1,8,8,8.0,0.0,1.0,1,0.10026,40.0
+foods,cibi,insalata,INSALATA_insalata di peperoni,di peperoni,1,9,9,9.0,0.0,1.0,1,0.10026,40.0
+foods,cibi,insalata,INSALATA_insalata di funghi,di funghi,1,10,10,10.0,0.0,1.0,1,0.10026,20.0
+furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada a muro,a muro,1,1,1,1.0,1.0,1.0,1,1.0,36.0
+furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada da tavolo,da tavolo,1,2,2,2.0,0.0,1.0,1,0.10026,276.0
+furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada da letto,da letto,1,3,3,3.0,0.0,1.0,1,0.10026,20.0
+furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada da cucina,da cucina,1,4,4,4.0,0.0,1.0,1,0.10026,28.0
+furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada da soggiorno,da soggiorno,1,5,5,5.0,0.0,1.0,1,0.10026,54.0
+furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada da corridoio,da corridoio,1,6,6,6.0,0.0,1.0,1,0.10026,6.0
+furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada da esterni,da esterni,1,7,7,7.0,0.0,1.0,1,0.10026,31.0
+furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada a led,a led,1,8,8,8.0,0.0,1.0,1,0.10026,152.0
+furnishings/fittings,arredamenti/accessori,lampada,LAMPADA_lampada a neon,a neon,1,9,9,9.0,0.0,1.0,1,0.10026,25.0
 furnishings/fittings,arredamenti/accessori,lampadario,LAMPADARIO_lampada,lampada,1,1,1,1.0,1.0,1.0,1,1.0,19416.0
 furnishings/fittings,arredamenti/accessori,lampadario,LAMPADARIO_lampada a sospensione,lampada a sospensione,1,2,2,2.0,0.0,1.0,1,0.10026,33.0
 furnishings/fittings,arredamenti/accessori,lampadario,LAMPADARIO_lampada da tavolo,lampada da tavolo,1,3,3,3.0,0.0,1.0,1,0.10026,276.0
@@ -609,14 +609,14 @@ furnishings/fittings,arredamenti/accessori,lampadario,LAMPADARIO_lampada da cuci
 furnishings/fittings,arredamenti/accessori,lampadario,LAMPADARIO_lampada da bagno,lampada da bagno,1,6,6,6.0,0.0,1.0,1,0.10026,20.0
 furnishings/fittings,arredamenti/accessori,lampadario,LAMPADARIO_lampada da corridoio,lampada da corridoio,1,7,7,7.0,0.0,1.0,1,0.10026,6.0
 furnishings/fittings,arredamenti/accessori,lampadario,LAMPADARIO_lampada da soffitto,lampada da soffitto,1,8,8,8.0,0.0,1.0,1,0.10026,80.0
-foods,cibi,latte,LATTE_latte fresco,fresco,1,1,1,1.0,1.0,1.0,1,1.0,22072.0
-foods,cibi,latte,LATTE_latte in polvere,in polvere,1,2,2,2.0,0.0,1.0,1,0.10026,590.0
-foods,cibi,latte,LATTE_latte in barrielle,in barrielle,1,3,3,3.0,0.0,1.0,1,0.10026,
-foods,cibi,latte,LATTE_latte in scatola,in scatola,1,4,4,4.0,0.0,1.0,1,0.10026,
-foods,cibi,latte,LATTE_latte di soia,di soia,1,5,5,5.0,0.0,1.0,1,0.10026,183.0
-foods,cibi,latte,LATTE_latte di mandorla,di mandorla,1,6,6,6.0,0.0,1.0,1,0.10026,33.0
-foods,cibi,latte,LATTE_latte di cocco,di cocco,1,7,7,7.0,0.0,1.0,1,0.10026,95.0
-foods,cibi,latte,LATTE_latte di arachidi,di arachidi,1,8,8,8.0,0.0,1.0,1,0.10026,
+foods,cibi,latte,LATTE_latte fresco,fresco,1,1,1,1.0,1.0,1.0,1,1.0,265.0
+foods,cibi,latte,LATTE_latte in polvere,in polvere,1,2,2,2.0,0.0,1.0,1,0.10026,91.0
+foods,cibi,latte,LATTE_latte in barrielle,in barrielle,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+foods,cibi,latte,LATTE_latte in scatola,in scatola,1,4,4,4.0,0.0,1.0,1,0.10026,21.0
+foods,cibi,latte,LATTE_latte di soia,di soia,1,5,5,5.0,0.0,1.0,1,0.10026,240.0
+foods,cibi,latte,LATTE_latte di mandorla,di mandorla,1,6,6,6.0,0.0,1.0,1,0.10026,81.0
+foods,cibi,latte,LATTE_latte di cocco,di cocco,1,7,7,7.0,0.0,1.0,1,0.10026,128.0
+foods,cibi,latte,LATTE_latte di arachidi,di arachidi,1,8,8,8.0,0.0,1.0,1,0.10026,11.0
 foods,cibi,legume,LEGUME_lenticchie,lenticchie,1,1,1,1.0,1.0,1.0,1,1.0,48902.0
 foods,cibi,legume,LEGUME_fagioli,fagioli,1,2,2,2.0,0.0,1.0,1,0.10026,58698.0
 foods,cibi,legume,LEGUME_piselli,piselli,1,3,3,3.0,0.0,1.0,1,0.10026,42566.0
@@ -630,12 +630,12 @@ foods,cibi,legume,LEGUME_ceci neri,ceci neri,1,10,10,10.0,0.0,1.0,1,0.10026,108.
 foods,cibi,legume,LEGUME_ceci rossi,ceci rossi,1,11,11,11.0,0.0,1.0,1,0.10026,43.0
 foods,cibi,legume,LEGUME_piselli neri,piselli neri,1,12,12,12.0,0.0,1.0,1,0.10026,16.0
 foods,cibi,legume,LEGUME_piselli rossi,piselli rossi,1,13,13,13.0,0.0,1.0,1,0.10026,13.0
-animals,animali,leone,LEONE_leone reale,reale,1,1,1,1.0,1.0,1.0,1,1.0,
-animals,animali,leone,LEONE_leone di savana,di savana,1,2,2,2.0,0.0,1.0,1,0.10026,
-animals,animali,leone,LEONE_leone di montagna,di montagna,1,3,3,3.0,0.0,1.0,1,0.10026,547.0
-animals,animali,leone,LEONE_leone di selva,di selva,1,4,4,4.0,0.0,1.0,1,0.10026,
-animals,animali,leone,LEONE_leone di foresta,di foresta,1,5,5,5.0,0.0,1.0,1,0.10026,94.0
-animals,animali,leone,LEONE_leone di cina,di cina,1,6,6,6.0,0.0,1.0,1,0.10026,41.0
+animals,animali,leone,LEONE_leone reale,reale,1,1,1,1.0,1.0,1.0,1,1.0,25.0
+animals,animali,leone,LEONE_leone di savana,di savana,1,2,2,2.0,0.0,1.0,1,0.10026,2.0
+animals,animali,leone,LEONE_leone di montagna,di montagna,1,3,3,3.0,0.0,1.0,1,0.10026,20.0
+animals,animali,leone,LEONE_leone di selva,di selva,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+animals,animali,leone,LEONE_leone di foresta,di foresta,1,5,5,5.0,0.0,1.0,1,0.10026,3.0
+animals,animali,leone,LEONE_leone di cina,di cina,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
 furniture,mobili,letto,LETTO_cuscino,cuscino,1,1,1,1.0,1.0,1.0,1,1.0,33352.0
 furniture,mobili,letto,LETTO_cuscino a piuma,cuscino a piuma,1,2,2,2.0,0.0,1.0,1,0.10026,1.0
 furniture,mobili,letto,LETTO_cuscino a schiuma,cuscino a schiuma,1,3,3,3.0,0.0,1.0,1,0.10026,3.0
@@ -646,20 +646,20 @@ furniture,mobili,letto,LETTO_lettino,lettino,1,7,7,7.0,0.0,1.0,1,0.10026,20633.0
 furniture,mobili,letto,LETTO_lettino a castello,lettino a castello,1,8,8,8.0,0.0,1.0,1,0.10026,21.0
 furniture,mobili,letto,LETTO_lettino a forma di animale,lettino a forma di animale,1,9,9,9.0,0.0,1.0,1,0.10026,0.0
 furniture,mobili,letto,LETTO_poltrona,poltrona,1,10,10,10.0,0.0,1.0,1,0.10026,35906.0
-hobbies,passatempi,lettore,LETTORE_lettore cd,cd,1,1,1,1.0,1.0,1.0,1,1.0,21016.0
-hobbies,passatempi,lettore,LETTORE_lettore dvd,dvd,1,2,2,2.0,0.0,1.0,1,0.10026,19554.0
-hobbies,passatempi,lettore,LETTORE_lettore blu-ray,blu-ray,1,3,3,3.0,0.0,1.0,1,0.10026,18692.0
-hobbies,passatempi,lettore,LETTORE_lettore usb,usb,1,4,4,4.0,0.0,1.0,1,0.10026,
-hobbies,passatempi,lettore,LETTORE_lettore di schede di memoria,di schede di memoria,1,5,5,5.0,0.0,1.0,1,0.10026,
-hobbies,passatempi,lettore,LETTORE_lettore di cd/dvd/blu-ray,di cd/dvd/blu-ray,1,6,6,6.0,0.0,1.0,1,0.10026,
-hobbies,passatempi,lettore,LETTORE_lettore di musica,di musica,1,7,7,7.0,0.0,1.0,1,0.10026,58.0
-hobbies,passatempi,lettore,LETTORE_lettore di libri elettronici,di libri elettronici,1,8,8,8.0,0.0,1.0,1,0.10026,
-furniture,mobili,libreria,LIBRERIA_libreria in legno,in legno,1,1,1,1.0,1.0,1.0,1,1.0,210.0
-furniture,mobili,libreria,LIBRERIA_libreria moderna,moderna,1,2,2,2.0,0.0,1.0,1,0.10026,22252.0
-furniture,mobili,libreria,LIBRERIA_libreria mobile,mobile,1,3,3,3.0,0.0,1.0,1,0.10026,55528.0
-furniture,mobili,libreria,LIBRERIA_libreria fissa,fissa,1,4,4,4.0,0.0,1.0,1,0.10026,28479.0
-furniture,mobili,libreria,LIBRERIA_libreria di seconda mano,di seconda mano,1,5,5,5.0,0.0,1.0,1,0.10026,
-furniture,mobili,libreria,LIBRERIA_libreria online,online,1,6,6,6.0,0.0,1.0,1,0.10026,20644.0
+hobbies,passatempi,lettore,LETTORE_lettore cd,cd,1,1,1,1.0,1.0,1.0,1,1.0,294.0
+hobbies,passatempi,lettore,LETTORE_lettore dvd,dvd,1,2,2,2.0,0.0,1.0,1,0.10026,574.0
+hobbies,passatempi,lettore,LETTORE_lettore blu-ray,blu-ray,1,3,3,3.0,0.0,1.0,1,0.10026,83.0
+hobbies,passatempi,lettore,LETTORE_lettore usb,usb,1,4,4,4.0,0.0,1.0,1,0.10026,466.0
+hobbies,passatempi,lettore,LETTORE_lettore di schede di memoria,di schede di memoria,1,5,5,5.0,0.0,1.0,1,0.10026,28.0
+hobbies,passatempi,lettore,LETTORE_lettore di cd/dvd/blu-ray,di cd/dvd/blu-ray,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+hobbies,passatempi,lettore,LETTORE_lettore di musica,di musica,1,7,7,7.0,0.0,1.0,1,0.10026,30.0
+hobbies,passatempi,lettore,LETTORE_lettore di libri elettronici,di libri elettronici,1,8,8,8.0,0.0,1.0,1,0.10026,23.0
+furniture,mobili,libreria,LIBRERIA_libreria in legno,in legno,1,1,1,1.0,1.0,1.0,1,1.0,34.0
+furniture,mobili,libreria,LIBRERIA_libreria moderna,moderna,1,2,2,2.0,0.0,1.0,1,0.10026,980.0
+furniture,mobili,libreria,LIBRERIA_libreria mobile,mobile,1,3,3,3.0,0.0,1.0,1,0.10026,121.0
+furniture,mobili,libreria,LIBRERIA_libreria fissa,fissa,1,4,4,4.0,0.0,1.0,1,0.10026,8.0
+furniture,mobili,libreria,LIBRERIA_libreria di seconda mano,di seconda mano,1,5,5,5.0,0.0,1.0,1,0.10026,75.0
+furniture,mobili,libreria,LIBRERIA_libreria online,online,1,6,6,6.0,0.0,1.0,1,0.10026,210.0
 hobbies,passatempi,libro,LIBRO_romanzo,romanzo,1,1,1,1.0,1.0,1.0,1,1.0,26690.0
 hobbies,passatempi,libro,LIBRO_saggio,saggio,1,2,2,2.0,0.0,1.0,1,0.10026,29508.0
 hobbies,passatempi,libro,LIBRO_poema,poema,1,3,3,3.0,0.0,1.0,1,0.10026,13728.0
@@ -669,19 +669,19 @@ hobbies,passatempi,libro,LIBRO_fumetto,fumetto,1,6,6,6.0,0.0,1.0,1,0.10026,38646
 hobbies,passatempi,libro,LIBRO_carteggio,carteggio,1,7,7,7.0,0.0,1.0,1,0.10026,10280.0
 hobbies,passatempi,libro,LIBRO_manuale,manuale,1,8,8,8.0,0.0,1.0,1,0.10026,28990.0
 hobbies,passatempi,libro,LIBRO_testo didattico,testo didattico,1,9,9,9.0,0.0,1.0,1,0.10026,487.0
-hobbies,passatempi,libro,LIBRO_libro di testo,di testo,1,10,10,10.0,0.0,1.0,1,0.10026,35.0
-animals,animali,lucertola,LUCERTOLA_lucertola comune,comune,1,1,1,1.0,1.0,1.0,1,1.0,16107.0
-animals,animali,lucertola,LUCERTOLA_lucertola di mare,di mare,1,2,2,2.0,0.0,1.0,1,0.10026,40.0
-animals,animali,lucertola,LUCERTOLA_lucertola di terra,di terra,1,3,3,3.0,0.0,1.0,1,0.10026,
-animals,animali,lucertola,LUCERTOLA_lucertola di montagna,di montagna,1,4,4,4.0,0.0,1.0,1,0.10026,547.0
-animals,animali,lucertola,LUCERTOLA_lucertola di palude,di palude,1,5,5,5.0,0.0,1.0,1,0.10026,
-clothes,vestiti,maglia,MAGLIA_maglia da donna,da donna,1,1,1,1.0,1.0,1.0,1,1.0,25.0
-clothes,vestiti,maglia,MAGLIA_maglia da uomo,da uomo,1,2,2,2.0,0.0,1.0,1,0.10026,44.0
-clothes,vestiti,maglia,MAGLIA_maglia da bambino,da bambino,1,3,3,3.0,0.0,1.0,1,0.10026,68.0
-clothes,vestiti,maglia,MAGLIA_maglia da neve,da neve,1,4,4,4.0,0.0,1.0,1,0.10026,23.0
-clothes,vestiti,maglia,MAGLIA_maglia da golf,da golf,1,5,5,5.0,0.0,1.0,1,0.10026,28.0
-clothes,vestiti,maglia,MAGLIA_maglia da tennis,da tennis,1,6,6,6.0,0.0,1.0,1,0.10026,896.0
-clothes,vestiti,maglia,MAGLIA_maglia da calcio,da calcio,1,7,7,7.0,0.0,1.0,1,0.10026,26.0
+hobbies,passatempi,libro,LIBRO_libro di testo,di testo,1,10,10,10.0,0.0,1.0,1,0.10026,83646.0
+animals,animali,lucertola,LUCERTOLA_lucertola comune,comune,1,1,1,1.0,1.0,1.0,1,1.0,40.0
+animals,animali,lucertola,LUCERTOLA_lucertola di mare,di mare,1,2,2,2.0,0.0,1.0,1,0.10026,8.0
+animals,animali,lucertola,LUCERTOLA_lucertola di terra,di terra,1,3,3,3.0,0.0,1.0,1,0.10026,1.0
+animals,animali,lucertola,LUCERTOLA_lucertola di montagna,di montagna,1,4,4,4.0,0.0,1.0,1,0.10026,4.0
+animals,animali,lucertola,LUCERTOLA_lucertola di palude,di palude,1,5,5,5.0,0.0,1.0,1,0.10026,1.0
+clothes,vestiti,maglia,MAGLIA_maglia da donna,da donna,1,1,1,1.0,1.0,1.0,1,1.0,27.0
+clothes,vestiti,maglia,MAGLIA_maglia da uomo,da uomo,1,2,2,2.0,0.0,1.0,1,0.10026,39.0
+clothes,vestiti,maglia,MAGLIA_maglia da bambino,da bambino,1,3,3,3.0,0.0,1.0,1,0.10026,17.0
+clothes,vestiti,maglia,MAGLIA_maglia da neve,da neve,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+clothes,vestiti,maglia,MAGLIA_maglia da golf,da golf,1,5,5,5.0,0.0,1.0,1,0.10026,12.0
+clothes,vestiti,maglia,MAGLIA_maglia da tennis,da tennis,1,6,6,6.0,0.0,1.0,1,0.10026,14.0
+clothes,vestiti,maglia,MAGLIA_maglia da calcio,da calcio,1,7,7,7.0,0.0,1.0,1,0.10026,62.0
 animals,animali,maiale,MAIALE_carne,carne,1,1,1,1.0,1.0,1.0,1,1.0,40962.0
 animals,animali,maiale,MAIALE_olio,olio,1,2,2,2.0,0.0,1.0,1,0.10026,35986.0
 animals,animali,maiale,MAIALE_pelle,pelle,1,3,3,3.0,0.0,1.0,1,0.10026,33788.0
@@ -700,104 +700,104 @@ plants,piante,margherita,MARGHERITA_pasta,pasta,1,2,2,2.0,0.0,1.0,1,0.10026,3333
 plants,piante,margherita,MARGHERITA_gelato,gelato,1,3,3,3.0,0.0,1.0,1,0.10026,33736.0
 plants,piante,margherita,MARGHERITA_sorbetto,sorbetto,1,4,4,4.0,0.0,1.0,1,0.10026,15686.0
 plants,piante,margherita,MARGHERITA_limone,limone,1,5,5,5.0,0.0,1.0,1,0.10026,37054.0
-stationery,cancelleria,matita,MATITA_matita di grafite,di grafite,1,1,1,1.0,1.0,1.0,1,1.0,
-stationery,cancelleria,matita,MATITA_matita di carbonio,di carbonio,1,2,2,2.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,matita,MATITA_matita di plastica,di plastica,1,3,3,3.0,0.0,1.0,1,0.10026,672.0
-stationery,cancelleria,matita,MATITA_matita di rame,di rame,1,4,4,4.0,0.0,1.0,1,0.10026,318.0
-stationery,cancelleria,matita,MATITA_matita di ferro,di ferro,1,5,5,5.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,matita,MATITA_matita di cera,di cera,1,6,6,6.0,0.0,1.0,1,0.10026,
+stationery,cancelleria,matita,MATITA_matita di grafite,di grafite,1,1,1,1.0,1.0,1.0,1,1.0,48.0
+stationery,cancelleria,matita,MATITA_matita di carbonio,di carbonio,1,2,2,2.0,0.0,1.0,1,0.10026,1.0
+stationery,cancelleria,matita,MATITA_matita di plastica,di plastica,1,3,3,3.0,0.0,1.0,1,0.10026,6.0
+stationery,cancelleria,matita,MATITA_matita di rame,di rame,1,4,4,4.0,0.0,1.0,1,0.10026,1.0
+stationery,cancelleria,matita,MATITA_matita di ferro,di ferro,1,5,5,5.0,0.0,1.0,1,0.10026,6.0
+stationery,cancelleria,matita,MATITA_matita di cera,di cera,1,6,6,6.0,0.0,1.0,1,0.10026,13.0
 kitchenware,utensili da cucina,mestolo,MESTOLO_bicchiere,bicchiere,1,1,1,1.0,1.0,1.0,1,1.0,44272.0
 kitchenware,utensili da cucina,mestolo,MESTOLO_tazza,tazza,1,2,2,2.0,0.0,1.0,1,0.10026,37292.0
 kitchenware,utensili da cucina,mestolo,MESTOLO_ciotola,ciotola,1,3,3,3.0,0.0,1.0,1,0.10026,35986.0
 kitchenware,utensili da cucina,mestolo,MESTOLO_bicchierino,bicchierino,1,4,4,4.0,0.0,1.0,1,0.10026,36898.0
 kitchenware,utensili da cucina,mestolo,MESTOLO_tazza da caffè,tazza da caffè,1,5,5,5.0,0.0,1.0,1,0.10026,84.0
 kitchenware,utensili da cucina,mestolo,MESTOLO_bicchierino da vino,bicchierino da vino,1,6,6,6.0,0.0,1.0,1,0.10026,1.0
-furnishings/fittings,arredamenti/accessori,metro,METRO_metro a mano,a mano,1,1,1,1.0,1.0,1.0,1,1.0,
-furnishings/fittings,arredamenti/accessori,metro,METRO_metro a nastro,a nastro,1,2,2,2.0,0.0,1.0,1,0.10026,148.0
-furnishings/fittings,arredamenti/accessori,metro,METRO_metro a cinghia,a cinghia,1,3,3,3.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,metro,METRO_metro a rullo,a rullo,1,4,4,4.0,0.0,1.0,1,0.10026,76.0
-furnishings/fittings,arredamenti/accessori,metro,METRO_metro a sonda,a sonda,1,5,5,5.0,0.0,1.0,1,0.10026,
+furnishings/fittings,arredamenti/accessori,metro,METRO_metro a mano,a mano,1,1,1,1.0,1.0,1.0,1,1.0,15.0
+furnishings/fittings,arredamenti/accessori,metro,METRO_metro a nastro,a nastro,1,2,2,2.0,0.0,1.0,1,0.10026,28.0
+furnishings/fittings,arredamenti/accessori,metro,METRO_metro a cinghia,a cinghia,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,metro,METRO_metro a rullo,a rullo,1,4,4,4.0,0.0,1.0,1,0.10026,1.0
+furnishings/fittings,arredamenti/accessori,metro,METRO_metro a sonda,a sonda,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
 plants,piante,mimosa,MIMOSA_fiore,fiore,1,1,1,1.0,1.0,1.0,1,1.0,22542.0
 plants,piante,mimosa,MIMOSA_piatto,piatto,1,2,2,2.0,0.0,1.0,1,0.10026,31104.0
 plants,piante,mimosa,MIMOSA_bicchiere,bicchiere,1,3,3,3.0,0.0,1.0,1,0.10026,44272.0
 plants,piante,mimosa,MIMOSA_vaso,vaso,1,4,4,4.0,0.0,1.0,1,0.10026,33038.0
 plants,piante,mimosa,MIMOSA_carta igienica,carta igienica,1,5,5,5.0,0.0,1.0,1,0.10026,19969.0
 vehicles,veicoli,motocicletta,MOTOCICLETTA_scooter,scooter,1,1,1,1.0,1.0,1.0,1,1.0,50306.0
-vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da turismo,da turismo,1,2,2,2.0,0.0,1.0,1,0.10026,111.0
-vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da strada,da strada,1,3,3,3.0,0.0,1.0,1,0.10026,510.0
-vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da montagna,da montagna,1,4,4,4.0,0.0,1.0,1,0.10026,305.0
-vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da neve,da neve,1,5,5,5.0,0.0,1.0,1,0.10026,23.0
-vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da corsa,da corsa,1,6,6,6.0,0.0,1.0,1,0.10026,690.0
-vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da trekking,da trekking,1,7,7,7.0,0.0,1.0,1,0.10026,270.0
-vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da mountain bike,da mountain bike,1,8,8,8.0,0.0,1.0,1,0.10026,29.0
+vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da turismo,da turismo,1,2,2,2.0,0.0,1.0,1,0.10026,20.0
+vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da strada,da strada,1,3,3,3.0,0.0,1.0,1,0.10026,32.0
+vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da montagna,da montagna,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da neve,da neve,1,5,5,5.0,0.0,1.0,1,0.10026,2.0
+vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da corsa,da corsa,1,6,6,6.0,0.0,1.0,1,0.10026,23.0
+vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da trekking,da trekking,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,motocicletta,MOTOCICLETTA_motocicletta da mountain bike,da mountain bike,1,8,8,8.0,0.0,1.0,1,0.10026,0.0
 animals,animali,mucca,MUCCA_asina,asina,1,1,1,1.0,1.0,1.0,1,1.0,6685.0
 animals,animali,mucca,MUCCA_bue,bue,1,2,2,2.0,0.0,1.0,1,0.10026,35848.0
-housing buildings,edifici residenziali,muro,MURO_muro di cinta,di cinta,1,1,1,1.0,1.0,1.0,1,1.0,84.0
-housing buildings,edifici residenziali,muro,MURO_muro di confine,di confine,1,2,2,2.0,0.0,1.0,1,0.10026,380.0
-housing buildings,edifici residenziali,muro,MURO_muro di separazione,di separazione,1,3,3,3.0,0.0,1.0,1,0.10026,278.0
-housing buildings,edifici residenziali,muro,MURO_muro di sostegno,di sostegno,1,4,4,4.0,0.0,1.0,1,0.10026,29.0
-housing buildings,edifici residenziali,muro,MURO_muro di protezione,di protezione,1,5,5,5.0,0.0,1.0,1,0.10026,38.0
-housing buildings,edifici residenziali,muro,MURO_muro di fondazione,di fondazione,1,6,6,6.0,0.0,1.0,1,0.10026,
+housing buildings,edifici residenziali,muro,MURO_muro di cinta,di cinta,1,1,1,1.0,1.0,1.0,1,1.0,120.0
+housing buildings,edifici residenziali,muro,MURO_muro di confine,di confine,1,2,2,2.0,0.0,1.0,1,0.10026,25.0
+housing buildings,edifici residenziali,muro,MURO_muro di separazione,di separazione,1,3,3,3.0,0.0,1.0,1,0.10026,45.0
+housing buildings,edifici residenziali,muro,MURO_muro di sostegno,di sostegno,1,4,4,4.0,0.0,1.0,1,0.10026,53.0
+housing buildings,edifici residenziali,muro,MURO_muro di protezione,di protezione,1,5,5,5.0,0.0,1.0,1,0.10026,32.0
+housing buildings,edifici residenziali,muro,MURO_muro di fondazione,di fondazione,1,6,6,6.0,0.0,1.0,1,0.10026,346.0
 housing buildings,edifici residenziali,muro,MURO_muro di cinta per giardino,di cinta per giardino,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
-housing buildings,edifici residenziali,muro,MURO_muro di cinta per proprietà,di cinta per proprietà,1,8,8,8.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,muro,MURO_muro di cinta per strada,di cinta per strada,1,9,9,9.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,muro,MURO_muro di cinta per parcheggio,di cinta per parcheggio,1,10,10,10.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,muro,MURO_muro di cinta per edificio,di cinta per edificio,1,11,11,11.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,naso,NASO_naso umano,umano,1,1,1,1.0,1.0,1.0,1,1.0,39518.0
-body parts,parti del corpo,naso,NASO_naso di cane,di cane,1,2,2,2.0,0.0,1.0,1,0.10026,154.0
-body parts,parti del corpo,naso,NASO_naso di gatto,di gatto,1,3,3,3.0,0.0,1.0,1,0.10026,126.0
-body parts,parti del corpo,naso,NASO_naso di pesce,di pesce,1,4,4,4.0,0.0,1.0,1,0.10026,28.0
-vehicles,veicoli,nave,NAVE_nave da guerra,da guerra,1,1,1,1.0,1.0,1.0,1,1.0,62.0
-vehicles,veicoli,nave,NAVE_nave da carico,da carico,1,2,2,2.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,nave,NAVE_nave da crociera,da crociera,1,3,3,3.0,0.0,1.0,1,0.10026,27.0
-vehicles,veicoli,nave,NAVE_nave da pesca,da pesca,1,4,4,4.0,0.0,1.0,1,0.10026,576.0
-vehicles,veicoli,nave,NAVE_nave da ricerca,da ricerca,1,5,5,5.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,nave,NAVE_nave da pattugliamento,da pattugliamento,1,6,6,6.0,0.0,1.0,1,0.10026,45.0
-vehicles,veicoli,nave,NAVE_nave da trasporto,da trasporto,1,7,7,7.0,0.0,1.0,1,0.10026,275.0
-vehicles,veicoli,nave,NAVE_nave da scuola,da scuola,1,8,8,8.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,nave,NAVE_nave da sperimentazione,da sperimentazione,1,9,9,9.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,nave,NAVE_nave da ricerca oceanografica,da ricerca oceanografica,1,10,10,10.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,nave,NAVE_nave da salvataggio,da salvataggio,1,11,11,11.0,0.0,1.0,1,0.10026,21.0
+housing buildings,edifici residenziali,muro,MURO_muro di cinta per proprietà,di cinta per proprietà,1,8,8,8.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,muro,MURO_muro di cinta per strada,di cinta per strada,1,9,9,9.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,muro,MURO_muro di cinta per parcheggio,di cinta per parcheggio,1,10,10,10.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,muro,MURO_muro di cinta per edificio,di cinta per edificio,1,11,11,11.0,0.0,1.0,1,0.10026,0.0
+body parts,parti del corpo,naso,NASO_naso umano,umano,1,1,1,1.0,1.0,1.0,1,1.0,146.0
+body parts,parti del corpo,naso,NASO_naso di cane,di cane,1,2,2,2.0,0.0,1.0,1,0.10026,24.0
+body parts,parti del corpo,naso,NASO_naso di gatto,di gatto,1,3,3,3.0,0.0,1.0,1,0.10026,20.0
+body parts,parti del corpo,naso,NASO_naso di pesce,di pesce,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,nave,NAVE_nave da guerra,da guerra,1,1,1,1.0,1.0,1.0,1,1.0,716.0
+vehicles,veicoli,nave,NAVE_nave da carico,da carico,1,2,2,2.0,0.0,1.0,1,0.10026,62.0
+vehicles,veicoli,nave,NAVE_nave da crociera,da crociera,1,3,3,3.0,0.0,1.0,1,0.10026,52.0
+vehicles,veicoli,nave,NAVE_nave da pesca,da pesca,1,4,4,4.0,0.0,1.0,1,0.10026,74.0
+vehicles,veicoli,nave,NAVE_nave da ricerca,da ricerca,1,5,5,5.0,0.0,1.0,1,0.10026,21.0
+vehicles,veicoli,nave,NAVE_nave da pattugliamento,da pattugliamento,1,6,6,6.0,0.0,1.0,1,0.10026,22.0
+vehicles,veicoli,nave,NAVE_nave da trasporto,da trasporto,1,7,7,7.0,0.0,1.0,1,0.10026,25.0
+vehicles,veicoli,nave,NAVE_nave da scuola,da scuola,1,8,8,8.0,0.0,1.0,1,0.10026,1.0
+vehicles,veicoli,nave,NAVE_nave da sperimentazione,da sperimentazione,1,9,9,9.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,nave,NAVE_nave da ricerca oceanografica,da ricerca oceanografica,1,10,10,10.0,0.0,1.0,1,0.10026,25.0
+vehicles,veicoli,nave,NAVE_nave da salvataggio,da salvataggio,1,11,11,11.0,0.0,1.0,1,0.10026,18.0
 body parts,parti del corpo,occhio,OCCHIO_palpebra,palpebra,1,1,1,1.0,1.0,1.0,1,1.0,20863.0
 body parts,parti del corpo,occhio,OCCHIO_iride,iride,1,2,2,2.0,0.0,1.0,1,0.10026,15856.0
 body parts,parti del corpo,occhio,OCCHIO_cornea,cornea,1,3,3,3.0,0.0,1.0,1,0.10026,18571.0
 body parts,parti del corpo,occhio,OCCHIO_cristallino,cristallino,1,4,4,4.0,0.0,1.0,1,0.10026,23574.0
 body parts,parti del corpo,occhio,OCCHIO_retina,retina,1,5,5,5.0,0.0,1.0,1,0.10026,13051.0
 body parts,parti del corpo,occhio,OCCHIO_lacrime,lacrime,1,6,6,6.0,0.0,1.0,1,0.10026,28428.0
-plants,piante,orchidea,ORCHIDEA_orchidea azzurra,azzurra,1,1,1,1.0,1.0,1.0,1,1.0,38490.0
-plants,piante,orchidea,ORCHIDEA_orchidea bianca,bianca,1,2,2,2.0,0.0,1.0,1,0.10026,32255.0
-plants,piante,orchidea,ORCHIDEA_orchidea gialla,gialla,1,3,3,3.0,0.0,1.0,1,0.10026,19863.0
-plants,piante,orchidea,ORCHIDEA_orchidea rossa,rossa,1,4,4,4.0,0.0,1.0,1,0.10026,21256.0
-plants,piante,orchidea,ORCHIDEA_orchidea viola,viola,1,5,5,5.0,0.0,1.0,1,0.10026,16409.0
-plants,piante,orchidea,ORCHIDEA_orchidea rosa,rosa,1,6,6,6.0,0.0,1.0,1,0.10026,48542.0
-plants,piante,orchidea,ORCHIDEA_orchidea nera,nera,1,7,7,7.0,0.0,1.0,1,0.10026,27317.0
-plants,piante,orchidea,ORCHIDEA_orchidea verde,verde,1,8,8,8.0,0.0,1.0,1,0.10026,26252.0
-plants,piante,orchidea,ORCHIDEA_orchidea a quattro petali,a quattro petali,1,9,9,9.0,0.0,1.0,1,0.10026,
-plants,piante,orchidea,ORCHIDEA_orchidea a tre petali,a tre petali,1,10,10,10.0,0.0,1.0,1,0.10026,
-plants,piante,orchidea,ORCHIDEA_orchidea a cinque petali,a cinque petali,1,11,11,11.0,0.0,1.0,1,0.10026,
-plants,piante,orchidea,ORCHIDEA_orchidea a sei petali,a sei petali,1,12,12,12.0,0.0,1.0,1,0.10026,
-plants,piante,orchidea,ORCHIDEA_orchidea a sette petali,a sette petali,1,13,13,13.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,orecchio,ORECCHIO_orecchio interno,interno,1,1,1,1.0,1.0,1.0,1,1.0,16306.0
-body parts,parti del corpo,orecchio,ORECCHIO_orecchio esterno,esterno,1,2,2,2.0,0.0,1.0,1,0.10026,15878.0
-body parts,parti del corpo,orecchio,ORECCHIO_orecchio medio,medio,1,3,3,3.0,0.0,1.0,1,0.10026,47336.0
-body parts,parti del corpo,orecchio,ORECCHIO_orecchio anteriore,anteriore,1,4,4,4.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,orecchio,ORECCHIO_orecchio posteriore,posteriore,1,5,5,5.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,orologio,OROLOGIO_orologio da polso,da polso,1,1,1,1.0,1.0,1.0,1,1.0,327.0
-furnishings/fittings,arredamenti/accessori,orologio,OROLOGIO_orologio da parete,da parete,1,2,2,2.0,0.0,1.0,1,0.10026,435.0
-furnishings/fittings,arredamenti/accessori,orologio,OROLOGIO_orologio da taschino,da taschino,1,3,3,3.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,orologio,OROLOGIO_orologio digitale,digitale,1,4,4,4.0,0.0,1.0,1,0.10026,18961.0
-furnishings/fittings,arredamenti/accessori,orologio,OROLOGIO_orologio analogico,analogico,1,5,5,5.0,0.0,1.0,1,0.10026,21133.0
-furnishings/fittings,arredamenti/accessori,orologio,OROLOGIO_orologio atomico,atomico,1,6,6,6.0,0.0,1.0,1,0.10026,20185.0
-animals,animali,orso,ORSO_orso grigio,grigio,1,1,1,1.0,1.0,1.0,1,1.0,17938.0
-animals,animali,orso,ORSO_orso polare,polare,1,2,2,2.0,0.0,1.0,1,0.10026,12010.0
-animals,animali,orso,ORSO_orso bruno,bruno,1,3,3,3.0,0.0,1.0,1,0.10026,10487.0
-animals,animali,orso,ORSO_orso panda,panda,1,4,4,4.0,0.0,1.0,1,0.10026,17025.0
-kitchenware,utensili da cucina,padella,PADELLA_padella di rame,di rame,1,1,1,1.0,1.0,1.0,1,1.0,318.0
-kitchenware,utensili da cucina,padella,PADELLA_padella di acciaio,di acciaio,1,2,2,2.0,0.0,1.0,1,0.10026,250.0
-kitchenware,utensili da cucina,padella,PADELLA_padella di legno,di legno,1,3,3,3.0,0.0,1.0,1,0.10026,35.0
-kitchenware,utensili da cucina,padella,PADELLA_padella di vetro,di vetro,1,4,4,4.0,0.0,1.0,1,0.10026,587.0
-kitchenware,utensili da cucina,padella,PADELLA_padella a mano,a mano,1,5,5,5.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,padella,PADELLA_padella elettrica,elettrica,1,6,6,6.0,0.0,1.0,1,0.10026,64450.0
+plants,piante,orchidea,ORCHIDEA_orchidea azzurra,azzurra,1,1,1,1.0,1.0,1.0,1,1.0,2.0
+plants,piante,orchidea,ORCHIDEA_orchidea bianca,bianca,1,2,2,2.0,0.0,1.0,1,0.10026,282.0
+plants,piante,orchidea,ORCHIDEA_orchidea gialla,gialla,1,3,3,3.0,0.0,1.0,1,0.10026,82.0
+plants,piante,orchidea,ORCHIDEA_orchidea rossa,rossa,1,4,4,4.0,0.0,1.0,1,0.10026,96.0
+plants,piante,orchidea,ORCHIDEA_orchidea viola,viola,1,5,5,5.0,0.0,1.0,1,0.10026,70.0
+plants,piante,orchidea,ORCHIDEA_orchidea rosa,rosa,1,6,6,6.0,0.0,1.0,1,0.10026,148.0
+plants,piante,orchidea,ORCHIDEA_orchidea nera,nera,1,7,7,7.0,0.0,1.0,1,0.10026,126.0
+plants,piante,orchidea,ORCHIDEA_orchidea verde,verde,1,8,8,8.0,0.0,1.0,1,0.10026,13.0
+plants,piante,orchidea,ORCHIDEA_orchidea a quattro petali,a quattro petali,1,9,9,9.0,0.0,1.0,1,0.10026,0.0
+plants,piante,orchidea,ORCHIDEA_orchidea a tre petali,a tre petali,1,10,10,10.0,0.0,1.0,1,0.10026,0.0
+plants,piante,orchidea,ORCHIDEA_orchidea a cinque petali,a cinque petali,1,11,11,11.0,0.0,1.0,1,0.10026,0.0
+plants,piante,orchidea,ORCHIDEA_orchidea a sei petali,a sei petali,1,12,12,12.0,0.0,1.0,1,0.10026,0.0
+plants,piante,orchidea,ORCHIDEA_orchidea a sette petali,a sette petali,1,13,13,13.0,0.0,1.0,1,0.10026,0.0
+body parts,parti del corpo,orecchio,ORECCHIO_orecchio interno,interno,1,1,1,1.0,1.0,1.0,1,1.0,34.0
+body parts,parti del corpo,orecchio,ORECCHIO_orecchio esterno,esterno,1,2,2,2.0,0.0,1.0,1,0.10026,28.0
+body parts,parti del corpo,orecchio,ORECCHIO_orecchio medio,medio,1,3,3,3.0,0.0,1.0,1,0.10026,80.0
+body parts,parti del corpo,orecchio,ORECCHIO_orecchio anteriore,anteriore,1,4,4,4.0,0.0,1.0,1,0.10026,8.0
+body parts,parti del corpo,orecchio,ORECCHIO_orecchio posteriore,posteriore,1,5,5,5.0,0.0,1.0,1,0.10026,5.0
+furnishings/fittings,arredamenti/accessori,orologio,OROLOGIO_orologio da polso,da polso,1,1,1,1.0,1.0,1.0,1,1.0,248.0
+furnishings/fittings,arredamenti/accessori,orologio,OROLOGIO_orologio da parete,da parete,1,2,2,2.0,0.0,1.0,1,0.10026,60.0
+furnishings/fittings,arredamenti/accessori,orologio,OROLOGIO_orologio da taschino,da taschino,1,3,3,3.0,0.0,1.0,1,0.10026,35.0
+furnishings/fittings,arredamenti/accessori,orologio,OROLOGIO_orologio digitale,digitale,1,4,4,4.0,0.0,1.0,1,0.10026,126.0
+furnishings/fittings,arredamenti/accessori,orologio,OROLOGIO_orologio analogico,analogico,1,5,5,5.0,0.0,1.0,1,0.10026,174.0
+furnishings/fittings,arredamenti/accessori,orologio,OROLOGIO_orologio atomico,atomico,1,6,6,6.0,0.0,1.0,1,0.10026,143.0
+animals,animali,orso,ORSO_orso grigio,grigio,1,1,1,1.0,1.0,1.0,1,1.0,104.0
+animals,animali,orso,ORSO_orso polare,polare,1,2,2,2.0,0.0,1.0,1,0.10026,2412.0
+animals,animali,orso,ORSO_orso bruno,bruno,1,3,3,3.0,0.0,1.0,1,0.10026,826.0
+animals,animali,orso,ORSO_orso panda,panda,1,4,4,4.0,0.0,1.0,1,0.10026,132.0
+kitchenware,utensili da cucina,padella,PADELLA_padella di rame,di rame,1,1,1,1.0,1.0,1.0,1,1.0,21.0
+kitchenware,utensili da cucina,padella,PADELLA_padella di acciaio,di acciaio,1,2,2,2.0,0.0,1.0,1,0.10026,48.0
+kitchenware,utensili da cucina,padella,PADELLA_padella di legno,di legno,1,3,3,3.0,0.0,1.0,1,0.10026,2.0
+kitchenware,utensili da cucina,padella,PADELLA_padella di vetro,di vetro,1,4,4,4.0,0.0,1.0,1,0.10026,6.0
+kitchenware,utensili da cucina,padella,PADELLA_padella a mano,a mano,1,5,5,5.0,0.0,1.0,1,0.10026,6.0
+kitchenware,utensili da cucina,padella,PADELLA_padella elettrica,elettrica,1,6,6,6.0,0.0,1.0,1,0.10026,63.0
 hobbies,passatempi,palla,PALLA_pallone,pallone,1,1,1,1.0,1.0,1.0,1,1.0,44174.0
 hobbies,passatempi,palla,PALLA_pallavolo,pallavolo,1,2,2,2.0,0.0,1.0,1,0.10026,49298.0
 hobbies,passatempi,palla,PALLA_pallacanestro,pallacanestro,1,3,3,3.0,0.0,1.0,1,0.10026,37506.0
@@ -811,15 +811,15 @@ body parts,parti del corpo,pancia,PANCIA_gilet,gilet,1,3,3,3.0,0.0,1.0,1,0.10026
 body parts,parti del corpo,pancia,PANCIA_giacca,giacca,1,4,4,4.0,0.0,1.0,1,0.10026,33734.0
 body parts,parti del corpo,pancia,PANCIA_cappello,cappello,1,5,5,5.0,0.0,1.0,1,0.10026,34080.0
 body parts,parti del corpo,pancia,PANCIA_scarpe,scarpe,1,6,6,6.0,0.0,1.0,1,0.10026,919012.0
-foods,cibi,pane,PANE_pane integrale,integrale,1,1,1,1.0,1.0,1.0,1,1.0,17993.0
-foods,cibi,pane,PANE_pane bianco,bianco,1,2,2,2.0,0.0,1.0,1,0.10026,2759185.0
-foods,cibi,pane,PANE_pane secco,secco,1,3,3,3.0,0.0,1.0,1,0.10026,
-foods,cibi,pane,PANE_pane fresco,fresco,1,4,4,4.0,0.0,1.0,1,0.10026,22072.0
-foods,cibi,pane,PANE_pane di grano tenero,di grano tenero,1,5,5,5.0,0.0,1.0,1,0.10026,
-foods,cibi,pane,PANE_pane di grano duro,di grano duro,1,6,6,6.0,0.0,1.0,1,0.10026,
-foods,cibi,pane,PANE_pane di segale,di segale,1,7,7,7.0,0.0,1.0,1,0.10026,
-foods,cibi,pane,PANE_pane di farro,di farro,1,8,8,8.0,0.0,1.0,1,0.10026,49.0
-foods,cibi,pane,PANE_pane di riso,di riso,1,9,9,9.0,0.0,1.0,1,0.10026,340.0
+foods,cibi,pane,PANE_pane integrale,integrale,1,1,1,1.0,1.0,1.0,1,1.0,546.0
+foods,cibi,pane,PANE_pane bianco,bianco,1,2,2,2.0,0.0,1.0,1,0.10026,180.0
+foods,cibi,pane,PANE_pane secco,secco,1,3,3,3.0,0.0,1.0,1,0.10026,68.0
+foods,cibi,pane,PANE_pane fresco,fresco,1,4,4,4.0,0.0,1.0,1,0.10026,165.0
+foods,cibi,pane,PANE_pane di grano tenero,di grano tenero,1,5,5,5.0,0.0,1.0,1,0.10026,48.0
+foods,cibi,pane,PANE_pane di grano duro,di grano duro,1,6,6,6.0,0.0,1.0,1,0.10026,50.0
+foods,cibi,pane,PANE_pane di segale,di segale,1,7,7,7.0,0.0,1.0,1,0.10026,60.0
+foods,cibi,pane,PANE_pane di farro,di farro,1,8,8,8.0,0.0,1.0,1,0.10026,46.0
+foods,cibi,pane,PANE_pane di riso,di riso,1,9,9,9.0,0.0,1.0,1,0.10026,42.0
 clothes,vestiti,pantalone,PANTALONE_pantaloni da ballo,pantaloni da ballo,1,1,1,1.0,1.0,1.0,1,1.0,3.0
 clothes,vestiti,pantalone,PANTALONE_pantaloni da ginnastica,pantaloni da ginnastica,1,2,2,2.0,0.0,1.0,1,0.10026,40.0
 clothes,vestiti,pantalone,PANTALONE_pantaloni da sci,pantaloni da sci,1,3,3,3.0,0.0,1.0,1,0.10026,21.0
@@ -838,57 +838,57 @@ foods,cibi,pasta,PASTA_tortellini,tortellini,1,7,7,7.0,0.0,1.0,1,0.10026,29886.0
 foods,cibi,pasta,PASTA_ravioli,ravioli,1,8,8,8.0,0.0,1.0,1,0.10026,48328.0
 foods,cibi,pasta,PASTA_tagliatelle,tagliatelle,1,9,9,9.0,0.0,1.0,1,0.10026,28202.0
 foods,cibi,pasta,PASTA_cannelloni,cannelloni,1,10,10,10.0,0.0,1.0,1,0.10026,12434.0
-stationery,cancelleria,pastello,PASTELLO_pastello a mano,a mano,1,1,1,1.0,1.0,1.0,1,1.0,
-stationery,cancelleria,pastello,PASTELLO_pastello elettrico,elettrico,1,2,2,2.0,0.0,1.0,1,0.10026,33490.0
-stationery,cancelleria,pastello,PASTELLO_pastello a seta,a seta,1,3,3,3.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,pastello,PASTELLO_pastello in pelle,in pelle,1,4,4,4.0,0.0,1.0,1,0.10026,788.0
-stationery,cancelleria,pastello,PASTELLO_pastello in cuoio,in cuoio,1,5,5,5.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,pastello,PASTELLO_pastello in plastica,in plastica,1,6,6,6.0,0.0,1.0,1,0.10026,952.0
-housing buildings,edifici residenziali,pavimento,PAVIMENTO_pavimento in legno,in legno,1,1,1,1.0,1.0,1.0,1,1.0,210.0
-housing buildings,edifici residenziali,pavimento,PAVIMENTO_pavimento in ceramica,in ceramica,1,2,2,2.0,0.0,1.0,1,0.10026,462.0
-housing buildings,edifici residenziali,pavimento,PAVIMENTO_pavimento in marmo,in marmo,1,3,3,3.0,0.0,1.0,1,0.10026,28.0
-housing buildings,edifici residenziali,pavimento,PAVIMENTO_pavimento in piastrelle,in piastrelle,1,4,4,4.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,pavimento,PAVIMENTO_pavimento in tessuto,in tessuto,1,5,5,5.0,0.0,1.0,1,0.10026,414.0
-housing buildings,edifici residenziali,pavimento,PAVIMENTO_pavimento in legno trattato,in legno trattato,1,6,6,6.0,0.0,1.0,1,0.10026,
+stationery,cancelleria,pastello,PASTELLO_pastello a mano,a mano,1,1,1,1.0,1.0,1.0,1,1.0,0.0
+stationery,cancelleria,pastello,PASTELLO_pastello elettrico,elettrico,1,2,2,2.0,0.0,1.0,1,0.10026,2.0
+stationery,cancelleria,pastello,PASTELLO_pastello a seta,a seta,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+stationery,cancelleria,pastello,PASTELLO_pastello in pelle,in pelle,1,4,4,4.0,0.0,1.0,1,0.10026,2.0
+stationery,cancelleria,pastello,PASTELLO_pastello in cuoio,in cuoio,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+stationery,cancelleria,pastello,PASTELLO_pastello in plastica,in plastica,1,6,6,6.0,0.0,1.0,1,0.10026,4.0
+housing buildings,edifici residenziali,pavimento,PAVIMENTO_pavimento in legno,in legno,1,1,1,1.0,1.0,1.0,1,1.0,254.0
+housing buildings,edifici residenziali,pavimento,PAVIMENTO_pavimento in ceramica,in ceramica,1,2,2,2.0,0.0,1.0,1,0.10026,142.0
+housing buildings,edifici residenziali,pavimento,PAVIMENTO_pavimento in marmo,in marmo,1,3,3,3.0,0.0,1.0,1,0.10026,66.0
+housing buildings,edifici residenziali,pavimento,PAVIMENTO_pavimento in piastrelle,in piastrelle,1,4,4,4.0,0.0,1.0,1,0.10026,31.0
+housing buildings,edifici residenziali,pavimento,PAVIMENTO_pavimento in tessuto,in tessuto,1,5,5,5.0,0.0,1.0,1,0.10026,21.0
+housing buildings,edifici residenziali,pavimento,PAVIMENTO_pavimento in legno trattato,in legno trattato,1,6,6,6.0,0.0,1.0,1,0.10026,23.0
 stationery,cancelleria,penna,PENNA_biro,biro,1,1,1,1.0,1.0,1.0,1,1.0,6941.0
 stationery,cancelleria,penna,PENNA_matita,matita,1,2,2,2.0,0.0,1.0,1,0.10026,26406.0
 stationery,cancelleria,penna,PENNA_pastello,pastello,1,3,3,3.0,0.0,1.0,1,0.10026,18154.0
 stationery,cancelleria,penna,PENNA_stilografica,stilografica,1,4,4,4.0,0.0,1.0,1,0.10026,11892.0
 stationery,cancelleria,penna,PENNA_pastello a olio,pastello a olio,1,5,5,5.0,0.0,1.0,1,0.10026,320.0
-hobbies,passatempi,pennello,PENNELLO_pennello a mano,a mano,1,1,1,1.0,1.0,1.0,1,1.0,
-hobbies,passatempi,pennello,PENNELLO_pennello elettrico,elettrico,1,2,2,2.0,0.0,1.0,1,0.10026,33490.0
-hobbies,passatempi,pennello,PENNELLO_pennello a seta,a seta,1,3,3,3.0,0.0,1.0,1,0.10026,
-hobbies,passatempi,pennello,PENNELLO_pennello da pittore,da pittore,1,4,4,4.0,0.0,1.0,1,0.10026,
-hobbies,passatempi,pennello,PENNELLO_pennello da intonaco,da intonaco,1,5,5,5.0,0.0,1.0,1,0.10026,
-hobbies,passatempi,pennello,PENNELLO_pennello da legno,da legno,1,6,6,6.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,pentola,PENTOLA_pentola a pressione,a pressione,1,1,1,1.0,1.0,1.0,1,1.0,
-kitchenware,utensili da cucina,pentola,PENTOLA_pentola a coperchio,a coperchio,1,2,2,2.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,pentola,PENTOLA_pentola a vapore,a vapore,1,3,3,3.0,0.0,1.0,1,0.10026,659.0
-kitchenware,utensili da cucina,pentola,PENTOLA_pentola a gas,a gas,1,4,4,4.0,0.0,1.0,1,0.10026,959.0
-kitchenware,utensili da cucina,pentola,PENTOLA_pentola a elettrica,a elettrica,1,5,5,5.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,pentola,PENTOLA_pentola a legno,a legno,1,6,6,6.0,0.0,1.0,1,0.10026,
+hobbies,passatempi,pennello,PENNELLO_pennello a mano,a mano,1,1,1,1.0,1.0,1.0,1,1.0,22.0
+hobbies,passatempi,pennello,PENNELLO_pennello elettrico,elettrico,1,2,2,2.0,0.0,1.0,1,0.10026,23.0
+hobbies,passatempi,pennello,PENNELLO_pennello a seta,a seta,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+hobbies,passatempi,pennello,PENNELLO_pennello da pittore,da pittore,1,4,4,4.0,0.0,1.0,1,0.10026,20.0
+hobbies,passatempi,pennello,PENNELLO_pennello da intonaco,da intonaco,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+hobbies,passatempi,pennello,PENNELLO_pennello da legno,da legno,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+kitchenware,utensili da cucina,pentola,PENTOLA_pentola a pressione,a pressione,1,1,1,1.0,1.0,1.0,1,1.0,80.0
+kitchenware,utensili da cucina,pentola,PENTOLA_pentola a coperchio,a coperchio,1,2,2,2.0,0.0,1.0,1,0.10026,3.0
+kitchenware,utensili da cucina,pentola,PENTOLA_pentola a vapore,a vapore,1,3,3,3.0,0.0,1.0,1,0.10026,46.0
+kitchenware,utensili da cucina,pentola,PENTOLA_pentola a gas,a gas,1,4,4,4.0,0.0,1.0,1,0.10026,26.0
+kitchenware,utensili da cucina,pentola,PENTOLA_pentola a elettrica,a elettrica,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+kitchenware,utensili da cucina,pentola,PENTOLA_pentola a legno,a legno,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
 foods,cibi,pesce,PESCE_trutta,trutta,1,1,1,1.0,1.0,1.0,1,1.0,760.0
 foods,cibi,pesce,PESCE_salmone,salmone,1,2,2,2.0,0.0,1.0,1,0.10026,41844.0
 foods,cibi,pesce,PESCE_merluzzo,merluzzo,1,3,3,3.0,0.0,1.0,1,0.10026,39844.0
 foods,cibi,pesce,PESCE_sardine,sardine,1,4,4,4.0,0.0,1.0,1,0.10026,17242.0
 foods,cibi,pesce,PESCE_anatra,anatra,1,5,5,5.0,0.0,1.0,1,0.10026,35448.0
 foods,cibi,pesce,PESCE_gamberi,gamberi,1,6,6,6.0,0.0,1.0,1,0.10026,35217.0
-kitchenware,utensili da cucina,piatto,PIATTO_piatto da tavola,da tavola,1,1,1,1.0,1.0,1.0,1,1.0,
-kitchenware,utensili da cucina,piatto,PIATTO_piatto da cucina,da cucina,1,2,2,2.0,0.0,1.0,1,0.10026,27.0
-kitchenware,utensili da cucina,piatto,PIATTO_piatto da forno,da forno,1,3,3,3.0,0.0,1.0,1,0.10026,24.0
-kitchenware,utensili da cucina,piatto,PIATTO_piatto da bar,da bar,1,4,4,4.0,0.0,1.0,1,0.10026,354.0
-kitchenware,utensili da cucina,piatto,PIATTO_piatto da picnic,da picnic,1,5,5,5.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,piatto,PIATTO_piatto da portata,da portata,1,6,6,6.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,piede,PIEDE_piede destro,destro,1,1,1,1.0,1.0,1.0,1,1.0,16693.0
-body parts,parti del corpo,piede,PIEDE_piede sinistro,sinistro,1,2,2,2.0,0.0,1.0,1,0.10026,16969.0
-body parts,parti del corpo,piede,PIEDE_piede neonato,neonato,1,3,3,3.0,0.0,1.0,1,0.10026,35426.0
-body parts,parti del corpo,piede,PIEDE_piede amputato,amputato,1,4,4,4.0,0.0,1.0,1,0.10026,
-plants,piante,pino,PINO_pino da costruzione,da costruzione,1,1,1,1.0,1.0,1.0,1,1.0,
-plants,piante,pino,PINO_pino da falegnameria,da falegnameria,1,2,2,2.0,0.0,1.0,1,0.10026,
-plants,piante,pino,PINO_pino da legno,da legno,1,3,3,3.0,0.0,1.0,1,0.10026,
-plants,piante,pino,PINO_pino da scultura,da scultura,1,4,4,4.0,0.0,1.0,1,0.10026,
-plants,piante,pino,PINO_pino da ornamento,da ornamento,1,5,5,5.0,0.0,1.0,1,0.10026,
-plants,piante,pino,PINO_pino da fuoco,da fuoco,1,6,6,6.0,0.0,1.0,1,0.10026,
+kitchenware,utensili da cucina,piatto,PIATTO_piatto da tavola,da tavola,1,1,1,1.0,1.0,1.0,1,1.0,48.0
+kitchenware,utensili da cucina,piatto,PIATTO_piatto da cucina,da cucina,1,2,2,2.0,0.0,1.0,1,0.10026,40.0
+kitchenware,utensili da cucina,piatto,PIATTO_piatto da forno,da forno,1,3,3,3.0,0.0,1.0,1,0.10026,150.0
+kitchenware,utensili da cucina,piatto,PIATTO_piatto da bar,da bar,1,4,4,4.0,0.0,1.0,1,0.10026,8.0
+kitchenware,utensili da cucina,piatto,PIATTO_piatto da picnic,da picnic,1,5,5,5.0,0.0,1.0,1,0.10026,14.0
+kitchenware,utensili da cucina,piatto,PIATTO_piatto da portata,da portata,1,6,6,6.0,0.0,1.0,1,0.10026,126.0
+body parts,parti del corpo,piede,PIEDE_piede destro,destro,1,1,1,1.0,1.0,1.0,1,1.0,572.0
+body parts,parti del corpo,piede,PIEDE_piede sinistro,sinistro,1,2,2,2.0,0.0,1.0,1,0.10026,282.0
+body parts,parti del corpo,piede,PIEDE_piede neonato,neonato,1,3,3,3.0,0.0,1.0,1,0.10026,3.0
+body parts,parti del corpo,piede,PIEDE_piede amputato,amputato,1,4,4,4.0,0.0,1.0,1,0.10026,51.0
+plants,piante,pino,PINO_pino da costruzione,da costruzione,1,1,1,1.0,1.0,1.0,1,1.0,1.0
+plants,piante,pino,PINO_pino da falegnameria,da falegnameria,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
+plants,piante,pino,PINO_pino da legno,da legno,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+plants,piante,pino,PINO_pino da scultura,da scultura,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+plants,piante,pino,PINO_pino da ornamento,da ornamento,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+plants,piante,pino,PINO_pino da fuoco,da fuoco,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
 foods,cibi,pizza,PIZZA_margherita,margherita,1,1,1,1.0,1.0,1.0,1,1.0,36132.0
 foods,cibi,pizza,PIZZA_quattro formaggi,quattro formaggi,1,2,2,2.0,0.0,1.0,1,0.10026,124.0
 foods,cibi,pizza,PIZZA_prosciutto e funghi,prosciutto e funghi,1,3,3,3.0,0.0,1.0,1,0.10026,25.0
@@ -901,16 +901,16 @@ foods,cibi,pizza,PIZZA_quattro formaggi e prosciutto e funghi,quattro formaggi e
 foods,cibi,pizza,PIZZA_quattro formaggi e prosciutto e funghi e spinaci,quattro formaggi e prosciutto e funghi e spinaci,1,10,10,10.0,0.0,1.0,1,0.10026,0.0
 furniture,mobili,poltrona,POLTRONA_divano,divano,1,1,1,1.0,1.0,1.0,1,1.0,25648.0
 furniture,mobili,poltrona,POLTRONA_divanetto,divanetto,1,2,2,2.0,0.0,1.0,1,0.10026,11895.0
-furniture,mobili,poltrona,POLTRONA_poltrona a bracciuoli,a bracciuoli,1,3,3,3.0,0.0,1.0,1,0.10026,
-furniture,mobili,poltrona,POLTRONA_poltrona a cuscini,a cuscini,1,4,4,4.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,porta,PORTA_porta d'ingresso,d'ingresso,1,1,1,1.0,1.0,1.0,1,1.0,
-housing buildings,edifici residenziali,porta,PORTA_porta di servizio,di servizio,1,2,2,2.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,porta,PORTA_porta di emergenza,di emergenza,1,3,3,3.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,porta,PORTA_porta di scolo,di scolo,1,4,4,4.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,porta,PORTA_porta di ventilazione,di ventilazione,1,5,5,5.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,porta,PORTA_porta di comunicazione,di comunicazione,1,6,6,6.0,0.0,1.0,1,0.10026,121.0
-housing buildings,edifici residenziali,porta,PORTA_porta di servizio per biciclette,di servizio per biciclette,1,7,7,7.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,porta,PORTA_porta di servizio per biciclette in bicicletta,di servizio per biciclette in bicicletta,1,8,8,8.0,0.0,1.0,1,0.10026,
+furniture,mobili,poltrona,POLTRONA_poltrona a bracciuoli,a bracciuoli,1,3,3,3.0,0.0,1.0,1,0.10026,5.0
+furniture,mobili,poltrona,POLTRONA_poltrona a cuscini,a cuscini,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,porta,PORTA_porta d'ingresso,d'ingresso,1,1,1,1.0,1.0,1.0,1,1.0,0.0
+housing buildings,edifici residenziali,porta,PORTA_porta di servizio,di servizio,1,2,2,2.0,0.0,1.0,1,0.10026,25.0
+housing buildings,edifici residenziali,porta,PORTA_porta di emergenza,di emergenza,1,3,3,3.0,0.0,1.0,1,0.10026,46.0
+housing buildings,edifici residenziali,porta,PORTA_porta di scolo,di scolo,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,porta,PORTA_porta di ventilazione,di ventilazione,1,5,5,5.0,0.0,1.0,1,0.10026,20.0
+housing buildings,edifici residenziali,porta,PORTA_porta di comunicazione,di comunicazione,1,6,6,6.0,0.0,1.0,1,0.10026,51.0
+housing buildings,edifici residenziali,porta,PORTA_porta di servizio per biciclette,di servizio per biciclette,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,porta,PORTA_porta di servizio per biciclette in bicicletta,di servizio per biciclette in bicicletta,1,8,8,8.0,0.0,1.0,1,0.10026,0.0
 furnishings/fittings,arredamenti/accessori,portafotografia,PORTAFOTOGRAFIA_casco,casco,1,1,1,1.0,1.0,1.0,1,1.0,31044.0
 furnishings/fittings,arredamenti/accessori,portafotografia,PORTAFOTOGRAFIA_cassetta,cassetta,1,2,2,2.0,0.0,1.0,1,0.10026,31474.0
 furnishings/fittings,arredamenti/accessori,portafotografia,PORTAFOTOGRAFIA_schermo,schermo,1,3,3,3.0,0.0,1.0,1,0.10026,45478.0
@@ -923,18 +923,18 @@ furnishings/fittings,arredamenti/accessori,posacenere,POSACENERE_scatola,scatola
 furnishings/fittings,arredamenti/accessori,posacenere,POSACENERE_cassone,cassone,1,4,4,4.0,0.0,1.0,1,0.10026,20635.0
 furnishings/fittings,arredamenti/accessori,posacenere,POSACENERE_cassetta,cassetta,1,5,5,5.0,0.0,1.0,1,0.10026,31474.0
 furnishings/fittings,arredamenti/accessori,posacenere,POSACENERE_contenitore per rifiuti,contenitore per rifiuti,1,6,6,6.0,0.0,1.0,1,0.10026,21.0
-stationery,cancelleria,quaderno,QUADERNO_quaderno di scuola,di scuola,1,1,1,1.0,1.0,1.0,1,1.0,94.0
-stationery,cancelleria,quaderno,QUADERNO_quaderno di lavoro,di lavoro,1,2,2,2.0,0.0,1.0,1,0.10026,866.0
-stationery,cancelleria,quaderno,QUADERNO_quaderno di viaggio,di viaggio,1,3,3,3.0,0.0,1.0,1,0.10026,102.0
-stationery,cancelleria,quaderno,QUADERNO_quaderno di appunti,di appunti,1,4,4,4.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,quaderno,QUADERNO_quaderno di disegno,di disegno,1,5,5,5.0,0.0,1.0,1,0.10026,325.0
-stationery,cancelleria,quaderno,QUADERNO_quaderno di ricordi,di ricordi,1,6,6,6.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,quadro,QUADRO_quadro d'arte,d'arte,1,1,1,1.0,1.0,1.0,1,1.0,
-furnishings/fittings,arredamenti/accessori,quadro,QUADRO_quadro fotografico,fotografico,1,2,2,2.0,0.0,1.0,1,0.10026,22704.0
-furnishings/fittings,arredamenti/accessori,quadro,QUADRO_quadro di tela,di tela,1,3,3,3.0,0.0,1.0,1,0.10026,82.0
-furnishings/fittings,arredamenti/accessori,quadro,QUADRO_quadro in legno,in legno,1,4,4,4.0,0.0,1.0,1,0.10026,210.0
-furnishings/fittings,arredamenti/accessori,quadro,QUADRO_quadro in vetro,in vetro,1,5,5,5.0,0.0,1.0,1,0.10026,637.0
-furnishings/fittings,arredamenti/accessori,quadro,QUADRO_quadro di cartone,di cartone,1,6,6,6.0,0.0,1.0,1,0.10026,
+stationery,cancelleria,quaderno,QUADERNO_quaderno di scuola,di scuola,1,1,1,1.0,1.0,1.0,1,1.0,66.0
+stationery,cancelleria,quaderno,QUADERNO_quaderno di lavoro,di lavoro,1,2,2,2.0,0.0,1.0,1,0.10026,52.0
+stationery,cancelleria,quaderno,QUADERNO_quaderno di viaggio,di viaggio,1,3,3,3.0,0.0,1.0,1,0.10026,90.0
+stationery,cancelleria,quaderno,QUADERNO_quaderno di appunti,di appunti,1,4,4,4.0,0.0,1.0,1,0.10026,50.0
+stationery,cancelleria,quaderno,QUADERNO_quaderno di disegno,di disegno,1,5,5,5.0,0.0,1.0,1,0.10026,24.0
+stationery,cancelleria,quaderno,QUADERNO_quaderno di ricordi,di ricordi,1,6,6,6.0,0.0,1.0,1,0.10026,22.0
+furnishings/fittings,arredamenti/accessori,quadro,QUADRO_quadro d'arte,d'arte,1,1,1,1.0,1.0,1.0,1,1.0,0.0
+furnishings/fittings,arredamenti/accessori,quadro,QUADRO_quadro fotografico,fotografico,1,2,2,2.0,0.0,1.0,1,0.10026,79.0
+furnishings/fittings,arredamenti/accessori,quadro,QUADRO_quadro di tela,di tela,1,3,3,3.0,0.0,1.0,1,0.10026,22.0
+furnishings/fittings,arredamenti/accessori,quadro,QUADRO_quadro in legno,in legno,1,4,4,4.0,0.0,1.0,1,0.10026,23.0
+furnishings/fittings,arredamenti/accessori,quadro,QUADRO_quadro in vetro,in vetro,1,5,5,5.0,0.0,1.0,1,0.10026,22.0
+furnishings/fittings,arredamenti/accessori,quadro,QUADRO_quadro di cartone,di cartone,1,6,6,6.0,0.0,1.0,1,0.10026,9.0
 plants,piante,quercia,QUERCIA_albero,albero,1,1,1,1.0,1.0,1.0,1,1.0,35138.0
 plants,piante,quercia,QUERCIA_legno,legno,1,2,2,2.0,0.0,1.0,1,0.10026,41162.0
 plants,piante,quercia,QUERCIA_scultura,scultura,1,3,3,3.0,0.0,1.0,1,0.10026,14628.0
@@ -942,52 +942,52 @@ plants,piante,quercia,QUERCIA_mobili,mobili,1,4,4,4.0,0.0,1.0,1,0.10026,57286.0
 plants,piante,quercia,QUERCIA_mobiliatura,mobiliatura,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
 plants,piante,quercia,QUERCIA_intarsia,intarsia,1,6,6,6.0,0.0,1.0,1,0.10026,220.0
 plants,piante,quercia,QUERCIA_vernice,vernice,1,7,7,7.0,0.0,1.0,1,0.10026,38356.0
-hobbies,passatempi,racchetta,RACCHETTA_racchetta da tennis,da tennis,1,1,1,1.0,1.0,1.0,1,1.0,896.0
-hobbies,passatempi,racchetta,RACCHETTA_racchetta da squash,da squash,1,2,2,2.0,0.0,1.0,1,0.10026,40.0
-hobbies,passatempi,racchetta,RACCHETTA_racchetta da badminton,da badminton,1,3,3,3.0,0.0,1.0,1,0.10026,35.0
-hobbies,passatempi,racchetta,RACCHETTA_racchetta da pallavolo,da pallavolo,1,4,4,4.0,0.0,1.0,1,0.10026,52.0
-hobbies,passatempi,racchetta,RACCHETTA_racchetta da calcio,da calcio,1,5,5,5.0,0.0,1.0,1,0.10026,26.0
-hobbies,passatempi,racchetta,RACCHETTA_racchetta da pallamano,da pallamano,1,6,6,6.0,0.0,1.0,1,0.10026,26.0
-stationery,cancelleria,righello,RIGHELLO_righello di legno,di legno,1,1,1,1.0,1.0,1.0,1,1.0,35.0
-stationery,cancelleria,righello,RIGHELLO_righello di metallo,di metallo,1,2,2,2.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,righello,RIGHELLO_righello di plastica,di plastica,1,3,3,3.0,0.0,1.0,1,0.10026,672.0
-stationery,cancelleria,righello,RIGHELLO_righello di vetro,di vetro,1,4,4,4.0,0.0,1.0,1,0.10026,587.0
+hobbies,passatempi,racchetta,RACCHETTA_racchetta da tennis,da tennis,1,1,1,1.0,1.0,1.0,1,1.0,76.0
+hobbies,passatempi,racchetta,RACCHETTA_racchetta da squash,da squash,1,2,2,2.0,0.0,1.0,1,0.10026,48.0
+hobbies,passatempi,racchetta,RACCHETTA_racchetta da badminton,da badminton,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+hobbies,passatempi,racchetta,RACCHETTA_racchetta da pallavolo,da pallavolo,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+hobbies,passatempi,racchetta,RACCHETTA_racchetta da calcio,da calcio,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+hobbies,passatempi,racchetta,RACCHETTA_racchetta da pallamano,da pallamano,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+stationery,cancelleria,righello,RIGHELLO_righello di legno,di legno,1,1,1,1.0,1.0,1.0,1,1.0,44.0
+stationery,cancelleria,righello,RIGHELLO_righello di metallo,di metallo,1,2,2,2.0,0.0,1.0,1,0.10026,46.0
+stationery,cancelleria,righello,RIGHELLO_righello di plastica,di plastica,1,3,3,3.0,0.0,1.0,1,0.10026,40.0
+stationery,cancelleria,righello,RIGHELLO_righello di vetro,di vetro,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
 housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_cassettone,cassettone,1,1,1,1.0,1.0,1.0,1,1.0,34200.0
 housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_cassettiera,cassettiera,1,2,2,2.0,0.0,1.0,1,0.10026,23130.0
-housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_ripostiglio a muro,a muro,1,3,3,3.0,0.0,1.0,1,0.10026,584.0
-housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_ripostiglio mobile,mobile,1,4,4,4.0,0.0,1.0,1,0.10026,55528.0
-housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_ripostiglio in legno,in legno,1,5,5,5.0,0.0,1.0,1,0.10026,210.0
-housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_ripostiglio in metallo,in metallo,1,6,6,6.0,0.0,1.0,1,0.10026,26.0
-housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_ripostiglio in plastica,in plastica,1,7,7,7.0,0.0,1.0,1,0.10026,952.0
-housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_ripostiglio a rotelle,a rotelle,1,8,8,8.0,0.0,1.0,1,0.10026,430.0
-foods,cibi,riso,RISO_riso integrale,integrale,1,1,1,1.0,1.0,1.0,1,1.0,17993.0
-foods,cibi,riso,RISO_riso bianco,bianco,1,2,2,2.0,0.0,1.0,1,0.10026,2759185.0
-foods,cibi,riso,RISO_riso rosso,rosso,1,3,3,3.0,0.0,1.0,1,0.10026,33472.0
-foods,cibi,riso,RISO_riso glutinoso,glutinoso,1,4,4,4.0,0.0,1.0,1,0.10026,
-foods,cibi,riso,RISO_riso basmati,basmati,1,5,5,5.0,0.0,1.0,1,0.10026,10708.0
-foods,cibi,riso,RISO_riso arancione,arancione,1,6,6,6.0,0.0,1.0,1,0.10026,12677.0
-plants,piante,salice,SALICE_salice di legno,di legno,1,1,1,1.0,1.0,1.0,1,1.0,35.0
-plants,piante,salice,SALICE_salice di metallo,di metallo,1,2,2,2.0,0.0,1.0,1,0.10026,
-plants,piante,salice,SALICE_salice di plastica,di plastica,1,3,3,3.0,0.0,1.0,1,0.10026,672.0
-plants,piante,salice,SALICE_salice di vetro,di vetro,1,4,4,4.0,0.0,1.0,1,0.10026,587.0
-plants,piante,salice,SALICE_salice di fibra di vetro,di fibra di vetro,1,5,5,5.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,scala,SCALA_scala mobile,mobile,1,1,1,1.0,1.0,1.0,1,1.0,55528.0
-housing buildings,edifici residenziali,scala,SCALA_scala a chiocciola,a chiocciola,1,2,2,2.0,0.0,1.0,1,0.10026,116.0
-housing buildings,edifici residenziali,scala,SCALA_scala a piastrelle,a piastrelle,1,3,3,3.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,scala,SCALA_scala a tredini,a tredini,1,4,4,4.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,scala,SCALA_scala a pietra,a pietra,1,5,5,5.0,0.0,1.0,1,0.10026,310.0
-housing buildings,edifici residenziali,scala,SCALA_scala a muro,a muro,1,6,6,6.0,0.0,1.0,1,0.10026,584.0
-housing buildings,edifici residenziali,scala,SCALA_scala a spirale,a spirale,1,7,7,7.0,0.0,1.0,1,0.10026,253.0
-clothes,vestiti,scarpa,SCARPA_scarpa da ballo,da ballo,1,1,1,1.0,1.0,1.0,1,1.0,696.0
-clothes,vestiti,scarpa,SCARPA_scarpa da ginnastica,da ginnastica,1,2,2,2.0,0.0,1.0,1,0.10026,393.0
-clothes,vestiti,scarpa,SCARPA_scarpa da corsa,da corsa,1,3,3,3.0,0.0,1.0,1,0.10026,690.0
-clothes,vestiti,scarpa,SCARPA_scarpa da trekking,da trekking,1,4,4,4.0,0.0,1.0,1,0.10026,270.0
-clothes,vestiti,scarpa,SCARPA_scarpa da neve,da neve,1,5,5,5.0,0.0,1.0,1,0.10026,23.0
-clothes,vestiti,scarpa,SCARPA_scarpa da sci,da sci,1,6,6,6.0,0.0,1.0,1,0.10026,1023.0
-clothes,vestiti,scarpa,SCARPA_scarpa da calcio,da calcio,1,7,7,7.0,0.0,1.0,1,0.10026,26.0
-clothes,vestiti,scarpa,SCARPA_scarpa da tennis,da tennis,1,8,8,8.0,0.0,1.0,1,0.10026,896.0
-clothes,vestiti,scarpa,SCARPA_scarpa da golf,da golf,1,9,9,9.0,0.0,1.0,1,0.10026,28.0
-clothes,vestiti,scarpa,SCARPA_scarpa da mare,da mare,1,10,10,10.0,0.0,1.0,1,0.10026,
+housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_ripostiglio a muro,a muro,1,3,3,3.0,0.0,1.0,1,0.10026,22.0
+housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_ripostiglio mobile,mobile,1,4,4,4.0,0.0,1.0,1,0.10026,1.0
+housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_ripostiglio in legno,in legno,1,5,5,5.0,0.0,1.0,1,0.10026,20.0
+housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_ripostiglio in metallo,in metallo,1,6,6,6.0,0.0,1.0,1,0.10026,2.0
+housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_ripostiglio in plastica,in plastica,1,7,7,7.0,0.0,1.0,1,0.10026,2.0
+housing buildings,edifici residenziali,ripostiglio,RIPOSTIGLIO_ripostiglio a rotelle,a rotelle,1,8,8,8.0,0.0,1.0,1,0.10026,0.0
+foods,cibi,riso,RISO_riso integrale,integrale,1,1,1,1.0,1.0,1.0,1,1.0,810.0
+foods,cibi,riso,RISO_riso bianco,bianco,1,2,2,2.0,0.0,1.0,1,0.10026,108.0
+foods,cibi,riso,RISO_riso rosso,rosso,1,3,3,3.0,0.0,1.0,1,0.10026,136.0
+foods,cibi,riso,RISO_riso glutinoso,glutinoso,1,4,4,4.0,0.0,1.0,1,0.10026,97.0
+foods,cibi,riso,RISO_riso basmati,basmati,1,5,5,5.0,0.0,1.0,1,0.10026,770.0
+foods,cibi,riso,RISO_riso arancione,arancione,1,6,6,6.0,0.0,1.0,1,0.10026,3.0
+plants,piante,salice,SALICE_salice di legno,di legno,1,1,1,1.0,1.0,1.0,1,1.0,0.0
+plants,piante,salice,SALICE_salice di metallo,di metallo,1,2,2,2.0,0.0,1.0,1,0.10026,1.0
+plants,piante,salice,SALICE_salice di plastica,di plastica,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+plants,piante,salice,SALICE_salice di vetro,di vetro,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+plants,piante,salice,SALICE_salice di fibra di vetro,di fibra di vetro,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,scala,SCALA_scala mobile,mobile,1,1,1,1.0,1.0,1.0,1,1.0,584.0
+housing buildings,edifici residenziali,scala,SCALA_scala a chiocciola,a chiocciola,1,2,2,2.0,0.0,1.0,1,0.10026,166.0
+housing buildings,edifici residenziali,scala,SCALA_scala a piastrelle,a piastrelle,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,scala,SCALA_scala a tredini,a tredini,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,scala,SCALA_scala a pietra,a pietra,1,5,5,5.0,0.0,1.0,1,0.10026,3.0
+housing buildings,edifici residenziali,scala,SCALA_scala a muro,a muro,1,6,6,6.0,0.0,1.0,1,0.10026,21.0
+housing buildings,edifici residenziali,scala,SCALA_scala a spirale,a spirale,1,7,7,7.0,0.0,1.0,1,0.10026,23.0
+clothes,vestiti,scarpa,SCARPA_scarpa da ballo,da ballo,1,1,1,1.0,1.0,1.0,1,1.0,78.0
+clothes,vestiti,scarpa,SCARPA_scarpa da ginnastica,da ginnastica,1,2,2,2.0,0.0,1.0,1,0.10026,678.0
+clothes,vestiti,scarpa,SCARPA_scarpa da corsa,da corsa,1,3,3,3.0,0.0,1.0,1,0.10026,108.0
+clothes,vestiti,scarpa,SCARPA_scarpa da trekking,da trekking,1,4,4,4.0,0.0,1.0,1,0.10026,83.0
+clothes,vestiti,scarpa,SCARPA_scarpa da neve,da neve,1,5,5,5.0,0.0,1.0,1,0.10026,54.0
+clothes,vestiti,scarpa,SCARPA_scarpa da sci,da sci,1,6,6,6.0,0.0,1.0,1,0.10026,48.0
+clothes,vestiti,scarpa,SCARPA_scarpa da calcio,da calcio,1,7,7,7.0,0.0,1.0,1,0.10026,58.0
+clothes,vestiti,scarpa,SCARPA_scarpa da tennis,da tennis,1,8,8,8.0,0.0,1.0,1,0.10026,138.0
+clothes,vestiti,scarpa,SCARPA_scarpa da golf,da golf,1,9,9,9.0,0.0,1.0,1,0.10026,46.0
+clothes,vestiti,scarpa,SCARPA_scarpa da mare,da mare,1,10,10,10.0,0.0,1.0,1,0.10026,22.0
 body parts,parti del corpo,schiena,SCHIENA_colonna vertebrale,colonna vertebrale,1,1,1,1.0,1.0,1.0,1,1.0,4644.0
 body parts,parti del corpo,schiena,SCHIENA_muscolo lombarico,muscolo lombarico,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
 body parts,parti del corpo,schiena,SCHIENA_muscolo eretto,muscolo eretto,1,3,3,3.0,0.0,1.0,1,0.10026,3.0
@@ -1025,59 +1025,59 @@ stationery,cancelleria,scolorina,SCOLORINA_verniciatore,verniciatore,1,3,3,3.0,0
 stationery,cancelleria,scolorina,SCOLORINA_verniciatore a mano,verniciatore a mano,1,4,4,4.0,0.0,1.0,1,0.10026,7.0
 stationery,cancelleria,scolorina,SCOLORINA_verniciatore a spruzzo,verniciatore a spruzzo,1,5,5,5.0,0.0,1.0,1,0.10026,21.0
 stationery,cancelleria,scolorina,SCOLORINA_verniciatore a caldo,verniciatore a caldo,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
-vehicles,veicoli,scooter,SCOOTER_scooter a due ruote,a due ruote,1,1,1,1.0,1.0,1.0,1,1.0,155.0
-vehicles,veicoli,scooter,SCOOTER_scooter a tre ruote,a tre ruote,1,2,2,2.0,0.0,1.0,1,0.10026,33.0
-vehicles,veicoli,scooter,SCOOTER_scooter a quattro ruote,a quattro ruote,1,3,3,3.0,0.0,1.0,1,0.10026,63.0
-vehicles,veicoli,scooter,SCOOTER_scooter elettrico,elettrico,1,4,4,4.0,0.0,1.0,1,0.10026,33490.0
-vehicles,veicoli,scooter,SCOOTER_scooter a motore,a motore,1,5,5,5.0,0.0,1.0,1,0.10026,43.0
-vehicles,veicoli,scooter,SCOOTER_scooter da neve,da neve,1,6,6,6.0,0.0,1.0,1,0.10026,23.0
-vehicles,veicoli,scooter,SCOOTER_scooter da montagna,da montagna,1,7,7,7.0,0.0,1.0,1,0.10026,305.0
-vehicles,veicoli,scooter,SCOOTER_scooter da corsa,da corsa,1,8,8,8.0,0.0,1.0,1,0.10026,690.0
+vehicles,veicoli,scooter,SCOOTER_scooter a due ruote,a due ruote,1,1,1,1.0,1.0,1.0,1,1.0,23.0
+vehicles,veicoli,scooter,SCOOTER_scooter a tre ruote,a tre ruote,1,2,2,2.0,0.0,1.0,1,0.10026,54.0
+vehicles,veicoli,scooter,SCOOTER_scooter a quattro ruote,a quattro ruote,1,3,3,3.0,0.0,1.0,1,0.10026,46.0
+vehicles,veicoli,scooter,SCOOTER_scooter elettrico,elettrico,1,4,4,4.0,0.0,1.0,1,0.10026,416.0
+vehicles,veicoli,scooter,SCOOTER_scooter a motore,a motore,1,5,5,5.0,0.0,1.0,1,0.10026,42.0
+vehicles,veicoli,scooter,SCOOTER_scooter da neve,da neve,1,6,6,6.0,0.0,1.0,1,0.10026,20.0
+vehicles,veicoli,scooter,SCOOTER_scooter da montagna,da montagna,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,scooter,SCOOTER_scooter da corsa,da corsa,1,8,8,8.0,0.0,1.0,1,0.10026,8.0
 furniture,mobili,scrivania,SCRIVANIA_cassettiera,cassettiera,1,1,1,1.0,1.0,1.0,1,1.0,23130.0
-furniture,mobili,scrivania,SCRIVANIA_scrivania portatile,portatile,1,2,2,2.0,0.0,1.0,1,0.10026,33738.0
-furniture,mobili,scrivania,SCRIVANIA_scrivania a rotelle,a rotelle,1,3,3,3.0,0.0,1.0,1,0.10026,430.0
-furniture,mobili,scrivania,SCRIVANIA_scrivania con tavolo,con tavolo,1,4,4,4.0,0.0,1.0,1,0.10026,
-furniture,mobili,scrivania,SCRIVANIA_scrivania con cassettone,con cassettone,1,5,5,5.0,0.0,1.0,1,0.10026,
-furniture,mobili,sedia,SEDIA_sedia a gambe,a gambe,1,1,1,1.0,1.0,1.0,1,1.0,
-furniture,mobili,sedia,SEDIA_sedia a rotelle,a rotelle,1,2,2,2.0,0.0,1.0,1,0.10026,430.0
-furniture,mobili,sedia,SEDIA_sedia a sdraio,a sdraio,1,3,3,3.0,0.0,1.0,1,0.10026,
-furniture,mobili,sedia,SEDIA_sedia a cuscino,a cuscino,1,4,4,4.0,0.0,1.0,1,0.10026,42.0
-furniture,mobili,sedia,SEDIA_sedia a braccio,a braccio,1,5,5,5.0,0.0,1.0,1,0.10026,391.0
-furniture,mobili,sedia,SEDIA_sedia a slitta,a slitta,1,6,6,6.0,0.0,1.0,1,0.10026,
-furniture,mobili,sedia,SEDIA_sedia a sdraio con braccio,a sdraio con braccio,1,7,7,7.0,0.0,1.0,1,0.10026,
+furniture,mobili,scrivania,SCRIVANIA_scrivania portatile,portatile,1,2,2,2.0,0.0,1.0,1,0.10026,20.0
+furniture,mobili,scrivania,SCRIVANIA_scrivania a rotelle,a rotelle,1,3,3,3.0,0.0,1.0,1,0.10026,4.0
+furniture,mobili,scrivania,SCRIVANIA_scrivania con tavolo,con tavolo,1,4,4,4.0,0.0,1.0,1,0.10026,3.0
+furniture,mobili,scrivania,SCRIVANIA_scrivania con cassettone,con cassettone,1,5,5,5.0,0.0,1.0,1,0.10026,1.0
+furniture,mobili,sedia,SEDIA_sedia a gambe,a gambe,1,1,1,1.0,1.0,1.0,1,1.0,12.0
+furniture,mobili,sedia,SEDIA_sedia a rotelle,a rotelle,1,2,2,2.0,0.0,1.0,1,0.10026,596.0
+furniture,mobili,sedia,SEDIA_sedia a sdraio,a sdraio,1,3,3,3.0,0.0,1.0,1,0.10026,47.0
+furniture,mobili,sedia,SEDIA_sedia a cuscino,a cuscino,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+furniture,mobili,sedia,SEDIA_sedia a braccio,a braccio,1,5,5,5.0,0.0,1.0,1,0.10026,7.0
+furniture,mobili,sedia,SEDIA_sedia a slitta,a slitta,1,6,6,6.0,0.0,1.0,1,0.10026,21.0
+furniture,mobili,sedia,SEDIA_sedia a sdraio con braccio,a sdraio con braccio,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
 animals,animali,serpente,SERPENTE_vipera,vipera,1,1,1,1.0,1.0,1.0,1,1.0,36842.0
 animals,animali,serpente,SERPENTE_adder,adder,1,2,2,2.0,0.0,1.0,1,0.10026,1140.0
 animals,animali,serpente,SERPENTE_cobra,cobra,1,3,3,3.0,0.0,1.0,1,0.10026,42044.0
 animals,animali,serpente,SERPENTE_anaconda,anaconda,1,4,4,4.0,0.0,1.0,1,0.10026,6940.0
 animals,animali,serpente,SERPENTE_boa constrictore,boa constrictore,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
-animals,animali,serpente,SERPENTE_serpente alato,alato,1,6,6,6.0,0.0,1.0,1,0.10026,
-animals,animali,serpente,SERPENTE_serpente a sonagli,a sonagli,1,7,7,7.0,0.0,1.0,1,0.10026,
-animals,animali,serpente,SERPENTE_serpente di mare,di mare,1,8,8,8.0,0.0,1.0,1,0.10026,40.0
+animals,animali,serpente,SERPENTE_serpente alato,alato,1,6,6,6.0,0.0,1.0,1,0.10026,111.0
+animals,animali,serpente,SERPENTE_serpente a sonagli,a sonagli,1,7,7,7.0,0.0,1.0,1,0.10026,78.0
+animals,animali,serpente,SERPENTE_serpente di mare,di mare,1,8,8,8.0,0.0,1.0,1,0.10026,34.0
 clothes,vestiti,slip,SLIP_guanto,guanto,1,1,1,1.0,1.0,1.0,1,1.0,53394.0
 clothes,vestiti,slip,SLIP_cappello,cappello,1,2,2,2.0,0.0,1.0,1,0.10026,34080.0
 clothes,vestiti,slip,SLIP_scarpa,scarpa,1,3,3,3.0,0.0,1.0,1,0.10026,41528.0
-housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto a volta,a volta,1,1,1,1.0,1.0,1.0,1,1.0,333.0
-housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto a pavimento,a pavimento,1,2,2,2.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto a cassetto,a cassetto,1,3,3,3.0,0.0,1.0,1,0.10026,43.0
-housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto a traliccio,a traliccio,1,4,4,4.0,0.0,1.0,1,0.10026,63.0
-housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto a tappeto,a tappeto,1,5,5,5.0,0.0,1.0,1,0.10026,153.0
-housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto in legno,in legno,1,6,6,6.0,0.0,1.0,1,0.10026,210.0
-housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto in vetro,in vetro,1,7,7,7.0,0.0,1.0,1,0.10026,637.0
-housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto in stucco,in stucco,1,8,8,8.0,0.0,1.0,1,0.10026,
+housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto a volta,a volta,1,1,1,1.0,1.0,1.0,1,1.0,77.0
+housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto a pavimento,a pavimento,1,2,2,2.0,0.0,1.0,1,0.10026,25.0
+housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto a cassetto,a cassetto,1,3,3,3.0,0.0,1.0,1,0.10026,3.0
+housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto a traliccio,a traliccio,1,4,4,4.0,0.0,1.0,1,0.10026,1.0
+housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto a tappeto,a tappeto,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto in legno,in legno,1,6,6,6.0,0.0,1.0,1,0.10026,46.0
+housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto in vetro,in vetro,1,7,7,7.0,0.0,1.0,1,0.10026,46.0
+housing buildings,edifici residenziali,soffitto,SOFFITTO_soffitto in stucco,in stucco,1,8,8,8.0,0.0,1.0,1,0.10026,40.0
 housing buildings,edifici residenziali,soggiorno,SOGGIORNO_divano,divano,1,1,1,1.0,1.0,1.0,1,1.0,25648.0
 housing buildings,edifici residenziali,soggiorno,SOGGIORNO_poltrone,poltrone,1,2,2,2.0,0.0,1.0,1,0.10026,38274.0
 housing buildings,edifici residenziali,soggiorno,SOGGIORNO_tavolo,tavolo,1,3,3,3.0,0.0,1.0,1,0.10026,35504.0
 housing buildings,edifici residenziali,soggiorno,SOGGIORNO_tv,tv,1,4,4,4.0,0.0,1.0,1,0.10026,34358.0
 housing buildings,edifici residenziali,soggiorno,SOGGIORNO_camino,camino,1,5,5,5.0,0.0,1.0,1,0.10026,27794.0
 housing buildings,edifici residenziali,soggiorno,SOGGIORNO_libreria,libreria,1,6,6,6.0,0.0,1.0,1,0.10026,40032.0
-body parts,parti del corpo,spalla,SPALLA_spalla umana,umana,1,1,1,1.0,1.0,1.0,1,1.0,30884.0
-body parts,parti del corpo,spalla,SPALLA_spalla di animale,di animale,1,2,2,2.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,spalla,SPALLA_spalla di un oggetto,di un oggetto,1,3,3,3.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,specchio,SPECCHIO_specchio da parete,da parete,1,1,1,1.0,1.0,1.0,1,1.0,435.0
-furnishings/fittings,arredamenti/accessori,specchio,SPECCHIO_specchio portatile,portatile,1,2,2,2.0,0.0,1.0,1,0.10026,33738.0
-furnishings/fittings,arredamenti/accessori,specchio,SPECCHIO_specchio da bagno,da bagno,1,3,3,3.0,0.0,1.0,1,0.10026,27.0
-furnishings/fittings,arredamenti/accessori,specchio,SPECCHIO_specchio da cucina,da cucina,1,4,4,4.0,0.0,1.0,1,0.10026,27.0
-furnishings/fittings,arredamenti/accessori,specchio,SPECCHIO_specchio da studio,da studio,1,5,5,5.0,0.0,1.0,1,0.10026,574.0
+body parts,parti del corpo,spalla,SPALLA_spalla umana,umana,1,1,1,1.0,1.0,1.0,1,1.0,17.0
+body parts,parti del corpo,spalla,SPALLA_spalla di animale,di animale,1,2,2,2.0,0.0,1.0,1,0.10026,6.0
+body parts,parti del corpo,spalla,SPALLA_spalla di un oggetto,di un oggetto,1,3,3,3.0,0.0,1.0,1,0.10026,1.0
+furnishings/fittings,arredamenti/accessori,specchio,SPECCHIO_specchio da parete,da parete,1,1,1,1.0,1.0,1.0,1,1.0,20.0
+furnishings/fittings,arredamenti/accessori,specchio,SPECCHIO_specchio portatile,portatile,1,2,2,2.0,0.0,1.0,1,0.10026,46.0
+furnishings/fittings,arredamenti/accessori,specchio,SPECCHIO_specchio da bagno,da bagno,1,3,3,3.0,0.0,1.0,1,0.10026,23.0
+furnishings/fittings,arredamenti/accessori,specchio,SPECCHIO_specchio da cucina,da cucina,1,4,4,4.0,0.0,1.0,1,0.10026,2.0
+furnishings/fittings,arredamenti/accessori,specchio,SPECCHIO_specchio da studio,da studio,1,5,5,5.0,0.0,1.0,1,0.10026,1.0
 stationery,cancelleria,spillatrice,SPILLATRICE_aspirapolvere,aspirapolvere,1,1,1,1.0,1.0,1.0,1,1.0,66518.0
 stationery,cancelleria,spillatrice,SPILLATRICE_aspirapolvere con aspiratore,aspirapolvere con aspiratore,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
 stationery,cancelleria,spillatrice,SPILLATRICE_aspirapolvere con aspiratore e aspirapolvere,aspirapolvere con aspiratore e aspirapolvere,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
@@ -1090,36 +1090,36 @@ clothes,vestiti,t-shirt,T-SHIRT_polo,polo,1,4,4,4.0,0.0,1.0,1,0.10026,39028.0
 clothes,vestiti,t-shirt,T-SHIRT_camicia da ballo,camicia da ballo,1,5,5,5.0,0.0,1.0,1,0.10026,3.0
 stationery,cancelleria,taccuino,TACCUINO_diario,diario,1,1,1,1.0,1.0,1.0,1,1.0,40702.0
 stationery,cancelleria,taccuino,TACCUINO_agenda,agenda,1,2,2,2.0,0.0,1.0,1,0.10026,41892.0
-stationery,cancelleria,taccuino,TACCUINO_taccuino di viaggio,di viaggio,1,3,3,3.0,0.0,1.0,1,0.10026,102.0
-stationery,cancelleria,taccuino,TACCUINO_taccuino di cucina,di cucina,1,4,4,4.0,0.0,1.0,1,0.10026,33.0
-stationery,cancelleria,taccuino,TACCUINO_taccuino di viaggio per bambini,di viaggio per bambini,1,5,5,5.0,0.0,1.0,1,0.10026,
-stationery,cancelleria,taccuino,TACCUINO_taccuino per appunti,per appunti,1,6,6,6.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per verdure,per verdure,1,1,1,1.0,1.0,1.0,1,1.0,
-kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per formaggi,per formaggi,1,2,2,2.0,0.0,1.0,1,0.10026,26.0
-kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per frutta,per frutta,1,3,3,3.0,0.0,1.0,1,0.10026,27.0
-kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per pane,per pane,1,4,4,4.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per dolci,per dolci,1,5,5,5.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per fette di carne,per fette di carne,1,6,6,6.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per insalate,per insalate,1,7,7,7.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da salotto,da salotto,1,1,1,1.0,1.0,1.0,1,1.0,166.0
-furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da cucina,da cucina,1,2,2,2.0,0.0,1.0,1,0.10026,27.0
-furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da bagno,da bagno,1,3,3,3.0,0.0,1.0,1,0.10026,27.0
-furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da giardino,da giardino,1,4,4,4.0,0.0,1.0,1,0.10026,1072.0
-furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da ufficio,da ufficio,1,5,5,5.0,0.0,1.0,1,0.10026,80.0
-furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da camera da letto,da camera da letto,1,6,6,6.0,0.0,1.0,1,0.10026,27.0
-furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da soggiorno,da soggiorno,1,7,7,7.0,0.0,1.0,1,0.10026,727.0
-furniture,mobili,tavolo,TAVOLO_tavolo da pranzo,da pranzo,1,1,1,1.0,1.0,1.0,1,1.0,1337.0
-furniture,mobili,tavolo,TAVOLO_tavolo da cucina,da cucina,1,2,2,2.0,0.0,1.0,1,0.10026,27.0
-furniture,mobili,tavolo,TAVOLO_tavolo da lavoro,da lavoro,1,3,3,3.0,0.0,1.0,1,0.10026,47.0
-furniture,mobili,tavolo,TAVOLO_tavolo da gioco,da gioco,1,4,4,4.0,0.0,1.0,1,0.10026,45.0
-furniture,mobili,tavolo,TAVOLO_tavolo da scrivania,da scrivania,1,5,5,5.0,0.0,1.0,1,0.10026,65.0
-furniture,mobili,tavolo,TAVOLO_tavolo da bar,da bar,1,6,6,6.0,0.0,1.0,1,0.10026,354.0
-kitchenware,utensili da cucina,teglia,TEGLIA_teglia per pane,per pane,1,1,1,1.0,1.0,1.0,1,1.0,
-kitchenware,utensili da cucina,teglia,TEGLIA_teglia per focacce,per focacce,1,2,2,2.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,teglia,TEGLIA_teglia per pizza,per pizza,1,3,3,3.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,teglia,TEGLIA_teglia per focaccine,per focaccine,1,4,4,4.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,teglia,TEGLIA_teglia per biscotti,per biscotti,1,5,5,5.0,0.0,1.0,1,0.10026,
-kitchenware,utensili da cucina,teglia,TEGLIA_teglia per dolci,per dolci,1,6,6,6.0,0.0,1.0,1,0.10026,
+stationery,cancelleria,taccuino,TACCUINO_taccuino di viaggio,di viaggio,1,3,3,3.0,0.0,1.0,1,0.10026,21.0
+stationery,cancelleria,taccuino,TACCUINO_taccuino di cucina,di cucina,1,4,4,4.0,0.0,1.0,1,0.10026,8.0
+stationery,cancelleria,taccuino,TACCUINO_taccuino di viaggio per bambini,di viaggio per bambini,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+stationery,cancelleria,taccuino,TACCUINO_taccuino per appunti,per appunti,1,6,6,6.0,0.0,1.0,1,0.10026,30.0
+kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per verdure,per verdure,1,1,1,1.0,1.0,1.0,1,1.0,5.0
+kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per formaggi,per formaggi,1,2,2,2.0,0.0,1.0,1,0.10026,21.0
+kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per frutta,per frutta,1,3,3,3.0,0.0,1.0,1,0.10026,7.0
+kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per pane,per pane,1,4,4,4.0,0.0,1.0,1,0.10026,21.0
+kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per dolci,per dolci,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per fette di carne,per fette di carne,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+kitchenware,utensili da cucina,tagliere,TAGLIERE_tagliere per insalate,per insalate,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da salotto,da salotto,1,1,1,1.0,1.0,1.0,1,1.0,35.0
+furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da cucina,da cucina,1,2,2,2.0,0.0,1.0,1,0.10026,44.0
+furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da bagno,da bagno,1,3,3,3.0,0.0,1.0,1,0.10026,44.0
+furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da giardino,da giardino,1,4,4,4.0,0.0,1.0,1,0.10026,20.0
+furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da ufficio,da ufficio,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da camera da letto,da camera da letto,1,6,6,6.0,0.0,1.0,1,0.10026,8.0
+furnishings/fittings,arredamenti/accessori,tappeto,TAPPETO_tappeto da soggiorno,da soggiorno,1,7,7,7.0,0.0,1.0,1,0.10026,17.0
+furniture,mobili,tavolo,TAVOLO_tavolo da pranzo,da pranzo,1,1,1,1.0,1.0,1.0,1,1.0,258.0
+furniture,mobili,tavolo,TAVOLO_tavolo da cucina,da cucina,1,2,2,2.0,0.0,1.0,1,0.10026,104.0
+furniture,mobili,tavolo,TAVOLO_tavolo da lavoro,da lavoro,1,3,3,3.0,0.0,1.0,1,0.10026,100.0
+furniture,mobili,tavolo,TAVOLO_tavolo da gioco,da gioco,1,4,4,4.0,0.0,1.0,1,0.10026,192.0
+furniture,mobili,tavolo,TAVOLO_tavolo da scrivania,da scrivania,1,5,5,5.0,0.0,1.0,1,0.10026,34.0
+furniture,mobili,tavolo,TAVOLO_tavolo da bar,da bar,1,6,6,6.0,0.0,1.0,1,0.10026,40.0
+kitchenware,utensili da cucina,teglia,TEGLIA_teglia per pane,per pane,1,1,1,1.0,1.0,1.0,1,1.0,13.0
+kitchenware,utensili da cucina,teglia,TEGLIA_teglia per focacce,per focacce,1,2,2,2.0,0.0,1.0,1,0.10026,1.0
+kitchenware,utensili da cucina,teglia,TEGLIA_teglia per pizza,per pizza,1,3,3,3.0,0.0,1.0,1,0.10026,22.0
+kitchenware,utensili da cucina,teglia,TEGLIA_teglia per focaccine,per focaccine,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+kitchenware,utensili da cucina,teglia,TEGLIA_teglia per biscotti,per biscotti,1,5,5,5.0,0.0,1.0,1,0.10026,21.0
+kitchenware,utensili da cucina,teglia,TEGLIA_teglia per dolci,per dolci,1,6,6,6.0,0.0,1.0,1,0.10026,26.0
 hobbies,passatempi,televisione,TELEVISIONE_tv a schermo piatto,tv a schermo piatto,1,1,1,1.0,1.0,1.0,1,1.0,154.0
 hobbies,passatempi,televisione,TELEVISIONE_tv a schermo curvo,tv a schermo curvo,1,2,2,2.0,0.0,1.0,1,0.10026,16.0
 hobbies,passatempi,televisione,TELEVISIONE_tv led,tv led,1,3,3,3.0,0.0,1.0,1,0.10026,103.0
@@ -1137,11 +1137,11 @@ stationery,cancelleria,temperino,TEMPERINO_lampada a sospensione,lampada a sospe
 stationery,cancelleria,temperino,TEMPERINO_lampada da tavolo,lampada da tavolo,1,4,4,4.0,0.0,1.0,1,0.10026,276.0
 stationery,cancelleria,temperino,TEMPERINO_lampada da letto,lampada da letto,1,5,5,5.0,0.0,1.0,1,0.10026,20.0
 stationery,cancelleria,temperino,TEMPERINO_lampada da cucina,lampada da cucina,1,6,6,6.0,0.0,1.0,1,0.10026,28.0
-furnishings/fittings,arredamenti/accessori,tenda,TENDA_tenda da cucina,da cucina,1,1,1,1.0,1.0,1.0,1,1.0,27.0
-furnishings/fittings,arredamenti/accessori,tenda,TENDA_tenda da giardino,da giardino,1,2,2,2.0,0.0,1.0,1,0.10026,1072.0
-furnishings/fittings,arredamenti/accessori,tenda,TENDA_tenda da stanzia,da stanzia,1,3,3,3.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,tenda,TENDA_tenda da spiaggia,da spiaggia,1,4,4,4.0,0.0,1.0,1,0.10026,681.0
-furnishings/fittings,arredamenti/accessori,tenda,TENDA_tenda da nido,da nido,1,5,5,5.0,0.0,1.0,1,0.10026,
+furnishings/fittings,arredamenti/accessori,tenda,TENDA_tenda da cucina,da cucina,1,1,1,1.0,1.0,1.0,1,1.0,40.0
+furnishings/fittings,arredamenti/accessori,tenda,TENDA_tenda da giardino,da giardino,1,2,2,2.0,0.0,1.0,1,0.10026,44.0
+furnishings/fittings,arredamenti/accessori,tenda,TENDA_tenda da stanzia,da stanzia,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,tenda,TENDA_tenda da spiaggia,da spiaggia,1,4,4,4.0,0.0,1.0,1,0.10026,66.0
+furnishings/fittings,arredamenti/accessori,tenda,TENDA_tenda da nido,da nido,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
 housing buildings,edifici residenziali,terrazzo,TERRAZZO_pavimento,pavimento,1,1,1,1.0,1.0,1.0,1,1.0,927908.0
 housing buildings,edifici residenziali,terrazzo,TERRAZZO_rivestimento,rivestimento,1,2,2,2.0,0.0,1.0,1,0.10026,16213.0
 housing buildings,edifici residenziali,terrazzo,TERRAZZO_intonaco,intonaco,1,3,3,3.0,0.0,1.0,1,0.10026,16936.0
@@ -1149,83 +1149,83 @@ housing buildings,edifici residenziali,terrazzo,TERRAZZO_calcestruzzo,calcestruz
 housing buildings,edifici residenziali,terrazzo,TERRAZZO_pietra,pietra,1,5,5,5.0,0.0,1.0,1,0.10026,36944.0
 housing buildings,edifici residenziali,terrazzo,TERRAZZO_cemento,cemento,1,6,6,6.0,0.0,1.0,1,0.10026,33910.0
 body parts,parti del corpo,testa,TESTA_cranio,cranio,1,1,1,1.0,1.0,1.0,1,1.0,18129.0
-body parts,parti del corpo,testa,TESTA_testa di persona,di persona,1,2,2,2.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,testa,TESTA_testa di animale,di animale,1,3,3,3.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,testa,TESTA_testa di persona in busto,di persona in busto,1,4,4,4.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,testa,TESTA_testa di persona in cappello,di persona in cappello,1,5,5,5.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,testa,TESTA_testa di persona in foto,di persona in foto,1,6,6,6.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,testa,TESTA_testa di persona in scultura,di persona in scultura,1,7,7,7.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,testa,TESTA_testa di persona in arte,di persona in arte,1,8,8,8.0,0.0,1.0,1,0.10026,
-body parts,parti del corpo,testa,TESTA_testa di persona in simbolo,di persona in simbolo,1,9,9,9.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,tetto,TETTO_tetto a punta,a punta,1,1,1,1.0,1.0,1.0,1,1.0,356.0
-housing buildings,edifici residenziali,tetto,TETTO_tetto a paglia,a paglia,1,2,2,2.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura,a copertura,1,3,3,3.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura in legno,a copertura in legno,1,4,4,4.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura in cemento,a copertura in cemento,1,5,5,5.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura in plastica,a copertura in plastica,1,6,6,6.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura in metallo,a copertura in metallo,1,7,7,7.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura in vetro,a copertura in vetro,1,8,8,8.0,0.0,1.0,1,0.10026,
-housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura in fibra di vetro,a copertura in fibra di vetro,1,9,9,9.0,0.0,1.0,1,0.10026,
-animals,animali,tigre,TIGRE_tigre del bengala,del bengala,1,1,1,1.0,1.0,1.0,1,1.0,70.0
-animals,animali,tigre,TIGRE_tigre del caspico,del caspico,1,2,2,2.0,0.0,1.0,1,0.10026,
-animals,animali,tigre,TIGRE_tigre del sud-cina,del sud-cina,1,3,3,3.0,0.0,1.0,1,0.10026,
-animals,animali,tigre,TIGRE_tigre del sud-est asiatico,del sud-est asiatico,1,4,4,4.0,0.0,1.0,1,0.10026,
-animals,animali,tigre,TIGRE_tigre del malais,del malais,1,5,5,5.0,0.0,1.0,1,0.10026,
-animals,animali,tigre,TIGRE_tigre del sumatra,del sumatra,1,6,6,6.0,0.0,1.0,1,0.10026,
+body parts,parti del corpo,testa,TESTA_testa di persona,di persona,1,2,2,2.0,0.0,1.0,1,0.10026,25.0
+body parts,parti del corpo,testa,TESTA_testa di animale,di animale,1,3,3,3.0,0.0,1.0,1,0.10026,28.0
+body parts,parti del corpo,testa,TESTA_testa di persona in busto,di persona in busto,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+body parts,parti del corpo,testa,TESTA_testa di persona in cappello,di persona in cappello,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+body parts,parti del corpo,testa,TESTA_testa di persona in foto,di persona in foto,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+body parts,parti del corpo,testa,TESTA_testa di persona in scultura,di persona in scultura,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
+body parts,parti del corpo,testa,TESTA_testa di persona in arte,di persona in arte,1,8,8,8.0,0.0,1.0,1,0.10026,0.0
+body parts,parti del corpo,testa,TESTA_testa di persona in simbolo,di persona in simbolo,1,9,9,9.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,tetto,TETTO_tetto a punta,a punta,1,1,1,1.0,1.0,1.0,1,1.0,29.0
+housing buildings,edifici residenziali,tetto,TETTO_tetto a paglia,a paglia,1,2,2,2.0,0.0,1.0,1,0.10026,3.0
+housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura,a copertura,1,3,3,3.0,0.0,1.0,1,0.10026,21.0
+housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura in legno,a copertura in legno,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura in cemento,a copertura in cemento,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura in plastica,a copertura in plastica,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura in metallo,a copertura in metallo,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura in vetro,a copertura in vetro,1,8,8,8.0,0.0,1.0,1,0.10026,0.0
+housing buildings,edifici residenziali,tetto,TETTO_tetto a copertura in fibra di vetro,a copertura in fibra di vetro,1,9,9,9.0,0.0,1.0,1,0.10026,0.0
+animals,animali,tigre,TIGRE_tigre del bengala,del bengala,1,1,1,1.0,1.0,1.0,1,1.0,92.0
+animals,animali,tigre,TIGRE_tigre del caspico,del caspico,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
+animals,animali,tigre,TIGRE_tigre del sud-cina,del sud-cina,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+animals,animali,tigre,TIGRE_tigre del sud-est asiatico,del sud-est asiatico,1,4,4,4.0,0.0,1.0,1,0.10026,26.0
+animals,animali,tigre,TIGRE_tigre del malais,del malais,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+animals,animali,tigre,TIGRE_tigre del sumatra,del sumatra,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
 animals,animali,topo,TOPO_formiche,formiche,1,1,1,1.0,1.0,1.0,1,1.0,27490.0
 animals,animali,topo,TOPO_scarafaggi,scarafaggi,1,2,2,2.0,0.0,1.0,1,0.10026,15276.0
 animals,animali,topo,TOPO_ragni,ragni,1,3,3,3.0,0.0,1.0,1,0.10026,20553.0
 animals,animali,topo,TOPO_aracnidi,aracnidi,1,4,4,4.0,0.0,1.0,1,0.10026,2621.0
 animals,animali,topo,TOPO_mosche,mosche,1,5,5,5.0,0.0,1.0,1,0.10026,19154.0
 animals,animali,topo,TOPO_mosche di vela,mosche di vela,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
-vehicles,veicoli,traghetto,TRAGHETTO_traghetto a motore,a motore,1,1,1,1.0,1.0,1.0,1,1.0,43.0
-vehicles,veicoli,traghetto,TRAGHETTO_traghetto a remi,a remi,1,2,2,2.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,traghetto,TRAGHETTO_traghetto a vapore,a vapore,1,3,3,3.0,0.0,1.0,1,0.10026,659.0
-vehicles,veicoli,traghetto,TRAGHETTO_traghetto a motoscafo,a motoscafo,1,4,4,4.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,traghetto,TRAGHETTO_traghetto a motoschina,a motoschina,1,5,5,5.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,tram,TRAM_tram a trazione elettrica,a trazione elettrica,1,1,1,1.0,1.0,1.0,1,1.0,
-vehicles,veicoli,tram,TRAM_tram a trazione a vapore,a trazione a vapore,1,2,2,2.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,tram,TRAM_tram a trazione a vapore elettrica,a trazione a vapore elettrica,1,3,3,3.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,tram,TRAM_tram a trazione a gas,a trazione a gas,1,4,4,4.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,tram,TRAM_tram a trazione a carbone,a trazione a carbone,1,5,5,5.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,trattore,TRATTORE_trattore agricolo,agricolo,1,1,1,1.0,1.0,1.0,1,1.0,20856.0
-vehicles,veicoli,trattore,TRATTORE_trattore per la manutenzione,per la manutenzione,1,2,2,2.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,trattore,TRATTORE_trattore per la pesca,per la pesca,1,3,3,3.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,trattore,TRATTORE_trattore per la forestazione,per la forestazione,1,4,4,4.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,trattore,TRATTORE_trattore per la costruzione,per la costruzione,1,5,5,5.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,trattore,TRATTORE_trattore per la demolizione,per la demolizione,1,6,6,6.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,trattore,TRATTORE_trattore per la raccolta rifiuti,per la raccolta rifiuti,1,7,7,7.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,trattore,TRATTORE_trattore per la manutenzione stradale,per la manutenzione stradale,1,8,8,8.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,trattore,TRATTORE_trattore per la manutenzione idraulica,per la manutenzione idraulica,1,9,9,9.0,0.0,1.0,1,0.10026,
-vehicles,veicoli,treno,TRENO_treno a vapore,a vapore,1,1,1,1.0,1.0,1.0,1,1.0,659.0
-vehicles,veicoli,treno,TRENO_treno elettrico,elettrico,1,2,2,2.0,0.0,1.0,1,0.10026,33490.0
-vehicles,veicoli,treno,TRENO_treno a carbone,a carbone,1,3,3,3.0,0.0,1.0,1,0.10026,200.0
-vehicles,veicoli,treno,TRENO_treno a gas,a gas,1,4,4,4.0,0.0,1.0,1,0.10026,959.0
-vehicles,veicoli,treno,TRENO_treno a diesel,a diesel,1,5,5,5.0,0.0,1.0,1,0.10026,80.0
-vehicles,veicoli,treno,TRENO_treno ad alta velocità,ad alta velocità,1,6,6,6.0,0.0,1.0,1,0.10026,46.0
-vehicles,veicoli,treno,TRENO_treno ferroviario,ferroviario,1,7,7,7.0,0.0,1.0,1,0.10026,22180.0
-vehicles,veicoli,treno,TRENO_treno merci,merci,1,8,8,8.0,0.0,1.0,1,0.10026,26243.0
-vehicles,veicoli,treno,TRENO_treno passeggeri,passeggeri,1,9,9,9.0,0.0,1.0,1,0.10026,27070.0
-vehicles,veicoli,treno,TRENO_treno di trasporto di merci,di trasporto di merci,1,10,10,10.0,0.0,1.0,1,0.10026,
-plants,piante,tulipano,TULIPANO_tulipano di bressa,di bressa,1,1,1,1.0,1.0,1.0,1,1.0,
-plants,piante,tulipano,TULIPANO_tulipano di firenze,di firenze,1,2,2,2.0,0.0,1.0,1,0.10026,
-plants,piante,tulipano,TULIPANO_tulipano di giardino,di giardino,1,3,3,3.0,0.0,1.0,1,0.10026,
-plants,piante,tulipano,TULIPANO_tulipano di saffron,di saffron,1,4,4,4.0,0.0,1.0,1,0.10026,
-plants,piante,tulipano,TULIPANO_tulipano di tenerife,di tenerife,1,5,5,5.0,0.0,1.0,1,0.10026,
+vehicles,veicoli,traghetto,TRAGHETTO_traghetto a motore,a motore,1,1,1,1.0,1.0,1.0,1,1.0,10.0
+vehicles,veicoli,traghetto,TRAGHETTO_traghetto a remi,a remi,1,2,2,2.0,0.0,1.0,1,0.10026,5.0
+vehicles,veicoli,traghetto,TRAGHETTO_traghetto a vapore,a vapore,1,3,3,3.0,0.0,1.0,1,0.10026,42.0
+vehicles,veicoli,traghetto,TRAGHETTO_traghetto a motoscafo,a motoscafo,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,traghetto,TRAGHETTO_traghetto a motoschina,a motoschina,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,tram,TRAM_tram a trazione elettrica,a trazione elettrica,1,1,1,1.0,1.0,1.0,1,1.0,17.0
+vehicles,veicoli,tram,TRAM_tram a trazione a vapore,a trazione a vapore,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,tram,TRAM_tram a trazione a vapore elettrica,a trazione a vapore elettrica,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,tram,TRAM_tram a trazione a gas,a trazione a gas,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,tram,TRAM_tram a trazione a carbone,a trazione a carbone,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,trattore,TRATTORE_trattore agricolo,agricolo,1,1,1,1.0,1.0,1.0,1,1.0,320.0
+vehicles,veicoli,trattore,TRATTORE_trattore per la manutenzione,per la manutenzione,1,2,2,2.0,0.0,1.0,1,0.10026,4.0
+vehicles,veicoli,trattore,TRATTORE_trattore per la pesca,per la pesca,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,trattore,TRATTORE_trattore per la forestazione,per la forestazione,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,trattore,TRATTORE_trattore per la costruzione,per la costruzione,1,5,5,5.0,0.0,1.0,1,0.10026,1.0
+vehicles,veicoli,trattore,TRATTORE_trattore per la demolizione,per la demolizione,1,6,6,6.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,trattore,TRATTORE_trattore per la raccolta rifiuti,per la raccolta rifiuti,1,7,7,7.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,trattore,TRATTORE_trattore per la manutenzione stradale,per la manutenzione stradale,1,8,8,8.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,trattore,TRATTORE_trattore per la manutenzione idraulica,per la manutenzione idraulica,1,9,9,9.0,0.0,1.0,1,0.10026,0.0
+vehicles,veicoli,treno,TRENO_treno a vapore,a vapore,1,1,1,1.0,1.0,1.0,1,1.0,80.0
+vehicles,veicoli,treno,TRENO_treno elettrico,elettrico,1,2,2,2.0,0.0,1.0,1,0.10026,908.0
+vehicles,veicoli,treno,TRENO_treno a carbone,a carbone,1,3,3,3.0,0.0,1.0,1,0.10026,22.0
+vehicles,veicoli,treno,TRENO_treno a gas,a gas,1,4,4,4.0,0.0,1.0,1,0.10026,3.0
+vehicles,veicoli,treno,TRENO_treno a diesel,a diesel,1,5,5,5.0,0.0,1.0,1,0.10026,20.0
+vehicles,veicoli,treno,TRENO_treno ad alta velocità,ad alta velocità,1,6,6,6.0,0.0,1.0,1,0.10026,828.0
+vehicles,veicoli,treno,TRENO_treno ferroviario,ferroviario,1,7,7,7.0,0.0,1.0,1,0.10026,66.0
+vehicles,veicoli,treno,TRENO_treno merci,merci,1,8,8,8.0,0.0,1.0,1,0.10026,14536.0
+vehicles,veicoli,treno,TRENO_treno passeggeri,passeggeri,1,9,9,9.0,0.0,1.0,1,0.10026,150.0
+vehicles,veicoli,treno,TRENO_treno di trasporto di merci,di trasporto di merci,1,10,10,10.0,0.0,1.0,1,0.10026,0.0
+plants,piante,tulipano,TULIPANO_tulipano di bressa,di bressa,1,1,1,1.0,1.0,1.0,1,1.0,0.0
+plants,piante,tulipano,TULIPANO_tulipano di firenze,di firenze,1,2,2,2.0,0.0,1.0,1,0.10026,0.0
+plants,piante,tulipano,TULIPANO_tulipano di giardino,di giardino,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+plants,piante,tulipano,TULIPANO_tulipano di saffron,di saffron,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
+plants,piante,tulipano,TULIPANO_tulipano di tenerife,di tenerife,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
 plants,piante,ulivo,ULIVO_frutto,frutto,1,1,1,1.0,1.0,1.0,1,1.0,17367.0
 plants,piante,ulivo,ULIVO_albero,albero,1,2,2,2.0,0.0,1.0,1,0.10026,35138.0
 plants,piante,ulivo,ULIVO_vigneto,vigneto,1,3,3,3.0,0.0,1.0,1,0.10026,22099.0
 plants,piante,ulivo,ULIVO_coltivazione,coltivazione,1,4,4,4.0,0.0,1.0,1,0.10026,16596.0
-foods,cibi,uovo,UOVO_uovo di gallina,di gallina,1,1,1,1.0,1.0,1.0,1,1.0,66.0
-foods,cibi,uovo,UOVO_uovo di quaglia,di quaglia,1,2,2,2.0,0.0,1.0,1,0.10026,35.0
-foods,cibi,uovo,UOVO_uovo di tartaruga,di tartaruga,1,3,3,3.0,0.0,1.0,1,0.10026,76.0
-foods,cibi,uovo,UOVO_uovo di pesci,di pesci,1,4,4,4.0,0.0,1.0,1,0.10026,
-foods,cibi,uovo,UOVO_uovo di tartufo,di tartufo,1,5,5,5.0,0.0,1.0,1,0.10026,
+foods,cibi,uovo,UOVO_uovo di gallina,di gallina,1,1,1,1.0,1.0,1.0,1,1.0,64.0
+foods,cibi,uovo,UOVO_uovo di quaglia,di quaglia,1,2,2,2.0,0.0,1.0,1,0.10026,74.0
+foods,cibi,uovo,UOVO_uovo di tartaruga,di tartaruga,1,3,3,3.0,0.0,1.0,1,0.10026,40.0
+foods,cibi,uovo,UOVO_uovo di pesci,di pesci,1,4,4,4.0,0.0,1.0,1,0.10026,21.0
+foods,cibi,uovo,UOVO_uovo di tartufo,di tartufo,1,5,5,5.0,0.0,1.0,1,0.10026,0.0
 furnishings/fittings,arredamenti/accessori,vaso,VASO_bicchiere,bicchiere,1,1,1,1.0,1.0,1.0,1,1.0,44272.0
 furnishings/fittings,arredamenti/accessori,vaso,VASO_tazza,tazza,1,2,2,2.0,0.0,1.0,1,0.10026,37292.0
-furnishings/fittings,arredamenti/accessori,vaso,VASO_vaso da notte,da notte,1,3,3,3.0,0.0,1.0,1,0.10026,157.0
-furnishings/fittings,arredamenti/accessori,vaso,VASO_vaso da fiori,da fiori,1,4,4,4.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,vaso,VASO_vaso da piante,da piante,1,5,5,5.0,0.0,1.0,1,0.10026,
+furnishings/fittings,arredamenti/accessori,vaso,VASO_vaso da notte,da notte,1,3,3,3.0,0.0,1.0,1,0.10026,23.0
+furnishings/fittings,arredamenti/accessori,vaso,VASO_vaso da fiori,da fiori,1,4,4,4.0,0.0,1.0,1,0.10026,1475.0
+furnishings/fittings,arredamenti/accessori,vaso,VASO_vaso da piante,da piante,1,5,5,5.0,0.0,1.0,1,0.10026,21.0
 furnishings/fittings,arredamenti/accessori,vaso,VASO_ciotola,ciotola,1,6,6,6.0,0.0,1.0,1,0.10026,35986.0
 furnishings/fittings,arredamenti/accessori,vaso,VASO_ciotola da cucina,ciotola da cucina,1,7,7,7.0,0.0,1.0,1,0.10026,21.0
 furnishings/fittings,arredamenti/accessori,vaso,VASO_ciotola per il bagno,ciotola per il bagno,1,8,8,8.0,0.0,1.0,1,0.10026,1.0
@@ -1249,7 +1249,7 @@ hobbies,passatempi,videogioco,VIDEOGIOCO_puzzle,puzzle,1,6,6,6.0,0.0,1.0,1,0.100
 hobbies,passatempi,videogioco,VIDEOGIOCO_avventura grafica,avventura grafica,1,7,7,7.0,0.0,1.0,1,0.10026,66.0
 hobbies,passatempi,videogioco,VIDEOGIOCO_horror,horror,1,8,8,8.0,0.0,1.0,1,0.10026,15752.0
 hobbies,passatempi,videogioco,VIDEOGIOCO_educativo,educativo,1,9,9,9.0,0.0,1.0,1,0.10026,30793.0
-furnishings/fittings,arredamenti/accessori,vite,VITE_vite da tavola,da tavola,1,1,1,1.0,1.0,1.0,1,1.0,
-furnishings/fittings,arredamenti/accessori,vite,VITE_vite da vino,da vino,1,2,2,2.0,0.0,1.0,1,0.10026,242.0
-furnishings/fittings,arredamenti/accessori,vite,VITE_vite per insulcatura,per insulcatura,1,3,3,3.0,0.0,1.0,1,0.10026,
-furnishings/fittings,arredamenti/accessori,vite,VITE_vite per attrezzi,per attrezzi,1,4,4,4.0,0.0,1.0,1,0.10026,
+furnishings/fittings,arredamenti/accessori,vite,VITE_vite da tavola,da tavola,1,1,1,1.0,1.0,1.0,1,1.0,26.0
+furnishings/fittings,arredamenti/accessori,vite,VITE_vite da vino,da vino,1,2,2,2.0,0.0,1.0,1,0.10026,37.0
+furnishings/fittings,arredamenti/accessori,vite,VITE_vite per insulcatura,per insulcatura,1,3,3,3.0,0.0,1.0,1,0.10026,0.0
+furnishings/fittings,arredamenti/accessori,vite,VITE_vite per attrezzi,per attrezzi,1,4,4,4.0,0.0,1.0,1,0.10026,0.0
