@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def load_datadict(temp=0.5, basedir="results-generation/italian/stats"):
+def load_datadict(temp=0.5, basedir="results-generation/italian/stats_wfreqs"):
     _temp = f"temp_{str(temp).replace('.', '')}"
 
     human_data =        pd.read_csv("data/best_human_exemplars_withstrings.csv", delimiter="\t")

@@ -3,7 +3,7 @@
 import os
 import pandas as pd
 
-def load_datadict(temp=0.5, basedir="results-generation/italian/stats"):
+def load_datadict(temp=0.5, basedir="results-generation/italian/stats_wfreqs"):
     _temp = f"temp_{str(temp).replace('.', '')}"
 
     human_data =        pd.read_csv("data/best_human_exemplars_withstrings.csv", delimiter="\t")
@@ -41,8 +41,7 @@ def get_mangitudes(human_data, llm_data, concept, filter):
     selected_llm = llm_data[llm_data.concept == concept]
     
     if filter:
-        selected_llm = selected_llm[selected_llm["abs_freq"]] > 0
-        raise NotImplementedError()
+        selected_llm = selected_llm[selected_llm["abs_freq"] > 0]
     
     len_h = len(selected_h)
     len_llm = len(selected_llm)
@@ -75,17 +74,18 @@ def main(args):
     corr_df = magnitude_df.corr(numeric_only=True)
     corr_cat_dict = {cat: v.corr(numeric_only=True) for cat, v in magnitude_df.groupby("category")} 
 
-    corr_df_outname = f"res_all_t{str(args.temp).replace('.', '.')}.csv"
+    corr_df_outname = f"res_all_t{str(args.temp).replace('.', '')}.csv"
     if args.filter:
         corr_df_outname = corr_df_outname.replace(".csv", ".filter.csv")
     corr_df.to_csv(f"results-magnitude/{corr_df_outname}", index=False)
 
     os.makedirs("results-magnitude/category", exist_ok=True)
     for cat, res in corr_cat_dict.items():
+        cat = cat.replace("/", "-")
         cat_df_outname = f"res_{cat}_t{str(args.temp).replace('.', '')}.csv"
         if args.filter:
             cat_df_outname = cat_df_outname.replace(".csv", ".filter.csv")
-        cat = cat.replace("/", "-")
+        cat_df_outname = cat_df_outname.replace(" ", "_")
         res.to_csv(f"results-magnitude/category/{cat_df_outname}", index=False)
 
 

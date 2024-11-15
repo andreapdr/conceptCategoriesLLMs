@@ -1,0 +1,873 @@
+category,concept,human,llama-3.1-70b,llama-3.1-8b,llama-3.2-3b,mixtral-8x7b,mistral-7b,nemo-12b,llava-v1.6-mistral-7b,llava-v1.6-mistral-7b-img,idefics2-8b,idefics2-8b-img
+plants,abete,abete rosso,abete bianco,abete rosso,abete americano,abete bianco,abete bianco,abete bianco,albero,pino,abete rosso,abete rosso
+plants,abete,abete bianco,abete amabile,abete di douglas,abete di montagna,abete di douglas,abete nero,abete rosso,acacia,faggio,abete bianco,abete rosso del nord
+plants,abete,abete di natale,abete rosso,abete nero,abete canadese,abete rosso,abete rosso del nord,abete di nordmann,palma,cedro,acacia,abete nero
+vehicles,aereo,aereo militare,aereo da caccia,aereo da trasporto,aereo da passeggeri,aereo da combattimento,aereo commerciale,aereo a elica,aereoplano,aeroplano,aeroplano,elicottero
+vehicles,aereo,aereo di linea,aereo da trasporto,aereo da carico,aereo passeggeri,aereo da turismo,jet,aereo da guerra,aeroplano,aereoplano,elicottero,aeroplano
+vehicles,aereo,jet,aereo da addestramento,aereo da turismo,aereo da trasporto,aereo da caccia,aereo da ricognizione,elicottero,elicottero,aereo a vela,aerostato,dirigibile
+vehicles,aereo,aereo passeggeri,aereo da turismo,aereo da addestramento,aereo da ricognizione,aereo da trasporto passeggeri,aereo da turismo,aereo da ricognizione,aerostato,coda,dirigibile,aerostato
+vehicles,aereo,aereo caccia,aliscafo,elicottero,aereo da pattugliamento,aereo da collegamento,elicottero,aereo da caccia,drone,elica,aerostazione,elica
+stationery,agenda,agenda mensile,agenda scolastica,calendario,calendario,agenda giornaliera,calendario digitale,agenda cartacea,calendario,calendario,calendario,calendario
+stationery,agenda,agenda settimanale,agenda personale,agenda cartacea,piano,agenda digitale,calendario da tasca,agenda professionale,agenda di lavoro,planner,calendario digitale,diario
+stationery,agenda,agenda giornaliera,agenda settimanale,agenda digitale,elenco,agenda settimanale,calendario di appuntamenti,agenda scolastica,agenda giornaliera,quaderno,a4,planner
+stationery,agenda,agenda annuale,agenda elettronica,rubrica,orario,agenda elettronica,calendario di eventi,agenda settimanale,agenda di eventi,diario,carta di agenda,agendina
+stationery,agenda,agenda tascabile,agenda cartacea,diario,taccuino,agenda mensile,calendario personale,agenda personale,agenda digitale,notepad,diario,notebook
+furnishings/fittings,appendiabiti,appendiabiti da parete,gruccia,appendiabiti da parete,armadio,gancio appendiabiti,appendice per,appendiabiti a parete,scarpe,scarpe,jeans,borsa
+furnishings/fittings,appendiabiti,appendiabiti da terra,portabiti,appendiabiti da muro,cassettone,portaombrelli,scaffale per abiti,appendiabiti a piantana,calze,manichetta,borsa,camisa
+furnishings/fittings,appendiabiti,appendiabiti da muro,attaccapanni,appendiabiti a muro,cassettiera,gancio da parete,tavolo rotativo,appendiabiti portatile,pantaloni,hangar,scarpe,pantaloni
+furnishings/fittings,appendiabiti,appendiabiti a rastrelliera,appendiabiti a scomparsa,appendiabiti a parete,cassettiera con specchio,gancio,appesantitore,appendiabiti da viaggio,guanti,maglietta,pantaloni,cappello
+furniture,armadio,armadio a muro,armadio a muro,armadio a muro,armadio a muro,armadio a due ante,armadio a due porte,armadio a muro,armadietto,armadio aperto,armadio per vestiti,armadio per vestiti
+furniture,armadio,armadio scorrevole,armadio scorrevole,armadio a tre ante,armadio a vetro,armadio con ante scorrevoli,armario per,armadio guardaroba,armadio a due porte,vestiario,armario,scaffale
+furniture,armadio,armadio a due ante,armadio a ponte,armadio a due ante,armadio a cassetti,armadio con cassetti,armatore,armadio a cassetti,armario,armadietto,armaio,cassa
+furniture,armadio,armadio a battente,armadio a giorno,armadio a soppalco,armadio a porta,armadio a ponte,armadio a ruote,armadio a vista,arredo,armadio chiuso,armati,armadio per cucina
+furniture,armadio,armadio in legno,armadio a specchio,armadio a quattro ante,armadio da cucina,armadio a cabina,arredo per bagno,armadio a incasso,armadio a scompartimenti,armadio di legno,armadio per cucina,armadio per biancheria
+stationery,astuccio,astuccio rigido,astuccio per occhiali,borsa,cappello,astuccio per matite,tazza,astuccio per matite,fornace,astuccio portatile,astuccio per vino,valigia
+stationery,astuccio,portapenne,astuccio per penna,astuccio da disegno,borsa,astuccio per cosmetici,vaso,astuccio da viaggio,radiatore,astuccio da viaggio,,tasca
+stationery,astuccio,astuccio per la scuola,astuccio per trucco,portafoglio,guanto,astuccio per occhiali,calice,astuccio per colori,riscaldamento a legna,astuccio con manico,,cassette
+stationery,astuccio,portaocchiali,astuccio per matite,valigetta,guanti,astuccio per matite colorate,giuggiole,astuccio per penne,caldaia,astuccio da lavoro,,
+stationery,astuccio,astuccio a bustina,astuccio per coltello,cassetto,guanti da sci,astuccio per pastelli,coppa,astuccio per occhiali,riscaldamento elettrico,,,
+hobbies,attrezzo,martello,martello,martello,forbici,cacciavite,martello,martello,pala,pennello,chitarra,martello
+hobbies,attrezzo,cacciavite,pinza,scalpello,forbice,livella,chiavetta,forbice,palle da tennis,attrezzo da giardino,cuscino,scopa
+hobbies,attrezzo,chiave inglese,cacciavite,chiave inglese,forbici da cucito,pinza,pinzette,trapano,pallone da tennis,sci,spada,scala
+hobbies,attrezzo,attrezzo da cucina,scalpello,cacciavite,pennello,martello,pettine,metro,pennello,tennis racket,scopa,sciabola
+hobbies,attrezzo,trapano,trapano,sega circolare,matita,chiave inglese,compasso,livella,scopa,spazzola,attrezzo da lavoro,gambo
+vehicles,autobus,autobus a due piani,autobus urbano,autobus urbano,autobus urbano,autobus urbano,autobus urbano,autobus urbano,autobus urbano,bus,pullman,pullman
+vehicles,autobus,autobus di linea,autobus a due piani,autobus a due piani,autobus urbani,autobus a due piani,autobus turistico,autobus urbani,bus,autobus a due piani,midibus,autobus scolastico
+vehicles,autobus,scuolabus,autobus a tre assi,pullman,autobus notturno,autobus scolastico,autobus articolato,autobus a due piani,autobus extraurbano,autobus a tre piani,minibus,double decker bus
+vehicles,autobus,autobus elettrico,autobus a idrogeno,filobus,autobus extraurbano,autobus articolato,autobus elettrico,autobus interurbani,autobus regionale,minibus,express,trolley bus
+vehicles,autobus,pullman,autobus interurbano,autobus turistico,autobus di linea,autobus a idrogeno,autobus ibrido,autobus elettrici,autobus interurbano,pullman,interurbani,tour bus
+vehicles,automobile,automobile elettrica,berlina,fiat,auto,berlina,berlina,berline,berlina,berlina,auto,auto
+vehicles,automobile,suv,autocarro,berlina,scooter,coupé,sedan,suv,sedan,coupe,automobile a benzina,camion
+vehicles,automobile,automobile a benzina,autobus,motocicletta,autobus,cabriolet,fuoristrada,coupé,auto,sports car,autobus,fuoristrada
+vehicles,automobile,monovolume,camion,auto da corsa,motociclo,auto,roadster,berlina,autovettura,suv,camion,autobus
+vehicles,automobile,automobile ibrida,minivan,furgone,camion,station wagon,camion,camion,coupe,sedan,motociclette,motociclo
+housing buildings,bagno,bagno pubblico,bagno turco,vasca,doccia,vasca da bagno,doccia,doccia,doccia,doccia,vaso da bagno,lavandino
+housing buildings,bagno,bagno turco,doccia,lavabo,vasca da bagno,portasciugamani,bagno turco,vasca da bagno,piscina,vasca da bagno,bagno da bagno,vasca
+housing buildings,bagno,bagno giapponese,vasca da bagno,wc,bidet,armadietto del bagno,vasca idromassaggio,lavandino,vaso,urinal,vasca da bagno,stoviglia
+housing buildings,bagno,bagno chimico,vasca,bagno turco,lavabo,lavandino,bidet,specchio,bidet,bidet,stufa calda,vaso
+housing buildings,bagno,bagno di lusso,bagno di vapore,bidet,vasca,box doccia,sauna,water,vaso da bagno,piscina,lavandino,scaldino
+housing buildings,balcone,balcone a incasso,balcone a sbalzo,balcone da giardino,scale,balcone francese,loggia,balcone panoramico,balcone aperto,veranda,terrazza,terrazza
+housing buildings,balcone,terrazzo,a sbalzo,balconcino,balcone esterno,balcone a galleria,terrazzo,balcone aperto,terrazza,balcone esterno,loggia,tettoie
+housing buildings,balcone,balcone aggettante,a filo,balcone di legno,terrazza,balcone pensile,veranda,balcone chiuso,balcone esterno,balcone con vetri,balcone di vetro,loggia
+housing buildings,balcone,balcone esterno,balcone pensile,balcone esterno,loggia,balcone panoramico,balcone panoramico,balcone a vista,terrazzo,terrazza,balcone frontale,veranda
+housing buildings,balcone,balcone coperto,a ringhiera,balcone di ferro,cassettiera,balcone a mensola,balcone di appartamento,balcone in legno,balcone di appartamento,corridoio,veranda,balcone privato
+plants,basilico,basilico genovese,genovese,basilico di genova,basilico comune,basilico genovese,basilico comune,basilico genovese,basilico comune,basilico comune,basilico italiano,basilico dolce
+plants,basilico,basilico verde,basilico comune,basilico genovese,pettine,basilico limone,basilico messicano,basilico dolce,basilico piccolino,basilico fresco,genovese,oregano
+plants,basilico,basilico viola,basilico genovese,basilico di napoli,aglio,basilico greco,basilico sacro,basilico napoletano,basilico nero,pesto,basilico piccante,basilico piccante
+plants,basilico,basilico greco,basilico limone,basilico comune,basilico di genova,basilico thai,basilico thai,basilico cinese,basilico genovese,basilico grande,basilico americano,basilico nero
+plants,basilico,basilico limone,basilico rosso,basilico napoletano,basilico gigante,basilico a foglia piccola,basilico americano,basilico thai,basilico grande,basilico piccolo,basilico bianco,basilico rosso
+kitchenware,bicchiere,bicchiere di vetro,bicchiere da vino,bicchiere da vino,bicchiere da vino,bicchiere di vetro,bicchiere da vino,bicchiere da acqua,bicchiere di vetro,coppa,tazza,bicchiere da birra
+kitchenware,bicchiere,bicchiere di plastica,bicchiere da birra,bicchiere da champagne,bicchiere da caffè,bicchiere di plastica,bicchiere da cocktail,bicchiere da birra,bicchiere da vino,tazza,coppa,tazzina
+kitchenware,bicchiere,calice,bicchiere da acqua,bicchiere da digestivo,bicchiere da acqua,bicchiere da cocktail,bicchiere da acqua,calice,bicchiere da acqua,wine glass,bottiglia,tazza
+kitchenware,bicchiere,flute,bicchiere da caffè,bicchiere da acqua,bicchiere da cocktail,bicchiere da caffè,bicchiere da birra,coppa,bicchiere da birra,tazzina,bicchiere per acqua,bicchiere per vino
+kitchenware,bicchiere,bicchiere da vino,tazza,bicchiere da birra,bicchiere per smoothie,bicchiere da long drink,bicchiere da caffè,bicchiere da cocktail,bicchiere da latte,goblet,bicchiere per latte,bicchiere di vetro
+vehicles,bicicletta,bicicletta elettrica,mountain bike,bicicletta da corsa,mountain bike,city bike,montagna bicicletta,mountain bike,mountain bike,biciclo,mountain bike,bicicletta per bambini
+vehicles,bicicletta,mountain bike,bici da corsa,bicicletta da strada,bicicletta da strada,touring bike,road bike,bicicletta elettrica,bicicletta da strada,biciclette da strada,road bike,bicicletta da montagna
+vehicles,bicicletta,bicicletta da corsa,bici pieghevole,bicicletta da corsa su pista,bicicletta da corsa,bmx bike,montagna,bici da bmx,biciclo,biciclette da cross,bicicletta in bicicletta,bicicletta a due ruote
+vehicles,bicicletta,bicicletta da città,bici elettrica,bicicletta da corsa su strada,bicicletta da pista,cargo bike,bicicletta da corsa,monociclo,e-bike,biciclette da mtb,pedale,bicicletta da turismo
+vehicles,bicicletta,tandem,bici da turismo,bicicletta da città,bicicletta a due ruote,recumbent bike,bicicletta da gravel,bici da triathlon,fixie,bicicletta da strada,hybrid bike,bicicletta da mountain bike
+body parts,bocca,bocca carnosa,bocca umana,labbra,labbra,bocca umana,bocca di un cannone,bocca umana,bocca di leone,labbra,mascella,lingua
+body parts,bocca,bocca sottile,bocca di lupo,bocca di caverna,naso,bocca di un uccello,bocca di un vaso,labbra,bocca di cavallo,gengive,lingua,labbra
+body parts,bocca,bocca larga,bocca di una caverna,bocca di fiume,denti,bocca di un rettile,bocca di un microfono,bocca di un fiume,bocca di cane,denti,denti,denti
+body parts,bocca,bocca grande,bocca di un fiume,bocca di grotta,lingua,bocca artificiale,bocca di un tubo,bocca di un vulcano,bocca umana,bocca umana,labbro,bocca intera
+body parts,bocca,bocca piccola,bocca di una bottiglia,bocca umana,orecchie,b,bocca di un cratere,bocca di un camino,bocca di gatto,mascella,bocca superiore,labbro superiore
+body parts,braccio,braccio meccanico,braccio meccanico,braccio umano,braccio umano,arti superiori,braccio umano,braccio robotico,braccio umano,braccio umano,braccio umano,braccio destro
+body parts,braccio,braccio muscoloso,braccio umano,braccio meccanico,braccio di una struttura,braccio meccanico,braccio robotico,braccio umano,braccio di gomma,braccio di un robot,braccio destro,braccio sinistro
+body parts,braccio,braccio umano,braccio artificiale,braccio destro,braccio di una macchina,protesi del braccio,braccio artificiale,braccio artificiale,braccio di plastica,braccio di robot,braccio robotico,braccio umano
+body parts,braccio,braccio lungo,braccio di una croce,braccio robotico,braccio di un albero,braccio di una gru,braccio di banca,braccio meccanico,braccio artificiale,braccio di mostro,braccio giunto,artiglio
+body parts,braccio,braccio corto,braccio di un fiume,braccio di un robot,,muscoli del braccio,braccio di orologio,braccio di una gru,braccio robotico,braccio di scimmia,braccio sinistro,braccio prostetico
+plants,cactus,fico d' india,mammillaria,cactus spinoso,aloe vera,saguaro,barrel cactus,cactus di natale,aloe vera,cactus rosso,agave,cactus rosso
+plants,cactus,cactus del deserto,melocactus,cereus,aloe,barile,san pedro cactus,cactus comune,succulenta,pianta succulenta,cactaceae,cactus verde
+clothes,calza,calza a rete,autoreggente,calza da uomo,guanti,calza da neve,calzino,calza di seta,pantaloni,calze nere,sandalia,calzino
+clothes,calza,calzino,da running,calza di cotone,calzini,calza da running,socks,calza corta,calzini,calza nera,stivali,calzature
+clothes,calza,fantasmino,da sci,calza sportiva,camicia,calza da tennis,calze da letto,calza di cotone,scarpe,calzino,calza da running,calza nera
+clothes,calza,calza lunga,da donna,calze da ginnastica,cappello,calza da basket,calze da costume,calza di spugna,calzini da letto,calzino rosso,sandale,calza da ginnastica
+clothes,calza,collant,da ciclismo,calza di lana,scarpe,calza a compressione,calze da sport,calza di lana,calze da lavoro,calzino nero,scarpa,calza arancio
+housing buildings,camera,camera da letto,camera da letto,camera da letto,camera da letto,camera da letto,camera fotografica,camera da letto,fotocamera,letto,dslr,fotocamera
+housing buildings,camera,cucina,da letto,camera di controllo,camera da studio,camera oscura,box camera,camera di sicurezza,telecamera,cuscino,fotocamera,video camera
+housing buildings,camera,bagno,camera oscura,camera di ripresa,camera da bagno,camera blindata,camera digitale,camera degli ospiti,dslr,lampada,nikon,camera fotografica
+housing buildings,camera,camera singola,camera di equilibrio,camera di proiezione,camera da pranzo,camera di combustione,camera da sorveglianza,camera da gioco,video camera,tavolo,digital camera,telecamera
+housing buildings,camera,camera oscura,camera iperbarica,camera di sicurezza,camera da lavoro,camera di decompressione,camera obiettivo,camera di compressione,camera di sicurezza,guardaroba,mirrorless camera,cctv
+clothes,camicia,camicia hawaiana,camicia a maniche corte,polo,polo,abbottonata,camicia da notte,camicia a maniche lunghe,camicia di seta,camicia da uomo,camicia da uomo,maglia
+clothes,camicia,camicia coreana,camicia a righe,camicia a maniche lunghe,maglia,camicia formale,camicia da lavoro,camicia oxford,camicia di cotone,camicia da lavoro,camicia bianca,giubbino
+clothes,camicia,camicia a maniche lunghe,camicia da notte,camicia da notte,camicia a maniche lunghe,camicia da uomo,camicia a collo alto,camicia a maniche corte,camicia da letto,camicia da spiaggia,camicia da donna,giacca
+clothes,camicia,camicia a maniche corte,camicia a quadri,camicia a maniche corte,camicia da tennis,camicia da donna,camisetta,camicia da uomo,camicia di lino,camicia da sposa,camicia da lavoro,giubba
+clothes,camicia,camicia di cotone,camicia a pois,camicia da sposa,camicia da ballo,a maniche corte,camicia da sposa,camicia button-down,camicia da lavoro,camicia da polo,camicia maschile,polo
+vehicles,camion,furgone,autocarro,autocarro,camion di pompaggio,camion da costruzione,camion cisterna,autocarro,camioncino,camion cisterna,camioncino,camioncino
+vehicles,camion,autocarro,camion con gru,autocisterna,camion di trasporto,camion frigorifero,camion da cantiere,camion dei pompieri,camion cisterna,camion di carico,pickup,volvo fh
+vehicles,camion,tir,camion gru,camion cisterna,autocarro,camion dei pompieri,camion frigorifero,autocarro militare,camion da trasporto,camion raccoglitore,camioncino di trasporto,man tg
+vehicles,camion,autotreno,camion pompa,autocarro da carico,camioncino,autocarro,camion ambulanza,autocarro portacontainer,camioncino da lavoro,camion pneumatico,cargo,camion autotrasporto
+vehicles,camion,camion con rimorchio,camion trattore,furgone,camion elettrico,trattore stradale,camion merce,autocarro ribaltabile,camion cisterna di acqua,camion meccanico,dump,
+furnishings/fittings,candelabro,candelabro a tre bracci,candelabro da tavolo,candelabro a stelo,candelabro a cera,candelabro da tavolo,candelabro classico,candelabro da tavolo,candela,candeliera,candelabro di cristallo,candelabro a trecce
+furnishings/fittings,candelabro,candelabro ebraico,candelabro a sospensione,candelabro a tre bracci,candelabro elettrico,candelabro a braccia,candelabro di cristallo,candelabro a muro,lampada da tavolo,,sconto,
+furnishings/fittings,candelabro,candelabro a due bracci,candelabro da terra,candelabro a tre braccia,candelabro a gas,candelabro elettrico,candelabro di legno,candelabro a braccio,lampada da muro,,candelabro di bronzo,
+furnishings/fittings,candelabro,candelabro da tavolo,candelabro da parete,candelabro a stella,,candelabro a colonna,candelabro di bronzo,candelabro da pavimento,lampada da soffitta,,candelabro a tre braccia,
+furnishings/fittings,candelabro,candelabro in oro,candelabro a 5 bracci,candelabro a quattro braccia,,candelabro moderno,candelabro di vetro,candelabro da parete,lampada da tavolino,,candelabro di pietra,
+animals,cane,labrador,pastore tedesco,bulldog,pastore tedesco,alano,razza basset hound,pastore tedesco,cane da pastore,golden retriever,bulldog,labrador
+animals,cane,pastore tedesco,segugio,pastore tedesco,bulldog,pastore tedesco,razza bulldog,golden retriever,cane da caccia,labrador retriever,pug,cane da caccia
+animals,cane,bassotto,rottweiler,cane da caccia,chihuahua,carlino,razza dachshund,beagle,cane da guardia,dachshund,pitbull,terrier
+animals,cane,chihuahua,alano,cane da compagnia,dachshund,labrador,rottweiler,labrador,cane da lavoro,rottweiler,rottweiler,bulldog
+animals,cane,golden retriever,dobermann,cane da pastore,pastore,barboncino,bulldog,husky siberiano,cane da compagnia,chihuahua,dobermann,pug
+clothes,canottiera,canottiera bianca,canottiera da uomo,canottiera sportiva,canoa,canottiera a maniche corte,canottiera da pesca,canottiera a manica corta,barchetta,canottieria,canottiera a maniche lunghe,canottiera sportiva
+clothes,canottiera,canottiera intima,canottiera da donna,canottiera da allenamento,vela,canottiera termica,canottiera da lavoro,canottiera a maniche corte,barca a vela,barcone,canottiera per uomo,canottiera da lavoro
+clothes,canottiera,canottiera senza maniche,canottiera a maniche corte,canottiera da uomo,gondola,canottiera da notte,canottiera da ciclismo,canottiera con spalline,canoa,pallavolo femminile,camicia,canottiera da pesca
+clothes,canottiera,canottiera colorata,canottiera a maniche lunghe,canottiera da donna,imbarca,canottiera bianca,canottiera da gara,canottiera a collo alto,sailboat,canoa,canottiera a maniche corte,canottiera da uomo
+clothes,canottiera,canottiera di cotone,canottiera classica,canottiera corta,kayak,canottiera colorata,,canottiera con scollo a v,barca a motore,canoa da corsa,sweater,canottiera da donna
+body parts,capello,capello riccio,riccio,capello naturale,capelli lunghi,capello liscio,corto,capelli lunghi,cappello,capello lungo,boccoli,baffi
+body parts,capello,capello liscio,ricci,capello artificiale,cioccolato,capello riccio,ondulato,capelli castani,berretto,capello corto,lungo,capigliatura
+body parts,capello,capello biondo,afro,capello sintetico,cioccolino,capello bianco,capello folle,capelli biondi,barba,capello ondulato,boccolino,boccoli
+body parts,capello,capello mosso,ondulato,capello di testa,capelli corti,capello castano,calvo,capello corto,capello di cavallo,capello biondo,capelli corti,capelli lunghi
+body parts,capello,capello rosso,crespo,capello biondo,capelli neri,capello corto,liscio,capelli mossi,cuffia,capello castano,ricciolino,capelli corti
+clothes,cappello,berretto,basco,cappello da baseball,panama,berretto,berretto,berretto,berretto,beret,berbera,cappello fedora
+clothes,cappello,cappello con visiera,cappello a cilindro,cappello da cowboy,berretto,cappello da pescatore,berretta,cappello a cilindro,cappello di feltro,fedora,beretta,berretta
+clothes,cappello,fedora,berretto,cappello di paglia,fedora,cappello da cowboy,cappellino,cappello da cowboy,cappello di lana,cowboy hat,cappello da lavoro,cappello di paglia
+clothes,cappello,bombetta,panamá,cappello da gatto,sombrero,cappello da sole,cappello da cowboy,cappello a tesa larga,cappellino,top hat,fedora,cappello berbera
+clothes,cappello,cappello da cowboy,cappello a tesa larga,cappello da ufficiale,cappello da donna,basco,cappello da sole,cappello di paglia,cappello da corsa,berretto,cappello da baseball,cappello berretta
+clothes,cappotto,cappotto lungo,trench,cappotto di pelliccia,giacca,cappotto invernale,cappotto di lana,cappotto lungo,capello,pea coat,cappotto in pelle,giacca
+clothes,cappotto,cappotto impermeabile,parka,cappotto di lana,mantello,cappotto da cerimonia,cappotto di pelle,cappotto di pelle,scarpe da neve,piumino,cappotto di cotone,mantello
+clothes,cappotto,cappotto corto,cappotto invernale,cappotto di pelle,pelliccia,cappotto di pelle,cappotto di pelliccia,cappotto corto,cappotto di lana,capa,cappotto a collo,classico
+clothes,cappotto,cappotto elegante,giaccone,cappotto di velluto,giacca da neve,cappotto imbottito,cappotto di feltro,cappotto di lana,poncho,cappotto pesante,cappotto in tessuto,giubbino
+clothes,cappotto,cappotto doppiopetto,cappotto sportivo,cappotto termico,giacca da sci,cappotto leggero,cappotto di denim,cappotto impermeabile,cappotto da neve,cape,cappotto in cotone,gilet
+foods,carne,carne di maiale,manzo,manzo,manzo,manzo,manzo,manzo,pollo,pollo,manzo,bovino
+foods,carne,carne rossa,carne di manzo,maiale,agnello,vitello,vitello,salame,manzo,manzo,bovino,carne di manzo
+foods,carne,carne di pollo,pollo,tacchino,maiale,tacchino,bisonte,tacchino,maiale,maiale,suino,porcino
+foods,carne,carne bianca,maiale,pollo,tacchino,cervo,pollo,prosciutto,carne di pollo,vacca,cervo,pesce
+foods,carne,carne bovina,vitello,prosciutto,vitello,montone,agnello,pancetta,carne di pesce,pesce,capra,gallina
+vehicles,carrozza,calesse,calesse,carrozza ferroviaria,treno,carrozza ferroviaria,carrozza ferroviaria,carrozza ferroviaria,automobile,carrozza a cavallo,carrozza passeggeri,carrozza a quattro ruote
+vehicles,carrozza,carrozza a cavalli,berlina,carrozza da guerra,vettura,carrozza letto,carrozza funebre,carrozza da viaggio,treno,carrozza classica,cassa,carrozza a tre ruote
+vehicles,carrozza,berlina,coupé,treno,carrozza a cavalli,carrozza ristorante,carrozza da corsa,carrozza da parata,autobus,carrozza a cavalli,vagoni,carrozza a due ruote
+vehicles,carrozza,carrozza passeggeri,spider,carrozza da corsa,autobus,carrozza salone,carrozza tranviaria,carrozza da corsa,taxi,carrozza a due piani,carrozza per bambini,carrozza a due piani
+vehicles,carrozza,diligenza,phaeton,carrozzone,treno a vapore,carrozza panoramica,carrozza pullman,carrozza trainata da cavalli,autocarro,carrozza a vapore,carrozza merci,
+hobbies,carte,carte da gioco,biglietto,carta da regalo,carte di credito,carta igienica,carta da parati,biglietto da visita,tarocchi,tarocchi,carta da gioco,carte da gioco
+hobbies,carte,carte napoletane,carta di credito,carta da parati,carta da cucina,carta da forno,carta da gioco,carta di credito,carta da gioco,carte da gioco,carta di credito,carta da gioco
+hobbies,carte,carte da poker,biglietto da visita,biglietto,carte di debito,carta da parati,carta da cucina,carta da gioco,carta da parati,carta di credito,carta da cucina,carta bolla
+hobbies,carte,carta velina,carta da gioco,banconota,carte di identità,carta assorbente,carta igienica,carta geografica,carta birra,carta da gioco,tarocchi,carta da telefono
+hobbies,carte,carta igienica,carte da gioco,carta da lettere,carte di abbonamento,carta da lettere,carta da scrittura,carta igienica,carta da lettera,briscola,carta di debito,carta da visitare
+furniture,cassettiera,cassettiera di legno,cassettiera da ufficio,cassettiera da bagno,cassettiera a rotelle,cassettiera da camera da letto,cassettiera per cucina,cassettiera da camera da letto,cassettiera di legno,armadio,sony,cassette
+furniture,cassettiera,settimino,cassettiera da cucina,cassettiera a muro,cassettiera a ruote,cassettiera per ufficio,cassettiera da cucina,cassettiera a ponte,cassettiera bianca,armadio a due porte,cd,cassa
+furniture,cassettiera,comò,cassettiera da bagno,cassettiera da cucina,cassettiera per cucina,cassettiera da ingresso,cassettiera industriale,cassettiera da ufficio,cassetta,armadio a quattro porte,bose,scaffale
+furniture,cassettiera,cassettiera di plastica,cassettiera da notte,cassettone,cassettiera in legno,cassettiera con specchio,cass,cassettiera in legno,frigorifero,armadio a tre porte,samsung,cassetta
+furniture,cassettiera,comodino,cassettiera da camera da letto,mobile,cassettiera portatile,cassettiera da bagno,cassettiera per scarpe,cassettiera con cassetti in metallo,cassettiera di plastica,dresser,lg,cassette vhs
+animals,cavallo,cavallo da corsa,appaloosa,destriero,cavallo da guerra,quarter horse,cavallo da corsa,purosangue,cavallo da corsa,cavallo da corsa,pony,pony
+animals,cavallo,pony,arabo,purosangue,cavallo da lavoro,tennessee walking horse,cavallo da tiro,cavallo da corsa,cavallo da lavoro,pegaso,cavallo domestico,stallione
+animals,cavallo,cavallo purosangue,purosangue,bardotto,cavallo da corsa,lipizzano,cavallo da fattoria,arabo,cavallo da tiro,cavallo selvaggio,cavallo da lavoro,cavallo da corsa
+animals,cavallo,cavallo bianco,frisone,cavallo da corsa,cavallo da tiro,akhal-teke,cavallo da sella,quarter horse,cavallo da sella,cavallo da equitazione,cavallo da corsa,stallone
+animals,cavallo,stallone,quarter horse,cavallo da tiro,destriero,rocky mountain horse,cavallo da esibizione,clydesdale,adriano,cavallo da sella,stallione,cavallo da lavoro
+hobbies,cd,cd audio,cd-rom,cd singolo,album,cd audio,compact disc,cd audio,compact disc,cd-r,cd singolo,cd-rom
+hobbies,cd,cd-rom,cd+g,cd single,disco,cd-extra,cd audio,cd-rom,cd-r,cd-rw,cd-rom,cd singolo
+hobbies,cd,cd musicale,cd audio,cd ep,mixtape,cd-i,cd-text,cd di dati,cd-rom,compact disc,musica,musica
+hobbies,cd,cd riscrivibile,cd extra,cd doppio,ep,photocd,cd-rom,cd-r,cd-rw,cd-rom,compact disc,cd box set
+hobbies,cd,cd-r,vcd,cd-rom,singolo,cd-text,cd-i,cd-rw,cd singolo,cd-audio,cd box set,cd-single
+furnishings/fittings,centrotavola,centrotavola di fiori,vaso,centrotavola in legno,centrotavola in legno,centrotavola floreale,tavolo rotondo,mazzo di fiori,pizzeria,centrotavola con pianta,tavola,tavola
+furnishings/fittings,centrotavola,centrotavola con candele,candeliere,centrotavola di vetro,ceramica,centrotavola di candele,tavola rotonda,composizione floreale,centro tavola,tavola,tavola da gioco,tavolino
+furnishings/fittings,centrotavola,centrotavola di pizzo,centrotavola di natale,centrotavola di legno,centrotavola in metallo,centrotavola di frutta,tavolo da pranzo,centrotavola di vetro,autobus,tavola di legno,tavola da cucina,tavola piana
+furnishings/fittings,centrotavola,centrino,portacenere,centrotavola in ceramica,centrotavola in vetro,centrotavola di caramelle,tavolo da cucina,centrotavola di cristallo,pizza,tavola di vetro,scrivania,tavola di legno
+foods,cereale,grano,riso,riso,riso,grano,oatmeal,avena,mais,granola,biscotti,farina
+foods,cereale,avena,avena,farro,avena,riso,muesli,frumento,arancia,frullatore,pasta,amido
+foods,cereale,farro,grano,kamut,orzo,frumento,chex,orzo,biglietto,pasta di mais,pane,avena
+foods,cereale,orzo,farro,mais,quinoa,segale,granola,segale,big ben,frullato,amido,farina integrale
+foods,cereale,mais,quinoa,avena,mais,farro,corn flakes,grano,riso,mais,avena,orzo
+body parts,cervello,cervello umano,cervello umano,cervello umano,cerebro,cervello umano,cervello umano,neocorteccia,cerebro,cerebro,cerebro,cerebro
+body parts,cervello,cervello animale,cervello rettile,cervello di insetto,meningi,cervello artificiale,corteccia cerebrale,cerebello,encefalo,encefalo,pons,midbrain
+body parts,cervello,cervello rettiliano,cervello artificiale,cervello di mammifero,encefalo,cervello sano,talamo,talamo,lobi cerebrali,cerebrum,cortex,ponte
+hobbies,chitarra,chitarra elettrica,chitarra classica,chitarra acustica,classica,chitarra acustica,chitarra acustica,chitarra acustica,chitarra acustica,chitarra acustica,chitarra acustica,chitarra elettrica
+hobbies,chitarra,chitarra acustica,chitarra acustica,chitarra classica,acustica,classica,chitarra sitar,chitarra elettrica,chitarra elettrica,chitarra elettrica,chitarra basso,chitarra acustica
+hobbies,chitarra,chitarra classica,chitarra semiacustica,chitarra elettrica,elettrica,chitarra classica,chitarra banjo,chitarra classica,chitarra classica,chitarra basso,chitarra a 6 corde,chitarra basso
+hobbies,chitarra,chitarra a dodici corde,classica,chitarra basso,basso,chitarra folk,chitarra hollow body,chitarra a 12 corde,chitarra pedal steel,chitarra a 12 corde,chitarra baritona,chitarra a 12 corde
+hobbies,chitarra,ukulele,chitarra resofonica,chitarra classica a 12 corde,steel,semi-acustica,chitarra archtop,chitarra resofonica,chitarra folk,chitarra classica,chitarra a 12 corde,chitarra classica
+plants,ciclamino,ciclamino bianco,cyclamen africanum,ciclamino rosso,rosa,cyclamen coum,ciclamino rosa,ciclamino comune,scooter,ciclamino rosso,pet,tulipano
+plants,ciclamino,ciclamino rosa,ciclamino europeo,ciclamino comune,giardiniere,ciclamino persiano,ciclamino comune,ciclamino persiano,bicicletta,ciclamino bianco,pvc,ciclamino rosso
+plants,ciclamino,ciclamino dei boschi,ciclamino di persia,ciclamino di montagna,viola,ciclamino balearicum,ciclamino viola,ciclamino nano,ciclamino bianco,ceramica,ciclamino 1,ciliegio
+plants,ciclamino,ciclamino rosso,cyclamen rohlfsianum,ciclamino azzurro,iris,ciclamino coum,ciclamino giallo,ciclamino ibrido,**ciclamino**,ciclamino gigante,bici,ciclamino nero
+plants,ciclamino,ciclamino persiano,cyclamen libanoticum,ciclamino blu,indaco,ciclamino cretese,ciclamino bianco,ciclamino di scozia,ciclomotore,ciclamino giallo,polietilene,ciclamino blu
+plants,ciliegio,ciliegio in fiore,ciliegio dolce,ciliegia,ciliegia,prunus avium,ciliegio comune,ciliegio acido,acacia,albero di ciliegio,rosso,albero
+plants,ciliegio,albero,ciliegio giapponese,ciliegio nero,ciliegia di bosco,prunus serrulata,ciliegio invernale,ciliegio selvatico,acero,ramo di ciliegio,acacia,acacia
+plants,ciliegio,ciliegio dolce,ciliegio amaro,ciliegio selvatico,,prunus subhirtella,ciliegio nero,ciliegio dolce,frullato,ciliegio in primavera,ciliegio nero,albero di fiori
+foods,cioccolato,cioccolato fondente,fondente,cioccolato bianco,cioccolata,cioccolato fondente,bianco,cioccolato fondente,cioccolata,cioccolata,bianco,barretta
+foods,cioccolato,cioccolato bianco,gianduja,cioccolato fondente,cioccolatini,cioccolato con nocciole,fondente,cioccolato al latte con nocciole,cioccolata fondente,cioccolata con panna,biscotti,barra
+foods,cioccolato,cioccolato al latte,al latte,cioccolata calda,cioccolato fondente,cioccolato con peperoncino,barra,cioccolato fondente con frutta secca,cioccolata bianco,cioccolata con caramello,nero,cubo
+foods,cioccolato,cioccolato alle nocciole,bianco,cioccolato al latte,cioccolato bianco,cioccolato gianduia,biscotti,cioccolato al latte,cioccolata freddo,cioccolata al latte,cioccolato al latte,scatola
+foods,cioccolato,cioccolato alla gianduja,extrafondente,cioccolato nero,cioccolata calda,cioccolato con sale marino,fuso,al cioccolato fondente,barra di cioccolato,cioccolata fondente,cioccolato al cacao,bolla
+stationery,colla,colla vinilica,colla a caldo,colla adesiva,adesivo,colla vinilica,colla da carta,colla a caldo,colla per capelli,colla per capelli,adesivo,adesivo
+stationery,colla,colla stick,colla vinilica,colla per legno,colla per cartone,colla stick,colla da metallo,colla per carta,colla di legno,colla frizzante,adesivo a base di gomma,colla adesiva
+stationery,colla,colla a caldo,colla a freddo,colla universale,colla per legno,colla istantanea,colla da plastica,colla a base di acqua,coll,cola,bolla,resina
+stationery,colla,colla super attack,colla a base di lattice,colla per tessuti,colla per tessuti,colla per carta,colla da legno,colla stick,colla di pesce,colla per barba,glue,glue
+stationery,colla,colla di pesce,colla a base di gomma,colla epoxi,colla per plastica,colla spray,colla da tessuto,colla per ceramica,colla di pizzo,cera,adesivo a base di silicone,adesivo per carta
+body parts,collo,collo lungo,collo di camicia,collo di cigno,collo di vetro,collo della camicia,collo di animale,cravatta,collo di carta,collo di persona,collo bollente,bocca
+body parts,collo,collo all' italiana,collo a v,collo di gallina,bocca,collo della maglietta,collo di bottiglia,camicia,collante,collo di carta,collo cervicale,occhi
+body parts,collo,collo alla coreana,collo alto,collo di bottiglia,collo di bue,collo di una bottiglia di vino,collo di serpente,foulard,collo del cielo,collo di animale,collo in gomma,orecchie
+body parts,collo,collo di bottiglia,collo della vescica,collo di tacchino,collo di legno,collo di un vestito,collo di abbigliamento,sciarpa,collare,collo di serpente,collo gelato,naso
+body parts,collo,collo umano,collo a barchetta,collo di anatra,collo di metallo,collo di una bottiglia di birra,collo di persona,collarino,collo di lavoro,collo di fiori,collo-cervicale,testa
+housing buildings,colonna,colonna dorica,sonora,colonna sonora,palazzo,colonna sonora,colonna idraulica,colonna sonora,colonna sonora,colonna di marmo,colonna di supporto,colonna di supporto
+housing buildings,colonna,colonna corinzia,dorica,colonna di liquido,verticale,colonna di sostegno,colonna di sale,colonna vertebrale,colonna di legno,colonna di legno,colonna vertebrale,colonna regina
+housing buildings,colonna,colonna ionica,corinzia,colonna di gas,colonna di sostegno,colonna di distillazione,colonna vertebrale,colonna di pietra,colonna di una struttura,colonna di pietra,colonna di riferimento,colonna inglese
+housing buildings,colonna,colonna portante,ionica,colonna vertebrale,circolare,colonna di carico,colonna sonora,colonna di fumo,colonna di supporto,colonna di supporto,colonna di registrazione,colonna romana
+housing buildings,colonna,colonna romana,liquida,colonna di un edificio,rettangolare,colonna di scarico,colonna di ghiaccio,colonna di gas,colonna vertebrale,colonna di sostegno,colonna di controllo,colonna greca
+kitchenware,coltello,coltello a serramanico,coltello da cucina,coltello da cucina,coltello da cucina,coltello da cucina,coltello da cucina,coltello da cucina,coltello da cucina,coltello da cucina,coltello da cucina,coltello da cucina
+kitchenware,coltello,coltello da cucina,coltello da pane,coltello da carne,coltello da pesca,coltello da caccia,coltello da carne,coltello da pane,coltello da,coltello da caccia,coltello da cucina da,coltello da taglio
+kitchenware,coltello,coltello da pane,coltello da frutta,coltello da pesce,coltello da caccia,coltello da pesca,coltello da caccia,coltello da cucina giapponese,coltellaccio,coltello da parete,coltello da taglio,cucchiaio
+kitchenware,coltello,coltello seghettato,coltello da carne,coltello da caccia,coltello da lavoro,coltello da combattimento,coltello da pane,coltello da frutta,coltellaccio da cucina,coltello da cuc,coltello da mangiare,forchetta
+kitchenware,coltello,coltello svizzero,coltello da formaggio,coltello da pane,coltello da giardinaggio,coltello da tavola,coltello da barba,coltello da cucina cinese,coltellaccio da carne,coltello da tavola,coltello da tagliare,coltello da caccia
+furniture,comodino,comodino di legno,comodino classico,comodino da notte,letto,comodino in legno,scrivania,comodino da notte,bidet,comodino bianco,cassetta,cassette
+furniture,comodino,comodino a cassetti,comodino a due cassetti,comodino a tre cassetti,cuscino,comodino in metallo,vaso per i fiori,comodino con ruote,lavastoviglie,comodino di legno,scatola,scrivania
+furniture,comodino,comodino basso,comodino minimalista,comodino a rotelle,cassettone,comodino industriale,scaffale,comodino con cassetti,lavanderia,comodino nero,arma,scaffale
+furniture,comodino,comodino di metallo,comodino a tre cassetti,comodino singolo,divano,comodino vintage,comodino da letto,comodino con specchio,lavandino,comodino di vetro,armadio,scatola
+furniture,comodino,comodino sospeso,comodino con specchio,comodino a due cassetti,poltrona,comodino moderno,cassettino,comodino da parete,bidone,comodino di plastica,fotografia,scatole
+hobbies,computer,computer portatile,supercomputer,desktop,desktop,desktop,desktop computer,desktop,desktop,desktop computer,desktop,desktop
+hobbies,computer,computer fisso,minicomputer,supercomputer,laptop,thin client,smartphone,laptop,personal computer,laptop,tablet,tablet
+hobbies,computer,pc,mainframe,minicomputer,tablet,workstation,pocket computer,netbook,tablet,tablet,smartphone,pc
+hobbies,computer,computer mini,server,workstation,smartphone,server,workstation,server,desktop computer,smartphone,server,smartphone
+furniture,comò,comò a cassetti,comò classico,comò a specchio,cassettone,comò antico,scatola a molla,comò a cassetti,comò di legno,computer,borsa,monitor
+furniture,comò,comò di legno,cassettone,comò a due ante,comodino,comò in stile industriale,cassettiera,comò con specchio,frullatore,comò fax,pettinato,mouse
+furniture,comò,comodino,comò a due ante,comò a tre cassetti,cassettino,comò classico,cassettone,comò con ante,lamp,comò a ponte,cassetto,macchina per scrivere
+animals,coniglio,coniglio nano,coniglio nano,coniglio europeo,lepre,coniglio nano,coniglio selvatico,coniglio selvatico,coniglio selvatico,coniglio di cartone,coniglio selvatico,coniglio selvatico
+animals,coniglio,coniglio bianco,coniglio gigante,coniglio di palude,cinghiale,coniglio domestico,coniglio europeo,coniglio domestico,conigliaccio,coniglio reale,coniglio domestico,coniglio selvatico europeo
+animals,coniglio,lepre,coniglio europeo,coniglio domestico,cervo,coniglio ariete,coniglio da compagnia,coniglio angora,coniglio domestico,coniglio bianco,coniglio selvatico europeo,coniglio domestico
+animals,coniglio,coniglio selvatico,coniglio olandese,coniglio di terra,coniglio comune,coniglio europeo,coniglio cinese,coniglio nano,coniglio di legno,coniglio di plastica,coniglio cervo,coniglio da campo
+animals,coniglio,coniglio domestico,coniglio lop,coniglio di montagna,coniglio cinese,coniglio lepre,coniglio americano,coniglio californiano,coniglio di carta,coniglio di legno,coniglio americano,coniglio bianco
+furnishings/fittings,cornice,cornice di legno,cornice per quadri,cornice per foto,cornice per finestre,cornice per foto,cornice pittorica,cornice per quadri,cornice di vetro,cornice di vetro,cornice interna,cornice modulare
+furnishings/fittings,cornice,cornice barocca,cornice per specchio,cornice da quadro,cornice in legno,cornice da parete,cornice architettonica,cornice per foto,cornice di foto,cornice di casa,cornice di legno,cornice di pietra
+furnishings/fittings,cornice,cornice di plastica,cornice per specchi,cornice fotografica,cornice per finestra,cornice in legno,cornice fotografica,cornice fotografica,cornice decorativa,cornice di legno,cornice in cemento,cornice di legno
+furnishings/fittings,cornice,cornice d' argento,cornice per finestra,cornice per porta,cornice in plastica,cornice vintage,cornice di quadro,cornice per specchi,cornice di pietra,cornice di gesso,cornice in metallo,cornice scorrevole
+furnishings/fittings,cornice,cornice di alluminio,cornice per finestre,cornice per mobile,cornice in cartongesso,cornice in metallo,cornice per finestre,cornice per poster,cornice di legno,cornice di pietra,cornice esterna,cornice esterna
+furniture,credenza,credenza di legno,armadio,credenza a muro,banca,credenza da cucina,armoire,credenza in stile rustico,armadio,armadio,tavolo,scaffale
+furniture,credenza,vetrinetta,mobile,armadio,cassa di risparmio,credenza angolare,credenza industriale,credenza a giorno,buffet,cabinet,armadio,scrivania
+furniture,credenza,credenza religiosa,credenza in legno,credenza da cucina,prestito,credenza a muro,credenza con porta,credenza in stile shabby chic,credenza mobile,buffet,cassetta,cassette
+hobbies,cruciverba,cruciverba a schema libero,cruciverba classico,acrostico,puzzle,cruciverba classico,puzzola,cruciverba classico,croce di malta,1,*,1
+hobbies,cruciverba,parole crociate,enigmistica,cruciverba a immagini,anagramma,cruciverba a tema,enigma,cruciverba a tema,2048,14,anagrammi,scacchiera
+hobbies,cruciverba,rebus,cruciverba a schema libero,anagramma,crocifisso,cruciverba tematico,rompicapo,cruciverba tematico,aeroplano,16,parola crociata,parola
+hobbies,cruciverba,cruciverba a schema fisso,cruciverba per bambini,rebus,palindromo,cruciverba enigmistico,giochi di parole,cruciverba criptico,croce,17,parola-chiave,3
+hobbies,cruciverba,cruciverba crittografato,cruciverba tematico,indovinello,acrostico,cruciverba crittografato,enigmista,cruciverba enigmistico,croce di sant'andrea,18,parola scambiata,4
+kitchenware,cucchiaio,cucchiaino,cucchiaio da dessert,cucchiaio da tavola,cucchiaio di legno,cucchiaio da tavola,cucchiaio da tavola,cucchiaio da minestra,tazza,tazza,bicchiere,cucchiaio da cucina
+kitchenware,cucchiaio,cucchiaio da tè,cucchiaio da minestra,cucchiaio da dessert,cucchiaio da tavola,cucchiaio da cucina,cucchiaio da bambino,cucchiaio da tavola,piatto,colazione,tiglieto,cucchiaio da tavola
+kitchenware,cucchiaio,cucchiaio di legno,cucchiaio da zuppa,cucchiaio da tè,cucchiaio da cucina,cucchiaio da dessert,cucchiaio da dessert,cucchiaio da dessert,piatti,spatola,tazza,cucchiaio per piatto
+kitchenware,cucchiaio,cucchiaio da dolce,cucchiaio da gelato,cucchiaio da minestra,cucchiaio di plastica,cucchiaio da the,cucchiaio da pesce,cucchiaio da tè,piatto da cena,tazza da caffè,tazzina,cucchiaio per bicchiere
+kitchenware,cucchiaio,cucchiaio da caffè,cucchiaio da tè,cucchiaio da dolce,cucchiaio da yogurt,cucchiaio da minestra,cucchiaio da caffè,cucchiaio da gelato,piatti da tavola,colino,tazza da caffè,
+housing buildings,cucina,cucina italiana,cucina a gas,cucina in muratura,forno,cucina americana,cucina moderna,fornello,fornace,frullatore,cucina americana,stoviglia
+housing buildings,cucina,cucina cinese,cucina etnica,cucina in acciaio,pentola,cucina lineare,cucina industriale,tostapane,forno,lavastoviglie,fornace,stoviglie
+housing buildings,cucina,cucina vegetariana,cucina molecolare,cucina a gas,padella,cucina in muratura,cucina tradizionale,caffettiera,grattacielo,fornace,cucina mobile,piastra
+housing buildings,cucina,cucina giapponese,cucina vegetariana,cucina in legno,teglia,cucina con penisola,cucina italiana,bollitore,tostapane,lavatrice,forni,fornello
+housing buildings,cucina,cucina ad angolo,cucina vegana,cucina elettrica,camino,cucina rustica,cucina cinese,armadio,lavatrice,tostapane,cucina da lavoro,frigorifero
+body parts,cuore,cuore anatomico,cuore umano,cuore umano,cuore umano,cuore umano,cuore umano,cuore umano,cuore umano,simbolo del cuore,aorta,ventricolo
+body parts,cuore,cuore umano,cuore di maiale,cuore di pesce,cardiologia,cuore artificiale,cuore di cristallo,cuore di pollo,cuore di legno,cardiologo,ventricoli,corda
+body parts,cuore,cuore spezzato,cuore di pollo,cuore di pomodoro,cuore di pietra,cuore sano,cuore di vetro,cuore di una stella,cuore di carta,ecg,cardiomioplastica,ventricoli
+body parts,cuore,cuore animale,cuore di agnello,cuore animale,cuore animale,cuore malato,cuore stellare,cuore di una città,cuore di vetro,cardiologia,cuore umano,cor
+body parts,cuore,cuore di pietra,cuore di bue,cuore di merluzzo,cuore di legno,cuore pulsante,cuore di ghiaccio,cuore animale,cuore di pietra,aritmia,coronarie,atrio
+furnishings/fittings,cuscino,cuscino in memory foam,cuscino a forma di cuore,cuscino di piuma,cuscino da letto,cuscino da seduta,cuscino da letto,cuscino per il collo,cuscino da letto,cuscino da letto,cuscino da letto,cuscino per letto
+furnishings/fittings,cuscino,cuscino di piuma,cuscino per il collo,cuscino di supporto,cuscino a forma di animale,cuscino da viaggio,cuscino da sedere,cuscino per la testa,cuscino da sedere,poltrona,cuscino per letto,cuscino da letto
+furnishings/fittings,cuscino,cuscino da divano,cuscino da viaggio,cuscino per la schiena,cuscino a forma di cuore,cuscino ortopedico,cuscino per testa,cuscino per la schiena,cuscino di neoprene,divano,cuscino per la sedia,cuscino per la testa
+furnishings/fittings,cuscino,cuscino ortopedico,cuscino da spiaggia,cuscino per la testa,cuscino da poltrona,cuscino da sole,cuscino per schiena,cuscino per la gravidanza,cuscino di poliuretano,sedia,cuscino da viaggio,cuscino per sedere
+furnishings/fittings,cuscino,cuscino di lattice,cuscino ortopedico,cuscino di piumino,cuscino da viaggio,cuscino da meditazione,cuscino sferico,cuscino per il divano,cuscino di silicone,letto,cuscino a pelo,cuscino per il piede
+animals,delfino,delfino comune,delfino comune,delfino comune,delfino comune,delfino comune,delfino comune,delfino comune,delfino comune,delfino bianco,delfino comune,squalo
+animals,delfino,orca,stenella striata,delfino azzurro,delfino del mediterraneo,tursiops truncatus,delfino spada,tursiops truncatus,delfino bianco,delfino grigio,delphinus capensis,delfino comune
+animals,delfino,delfino rosa,stenella coeruleoalba,delfino del giappone,delfino del pacifico,delfino di risso,delfino del mar rosso,delfino di risso,delfino rosso,delfino gigante,pesce,orca
+animals,delfino,delfino bianco,stenella,delfino del pacifico,delfino orca,delfino dal becco bianco,delfino rosso,delfino dal naso a bottiglia,delfino grigio,delfino saltante,delfino azzurro,squalo mako
+furniture,divano,divano letto,divano letto,divano letto,divano a due posti,divano letto,divano a due posti,divano a due posti,poltrona,sofa,divano a sedere,divano da letto
+furniture,divano,divano a due posti,divano a due posti,divano reclinabile,divano a cuscini,divano modulare,divano da giardino,divano a l,sofa,canape,divano a schiena,sofà
+furniture,divano,divano ad angolo,divano a tre posti,divano a tre posti,divano a tre posti,divano reclinabile,divano reclinabile,divano chesterfield,canapé,poltrona,divano a tavola,divano-letto
+furniture,divano,divano a tre posti,pouf,divano a due posti,divano a quattro posti,divano chesterfield,divano a rotelle,divano letto,divano letto,ottomano,divano ottico,divano da gioco
+furniture,divano,divano con penisola,divano a scomparsa,divano angolare,divano a cinque posti,divano in pelle,divano da giorno,divano a tre posti,divano a schienale,daybed,divano-sofà,divano da pranzo
+plants,edera,edera rampicante,edera comune,edera pendula,edera comune,edera comune,edera comune,hedera helix,edera comune,edera comune,acacia,acacia
+plants,edera,edera velenosa,edera terrestre,edera inglese,edera di mare,edera giapponese,edera gialla,hedera colchica,edera americana,edera americana,eucalyptus,acanto
+plants,edera,edera comune,edera canadese,edera perenne,erba,edera variegata,edera bianca,edera comune,edera nera,edera variegata,pianta,acero
+animals,elefante,elefante africano,elefante africano,elefante africano,elefante africano,africano,african elephant,elefante africano,elefante africano,elefante africano,elefante africano,elefante africano
+animals,elefante,elefante indiano,elefante asiatico,elefante marino,elefante di sumatra,elefante africano,elefante africano,elefante marino,elefante asiatico,elefante asiatico,african elephant,elefante asiatico
+animals,elefante,elefante asiatico,elefante nano,elefante nano,elefante asiatico,asiatico,indian elephant,elefante asiatico,elefante africano occidentale,elefante indiano,africa,elefante indiano
+vehicles,elicottero,elicottero militare,elicottero leggero,elicottero da trasporto,helicottero,elicottero da turismo,elicottero militare,elicottero da trasporto,elicottero militare,elicottero militare,bell 47,elicottero militare
+vehicles,elicottero,elicottero del pronto soccorso,hughes 500,elicottero militare,helicoptero,elicottero da addestramento,elicottero da trasporto,elicottero da combattimento,elicottero civile,elicottero da ricerca,elicottero militare,elicottero da trasporto
+vehicles,elicottero,elicottero privato,westland lynx,elicottero da ricerca e soccorso,drone,elicottero da trasporto,elicottero da ricognizione,elicottero da ricognizione,elicottero da ricognizione,elicottero da trasporto,helicoptero,elicottero per soccorso
+vehicles,elicottero,elicottero da guerra,westland apache,elicottero da turismo,elicottero da trasporto,elicottero leggero,elicottero da soccorso,elicottero da soccorso,elicottero da trasporto,elicottero da ambulanza,bell 212,elicottero medico
+vehicles,elicottero,elicottero civile,hughes 300,elicottero da combattimento,elicottero da ricerca e salvataggio,elicottero medio,elicottero da addestramento,elicottero da turismo,elicottero da soccorso,elicottero da soccorso,bell 412,elicottero di polizia
+stationery,evidenziatore,evidenziatore giallo,pastello,evidenziatore a matita,pennarelli,evidenziatore a penna,evidenziatore rosso,evidenziatore giallo,monitor,microfono,marker,penna
+stationery,evidenziatore,evidenziatore verde,evidenziatore liquido,evidenziatore a penna,pennarello,evidenziatore fluorescente,evidenziatore verde,evidenziatore verde,camerino,fotocamera,penna,pennarello
+stationery,evidenziatore,evidenziatore fluorescente,pennarello,evidenziatore a pennarello,matita,evidenziatore da ufficio,evidenziatore giallo,evidenziatore rosso,strumento di misura,grafico,ricerca,stilo
+stationery,evidenziatore,evidenziatore stabilo,evidenziatore a pennarello,,pennarelli a cera,evidenziatore cancellabile,evidenziatore blu,evidenziatore rosa,telefono,telescopio,stilografo,stilografo
+stationery,evidenziatore,evidenziatore a punta fine,matita,,,evidenziatore multicolore,evidenziatore arancione,evidenziatore blu,proiettore,oculoscopio,pennarello,stiletto
+clothes,felpa,felpa con cappuccio,felpa con cappuccio,felpa da sci,seta,felpa con cappuccio,felpa usata,felpa con cappuccio,borsa,felpa bianca,birra,jeans
+clothes,felpa,felpa con cerniera,felpa senza cappuccio,felpa da ginnastica,cotone,felpa da running,felpa sporca,felpa senza cappuccio,scarpe da ginnastica,felpa di cotone,bicchierino,camisa
+clothes,felpa,felpa senza cappuccio,felpa a maniche lunghe,felpa da basket,lana,felpa termica,felpa da lavoro,felpa unisex,festa,felpa da lavoro,t-shirt,polo
+clothes,felpa,felpa girocollo,felpa a maniche corte,felpa da jogging,panno,felpa da ginnastica,felpa da sport,felpa da uomo,felpa di lana,felpa nera,bianco,t-shirt
+clothes,felpa,felpa di pile,felpa sportiva,felpa a maniche lunghe,cappello,felpa con zip,felpa da pesca,felpa con stampa,scarpe,felpa da tennis,formaggio,maglia
+plants,ficus,ficus benjamin,ficus aurea,ficus carica,ficus benghalensis,ficus benjamina,ficus lyrata,ficus benjamina,ficus benjamina,ficus benjamina,ficus benjamina,ficus benjamina
+housing buildings,finestra,finestra a una anta,finestra a ghigliottina,finestra a sbarra,finestra di comunicazione,finestra a battente,finestra a vetro singolo,finestra a battente,finestrella,finestra aperta,finestra aperta,porta
+housing buildings,finestra,portafinestra,finestra scorrevole,finestra a battente,finestra singola,finestra a vasistas,finestra aperta,finestra scorrevole,finestra aperta,finestra alta,finestra chiusa,vetro
+housing buildings,finestra,finestra a battente,finestra a nastro,finestra scorrevole,finestra a muro,finestra a oculo,finestra chiusa,finestra panoramica,finestrino,finestra chiusa,griglia,muro
+housing buildings,finestra,finestra a due ante,finestra a ribalta,finestra a vetri,finestra a tenda,finestra a bilico,finestra in legno,finestra a bovindo,vetro,finestra con grata,bifore,soffitto
+housing buildings,finestra,finestrino,finestra a tetto,finestra a tenda,finestra scorrevole,finestra scorrevole,finestra in alluminio,finestra a vasistas,vetroresina,finestra con vetri,finestra aperta e chiusa,tetto
+furnishings/fittings,fioriera,fioriera in terracotta,vaso,vaso di fiori,vaso,fioriera da interno,vaso fiori,vasi,fioraio,vase,fiori,pianta
+furnishings/fittings,fioriera,fioriera in plastica,cesto,vaschetta,vaso da fiori,fioriera in plastica,tazza fiori,fioriera da tavolo,bar,pianta,giardino,fiore
+furnishings/fittings,fioriera,fioriera da balcone,ciotola,terracotta,vaso di vetro,fioriera in terracotta,vasetto fiori,fioriera da esterno,ristorante,bambù,pianta,vasi
+furnishings/fittings,fioriera,fioriera in pietra,portafiori,vasca,ciotola,fioriera da esterno,vaso di porcellana,vaso,banco di fiori,fiori,frutta,fiori
+furnishings/fittings,fioriera,fioriera in metallo,vasetto,giardino,scatola di fiori,fioriera in metallo,vaso di metallo,fioriera da giardino,mercato,succulente,boccata,vassoio
+stationery,foglio,foglio A4,foglio di carta,carta da parati,carta,foglio di carta,foglio carta,foglio di carta,foglio di carta,foglio di carta,carta,carta
+stationery,foglio,foglio a quadretti,foglio di via,carta,foglio di carta,foglio di plastica,carta da scrittura,foglio a4,carta,foglio di giornale,carta da telefono,carta da telefono
+stationery,foglio,foglio a righe,foglio di alluminio,foglio di musica,foglio di velluto,foglio di gomma,foglio di carta igienica,foglio di plastica,certificazione,carta,carta da stampa,carta da scrittura
+stationery,foglio,foglio bianco,foglio di rame,foglio di carta,foglio di carta igienica,foglio di alluminio,foglio di carta da cucina,foglio di metallo,foglio di libro,libro,carta da regalo,carta da fumo
+stationery,foglio,foglio di carta,foglio di calcolo,foglio di carta da parati,foglio di plastica,foglio di metallo,foglio di legno,foglio di acciaio inossidabile,foglio di giornale,fog,carta da lettere,carta da posta
+kitchenware,forbice,forbice con punta arrotondata,forbici da cucito,forbici da cucito,forbice da giardino,forbice da giardinaggio,forbice da cucito,forbici da cucina,forbice da taglio,forbice da taglio,forbice da taglio,forbice da taglio
+kitchenware,forbice,cesoia,forbici da potatura,forbice da capelli,forbice a mano,forbice per capelli,forbice da taglio,forbici da giardino,forbice da barba,forbice da capelli,forbice per capelli,pinza
+kitchenware,forbice,forbice da sarto,forbici da sarto,forbici da unghie,forbice elettrico,forbice chirurgica,forbice da cucina,forbici da potatura,for,forbice da barba,forbice per tagliare,
+kitchenware,forbice,forbice da parrucchiere,forbici da ufficio,forbici da giardino,forbice da cucina,forbice tagliacapelli,forbice da costruzione,forbici da cucito,forbice da cucito,forbice da cucito,,
+kitchenware,forbice,forbice da cucina,forbici per capelli,forbice da unghie,forbice da pesca,forbice per la carne,forbice da giardinaggio,forbice da cucina,forbice da capelli,forbice da cucina,,
+kitchenware,forchetta,forchetta da dolce,forchetta da dessert,forchetta da pesce,forchetta da tavola,forchetta da tavola,forchetta da tavola,forchetta da insalata,forchetta da carne,fork,forchetta da cucina,forchetta da cucina
+kitchenware,forchetta,forchetta da tavola,forchetta da pesce,forchetta da cocktail,forchetta da cucina,forchetta da antipasto,forchetta da barbecue,forchetta da dessert,forchetta da pesce,forchetta da cucina,forchetta da tavola,cucchiaio
+kitchenware,forchetta,forchetta da pesce,forchetta da insalata,forchetta da pasto,,forchetta da pesce,forchetta da frutta,forchetta da tavola,forchetta da pasta,forchetta da pasta,spiedo,spillo
+kitchenware,forchetta,forchetta di plastica,forchetta da frutta,forchetta da carne,,forchetta da insalata,forchetta da carne,forchetta da pesce,forchetta da tavola,forchetta da carne,forchetta da barbecue,forchetta da tavola
+kitchenware,forchetta,forchetta a tre punte,forchetta da carne,forchetta da dessert,,forchetta da cucina,forchetta da insalata,forchetta da carne,forchetta di legno,forchetta da pesce,forchetta da picnic,spiedino
+foods,formaggio,parmigiano,asiago,parmigiano,parmigiano,cheddar,mozzarella,formaggio fresco,mozzarella,gouda,gorgonzola,caciocavallo
+foods,formaggio,formaggio stagionato,brie,mozzarella,parmigiano-reggiano,parmigiano-reggiano,cheddar,cheddar,gorgonzola,parmigiano,pecorino,pecorino
+foods,formaggio,brie,burrata,gruyère,gorgonzola,camembert,roquefort,formaggio stagionato,parmigiano,provolone,brie,formaggio di capra
+foods,formaggio,gorgonzola,fontina,taleggio,mozzarella,cottage,gorgonzola,formaggio spalmabile,provolone,gorgonzola,caciocavallo,formaggio caciotta
+foods,formaggio,mozzarella,mascarpone,ricotta,ricotta,roquefort,halloumi,formaggio blu,burro,cheddar,mozzarella,gorgonzola
+furnishings/fittings,fotografia,fotografia in bianco e nero,autoritratto,fotocamera,fotografia a colori,ritratto,fotografia digitale,fotocamera,fotocamera,fotografo,fotocamera,fotografia digitale
+furnishings/fittings,fotografia,fotografia digitale,ritratto,polaroid,fotografia sportiva,fotografia di architettura,fotografia underwater,ritratto,telecamera,fotografia in bianco e nero,fotografo,fotografia tradizionale
+furnishings/fittings,fotografia,fotografia a colori,fotografia di viaggio,fotogramma,fotografia aerea,fotografia sportiva,fotografia panoramica,obiettivo,fotogiornalista,fotogiornale,cinecamera,scatto
+furnishings/fittings,fotografia,fotografia analogica,fotografia di moda,fotografia aerea,fotografo,fotografia notturna,fotografia sportiva,flash,dispositivo fotografico,fotografia di animali,fotografa,fotografo
+furnishings/fittings,fotografia,polaroid,fotografia di strada,obiettivo,fotografia di paesaggio,fotografia astratta,fotografia documentaria,treppiede,smartphone,fotografia colorata,telefono,foto
+foods,frutta,banana,mela,arance,arancia,mela,arancia,mela,arancia,mela,mela,mela
+foods,frutta,mela,uva,mele,banana,ribes,mela,uva,mela,pomodoro,banana,mango
+foods,frutta,arancia,arancia,albicocche,mela,more,mango,ciliegia,ananas,ananas,mango,prugne
+foods,frutta,pera,melone,pesche,pesca,melone,limone,pesca,limone,mango,limone,banana
+foods,frutta,fragola,susina,fragole,albicocca,anguria,pesca,mango,pera,uva,pera,ciliegie
+vehicles,furgone,furgone camperizzato,ducato,furgone cargo,autobus,furgone per trasporto merci,furgone pieno,furgone per traslochi,fiat 500,furgone bianco,camioncino,camion
+vehicles,furgone,van,furgoncino,furgone da lavoro,furgone a gas,furgone isotermico,camionetta,furgone da lavoro,fiat panda,van,van,van
+animals,gallo,gallo cedrone,gallo cedrone,gallo cedrone,gallina,gallo domestico,gallo domestico,gallina,gallina,gallina,gallo selvatico,gallina
+animals,gallo,gallo nero,gallo bankiva,gallo di razza,gallo selvatico,gallo cedrone,gallo selvatico,pollo,gallo nero,gallo selvatico,gallina,coccodrillo
+body parts,gamba,gamba del tavolo,gamba di legno,gamba anteriore,gamba di legno,zampa di animale,gamba destra,gambe umane,braccio,gambe di persona,gamba destra,femorale
+body parts,gamba,gamba umana,gamba di un tavolo,ginocchio,gambe di legno,gamba di tavolo,gamba femorale,gamba di tavoli,ginocchio,gamba destra,g,leg
+body parts,gamba,gamba di legno,gamba di un letto,caviglia,bicicletta,gamba di sedia,gamba tibiale,gamba di un tavolo,gamba di legno,gamba di legno,femorale,gamba sinistra
+body parts,gamba,gamba destra,gamba di una sedia,polpaccio,gamba di vetro,gamba di letto,gamba lunga,coscia,cavallo,gambe di animali,gamba sinistra,tibiale
+body parts,gamba,gamba lunga,gamba di un animale,gamba posteriore,gamba di metallo,gamba di mobile,gamba corta,gambe di una sedia,ginocchino,gamba di gamba,tibiale,fibula
+animals,gatto,gatto siamese,siamese,gatto domestico,gatto domestico,abissino,bengali,maine coon,gatto domestico,gatto domestico,domestico,gatto domestico
+animals,gatto,gatto persiano,maine coon,gatto selvatico,gatto da caccia,abyssinian,persiano,siamese,gattino,gattino,felino domestico,domestico
+animals,gatto,maine coon,siam,gatto egiziano,gatto selvatico,chartreux,siamese,bengalese,gatto selvatico,cane,cat,gatto di casa
+animals,gatto,sphynx,sphynx,gatto di razza,gatto da compagnia,devon rex,maine coon,gatto domestico,gatto calico,gatto selvaggio,gatto domestico,gatto selvatico
+animals,gatto,gatto a pelo lungo,persiano,gatto persiano,gatto da guardia,ragdoll,bengala,abissino,gatto siamese,gatto da caccia,gatto selvatico,gatto di strada
+plants,geranio,geranio rosso,geranium maculatum,geranio rosso,fiore,geranio zonale,geranio comune,geranio comune,geranio comune,geraniolo,geranium sanguineum,pelargonium
+plants,geranio,edera,geranio bicolore,geranio cinese,rosa,geranio selvatico,geranio rosso,geranio africano,geraniolo,fiore di geranio,rosso,rosa
+plants,geranio,geranio rosa,geranio annuale,geranio a terra,viola,geranio odoroso,geranio zonale,geranio odoroso,rosa,gerani,big ben,erba di san pietro
+plants,geranio,geranio bianco,geranium phaeum,geranio ibrido,petunia,geranio di sangue,geranio sanguigno,geranio cinese,geranio rosso,flora,geranium robertianum,dianthus
+plants,geranio,geranio viola,geranio di,geranio in vaso,foglia,geranio sanguigno,geranio tricolore,geranio pelargonium,geranio rosa,pianta di geranio,bianco,ipomoea
+clothes,giacca,giacca a vento,giacca a vento,giacca da pelle,giacca da uomo,blazer,giacca windbreaker,giacca a vento,giacca da uomo,giacca da uomo,bomber,cardigan
+clothes,giacca,giacca di pelle,giacca sportiva,giacca da lavoro,giacca da donna,giacca in pelle,giacca da abito,giacca di pelle,bomba,giacca da moto,giacca sportiva,giacca da uomo
+clothes,giacca,blazer,giacca da sci,giacca da golf,giacca da sera,cappotto,giacca da pioggia,giacca a vento imbottita,giacca da neonato,giacca da lavoro,smalto,giubbino
+clothes,giacca,giacca di jeans,giacca bomber,giacca da smoking,pantaloni,giacca da smoking,giacca bomber,giacca sportiva,giacca da bambino,giacca da gala,casacca,cappotto
+clothes,giacca,cappotto,giacca di jeans,giacca da motociclista,giacca da bambino,impermeabile,giacca impermeabile,giacca di jeans,giacca da ragazza,giacca pesante,sweater,fazzoletta
+clothes,gilet,doppiopetto,gilet antiproiettile,gilet di pelle,maglia,gilet senza maniche,gilet da caccia,gilet senza maniche,gilet di seta,vestiario,gilet pelle,giacca
+clothes,gilet,monopetto,gilet imbottito,gilet di pelliccia,camicia,gilet in pelle,gilet da equitazione,gilet imbottito,gilet maschile,vest,sport,gilet maschile
+clothes,gilet,gilet elegante,bomber,gilet di salvataggio,gilet da polizia,gilet in pile,gilet da lavoro,gilet da lavoro,gilet di velluto,vestito da uomo,gilet da moto,veste
+clothes,gilet,gilet di lana,gilet in pelle,gilet termico,di cotone,gilet da caccia,gilet gonfiabile,gilet di pelle,gilet di pelle,giacca di velluto,gilet moto,gilet da donna
+clothes,gilet,gilet smanicato,gilet sportivo,gilet da lavoro,gilet da donna,gilet imbottito,gilet da pesca,gilet da caccia,gilet di lana,giacca,moto,gilet da uomo
+hobbies,gioco da tavola,monopoly,monopoli,scacchi,monoposto,monopoly,scacchi,monopoli,scopone,scacchiere,scacchiere,backgammon
+hobbies,gioco da tavola,risiko,dama,monopoli,bingo,risiko,scopone,scacchi,scacchiere,poker,scacchi,scacchiere
+hobbies,gioco da tavola,cluedo,scarabeo,scrabble,mancala,monopoli,rummikub,ticket to ride,rummikub,scopone,go,scacchi
+hobbies,gioco da tavola,carte,carcassonne,bridge,dama,scacchi,backgammon,carcassonne,monopoly,ticket to ride,monopoly,go
+hobbies,gioco da tavola,gioco dell' oca,cluedo,poker,scacchi,dama,chess,jenga,backgammon,carcassonne,backgammon,domino
+hobbies,giornale,giornale quotidiano,quotidiano,corriere,quotidiano,quotidiano,quotidiano,quotidiano,corriere della sera,foglio,corriere della sera,quotidiano
+hobbies,giornale,giornale sportivo,corriere della sera,gazzetta,quotidiani,settimanale,giornale online,gazzetta,gazzetta,notizia,*the new york times*,settimanale
+hobbies,giornale,giornale settimanale,rotocalco,notiziario,settimanale,giornale locale,giornale gratuito,newsletter,quotidiano,periodico,quotidiano,giornale locale
+hobbies,giornale,rivista,tabloid,corriere della sera,trimestrale,giornale gratuito,giornale sportivo,periodico,il messaggero,rubrica,the new york times,mensile
+hobbies,giornale,giornale mensile,free press,foglio,mensile,giornale nazionale,giornale politico,bollettino,la repubblica,quotidiano,the times,giornale nazionale
+animals,giraffa,giraffa africana,giraffa di rothschild,giraffa maschio,giraffa africana,giraffa reticolata,giraffa africana,giraffa reticulata,giraffa domestica,giraffa cartone,giraffa reticulata,
+animals,giraffa,giraffa reticolata,masai,giraffa femmina,giraffa nubiana,giraffa meridionale,giraffa maschio,maschio,giraffa reticulata,giraffa di legno,giraffino,
+plants,girasole,girasole giallo,girasole comune,girasole selvatico,solare,girasole comune,girasole comune,girasole comune,girasole coltivato,girasole nero,girasole gigante,
+clothes,giubotto,bomber,giubbotto antiproiettile,giubbotto da lavoro,giubotto da donna,giubbotto di pelle,giubbotto da motocicletta,giubbotto di pelle,giubbetto,giubbino,bomber,veste
+clothes,giubotto,piumino,giacca,giubbotto da sci,giubotto in pelle,giubbotto da caccia,giubbotto da caccia,giubbotto di jeans,giubbino,giubba,giubotto sportivo,giubbotto
+clothes,giubotto,giubotto di pelle,giubbotto termico,giubbotto da immersione,giubotto di stoffa,giubbotto da lavoro,giubbotto da pallacanestro,giubbotto impermeabile,giubbino da lavoro,giubbetto,giubotto leggero,giacca
+clothes,giubotto,gilet,giubbotto di protezione,giubbotto da motociclista,giubotto in lino,giubbotto senza maniche,giubbotto da neve,giubotto di pelle,giubba,giubbino da lavoro,poncho,fucile
+clothes,giubotto,giubotto smanicato,giubbotto gonfiabile,giubbotto da pesca,giubotto in cotone,giubbotto in nylon,giubbotto da equitazione,bomber,gi,giubbino da moto,colloquiale,tappo
+stationery,gomma,gomma da masticare,da masticare,pneumatico,gomma auto,pneumatico,gomma da masticare,pneumatico,gomma da masticare,gomma da masticare,pneumatico,pneumatico
+stationery,gomma,gomma da cancellare,naturale,gomma da masticare,gomma da strada,gomma da masticare,gomma adesiva,tappo,elastica,penne,bicicletta,bicicletta
+stationery,gomma,pneumatico,gomma da cancellare,gomma da cancellare,gomma da bicicletta,elastico,gomma elastica,pneumatici,gomma da cucina,frullatore,gomma bianca,gomma per biciclette
+stationery,gomma,gomma pane,gomma da masticare,guaina,gomma da pavimento,guanto di gomma,gomma per bici,gomma da masticare,gomma da mangiare,gomma da macchina,borse,gomma da bicicletta
+stationery,gomma,gommapiuma,sintetica,masticabile,gomma da neve,preservativo,gomma di poliuretano,cinturino,gomma da taglio,gomma da incollare,gomma nera,pallone
+clothes,gonna,minigonna,minigonna,gonna lunga,gonna lunga,gonna a tubino,going-on,gonna a tubino,gonna be,skirt,vai,andare
+clothes,gonna,gonna lunga,gonna a ruota,gonna a vita alta,gonna corta,gonna a campana,vestito da sera,gonna a matita,gatta,aria,andare,stoviglie
+clothes,gonna,gonna di jeans,gonna a campana,gonna a pieghe,gonna da ballo,gonna a matita,panno,gonna lunga,gonne da neve,camicia,vai a,andare in vacanza
+clothes,gonna,gonna corta,gonna a pieghe,gonna a fiori,gonna da sera,gonna a vita alta,evening gown,gonna corta,gonna do,costume,andare in giro,corsa
+clothes,gonna,gonna a tubino,gonna plissettata,gonna a strisce,gonna a pannelli,gonna lunga,maxi dress,gonna a ruota,gonna get,pantaloni,andare fuori,ciclismo
+stationery,graffetta,graffetta di metallo,graffetta da ufficio,griffa,carta da scrivere,graffetta standard,graffetta da disegno,graffetta a molla,aerosol,grafitti,tag,penna
+stationery,graffetta,fermacarte,graffetta per carta,spillo,penna,graffetta decorativa,gra,graffetta metallica,grafitti,spray,graffiti,bolla
+stationery,graffetta,graffetta di plastica,graffetta per fogli di carta,chiodo da parete,pennarello,graffetta a molla,penna da cera,graffetta classica,frullatore,graffita,stencil,stilografo
+stationery,graffetta,graffetta per spillatrice,,chiodo da legno,righello,graffetta grande,penna da inchiostro,graffetta a scatto,lavastoviglie,schiuma,spray paint,struttura
+stationery,graffetta,graffetta grande,,chiodo,matita,graffetta piccola,penna da disegno,graffetta a forma di stella,spray,murales,calligrafia,piattaforma
+clothes,guanti,guanti da sci,da sci,guanti da lavoro,guanti da lavoro,guanti da boxe,guanti da cucina,guanti da lavoro,guanti da lavoro,guanti da lavoro,guanti da lavoro,guanti da lavoro
+clothes,guanti,guanti di gomma,in lattice,guanti da neve,guanti da ginnastica,guanti da giardinaggio,guanti da lavoro,guanti da neve,guanti da pesca,guanto,guanti da cucina,guanti da moto
+clothes,guanti,guanti di pelle,invernali,guanti da boxe,guanti da sci,guanti da lavoro,guanti da golf,guanti da guida,guanti da bagno,guanti di pelle,guanti da sport,guanti da ginnastica
+clothes,guanti,guanti senza dita,da lavoro,guanti da sci,guanti da neve,guanti da cucina,guanti da calcio,guanti da boxe,guanti di tela,guanti di lavoro,guanti da ginnastica,guanti da sport
+clothes,guanti,guanti di lattice,guanti da sci,guanti da pesca,guanti da pittore,guanti da sci,guanti da sci,guanti da golf,guanti di lavoro,guanti da lavoro pesante,guanti da pesca,guanti da sci
+foods,insalata,iceberg,caprese,insalata di pollo,insalata mista,insalata greca,insalata mista,insalata mista,insalata di carote,broccoli,insalata mista,insalata mista
+foods,insalata,insalata russa,di quinoa,insalata di tonno,insalata di rucola,insalata di pasta,insalata di pollo,insalata di pasta,insalata di finocchio,spinaci,insalata caprese,insalata di pasta
+foods,insalata,insalata mista,di farro,rucola,insalata di lattuga,insalata caprese,insalata di pasta,insalata di riso,insalata di pomodoro,lettore,insalata di verdure,insalata di patate
+foods,insalata,lattuga,niçoise,insalata di mare,insalata caprese,insalata di riso,insalata di frutta,insalata verde,carote,lettuce,insalata di pesce,insalata di verdure
+foods,insalata,rucola,russa,lattuga,insalata di carote,insalata di tonno,insalata di quinoa,insalata caprese,insalata di rucola,frullatore,insalata di carne,insalata di pesce
+furnishings/fittings,lampada,lampada a led,abat-jour,lampada a incandescenza,lampada da tavolo,lampada da tavolo,lampada standard,lampada alogena,lampada a olio,lampada a led,lampada a incandescenza,lampada a incandescenza
+furnishings/fittings,lampada,abat jour,lampada a sospensione,lampada a led,lampada a muro,lampada a sospensione,lampada led,lampada a led,lampada led,lampada da tavolo,lampada led,lampada da tavolo
+furnishings/fittings,lampada,lampada da tavolo,lampada da tavolo,lampada a olio,lampada da letto,lampada da terra,lampada a olio,lampada a sospensione,lampada da tavolo,lampada a parete,lampada ad arco,lampada led
+furnishings/fittings,lampada,lampada da muro,lampada da terra,lampada a neon,lampada a olio,lampadina,lampada fluorescente,lampada da tavolo,torcia,lampada da tavolo con luce led,incandescente,lampada da soffitto
+furnishings/fittings,lampada,lampadario,lampada a stelo,lampada da terra,lampada da cucina,lampada da parete,lampada da giardino,lampada da comodino,lampada da tetto,lamp,lampada fluorescente,lampada fluorescente
+furnishings/fittings,lampadario,lampadario di cristallo,plafoniera,lampadario da soffitto,lampada,a sospensione,lampadario a filo,lampadario a bracci,lampadario a candela,lampada,lampada,chandelier
+furnishings/fittings,lampadario,lampadario antico,candelabro,lampadario a sospensione,lampadario a candelabro,a braccio,lampadario a led,a bracci,lampada,lampadario classico,lampada ad olio,lampada
+furnishings/fittings,lampadario,lampadario moderno,abat-jour,lampadario a muro,lampadario a braccio,a parete,lampadario a candela,a piantana,luce,lampadario tradizionale,lampadario da tavolo,candelabro
+furnishings/fittings,lampadario,plafoniera,applique,lampadario da tavolo,lampada da letto,da tavolo,lampadario da parete,a sospensione,lampadario a led,lampadario moderno,lampada a incandescenza,sconce
+furnishings/fittings,lampadario,lampadario da soffitto,sospensione,lampadario da parete,lampada da tavolo,a soffitto,lampadario da giardino,a pendolo,lamp,chandelier,lampada a gas,wall lamp
+foods,latte,latte intero,latte di cocco,latte vaccino,latte fresco,latte di mucca,latte fresco,latte intero,latte di latte,caffè latte,latte di vacca,latte fresco
+foods,latte,latte scremato,latte di soia,latte di mandorla,latte in polvere,latte di ceci,latte condensato,latte di capra,latte macchiato,latte caldo,latte di latte,latte frappé
+foods,latte,latte parzialmente scremato,latte di capra,latte intero,latte scremato,latte di farro,latte di soia,latte scremato,latte frappé,latte freddo,latte di bovino,latte di latte
+foods,latte,latte di mucca,latte di mucca,latte di soia,latte di soia,latte di kamut,latte di cocco,latte parzialmente scremato,latte fresco,espresso latte,latte di formaggio,latte di riso
+foods,latte,latte di capra,latte di pecora,latte di avena,latte condensato,latte di quinoa,latte di riso,latte di soia,latte frullato,latte macchiato,latte di soia,latte di grano
+foods,legume,fagioli,fagiolo,fagioli,lenticchie,fagioli,fagioli,patata,fagioli,fagioli,fagioli,fagioli
+foods,legume,lenticchie,pisello,piselli,fagioli,fagiolo,zucchine,sedano,carote,piselli,piselli,fagiolini
+foods,legume,ceci,lenticchia,ceci,ceci,soia,broccoli,broccoli,piselli,carote,fave,piselli
+foods,legume,fave,fava,fagioli neri,piselli,fave,ceci,carote,broccoli,broccoli,lenticchie,fave
+foods,legume,piselli,ceci,fave,soia,lenticchie,carote,cavolfiore,pomodori,lenticchie,fagiolini,lenticchie
+animals,leone,leone africano,leone asiatico,leone del congo,leone reale,leone masai,leone africano,leone africano,leone di carta,leone reale,leone reale,leonessa
+animals,leone,leone bianco,leone maschio,leone di nubia,leone africano,leone del transvaal,leone marino,leone delle caverne,leone femmina,leone di carta,leone maschio,leone maschio
+animals,leone,leone asiatico,leone del congo,leone marino,leoni maschi,leone africano,leone americano,leone marino,leone marino,leone di vetro,leone africano,leone femmina
+animals,leone,leone marino,leone africano,leone di persia,leone asiatico,leone asiatico,leone asiatico,leone delle montagne,leone reale,leone di legno,leone in caccia,leone dorato
+animals,leone,leonessa,leone berbero,leone africano,leone di foresta,leone bianco,leone di giuda,leone asiatico,leone africano,re,leone simbolico,leoncino
+furniture,letto,letto matrimoniale,lettino,letto singolo,divano,letto a una piazza e mezza,letto matrimoniale,letto singolo,letto singolo,letto singolo,romanzo,sofà
+furniture,letto,letto singolo,a castello,letto matrimoniale,cuscino,letto ortopedico,letto da bagno,letto matrimoniale,divano,letto a tre piani,racconto,divano
+furniture,letto,letto a castello,letto a scomparsa,letto a baldacchino,sofa,letto singolo,letto a sbalzo,letto a baldacchino,letto a due piani,letto a quattro piani,libro,camerino
+furniture,letto,letto a una piazza e mezza,letto a castello,letto a castello,lettino,letto a castello,letto da divano,letto queen size,letto a tre piani,letto a due piani,poesia,singolo
+furniture,letto,letto a baldacchino,letto matrimoniale,letto a soppalco,cuscino da letto,letto matrimoniale,letto a due piani,letto a castello,letto matrimoniale,letto a quindici,biografia,cassapanca
+hobbies,lettore,lettore cd,lettore cd,lettore di cd,lettore cd,lettore cd,libro,lettore cd,libro,libro,libro,libro
+hobbies,lettore,lettore dvd,lettore di musica,lettore di dvd,lettore di cd,lettore di codici a barre,newspaper,lettore dvd,libro elettronico,libro aperto,computer,romanzo
+hobbies,lettore,lettore mp3,lettore di ebook,lettore di schede di memoria,cd,lettore dvd,periodico,lettore di cd,giornale,libro elettronico,tablet,rivista
+hobbies,lettore,lettore attento,lettore di codici a barre,lettore di floppy disk,lettore usb,lettore di schede di memoria,magazino,lettore di musica,rivista,,ebook,computer
+hobbies,lettore,lettore usb,lettore di impronte digitali,lettore di cartine,lettore blu-ray,lettore multimediale,audiolibro,lettore mp3,tablet,,telefono,e-book
+furniture,libreria,libreria a scaffali,biblioteca,libreria da pavimento,scaffale,biblioteca,biblioteca,libreria online,libri,scaffale,libreria di riferimento,libro
+furniture,libreria,libreria a muro,libreria digitale,libreria di seconda mano,libreria di seconda mano,libreria per bambini,libreria online,libreria pubblica,libreria online,libro,libro,enciclopedia
+furniture,libreria,libreria indipendente,libreria universitaria,libreria online,libreria di musica,libreria a scaffale aperto,libreria accademica,libreria indipendente,libro,poltrona,bibliofilia,libri
+hobbies,libro,romanzo,romanzo,romanzo,romanzo,romanzo,romanzo,romanzo,romanzo,libro aperto,romanzo,libro di testo
+hobbies,libro,libro giallo,saggio,trattato,saggio,biografia,testo scolastico,libro di testo,manuale,libro leggero,novella,libro cartaceo
+hobbies,libro,fantasy,dizionario,poesia,enciclopedia,guida,biografia,libro di cucina,libro di testo,libro chiuso,paperback,romanzo
+hobbies,libro,libro di scuola,atlante,saggio,diario,enciclopedia,fumetto,libro per bambini,libro di poesia,libro cartaceo,racconto,libro per bambini
+hobbies,libro,saggio,enciclopedia,manuale,biografia,diario,guida,libro di viaggio,libro di viaggio,libro elettronico,poesia,libro di cucina
+animals,lucertola,geco,iguana,lucertola verde,lucertola comune,agama,gecko,lucertola comune,lucertola comune,gecko,gecko,sauriano
+animals,lucertola,iguana,varano,lucertola comune,lucertola di mare,lucertola leopardo,anolis,gecko,lucertola verde,iguana,lizard,gecko
+animals,lucertola,lucertola comune,geco,lucertola di creta,lucertola di terra,varano,camaleontide,iguana,lucertola africana,skink,lucertola comune,scinco
+animals,lucertola,lucertola campestre,camaleonte,gechi,lucertola di montagna,pogona,scincide,camaleonte,lucertola americana,agama,*lucertola comune*,sauro
+animals,lucertola,camaleonte,lacerta,lucertola europea,lucertola di palude,lucertola ocellata,gekko,lucertola agile,lucertola del deserto,frog,salamandra,lacerta
+clothes,maglia,maglia a maniche corte,maglia a coste,maglia di lana,maglia da donna,maglia a coste,maglia a crochet,maglia a manica corta,maglia da baseball,maglia a strisce,maglia a maniche lunghe,maglia a maniche corte
+clothes,maglia,maglia a maniche lunghe,maglia a righe,maglia di cotone,camicia,maglia a collo alto,maglia a quadrati,maglia a collo alto,maglia da polo,pullover,jersey,maglia a maniche lunghe
+clothes,maglia,t-shirt,maglia a losanghe,maglia di seta,maglia da golf,maglia fair isle,maglia a righe,maglia a manica lunga,t-shirt,camicia,maglia a collo,maglia a collo
+clothes,maglia,maglione,maglia rasata,maglia a maniche lunghe,maglia da uomo,maglia a trecce,maglia intrecciata,maglia a righe,calcio,t-shirt,maglia per uomo,sweater
+clothes,maglia,maglietta,maglia a uncinetto,maglia a collo alto,maglia da nuoto,maglia a intarsio,maglia a strisce,maglione,calzetto,maglia a righe,maglia a striscia,giubba
+animals,maiale,maiale nero,cinghiale,maiale nero,maiale selvatico,suino nero casertano,maiale domestico,maiale domestico,maiale selvatico,porchetta,porco,porco
+animals,maiale,scrofa,scrofa,maiale da latte,carne,suino,maiale maschio,maiale selvatico,maiale bianco,porcellino,cane,pig
+animals,maiale,cinghiale,mammifero,maiale da carne,vitello,suino nero di calabria,maiale femmina,maiale vietnamita,maiale nero,maiale selvatico,capra,boar
+animals,maiale,maiale rosa,suino,maiale inglese,carne di maiale,mangalica,maiale selvatico,maiale pezzato,porchetta,suino,cavallo,sow
+body parts,mano,mano destra,mano destra,mano sinistra,dita,mano destra,mano destra,mano destra,mano destra,mano destra,mano destra,dita
+body parts,mano,mano sinistra,mano morta,mano destra,mano destra,mano protesica,mano sinistra,mano sinistra,mano di persona,mano sinistra,mano sinistra,palma
+body parts,mano,mano piccola,mano di fatima,mano artificiale,pollice,mano sinistra,mano di un animale,mano di un pupazzo,mano sinistra,mano aperta,braccio,palmare
+body parts,mano,mano grande,mano di pietra,mano mancina,palma,mano robotica,mano di un robot,mano di un manichino,mano di uomo,mano chiusa,mano sinistra e destra,mano destra
+body parts,mano,mano affusolata,mano di gatto,mano chirurgica,indice,mano di scimmia,mano di dio,mano umana,mano sinistra a mano,sinistra,dito,polso
+plants,margherita,crisantemo,margherita comune,pizza margherita,pizza margherita,margherita di savoia,margherita pizza,pizza margherita,pizza,fiore di margherita,pizza,pizza
+plants,margherita,margherita bianca,margherita dei prati,pizza margherita con prosciutto,pizza,margherita comune,margherita pasta,margherita classica,pane,margherita pizzeria,pizza margherita,margherita classica
+plants,margherita,margherita di campo,margherita di savoia,pizza margherita con funghi,gelato margherita,margherita gigante,margherita torta,pizza margherita con mozzarella di bufala,focaccia,margherita pizza,margherita pizza,margherita pizza
+plants,margherita,margherita comune,margherita pizza,pizza margherita napoletana,gelato,margherita del capo,margherita vino,margherita con prosciutto,salsa,,margherita classica,margherita con crema
+plants,margherita,fiore,margherita di lorena,margherita vegetariana,sorbetto,margherita tradizionale,margherita formaggio,pizza margherita con prosciutto crudo,panino,,pizza margherita classica,pizza margherita
+stationery,matita,matita hb,matita a colori,matita da disegno,matita stilografica,matita grafite,matita a olio,matita da disegno,matita a grafite,matita meccanica,bic,
+stationery,matita,matita colorata,matita nera,matita a grafite,matita di grafite,matita meccanica,matita a penna,matita grafite,piombo,matita di legno,matita bic,
+stationery,matita,matita morbida,pastello,matita a carboncino,righello,matita colorata,matita a colori,matita per scuola,1b,matita a grafite,matita rossa,
+stationery,matita,matita 2b,matita copiativa,matita a sfera,matita da disegno,matita portamine,matita meccanica,matita per il trucco,40b,matita di plastica,staedtler,
+stationery,matita,matita da disegno,matita rossa,matita grafica,matita a cera,matita a pastello,matita a smalto,matita colorata,30b,matita di grafite,bic 7,
+kitchenware,mestolo,mestolo di legno,mestolo forato,mestolo di legno,bicchiere,mestolo in acciaio inossidabile,tazza,mestolo da cucina,tazza,pentola,pittura acrilica,coclea
+kitchenware,mestolo,schiumarola,mestolo da minestra,mestolo in legno,cucchiaio,mestolo di legno,tazza da tè,mestolo da minestra,piatto,tazza,bollente,tazza
+kitchenware,mestolo,paletta,mestolo lungo,mestolo da cucina,tazza,mestolo per servire,bicchierino,mestolo da insalata,pentola,cazzuola,bottiglia,vaso
+kitchenware,mestolo,mestolo di acciaio,mestolo a buco,mestolo da zuppa,bicchierino,mestolo dosatore,bollitore,mestolo da salsa,bacinella,padella,benzina,tazzina
+kitchenware,mestolo,spatola,mestolo da zuppa,mestolo di metallo,vaso,mestolo per salse,piatto,mestolo da sugo,coppa,tazzeria,calzature,piatto
+furnishings/fittings,metro,metro da sartoria,metro quadrato,metro a nastro,metro a mano,metro a nastro,metro lineare,metro lineare,metro aereo,orologio,metropolitana,orologio analogico
+furnishings/fittings,metro,metro a nastro,metro cubo,metro a trazione,metro da corsa,metro da falegname,metro lineare standard,metro di misura,metro a,14,metro del nord,orologio digitale
+furnishings/fittings,metro,metro laser,metro lineare,metro ottico,metro automatico,metro rigido,metro cubico,metro di distanza,metro sotterraneo,metro quadrato,new york metropolitan transportation authority,
+plants,mimosa,mimosa gialla,mimosa comune,albero,fiore,mimosa pudica,mimosa pudica,mimosa pudica,mimosa giallo,mimosa sintetica,acacia,
+plants,mimosa,mimosa delle quattro stagioni,acacia dealbata,alberi di mimosa,fiori,mimosa pigra,mimosa vera,mimosa scabrella,mimosa bianca,acacia,mimosa gialla,
+plants,mimosa,mimosa bianca,mimosa hostilis,albero di mimosa,specchio,mimosa hostilis,mimosa tenuiflora,mimosa invisa,mimosa verde,mimosa giallo,mimosa pudica,
+vehicles,motocicletta,scooter,enduro,scooter,scooter,motocicletta da strada,moto cross,scooter,scooter,motociclo,honda,scooter
+vehicles,motocicletta,motocicletta da strada,chopper,motocicletta sportiva,motocicletta da turismo,motocicletta supersportiva,superbike,moto da cross,moto,motocicletta classica,ducati,motorino
+vehicles,motocicletta,vespa,scooter,motocross,motocicletta da strada,motocicletta naked,scooter,motocicletta da enduro,motocross,motocross,yamaha,motociclo
+vehicles,motocicletta,chopper,naked,enduro,sportiva,motocicletta da trial,moto da corsa,motocicletta da cross,motociclo,enduro,harley-davidson,moto
+vehicles,motocicletta,motocicletta sportiva,sportiva,motociclo,motocicletta da neve,motocicletta elettrica,moto enduro,sidecar,motociclino,moped,suzuki,motorcycle
+animals,mucca,mucca da latte,ayrshire,mucca da latte,cavolo,holstein friesian,mucca domestica,vacca,vacca,vacca,bovino,bovino
+animals,mucca,vacca,limousine,mucca da carne,asina,brown swiss,mucca angus,burro,mucca bovina,mucca bianca,bovino domestico,bovino domestico
+animals,mucca,frisona,normanna,mucca alta,broccolo,gelbvieh,mucca guernsey,yogurt,mucchetta,bovino,cow,bovino selvatico
+animals,mucca,simmental,piemontese,mucca nera,rucola,bruna,mucca brown swiss,formaggio,bue,bue,asino,animali domestici
+animals,mucca,mucca bruna,pezzata rossa,mucca rossa,carciofi,guernsey,mucca zebu,carne di manzo,bovino,toro,bovino selvatico,bovino selvatico europeo
+housing buildings,muro,muro di mattoni,divisorio,muro di cinta,muro di confine,muro di mattoni,muro di cinta,muro di mattoni,muro di pietra,pariete,muro di cemento,parete
+housing buildings,muro,muro portante,di sostegno,muro di confine,muro di cinta,muro di cinta,muro di contenimento,muro di contenimento,parapetto,muro di legno,muri di mattoni,paracadute
+housing buildings,muro,muro a secco,di contenimento,muro di pietra,muro di separazione,muro di contenimento,muri di cinta,muro di separazione,muro di legno,muro di pietra,muri di pietra,parapetto
+housing buildings,muro,muro di cemento,tagliafuoco,muro di recinzione,muro di protezione,muro di cemento,muro di recinzione,muro di cinta,muraglio,muro di cemento,muro di cantiere,paravento
+housing buildings,muro,muro di pietra,di cinta,muro di mattoni,muro di fondazione,muro di pietra,muro di pietra,muro di sostegno,pariete,muro di vetro,muro di cinta,pariete
+body parts,naso,naso aquilino,naso umano,naso umano,naso umano,naso umano,naso umano,naso aquilino,rinoceronte,profumo,ossa nasale,bocca
+body parts,naso,naso a patata,naso artificiale,naso di animale,naso di cane,proboscide,proboscide,naso a patata,frullatore,ossicone,profilo,labbra
+body parts,naso,naso alla francese,naso camuso,naso di cane,naso animale,naso suino,naso di un animale,naso ad uncino,snope,ossicino,naso mascellare,faccia
+body parts,naso,naso adunco,naso greco,naso di gatto,naso di gatto,naso canino,rinario,naso lungo,naso di legno,olfatto,naso umano,ponte
+body parts,naso,naso a punta,naso a patata,naso di elefante,naso di animale,naso felino,rostrum,naso camuso,elefante,fumo,faccia,orecchie
+vehicles,nave,nave da crociera,veliero,nave da guerra,nave da guerra,portaerei,incrociatore,nave da crociera,nave da crociera,nave da crociera,battello,motonave
+vehicles,nave,nave cargo,traghetto,nave da carico,nave da carico,nave da carico,crociera,nave da carico,nave da battaglia,nave da guerra,nave da crociera,nave a vela
+vehicles,nave,traghetto,nave da guerra,nave da pesca,fregata,nave da crociera,cargo ship,nave da soccorso,nave da pesca,nave da battaglia,vascello,nave a vapore
+vehicles,nave,yacht,transatlantico,portacontenitori,navicella,cargo,peschereccio,nave da pesca,vascello,nave a vela,nave di guerra,nave mercantile
+vehicles,nave,battello,panfilo,nave da crociera,nave da crociera,nave da guerra,battello,nave da ricerca,nave da guerra,barca,bacino,motoscafo
+body parts,occhio,occhio a mandorla,occhio umano,occhio umano,palpebra,occhio umano,occhio umano,occhio di bue,occhio umano,occhio umano,oculo,cornea
+body parts,occhio,occhio verde,umano,occhio di gatto,occhio destro,occhio di un insetto,occhio di uccello,occhio umano,occhio di insetto,oculo,occhio sinistro,uomo
+body parts,occhio,occhio marrone,occhio di gatto,occhio di bue,retina,occhio artificiale,occhio di tigre,oculo,occhio robotico,occhio artificiale,bocca,pupilla
+body parts,occhio,occhio azzurro,occhio di pesce,occhio di falco,globa,occhio composto,occhio di rettile,occhio di pesce,occhio artificiale,occhio robotico,pupilla,retina
+body parts,occhio,occhio blu,occhio di dio,occhio di falena,cornea,occhio semplice,occhio di insetto,occhio di vetro,occhio animale,occhio animale,retina,iris
+plants,orchidea,orchidea bianca,phalaenopsis,dendrobium,fiori,phalaenopsis,orchidea bianca,phalaenopsis,orchideacea,orchidea bianca,phalaenopsis,cattleya
+plants,orchidea,cattleya,dendrobium,cattleya,albero,epidendrum,orchidee epifite,orchidea phalaenopsis,orchidea bianca,orchidea di carta,orchide,orchidea bianca
+plants,orchidea,orchidea rosa,oncidium,phalaenopsis,arbusto,masdevallia,orchidee terrestri,cattleya,orchideologia,orchidea violetta,cattleya,oncidium
+plants,orchidea,miltonia,vanda,miltonia,actinidia,ludisia,orchidea di darwin,cymbidium,orchide,orchidea rossa,*dendrobium*,dendrobium
+plants,orchidea,orchidea viola,paphiopedilum,vanda,begonia,restrepia,orchidea di cristallo,orchidea oncidium,orchidea di plastica,orchidea gialla,cymbidium,phalaenopsis
+body parts,orecchio,orecchio a sventola,orecchio umano,orecchio umano,orecchio interno,orecchio umano,orecchio esterno,orecchio esterno,orecchio umano,orecchino,orecchio destro,orecchio destro
+body parts,orecchio,orecchio a punta,orecchio esterno,orecchio di cane,orecchio esterno,orecchio esterno,orecchio interno,orecchio medio,orecchio di cane,orecchietta,orecchio sinistro,orecchio esterno
+body parts,orecchio,orecchio piccolo,orecchio interno,orecchio di gatto,orecchiette,orecchio medio,timpano,orecchio interno,orecchino,earbud,orecchio esterno,conchiglia
+body parts,orecchio,orecchio grande,orecchio artificiale,orecchio di elefante,orecchio medio,orecchio interno,utricolo,padiglione auricolare,umano,earbuds,lobo,orecchio destra
+furnishings/fittings,orologio,orologio da polso,orologio da polso,orologio da polso,orologio da polso,orologio da polso,orologio da tasca,orologio da polso,orologio meccanico,orologio meccanico,orologio analogico,orologio analogico
+furnishings/fittings,orologio,orologio a pendolo,orologio da parete,orologio da tasca,orologio da parete,orologio da tasca,orologio meccanico,orologio da cucina,orologio da polso,orologio da polso,orologio digitale,orologio digitale
+furnishings/fittings,orologio,orologio a cucù,orologio da tasca,orologio meccanico,orologio a manovella,orologio da torre,orologio digitale,orologio digitale,orologio digitale,pendolo,orologio smartwatch,orologio elettronico
+furnishings/fittings,orologio,orologio da taschino,orologio atomico,orologio da parete,orologio digitale,orologio al quarzo,orologio da parete,orologio analogico,orologio da muro,orologio da muro,orologio di polso,orologio meccanico
+furnishings/fittings,orologio,orologio da parete,da polso,orologio da muro,orologio da cucina,orologio meccanico,orologio da tavolo,orologio da viaggio,orologio solare,orologio a pendolo,orologio da muro,orologio quadrante
+animals,orso,orso bruno,orso bruno,orso polare,orso grigio,orso polare,orso polare,orso polare,orso polare,orso polare,orso americano,orso bruno
+animals,orso,orso polare,orso polare,orso bruno,orso polare,orso del gobi,orso grizzly,orso bruno,orso nero,orso nero,orso bruno,orso delle nevi
+animals,orso,orso bianco,orso grizzly,orso grizzly,orso nero,orso tibetano,orso bruno,orso grizzly,orso rosso,orso bruno,cervo,orso polare
+animals,orso,grizzly,orso nero,orso nero,orso bruno,orso bianco,orso delle nevi,orso himalayano,orso grigio,orso nero americano,orso polare,
+animals,orso,orso nero,orso asiatico,orso marsupiale,orso asiatico,orso andino,orso slavo,orso kodiak,orso bruno,orso grizzly,ursino,
+kitchenware,padella,padella antiaderente,padella antiaderente,padella di ghisa,pentola,padella antiaderente,padella da cucina,padella antiaderente,padella da cucina,padella con manico,padella da cucina,padella da cucina
+kitchenware,padella,wok,padella in alluminio,padella in ghisa,cucchiaio,padella per paella,padella da crepe,padella per crepes,padella per risotto,padella per risotto,coclea,cazzotto
+kitchenware,padella,padella per crepes,padella wok,padellone,padella in acciaio,padella per grigliare,padella da frittata,padella per uova,frullatore,padella di frittata,tazza,padella a manico
+kitchenware,padella,padella di acciaio,padella in acciaio,padella di rame,padellina,padella per crepes,wok,padella per frittura,padella per frittata,padella di riso,tappo,
+kitchenware,padella,padella di ghisa,padella a pressione,padella di acciaio,padellone,padella con coperchio,paella,padella per fonduta,padella per pancake,pad,teglia,
+hobbies,palla,palla da calcio,pallone,palla da tennis,pallone,pallone da calcio,pallina da ping pong,palla da calcio,pallina,pallina,palla da calcio,calcio
+hobbies,palla,palla da basket,pallone da calcio,palla da calcio,pallacanestro,palla da baseball,pallina da tennis,palla da biliardo,palla da baseball,palla da golf,palla da baseball,pallone da calcio
+hobbies,palla,palla da volo,palla da baseball,palla da bowling,pallavolo,pallone da basket,pallina da pallavolo,palla da pallavolo,palla da calcio,palla da rugby,palla da tennis,pallone da tennis
+hobbies,palla,palla da tennis,palla da tennis,palla da pallavolo,pallottola,pallone,pallina da bowling,palla da baseball,palla da rugby,pallone,palla da squash,pallone
+hobbies,palla,palla da baseball,palla da bowling,pallone,palla da baseball,palla da softball,pallina da baseball,palla da golf,palla da tennis,palla da baseball,pallone,cricket
+body parts,pancia,pancia piatta,pancia a botte,pancetta,cappello,stomaco,addome,pancia piatta,ventre,ventre,stomaco,utero
+body parts,pancia,pancia gonfia,pancia da birra,ventre,cuscino,addome,pancia umana,pancia gonfia,fegato,cinto,duodeno,placenta
+body parts,pancia,pancia piena,pancia di maiale,pancetta cotta,camicia,pancia prominente,addome umano,pancia rotonda,stomaco,fegato,fegato,ovaio
+body parts,pancia,pancia grassa,addome,pancetta affumicata,borsa,pancia gonfia,pancia di pesce,pancia da birra,omoplastico,reni,intestine,bambina
+body parts,pancia,pancia vuota,pancia di vetro,pancetta arrotolata,gomma,pancia molle,utero,pancia muscolosa,cieco,stomaco,appendice,bambino
+foods,pane,pane integrale,ciabatta,pane integrale,pane integrale,baguette,pane bianco,pane bianco,pane bianco,pane di segale,focaccia,pane integrale
+foods,pane,baguette,focaccia,pane di riso,pane di segale,focaccia,pane sourdough,pane integrale,pane integrale,pane di mais,pane integrale,panino
+foods,pane,ciabatta,baguette,pane di segale,pane di mais,pane integrale,focaccia,pane ai cereali,pane di mais,pane di grano,crocette,focaccia
+foods,pane,rosetta,croissant,pane di quinoa,pane di riso,pane in cassetta,pane di segale,baguette,pane di segale,pane di farro,bianco,pane di frutta
+foods,pane,pane ai cereali,naan,pane di farro,pane secco,pita,pane francese,pane ai semi,pane di grano,pane di focaccia,pane di grano,pane di grano
+clothes,pantalone,jeans,pantalone a vita alta,pantalone da lavoro,pantaloni da ballo,jeans,pantaloni corti,jeans,calze,jeans,masked man,pantaloni corti
+clothes,pantalone,pantalone a zampa,pantalone da sci,pantalone corto,pantaloni da ginnastica,palazzo,pantaloni stretti,salopette,calzoncino,slacks,zorro,jeans
+clothes,pantalone,pantalone a palazzo,pantalone militare,pantalone lungo,pantaloni da sci,a sigaretta,flanelle,leggings,pantaloncini,chinos,robin hood,pantalone a ginocchio
+clothes,pantalone,pantalone della tuta,jeans,pantalone da sci,pantaloncini,in pelle,flanella,trekking,pantalone bianco,calze,puss in boots,capri
+clothes,pantalone,pantalone elegante,pantalone cargo,pantalone da equitazione,pantalone da ballo,a zampa,pantalone stretto,capri,clown,pantalone di cotone,captain hook,pantaloni lungi
+foods,pasta,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti,spaghetti
+foods,pasta,fusilli,fettuccine,linguine,fettuccine,rigatoni,fettuccine,maccheroni,penne,penne,penne,ravioli
+foods,pasta,farfalle,penne,maccheroni,penne,maccheroni,maccheroni,penne,maccheroni,fettuccine,fettuccine,fettuccine
+foods,pasta,penne,farfalle,tagliatelle,maccheroni,farfalle,fusilli,fusilli,farfalle,vermicelli,tagliatelle,pappardelle
+foods,pasta,pasta corta,tortellini,tortellini,rigatoni,cannelloni,rigatoni,ravioli,fusilli,rigatoni,farfalle,tagliatelle
+stationery,pastello,pastello a cera,pastello a olio,pastello a olio,penna,pastello a olio,pastello a olio,pastello a olio,pasta,pennello,pasta,pastello a olio
+stationery,pastello,pastello ad olio,pastello a cera,pastello a cera,pastello a maglia,pastello a cera,pastello cera,pastello a carboncino,gnocchi,tortellini,bacio,pastello ad olio
+stationery,pastello,pastello colorato,pastello a carboncino,pastello a matita,pastello a olio,pastello a gesso,pastello sanguigno,pastello a secco,bicchierino,frullatore,biscotti,pastello a secco
+stationery,pastello,pastello a matita,pastello a gessetto,pastello a carboncino,pastello elettrico,pastello a gessetto,pastello carboncino,pastello colorato,pane,pasta,torta,pastello a pasta
+stationery,pastello,pastello ad acqua,pastello acquerellabile,pastello a gesso,matita,pastello a matita,pastello olio su carta,pastello a cera,polenta,pastello da disegno,pane,pastello a cera
+housing buildings,pavimento,parquet,pavimento in legno,pavimento in legno,pavimento in legno,piastrelle,parquet,parquet,tappeto,tavolo,cemento,pavimento in cemento
+housing buildings,pavimento,pavimento in marmo,piastrelle,pavimento in marmo,pavimento in pietra,parquet,marmo,piastrelle,linoleum,tappeto,pavimento in legno,pavimento di cemento
+housing buildings,pavimento,pavimento in legno,moquette,pavimento in pietra,pavimento in tessuto,moquette,grasso,marmo,parquet,tavolà,pavimento in pietra,cemento
+housing buildings,pavimento,pavimento in piastrelle,pavimento in parquet,marmo,legno,cotto,granito,pietra,strada,cemento,legno,pavimento in ceramica
+housing buildings,pavimento,moquette,pavimento in marmo,pavimento in parquet,mosaico,gres porcellanato,pvc,moquette,cemento,granito,cementificio,pavimento in legno
+stationery,penna,penna a sfera,penna a sfera,penna stilografica,biro,penna a sfera,penna per scrivere,penna a sfera,penna a sfera,penna a sfera,penna a sfera,stilo
+stationery,penna,penna stilografica,penna a inchiostro,penna a sfera,penna a inchiostro,penna pieghevole,penna da ingegno,penna a china,penna stilografica,penna tradizionale,penna a cartuccia,pennarello
+stationery,penna,penna cancellabile,stilografica,penna da disegno,penna a matita,penna a punta fine,penna da disegno,penna a inchiostro,penna di plastica,penna gomma,penna a pennello,penna a inchiostro
+stationery,penna,biro,penna stilografica,penna a matita,penna stilografica,penna a inchiostro,penna da calligrafia,penna a siringa,penna rotante,penna a stilo,penna a stilo,penna a sfera
+stationery,penna,penna a gel,penna a punta fine,penna da calligrafia,matita,penna da disegno,pen,penna a sfera retrattile,pen,penna a inchiostro,penna a molla,stilografo
+hobbies,pennello,pennello piatto,pennello da barba,pennello da pittore,pennello a mano,pennello da trucco,pennello da dipingere,pennello per acquerelli,pennello da cucina,pennello da tinta,pennello a mano,pennello a mano
+hobbies,pennello,pennello da pittura,pennello per capelli,pennello per capelli,pennello a setole,pennello per acquerelli,pennello da vernice,pennello per tempera,pennello acquarello,pensile,pennello da cucina,pennello per acrilici
+hobbies,pennello,pennello fine,pennello per pulizia,pennello per unghie,pennello elettrico,pennello per capelli,pennello da disegno,pennello da pittore,pennello a dente,pennello da olio,pennello per pelle,pennello per la pittura
+hobbies,pennello,pennello da imbianchino,pennello da trucco,pennello da barba,pennello da pittore,pennello per olio,pennello da cucina,pennello a setole morbide,pennello a denti,pennello da tempera,pennello ad acqua,pennello per olio
+hobbies,pennello,pennello grande,pennello da pittura,pennello per parrucchiere,pennello a setole naturali,pennello per acrilici,pennello da acquerello,pennello da pittura,pennello da disegno,pennello da acrilico,pennello ad olio,pennello per tempera
+kitchenware,pentola,pentola a pressione,pentola a pressione,pentola a pressione,pentola a pressione,pentola da forno,pentola da cucina,pentola a pressione,pentola da cucina,pentola con manico,pentola da cucina,pentola da cucina
+kitchenware,pentola,pentola antiaderente,casseruola,pentola a coperchio,pentola da cucina,padella,pentola da fritto,pentola per risotti,pentola di bronzo,pentolaccio,pentolina,pentola a pressione
+kitchenware,pentola,pentolino,pentola di ghisa,pentola a vapore,pentola a coperchio,tegame,pentola da forno,pentola per pasta,pentolone,pentola a manico,pentola per cucina,pentolina
+kitchenware,pentola,padella,padella,pentola a gas,pentola a vapore,casseruola,pentola da bollitura,pentola per fonduta,pentola in ferro,pentolone,pentolame,pentola ad acqua
+kitchenware,pentola,pentola di acciaio,marmitta,pentola a induzione,pentola in acciaio,pentola per riso,pentola da pressione,pentola per fondue,pentola da risotto,pentolina,cacciavite,
+foods,pesce,tonno,sogliola,squalo,squalo,salmone,angelo rosso,salmone,salmone,salmone,pesce di mare,pesce blu
+foods,pesce,pesce spada,squalo,tonno,anguilla,tonno,carpa,tonno,pesce spada,pesce gatto,baccala,cicalia
+foods,pesce,merluzzo,trota,salmone,trutta,carpa,calamaro,pesce spada,pesce gatto,pesce spada,pesce da acqua dolce,cannella
+foods,pesce,salmone,tonno,aragosta,salmone,trota,salmone,orata,trota,tilapia,pesce salato,pesce bianco
+foods,pesce,squalo,anguilla,trota,aragosta,merluzzo,anguilla,acciuga,pesce rosso,tonno,pesce azzurro,pesce rosso
+kitchenware,piatto,piatto fondo,antipasto,piatto da portata,piatto da tavola,antipasto,piatto da cucina,piatto fondo,piatto da cucina,tazza,tavola,tazza
+kitchenware,piatto,piatto piano,pasta,piatto da dessert,tazza,piatto etnico,piatto da dessert,piatto piano,piatto da tavola,piatto da riso,servizio in bianco,piatto da cucina
+kitchenware,piatto,piatto da dolce,insalata,piatto da zuppa,piatto da pranzo,piatto vegetariano,tazza,piatto da servizio,piatto da pranzo,piatto da pasta,piatto da cucina,tavola
+kitchenware,piatto,piatto di plastica,arancino,piatto da risotto,cucchiaio,piatto vegano,piatto da riso,piatto da pizza,piatto da cena,piatto da caffè,piatto da cibo,piatto da vino
+kitchenware,piatto,piatto di ceramica,ravioli,piatto da antipasto,piatto da cena,piatto senza glutine,piatto da tagliere,piatto da antipasto,piatto da bar,piatto da tavola,piatto da verdure,piatto da caffè
+body parts,piede,piede destro,piede umano,piede umano,piede destro,piede umano,piede destro,piede umano,piede umano,sandalo,piede destro,calzature
+body parts,piede,piede piatto,piede di porco,piede di cavallo,dito,piede di una colonna,piede di tavolo,piede di una sedia,gamba,calzatura,piede umano,scarpe
+body parts,piede,piede sinistro,piede di maiale,piede di tartaruga,piede sinistro,piede di una sedia,piede di paglia,piede di un mobile,calzato,calzado,piede sinistro,calzare
+body parts,piede,piede greco,piede di gatto,piede di animale,piede amputato,piede di una statua,piede di cavallo,piede di montagna,piede destro,sandali,piede della fortuna,stivali
+body parts,piede,piede grande,piede di cane,piede di pollo,piede neonato,piede di una pagina,piede umano,piede di una scala,scarpa,scarpe da ginnastica,piede dei ricordi,sandali
+plants,pino,pino silvestre,pino silvestre,pino cembro,abete,pino silvestre,pino domestico,pino marittimo,pino mugo,pineta,pinus sylvestris,pinus
+plants,pino,pino marittimo,pino nero,pino marittimo,albero,pino marittimo,pino silvestre,pino domestico,pineta,pino nobile,pinus ponderosa,pino rosso
+plants,pino,pino mugo,pino domestico,pino domestico,cedro,pino bianco,pino nobile,pino silvestre,pino silvestre,pino laricio,abete,pineto
+plants,pino,pino nero,pino mugo,pino silvestre,pino da costruzione,pino cembro,pino marittimo,pino mugo,pino nobile,pino silvestre,pinus montana,pinus pinea
+plants,pino,pino bianco,pino strobo,pino mugo,cipresso,pino radiata,pino laricio,pino austriaco,pino domestico,pino mugo,pinus nigra,picea
+foods,pizza,pizza margherita,quattro formaggi,margherita,margherita,margherita,margherita,pizza margherita,margherita,margherita,pizza al taglio,calzone
+foods,pizza,pizza capricciosa,pizza margherita,capricciosa,quattro stagioni,siciliana,calzone,pizza al taglio,hawaiiana,pizza classica,pizza al forno,pizza al taglio
+foods,pizza,pizza marinara,pizza capricciosa,pizza margherita,capricciosa,capricciosa,capricciosa,pizza al prosciutto,funghi,pizza a taglio,pizza con formaggio,pizza a forma di stella
+foods,pizza,pizza diavola,capricciosa,napoletana,quattro formaggi,bianca,quattro stagioni,pizza al padellino,quattro formaggi,pizza con salsiccia,pizza a pizza,pizza a forma di diamante
+foods,pizza,pizza quattro stagioni,margherita,pizza napoletana,prosciutto e funghi,calzone,pizza con pollo,pizza con prosciutto e funghi,pepperoni,pizza margherita,margarita,pizza al formaggio
+furniture,poltrona,poltrona reclinabile,sedia reclinabile,divano,divano,poltrona da ufficio,poltrona reclinabile,poltrona reclinabile,divano,poltrona a due posti,sofà,divano
+furniture,poltrona,poltrona a dondolo,poltrona a dondolo,poltrona reclinabile,poltrona da salotto,poltrona ergonomica,poltrona a rotelle,poltrona da ufficio,sedie,divano,divano,seduta
+furniture,poltrona,poltrona in pelle,chaise longue,poltrona da ufficio,poltrona da letto,poltrona in pelle,poltrona a due posti,poltrona con braccioli,sedia a rotelle,sedia,couch,cuscino
+furniture,poltrona,poltrona massaggiante,poltrona reclinabile,poltrona da giardino,poltrona da ufficio,poltrona sospesa,poltrona standard,poltrona in pelle,poltrona da ufficio,cattedra,cuscino,sofà
+furniture,poltrona,poltrona con braccioli,poltrona a rotelle,poltrona da soggiorno,poltrona da giardino,poltrona pieghevole,poltrona classica,poltrona a sacco,sedia a sbalzo,sedia a rotelle,sedia,fotocopiatura
+housing buildings,porta,porta scorrevole,porta blindata,porta di casa,porta in casa,porta blindata,porta di sicurezza,porta blindata,porta acciaio,porta di legno,porta a mano,porta di casa
+housing buildings,porta,porta blindata,porta a libro,porta di servizio,porta di emergenza,porta a soffietto,porta di accesso,porta di servizio,porta in alluminio,porta di vetro,porta-cavi,porta verde
+housing buildings,porta,porta a vetro,porta a scomparsa,porta di garage,porta di servizio,porta a vetri,porta rotonda,porta basculante,porta in metallo,porta di metallo,porta-carta,porta di ingresso
+housing buildings,porta,porta di legno,porta a due ante,porta blindata,porta di comunicazione,porta antipanico,porta di vetro,porta finestra,porta scura,porta con vetri,porta-pannello,porta in stile
+housing buildings,porta,portone,porta scorrevole,porta scorrevole,porta di uscita,porta garage,porta di legno,porta di sicurezza,porta in legno,porta di cristallo,porta-pacchetti,porta di servizio
+furnishings/fittings,portafotografia,cornice,cornice,portafotocamera,casco,album fotografico,porta-foto digitale,portafoto,portafoglio,portafoglio,nikon,fotocamera
+furnishings/fittings,portafotografia,portafotografia di legno,album,fotocamera,cappuccio,borsa a tracolla per fotocamera,foglietti fotografici,portfolio stampato,album fotografico,cappello,canon,camera
+furnishings/fittings,portafotografia,quadro,astuccio,portafotocamere,schermo,zaino per fotocamera,porta-usb,album fotografico,album di fotografie,portafoglio fotografico,sony,portafoglio
+furnishings/fittings,portafotografia,album,raccoglitore,portafoto,torcia,borsa a tracolla,portafoglio fotografico,cornice,fotogiornale,album fotografico,canon eos,tablet
+furnishings/fittings,portafotografia,portafotografia digitale,passepartout,fotocamera point-and-shoot,cassetta,borsetta per fotocamera,porta-negativi,portaritratti,fotolibro,portafoglio di immagini,kodak,computer
+furnishings/fittings,posacenere,posacenere di vetro,posacenere da terra,posacenere da tavolo,bidone,posacenere da tavolo,tazza da caffè,posacenere da tavolo,scarpe,pasta,bicchiere,tazza
+furnishings/fittings,posacenere,posacenere di plastica,portacenere,posacenere da giardino,contenitore,posacenere portatile,tazza da tè,posacenere da esterno,cintura,posacenere nero,sciarpa,bicchiere
+furnishings/fittings,posacenere,posacenere di metallo,posacenere da giardino,posacenere da spiaggia,cisterna,posacenere da pipa,tavola da pranzo,posacenere da giardino,lavabo,polvere,anello,c
+furnishings/fittings,posacenere,posacenere da tavolo,posacenere da tavolo,posacenere da esterno,scatola,posacenere in vetro,piastra da cucina,posacenere da parete,scrivania,zucchero,piatto,tavolino
+furnishings/fittings,posacenere,posacenere tascabile,posacenere da esterno,posacenere da esterni,recipiente,posacenere elettronico,piatto da pasta,posacenere da spiaggia,lavandina,penne,borsa,piatto
+stationery,quaderno,quaderno a righe,quaderno a righe,quaderno di matematica,quaderno di scuola,quaderno a spirale,quaderno rigido,quaderno ad anelli,quaderno di lavoro,diario,carta,carta
+stationery,quaderno,quaderno a quadretti,quaderno a quadretti,quaderno di storia,quaderno di appunti,quaderno a quadretti,quaderno da scuola,quaderno a righe,quaderno da scuola,libro,a5,foglio
+stationery,quaderno,quaderno ad anelli,quaderno a fogli mobili,quaderno di appunti,diario,quaderno con copertina rigida,quaderno da cucina,diario,quaderno di matematica,notebook,diario,libro
+stationery,quaderno,quaderno a fogli bianchi,quaderno a spirale,quaderno di disegno,quaderno di lavoro,quaderno per bozze,quaderno da laboratorio,quaderno a quadretti,diario,nota,biglietto,notebook
+stationery,quaderno,quaderno da disegno,quaderno ad anelli,quaderno scolastico,quaderno di ricordi,quaderno per appunti,quaderno da disegno,quaderno per appunti,diario di lavoro,carta,foglio,penna
+furnishings/fittings,quadro,quadro astratto,autoritratto,quadro da parete,quadro a muro,ritratto,quadro pittorico,dipinto,quadro analogo,quadro di legno,quadrato,dipinto
+furnishings/fittings,quadro,quadro elettrico,affresco,dipinto,quadro di cartone,astratto,quadro dipinto,incisione,quadro nero,quadro nero,quadro a tavola,quadro a olio
+furnishings/fittings,quadro,ritratto,ritratto,quadro di carta,quadro di legno,pop art,quadro di controllo,disegno,quadro piano,quadro dipinto,quadro di pittura,quadro di cucina
+furnishings/fittings,quadro,dipinto,acquerello,quadro da soffitto,quadro di vetro,surrealista,quadro strumentale,affresco,quadro a tempera,quadro analogo,quadro a olio,quadro a pastello
+furnishings/fittings,quadro,natura morta,disegno,quadro da stanza,quadro di famiglia,impressionista,quadro di bordo,fotografia,quadro a pastello,quadro a colori,cerchio,disegno
+plants,quercia,leccio,quercus robur,quercia bianca,abetina,quercia bianca,quercia rossa,quercia rossa,quercia rossa,quercia bianca,quercia rossa,quercia rosso
+plants,quercia,quercia secolare,roverella,quercia rossa,quercia di montagna,quercia sessile,quercia nera,quercia peduncolata,quercia bianca,quercia sessiliflora,quercia rosso,fagus
+plants,quercia,rovere,quercus cerris,quercia di farnia,cipresso,quercia palustre,quercia bianca,quercia comune,quercia americana,quercia robur,quercia bianca,acero
+hobbies,racchetta,racchetta da tennis,racchetta da tennis,racchetta da tennis,racchetta da tennis,racchetta da tennis,racchetta da tennis,racchetta da tennis,racchetta da tennis,racchetta da tennis,racchetta da tennis,racchetta da tennis
+hobbies,racchetta,racchetta da padel,racchetta da squash,racchetta da squash,racchetta da squash,racchetta da beach tennis,racchetta da ping pong,racchetta da squash,racchetta da squash,racchetta da squash,tennis,tennis
+hobbies,racchetta,racchetta da ping pong,racchetta da paddle,racchetta da tennis da tavolo,,racchetta da ping pong,racchetta da croquet,racchetta da sci,tennis,racchetta da cricket,racchetta da squash,racket
+hobbies,racchetta,racchetta da badminton,racchetta da ping-pong,racchetta da tennis da spiaggia,,racchetta da squash,racchetta da squash,racchetta da padel,racchetta da tennis da tavolo,racchetta da ping pong,squash,squash
+hobbies,racchetta,racchetta da volano,,racchetta da paddle,,racchetta da paddle,racchetta da pesca,racchetta da ping pong,racchetta da cricket,racchetta da tennis tavolo,pallavolley,racchetta da squash
+stationery,righello,squadra,righello a triangolo,righello di carta,campana,righello in plastica,righello da disegno,righello da sarto,righello di legno,12,fork,12
+stationery,righello,riga,righello flessibile,righello di plastica,righello di pietra,righello da sarto,righello a sfera,righello da scuola,rig,righello metrico,borsa,calce
+stationery,righello,righello di plastica,righello curvo,righello di legno,campanello,righello da taglio,righello a punta,righello lineare,penna,regolo,cuffia,20
+stationery,righello,goniometro,righello pieghevole,righello laser,sireno,righello digitale,righello a,righello da muratore,righello di plastica,proiettore,stradello,18
+stationery,righello,righello di metallo,righello calibrato,righello ottico,righello di metallo,righello da disegno,righello magnetico,righello in legno,righello di metallo,quadrante,plate,15
+housing buildings,ripostiglio,sgabuzzino,armadio,armadio,cassettone,armadio,armadio,armadio,armadio,scarpe,carta da lettere,camice
+housing buildings,ripostiglio,sottoscala,dispensa,armadio a muro,cassa,cassettiera,cassettone,scaffale,cassaforte,t-shirt,carta,armadio
+housing buildings,ripostiglio,ripostiglio per scope,magazzino,scaffale,armadio,portaombrelli,cassetta,scatola,armadietto,camicia,carta da posta,borsa
+foods,riso,riso basmati,arborio,riso integrale,arborio,riso integrale,arborio,riso bianco,riso bianco,riso bianco,arborio,riso bianco
+foods,riso,riso venere,baldo,riso sushi,riso integrale,riso parboiled,riso integrale,riso basmati,riso integrale,grano di riso,arancetto,riso nero
+foods,riso,riso carnaroli,carnaroli,riso glutinoso,sushi,riso nero,riso parboiled,riso integrale,riso arborio,riso parboiled,aranci,arancio
+foods,riso,riso integrale,basmati,riso arborio,risotto,riso venere,riso basmati,arborio,riso parboiled,riso integrale,arrozzo,arrozzo
+foods,riso,riso arborio,jasmine,riso basmati,risotto alla pescatora,riso glutinoso,riso carnaroli,riso arborio,arborio,riso arborio,riso bianco,riso integrale
+plants,rosa,rosa rossa,rosa damascena,rosa canina,,rosa canina,rosa fiorita,rosa tea,rosa rossa,fiore di rosa,ro,fiore
+plants,rosa,rosa bianca,rosa centifolia,rosacee,,rosa rugosa,ro,rosa rossa,fiore,rosa rosa,rosa dei venti,fiori
+plants,rosa,rosa canina,rosa gallica,rosa di gerusalemme,,rosa gallica,rosa di vetro,rosa gialla,fiori,fiore,rosa pallida,rosa rosso
+plants,rosa,rosa gialla,rosa canina,rosa di damasco,,rosa centifolia,rosa colore,rosa fucsia,rosario,rosa rosa rosa,rosa rosa,foglia
+plants,rosa,rosa antico,rosa moschata,rosa damascena,,rosa alba,rosa gemma,rosa bianca,rosa delle vette,rosa rosa rossa,rosa rosso,pistillo
+plants,salice,salice piangente,salix alba,salice da calcio,salice di metallo,salix alba,salice comune,salice piangente,salice bianco,salice bianco,salice americano,acero
+plants,salice,salice bianco,salice bianco,sal,salice da terra,salix caprea,abete bianco,pioppo tremulo,salice rosso,salice verde,salice arboreo,pioppo
+plants,salice,salice nero,salice rosso,,salice da acqua,salix purpurea,salice blu,salice argenteo,salice nero,salice nero,acacia,abete
+plants,salice,salice odoroso,salix pentandra,,,salix fragilis,salice piangente,salice rosso,salice comune,salice rosa,salice bianco,salice bianco
+housing buildings,scala,scala a chiocciola,scala a chiocciola,scala a chiocciola,scala mobile,scala a chiocciola,scala a chiocciola,scala a chiocciola,scala a chiocciola,scala esterna,scala a scala,scala a pioli
+housing buildings,scala,scala a pioli,scala mobile,scala a pioli,scala a chiocciola,scala a giorno,scala esterna,scala di sicurezza,scala rettangolare,scala di emergenza,scala a serpentina,scala verticale
+housing buildings,scala,scala mobile,scala a pioli,scala a piattaforme,scala a piattaforma,scala a sbalzo,scala interna,scala a pioli,scala da salire,scala di accesso,scala 1,scala a gradini
+housing buildings,scala,scala interna,scala elicoidale,scala a piattaforma,scala a spirale,scala a elica,scala elicoidale,scala mobile,scala retta,scala interna,scala a filo,stairway
+housing buildings,scala,scaletta,scala a libro,scala a mano,scala fissa,scala a chiocciola elicoidale,scala rettangolare,scala esterna,scala di legno,scala di servizio,scala a ruote,scala mobile
+clothes,scarpa,scarpa da ginnastica,stivale,scarpa da ginnastica,scarpa da ballo,stivaletto,sandalia,scarpa da ginnastica,scarpa da ginnastica,sandalo,scarpa da corsa,scarpa a punta
+clothes,scarpa,scarpa col tacco,sandalo,scarpa da danza,scarpa da ginnastica,stivale da pioggia,stivali,scarpe da ginnastica,scarpa da corsa,pantofole,scarpa da calzare,stivali
+clothes,scarpa,sneakers,ciabatta,scarpa da tennis,scarpa da neve,décolleté,sneaker,scarpa da calcio,scarpa da lavoro,boots,scarpa da sport,scarpa da tennis
+clothes,scarpa,stivali,scarpa da ballo,scarpa da corsa,scarpa da sci,scarpa da ginnastica,allenamento,sandalo,scarpa da tennis,sandalino,scarpa da ginnastica,sandalia
+clothes,scarpa,scarpa elegante,anfibio,stivaletto,scarpa da corsa,scarpa da corsa,scarpe da sci,stivale,scarpa da snowboard,loafer,scarpa da tennis,scarpa da gara
+body parts,schiena,schiena dritta,schiena dritta,schiena alta,coda,colonna vertebrale,schiena umana,dorsale,schiena di legno,sfinge,cervicale,muro
+body parts,schiena,schiena curva,dorso,schiena curva,colonna vertebrale,vertebre,schiena di una montagna,toracica,schiena di vetro,,schiena vertebra,ossa
+body parts,schiena,schiena scoliotica,schiena curva,schiena di cavallo,vertebre,midollo spinale,schiena di una colonna,dorsale superiore,schiena di un uomo,,schiena a collo,pavimento
+body parts,schiena,schiena storta,dorsale,schiena larga,petto,nervi spinali,schiena di una sedia,dorsale alta,schiena di pesce,,articolazioni,soffitto
+clothes,sciarpa,sciarpa di lana,scialle,sciarpa da sci,cappuccio,sciarpa di cashmere,sciarpa a vento,sciarpa di seta,sciarpa lunga,sciarpa di lana,bianca,sciarpa in seta
+clothes,sciarpa,scaldacollo,sciarpa di lana,sciarpa da motociclista,cappello,sciarpa di lana,sciarpa tubolare,sciarpa di lana,sciarpa di lana,sciarpa di seta,sciarpa in seta,sciarpa in cotone
+clothes,sciarpa,foulard,foulard,sciarpa di lana,guanti,sciarpa tubolare,sciarpa a cuffie,sciarpa di cotone,sciarpa a vento,capello,sciarpa bianca,sciarpa in lino
+clothes,sciarpa,scialle,sciarpa di seta,sciarpa di seta,sciarpa di cotone,sciarpa pashmina,sciarpa a tubo,sciarpa di cashmere,sciarpa corta,sciarpa lunga,blu,sciarpa in poliestere
+clothes,sciarpa,sciarpa lunga,sciarpa di cotone,sciarpa da calcio,sciarpa di lana,sciarpa invernale,sciarpa lana,sciarpa di cotone a righe,sciarpa di poliestere,scarpe,nera,sciarpa in cashmere
+animals,scimmia,scimpanzè,gorilla,scimpanzé,capuchino,scimpanzé,gibbon,babbuino,gorilla,gorilla,babbuino,scimpanzé
+animals,scimmia,gorilla,tamarino,gorilla,mandrillo,saki,macaco,gorilla,macaco,orangutano,gorilla,orangutan
+animals,scimmia,orango,scimpanzé,mandrillo,scimpanzé,capuccino,siamang,orangutan,bonobo,bonobo,orangutan,scimpanzè
+animals,scimmia,babbuino,babbuino,orango,gorilla,macaco,gorilla,gibbone,scimmia comune,babbuino,gibbon,gorilla
+animals,scimmia,macaco,uistitì,gibbon,capuchin,tamarino,bonobo,scimpanzé,scimpanzé,gibbon,chimpanzee,babbuino
+kitchenware,scolapasta,scolapasta di plastica,scolapasta elettrico,scolapasta in acciaio,cucchiaio,scolapasta in acciaio inossidabile,spaghetti,scolapasta in acciaio inossidabile,penna,,barilla,scolapasta metallica
+kitchenware,scolapasta,scolapasta di acciaio,,scolapasta elettrico,coltello,scolapasta da viaggio,spumeggiante,scolapasta in plastica,pennello,,de cecco,scolapasta da pane
+kitchenware,scolapasta,scolapasta di metallo,,scolapasta in inox,macchina da cucina,scolapasta pieghevole,scarpetta,scolapasta in silicone,carta da scrivere,,rigatoni,scolapasta in ceramica
+kitchenware,scolapasta,scolapasta con manico,,scolapasta in alluminio,forchetta,scolapasta in silicone,linguine,scolapasta pieghevole,matita,,ziti,scolapasta in plastica
+kitchenware,scolapasta,scolapasta di silicone,,,cucchiaio da pasta,scolapasta in plastica,pappardelle,scolapasta quadrato,alfabeto,,penne,
+stationery,scolorina,scolorina a nastro,,cipria,vernice,candeggina,tintura,smalto,docente,gomma da masticare,scolarina,bicchiere
+stationery,scolorina,scolorina liquida,,calvizie,rosso,sapone per bucato,acquerello,colorante alimentare,scuola,stetoscopio,calcolatrice,cassette
+stationery,scolorina,scolorina a penna,,tinta capelli,verniciatura,decolorante,tinta a olio,smalto per unghie,anziani,microscopio,saggia,bicchierino
+stationery,scolorina,bianchetto,,eyel,tintura,sbiancante per capelli,vernice acrilica,acrilica,aeroplano,gom,stilografo,contenitore
+stationery,scolorina,scolorina a pennello,,canizie precoce,colorante alimentare,cloro,vernice,vernice per unghie,borsa scolastica,pettiniera,compasso,tazza
+vehicles,scooter,scooter 50,ape,vespa,scooter a due ruote,scooter elettrico,scooter a due ruote,scooter a pedali,vespa,vespa,vespa,
+vehicles,scooter,scooter elettrico,scooter elettrico,scooter elettrico,scooter elettrico,scooter da neve,scooter da calcio,scooter a benzina,scooter a motore,lambretta,scooter elettrico,
+vehicles,scooter,vespa,a pedali,scooter da corsa,scooter a motore,scooter da cross,scooter da corsa,scooter elettrico,scooter elettrico,piaggio,motoscooter,
+vehicles,scooter,scooter 125,scooter a pedali,scooter da strada,scooter a tre ruote,scooter per disabili,scooter elettrico,scooter a tre ruote,scooter a pedali,moto guzzi,piaggio,
+vehicles,scooter,motorino,vespa,bmx,scooter a quattro ruote,scooter sharing,scooter a tre ruote,scooter da corsa,lambretta,aprilia,electric scooter,
+furniture,scrivania,scrivania di legno,scrivania angolare,scrivania da ufficio,cassettiera,scrivania da ufficio,scrivania tradizionale,scrivania da ufficio,tavolo di lavoro,sedia,tavolo,tavolo
+furniture,scrivania,scrivania da ufficio,scrivania per computer,scrivania da studio,tavolo da lavoro,scrivania per computer,scrivania da studio,scrivania per ufficio,tavolo da scrivere,tavolo da lavoro,scrivania mobile,tavolo da lavoro
+furniture,scrivania,scrivania angolare,*scrivania angolare*,scrivania da cucina,scrivania portatile,scrivania con cassetti,scrivania da cucina,scrivania per bambini,scrivania in vetro,scrivere,tavolino,tavolo da studio
+furniture,scrivania,scrittoio,scrittoio,scrivania per bambini,scrivania a rotelle,scrivania in stile moderno,scrivania rettangolare,scrivania con cassetti,banco da lavoro,poltrona,tavolo da lavoro,cassapanca
+furniture,scrivania,scrivania di vetro,scrivania con cassetti,scrivania per computer,scrivania da ufficio,scrivania in stile industriale,scrivania da ufficio,scrivania con piano in legno,cartapestaio,tavolo di lavoro,tavolo da pranzo,scrigno
+furniture,sedia,sedia a dondolo,poltrona,sedia da giardino,sedia a rotelle,sedia da ufficio,sedia a rotelle,sedia da ufficio,sedia a rotelle,poltrona,sedia per ufficio,sedia da tavola
+furniture,sedia,sedia di legno,sedia a dondolo,sedia da ufficio,poltrona,sedia per bambini,sedia da giardino,sedia da gaming,poltrona,sedia a rotelle,seduta,sedia a rotelle
+furniture,sedia,sedia pieghevole,sedia a rotelle,sedia da cucina,sedia a sdraio,sedia a dondolo,sedia da cucina,sedia a rotelle,sedia a ruote,sedia a quattro zampe,sedia da pranzo,cattedra
+furniture,sedia,sedia di plastica,sgabello,sedia da spiaggia,sedia a gambe,sedia da giardino,sedia da tavola,sedia da regista,sedia a quattro zampe,sedia da lavoro,sedia normale,sedia per la cucina
+furniture,sedia,sedia da ufficio,sedia pieghevole,sedia da bagno,divano,sedia pieghevole,sedia da pranzo,sedia pieghevole,sedia a sbalzo,sedia da salotto,sedia a sedere,cofano
+animals,serpente,serpente a sonagli,boa,cobra,vipera,cobra,anaconda,serpente velenoso,cobra,cobra,vipera,corallo
+animals,serpente,cobra,cobra,boa,cobra,boa constrictor,python,serpente a sonagli,anaconda,python,cobra,serpente rettile
+animals,serpente,vipera,vipera,serpente a sonagli,serpente marino,anaconda,boa,serpente non velenoso,vipera,serpente reale,boa,cervello
+animals,serpente,biscia,serpente corallo,vipera,serpente alato,vipera,vipera,serpente marino,python,anaconda,culebra,mascella
+animals,serpente,boa,anaconda,pitone,adder,pitone,cobra,boa,iguana,vipera,serpente di diamante,occhi
+clothes,slip,perizoma,slip da donna,slip da donna,guanti da sci,slip da donna,slip da notte,slip da uomo,calzino,pantaloni,slip-on,calze
+clothes,slip,tanga,boxer,slip da uomo,calzatura,slip termici,slip intimo,slip con vita alta,guanti,calze,fusto,slip-in
+clothes,slip,slip brasiliana,slip da uomo,slip da bagno,slip da piscina,slip di pizzo,slip in seta,slip con vita bassa,calzolino,pantaloncini,slipping,bikini
+clothes,slip,boxer,mutande,slip da sport,grembiule,slip di cotone,slip elastico,slip di pizzo,scarpe da ginnastica,pantaloni corti,guanti,pantyhose
+clothes,slip,culotte,mutandine,slip da nuoto,guanti da neve,slip igienici,slip da piscina,slip da donna,borsa,pantaloni lungi,scarpette,tights
+housing buildings,soffitto,soffitto alto,a cassettoni,soffitto a volta,soffitto in legno,soffitto in gesso,soffitto piano,soffitto a volta,soffitto ligneo,soffitto ligneo,soffitto in legno,soffitto a tetto
+housing buildings,soffitto,soffitto a cupola,a botte,soffitto a cassetta,soffitto a volta,soffitto a volta,soffitto a cassettoni,soffitto a cassettoni,soffitto in alluminio,soffitto semplice,soffitto a cassetto,tetto
+housing buildings,soffitto,soffitto di legno,controsoffitto,soffitto a travi,soffitto a pavimento,soffitto in legno,soffitto in legno,soffitto sospeso,soffitto in legno,architrave,cassette,soffitto di legno
+housing buildings,soffitto,controsoffitto,a padiglione,soffitto a travetti,soffitto in stucco,soffitto in vetro,soffitto in alluminio,soffitto in legno,sala di studio,pavimento,soffitto a tetto,soffitto a pavimento
+housing buildings,soffitto,soffitto a volta,piano,soffitto in metallo,soffitto in vetro,soffitto piatto,soffitto a vela,soffitto in cartongesso,soffitta,parete,soffitto in cemento,soffitto cassettonato
+housing buildings,soggiorno,soggiorno open space,salotto,divano,divano,living,living room,divano,hotel,couch,hotel,soffa
+housing buildings,soggiorno,soggiorno salotto,tinello,tv,tv,open space,sala da pranzo,tappeto,bed and breakfast,coffee table,motel,sala
+body parts,spalla,spalla umana,spalla a sbalzo,spalla di maiale,spalla di animale,spalla congelata,spalla destra,spalla umana,capo,spallino,spalla rosa,borsa
+body parts,spalla,spalla destra,spalla a bretella,spalla di pollo,spalla anteriore,spalla sporgente,spalla sinistra,spalla destra,spallina,spalla di carne,soggiorno,frullatore
+body parts,spalla,spalla animale,spalla a botte,spalla di cavallo,spalla sinistra,spalla con tendinite,spalla anteriore,spalla di montone,borsa,giacca,spalla per bimbo,spalla alta
+body parts,spalla,spalla larga,spalla a spigolo,spalla di agnello,spalla umana,spalla lussata,spalla posteriore,spalla di una chitarra,spalliera,uomo,spalla bassa,vestitino
+body parts,spalla,spalla sinistra,spalla a kimono,spalla di bue,spalla posteriore,spalla dislocata,spalla superiore,spalla di una sedia,spallone,ragazza,sponge bob,aspirapolvere
+furnishings/fittings,specchio,specchio da parete,specchio da parete,specchio a muro,specchio da parete,specchio da trucco,specchio a cavalletto,specchio da parete,mirrore,mirrore,specchio ad angolo,specchio ad angolo
+furnishings/fittings,specchio,specchio rotondo,specchio da terra,specchio da bagno,specchio a muro,specchio da tavolo,specchio concavo,specchio da tasca,specchio di legno,specchio di legno,specchio da bagno,specchio riflettore
+furnishings/fittings,specchio,specchio portatile,specchio da toeletta,specchio da parete,specchio a parete,specchio da parete,specchio oscillante,specchio da bagno,specchiolo,mirror,specchio a muro,
+furnishings/fittings,specchio,specchio da bagno,specchio da soffitto,specchio a mano,specchio portatile,specchio concavo,specchio a prisma,specchio da trucco,specchio ad angolo,specchio di metallo,specchio per donna,
+furnishings/fittings,specchio,specchio retrovisore,specchio a figura intera,specchio da toeletta,specchio da bagno,specchio retrovisore,specchio a tre facce,specchio con cornice,specchio di vetro,specchio di cristallo,specchio a parabola,
+stationery,spillatrice,spillatrice tascabile,spillatrice automatica,spillatrice a batteria,lavatrice,spillatrice portatile,spillatrice elettrica,spillatrice manuale,lavastoviglie,spillatrice elettrica,spillatrice a batteria,stapler
+stationery,spillatrice,spillatrice manuale,spillatrice manuale,pistola spray,lavastoviglie,spillatrice professionale,spillatrice manuale,spillatrice professionale,tazza,sartoria,*spillatrice*,stilografo
+clothes,t-shirt,t-shirt a maniche corte,polo,polo,polo,t-shirt a maniche corte,t-shirt a collo rotondo,t-shirt a manica corta,t-shirt bianca,t-shirt nero,polo,t-shirt 2
+clothes,t-shirt,t-shirt a maniche lunghe,canotta,camicia,maglia,t-shirt termica,t-shirt classico,t-shirt senza maniche,t-shirt unisex,t-shirt grigio,camisole,t-shirt a maniche corte
+clothes,t-shirt,t-shirt con scollo a v,maglietta,maglietta a maniche lunghe,maglia a maniche corte,t-shirt da lavoro,t-shirt a maniche lunghe,t-shirt a maniche corte,t-shirt classica,t-shirt con maniche corte,t-shirt a stelle,t-shirt bianco
+clothes,t-shirt,t-shirt bianca,maglietta a maniche lunghe,maglietta,camicia,t-shirt da notte,t-shirt a righe,t-shirt con cappuccio,polo,t-shirt bianco,t-shirt con cappuccio,t-shirt a maniche lunghe
+clothes,t-shirt,t-shirt colorata,camicia,maglietta a maniche corte,camisola,t-shirt bianca,t-shirt a strisce,t-shirt con tasche,t-shirt a maniche lunghe,t-shirt rosa,t-shirt a maniche lunghe,t-shirt 3
+stationery,taccuino,taccuino a righe,quaderno,taccuino di appunti,diario,taccuino a spirale,diario,taccuino a spirale,pennarello,laptop,diario,notebook
+stationery,taccuino,taccuino in pelle,agenda,taccuino personale,quaderno,taccuino di carta,quaderno,taccuino da disegno,telefono,notebook,libro,diario
+stationery,taccuino,taccuino a quadretti,diario,taccuino di viaggio,taccuino di viaggio,taccuino rilegato,taccuino di leonardo da vinci,taccuino a quadretti,patch panel,tablet,notebook,tablet
+stationery,taccuino,agenda,quaderno a quadretti,taccuino di disegno,cartaceo,taccuino da viaggio,diario di bordo,taccuino con copertina rigida,ponte,netbook,taccuino pieno,smartphone
+stationery,taccuino,block notes,quaderno a righe,diario,taccuino di cucina,taccuino per appunti,diario intimo,taccuino a righe,controller,ultrabook,blocco,laptop
+kitchenware,tagliere,tagliere in legno,tagliere in legno,tagliere da cucina,tagliere di legno,tagliere in legno,tagliere da tavolo,tagliere in legno,tagliere a mano,coltello,tagliere da cucina,tagliere da cucina
+kitchenware,tagliere,tagliere in plastica,tagliere da carne,tagliere da lavoro,piatto,tagliere di legno,tagliere da tavola,tagliere per carne,tagliere per carne,tagliere manuale,bellezza,tagliere per carne
+kitchenware,tagliere,tagliere per salumi,tagliere da formaggio,tagliere da pane,tagliere da cucina,tagliere pieghevole,tagliere da carne,tagliere in acciaio inossidabile,tagliere per cucina,tagliere a rotelle,carne,tagliere per frutta
+kitchenware,tagliere,tagliere in acciaio,tagliere in marmo,tagliere da formaggi,tagliere di vetro,tagliere di bambù,tagliere da pane,tagliere per verdure,tagli,,cucina,tagliere per verdure
+kitchenware,tagliere,tagliere piccolo,tagliere da pane,tagliere da bar,tagliere di plastica,tagliere da banco,tagliere da cucina,tagliere da cucina,,,fruita,tagliere per pane
+furnishings/fittings,tappeto,tappeto persiano,tappeto persiano,tappeto da bagno,tappeto da giardino,tappeto persiano,tappeto persiano,tappeto persiano,tappeto da bagno,tappeto persiano,carpet,tappeto orientale
+furnishings/fittings,tappeto,tappeto da bagno,tappeto tibetano,tappeto persiano,tappeto da salotto,tappeto moderno,tappeto orientale,tappeto orientale,ruggine,tappeto orientale,rug,orientale
+furnishings/fittings,tappeto,tappeto turco,tappeto cinese,tappeto da cucina,tappetino,tappeto shag,tappeto di lana,tappeto turco,tappeto da letto,tappetino,tappeto da bagno,tappeto di pelle
+furnishings/fittings,tappeto,tappetino,tappeto berbero,tappeto da salotto,tappeto da bagno,tappeto runner,tappeto di cotone,tappeto afghano,tappetino,tappeto di legno,oriental rug,tappeto persiano
+furnishings/fittings,tappeto,tappeto zerbino,tappeto kilim,tappeto da camera da letto,tappeto da cucina,tappeto da preghiera,tappeto indiano,tappeto kilim,tappetone,tappeto di lana,floor mat,tappeto caucasico
+furniture,tavolo,tavolo di legno,tavolo da cucina,tavolo da pranzo,tavolo da pranzo,tavolo da pranzo,tavolo da pranzo,tavolo da pranzo,tavolo da pranzo,tavolo da lavoro,tavolo da cucina,tavolo da cucina
+furniture,tavolo,tavolo da cucina,da cucina,tavolo da bar,tavolo da cucina,tavolo da salotto,tavolo da gioco,tavolo da cucina,tavolo da cena,tavolo da cena,tavolo da pranzo,tavolo da pranzo
+furniture,tavolo,tavolo rotondo,tavolo da lavoro,tavolo da giardino,tavolo da gioco,tavolo da giardino,tavolo da cucina,tavolo da gioco,tavolo in legno,tavolo con vasi di fiori,tavolo da lavoro,tavolo da lavoro
+furniture,tavolo,tavolo allungabile,tavolo da notte,tavolo da biliardo,tavolo da scrivania,tavolo da conferenza,tavolo da poker,tavolo da giardino,tavolo in metallo,tavolo da pranzo,tavolo da cena,tavolo da cena
+furniture,tavolo,tavolo da lavoro,tavolo da ping-pong,tavolo da cucina,tavolo da lavoro,tavolo da caffè,tavolo da cena,tavolo da biliardo,tavolo da gioco,tavolo da sala,tavola,tavolo da gioco
+kitchenware,teglia,teglia da forno,teglia per pizza,teglia per pizza,teglia per pizza,teglia da forno,teglia da forno,teglia per biscotti,teglia di ceramica,teglia da forno,capello,teglia da forno
+kitchenware,teglia,teglia rotonda,teglia per plumcake,teglia di cottura,teglia per biscotti,teglia per muffin,teglia da pizza,teglia per pizza,piattaforma,teglia di porcellana,tessuto,piatto
+kitchenware,teglia,teglia rettangolare,teglia per crostate,teglia per dolci,teglia per dolci,teglia per lasagne,teglia da gratin,teglia per brownie,teglia per pizza,teglia a forma,capelli,teglia per forno
+kitchenware,teglia,pirofila,teglia per torte,teglia per focaccia,teglia da forno,teglia per torte,teglia da lasagna,teglia da forno,teglia da forno,teglia per lasagna,capelli corti,tazza
+kitchenware,teglia,teglia per pizze,teglia per muffin,teglia di legno,teglia per focaccia,teglia per biscotti,teglia da focaccia,teglia per muffin,teglia di vetro,teglia di vetro,capelli a cascata,teglia per pizza
+hobbies,televisione,televisione al plasma,tv a schermo piatto,smart tv,tv a schermo piatto,televisore al plasma,televisione a tubo catodico,smart tv,televisore,televisore,monitor,monitor
+hobbies,televisione,televisione a tubo catodico,lcd,tv oled,schermo,televisione a schermo piatto,televisore a tubo catodico,tv led,monitor,antenna,tv,display
+hobbies,televisione,televisione a schermo piatto,altoparlante,tv 4k,schermo led,smart tv,tv a tubo catodico,tv al plasma,televisore a schermo piatto,tubo,smart tv,schermo
+hobbies,televisione,televisione led,led,tv per computer,tv 3d,televisore portatile,televisione a led,tv a schermo piatto,televisore a plasma,televisione tradizionale,tv a colori,monitor tv
+hobbies,televisione,televisione 4k,oled,tv a tubo catodico,tv plasma,televisore 3d,televisore 3d,tv oled,televisore a led,schermo,tv digitale,monitor schermo
+stationery,temperino,temperino singolo,temperino svizzero,temperino da cucina,candelabro,temperino da tasca,temperino da cucina,temperino a lama,cucchiaio,termometro,penne,calzature
+stationery,temperino,temperino doppio,coltello a scatto,temperino per unghie,caldo,temperino a lama fissa,temperino elettrico,temperino multifunzione,scaldino,termostato,birra,telefono
+stationery,temperino,temperamatite,coltello a serramanico,,cera,temperino multiuso,cucina in metallo,temperino svizzero,temperino da cucina,frullatore,bicchiere,abbigliamento
+stationery,temperino,temperino elettrico,stiletto,,luce,temperino elettrico,teglia da cucina,temperino a ghigliottina,tazzina,elettrico,calzature,scarpe
+stationery,temperino,temperino con contenitore,temperino a serramanico,,di legno,temperino con lama in acciaio inossidabile,panino presso,temperino manuale,tazza,termosifono,caffè americano,scarponi
+furnishings/fittings,tenda,tenda da campeggio,tenda a rullo,tenda da bagno,tenda da cucina,tenda da sole,tenda da letto,tenda da campeggio,tenda da letto,tenda di tela,tenda da camping,tenda da camping
+furnishings/fittings,tenda,tenda da sole,da campeggio,tenda da giardino,tenda da giardino,tenda da campeggio,tenda da campo,tenda da sole,tenda per la casa,tenda di camping,casa,tenda da camper
+furnishings/fittings,tenda,tenda per finestre,tenda da campeggio,tenda da sole,tenda da camera,tenda a pergola,tenda da camping,tenda da giardino,tenda da camping,tenda per finestre,camping,tenda da campeggio
+furnishings/fittings,tenda,tenda veneziana,da giardino,tenda da spiaggia,tenda da spiaggia,tenda da sole da giardino,tenda da bagno,tenda da viaggio,tenda da spiaggia,tela,tenda da spiaggia,tendone
+housing buildings,terrazzo,balcone,terrazzo alla veneziana,terrazzo in pietra,pavimento,terrazzo pensile,terrazzo antico,balcone,balcone,terrazzo esterno,cemento,pavimento
+housing buildings,terrazzo,terrazzo coperto,terrazzo a sbalzo,travertino,piatto,terrazzo con piante,terrazzo in marmo,terrazzo in marmo,piazza,balcone,pavimento,pianoforte
+housing buildings,terrazzo,terrazzo panoramico,terrazzo pensile,marmo,pavimentazione,terrazzo a livello,terrazzo in pietra,terrazzo in cemento,cortile,terrazzo aperto,mosaico,casa
+housing buildings,terrazzo,terrazzo con vista mare,terrazzo a livello,pavimento in cemento,mosaico,terrazzo con vista mare,terrazzo classico,terrazzo al piano terra,loggia,terrazzo di accesso,pavimento in cemento,cuscino
+body parts,testa,testa grande,testa umana,testa di cavallo,cranio,testa umana,testa umana,testa umana,capo,capo,testa umana,cervello
+body parts,testa,testa ovale,testa di moro,testa di ponte,testa di pesce,testa di cavallo,testa di colonna,testa di un essere umano,cervello,testa di persona,cervello,faccia
+body parts,testa,testa rotonda,testa di ponte,testa umana,testa di cavallo,testa di pesce,testa di bottiglia,capo,testa di legno,cefalo,testa capo,cranio
+body parts,testa,testa dura,testa di legno,testa di pesce,testa di legno,testa di uccello,testa di serpente,testa di statua,testa umana,fronte,testa animale,occhi
+body parts,testa,testa quadrata,testa di serie,testa di leone,testa di serpente,testa di vitello,testa di martello,testa di animale,cerebro,testa umana,testa robot,naso
+housing buildings,tetto,tetto spiovente,tetto a falde,tetto a capriata,tetto in legno,tetto piano,tetto in terracotta,tetto a due falde,tettoia,tettoia,tetto in legno,tetto di tegole
+housing buildings,tetto,tetto piano,a doppia falda,tetto a due falde,tetto a piramide,tetto a padiglione,tetto in zinco,tetto piano,tettoia di vetro,tetto a capanna,tetto di cemento,tetto in cemento
+housing buildings,tetto,tetto con tegole,tetto a quattro falde,tetto a piramide,tetto a punta,tetto a volta,tetto a falde piane,tetto a falda,tettoia di legno,pavimento,tetto di tegole,tetto in legno
+housing buildings,tetto,tetto a punta,tetto verde,tetto a padiglione,tetto a paglia,tetto a shed,tetto in piombo,tetto a capanna,tettoia di plastica,tetto di vetro,tetto di rame,tetto di legno
+animals,tigre,tigre bianca,tigre del bengala,tigre di sumatra,tigre del bengala,tigre del bengala,tigre indiana,tigre siberiana,tigre africana,tigris,tigre africana,tigre bengalese
+animals,tigre,tigre del bengala,tigre di sumatra,tigre di bali,tigre del sud-est asiatico,tigre siberiana,tigre bianca,tigre del bengala,tigre siamese,tigre reale,tigre indiana,tigre asiatico
+animals,tigre,tigre siberiana,tigre di amur,tigre asiatica,tigre del sud,tigre di giava,tigre del bengala,tigre di sumatra,tigre indiana,logo,tigre americana,tigre bengala
+animals,tigre,tigre di sumatra,tigre di bali,tigre di bengala,tigre del nepal,tigre di bali,tigre malese,tigre malese,tigre del bengala,tatuaggio,tigre del bengala,tigre indiano
+animals,tigre,tigre cinese,tigre del sud della cina,tigre del sud,,tigre di sumatra,tigre siamese,tigre di bali,tigre bengala,immaginario,tigre siberiana,tigre siberiano
+animals,topo,topo di campagna,topo comune,topo domestico,formica,topo da laboratorio,topo domestico,topo campagnolo,topolino,topo domestico,topo domestico,ratto
+animals,topo,topo ragno,topo domestico,topo di laboratorio,topo di terra,topo toporagno,topo canguro,topo delle risaie,ratto,topolino,rodent,ratti
+animals,topo,pantegana,topo da laboratorio,topo muschiato,formichiere,topo domestico,topo striato,topo da compagnia,topo selvatico,topo di laboratorio,ratto,mouse
+animals,topo,topo domestico,topo selvatico,topo di campagna,ragnatela,topo muschiato,topo volante,topo comune,topo di laboratorio,topo di casa,domestico,rinoceronte
+animals,topo,ratto,topo campagnolo,topo grigio,scarafaggio,topo spinoso,topo selvatico,criceto,topo domestico,topo selvatico,ratti,scoiattolo
+vehicles,traghetto,traghetto a vapore,traghetto a catena,traghetto da carico,traghetto a motore,traghetto passeggeri,traghetto a vela,traghetto passeggeri,traghetto a vapore,passeggero,traghetto a vapore,traghetto a vapore
+vehicles,traghetto,aliscafo,traghetto a cavo,traghetto passeggeri,traghetto a remi,traghetto ro-ro,traghetto a remi,traghetto veloce,traghetto a batteria,nave traghetto,traghetti a vapore,traghetti a vapore
+vehicles,traghetto,traghetto turistico,traghetto a fune,traghetto da crociera,traghetto a vapore,traghetto ad alta velocità,traghetto a vapore,traghetto notturno,traghetto ferroviario,ferry,traghetto a motore,traghettino
+vehicles,traghetto,traghetto ferroviario,traghetto a vapore,traghetto da turismo,traghetto ferroviario,traghetto per veicoli,traghetto a fune,traghetto per le isole,traghetto a bordo,traghetto a vapore,traghettino,traghetto a motore
+vehicles,traghetto,traghetto passeggeri,traghetto ro-ro,traghetto a propulsione elettrica,traghetto a vela,traghetto per treni,traghetto a motore,traghetto auto,traghetto a fondo,traghetto in acqua,,traghetto a vela
+vehicles,tram,tram elettrico,tram storico,tram a cavalli,autobus,tram a pianale ribassato,tramway,tram a cavalli,tram aereo,tramway,azienda,tranvia
+vehicles,tram,tram su rotaie,tram a cavalli,tram elettrico,tram a trazione elettrica,tram articolato,tram-bus,tram a cavo,tranvia,trolley,tram a vapore,tramvia
+vehicles,tram,tram merci,tram snodato,tram a vapore,treno,tram a trazione elettrica,tram elettrico,tram a benzina,tram urbani,tramvia,metropolitano,metro
+vehicles,tram,tram urbano,tram a cremagliera,tram leggero,tranvia,tram a due piani,tramvai,tram a vapore,tram ferroviario,tranvia,veicolo,funicolare
+vehicles,trattore,trattore standard,trattore agricolo,trattore agricolo,trattore agricolo,trattore agricolo,trattore a ruote,trattore a ruote,trattore agricolo,trattore agricolo,trattore agricolo,trattore a motore
+vehicles,trattore,trattore agricolo,trattore cingolato,trattore forestale,trattore di carico,trattore compatto,trattore da costruzione,trattore a due ruote motrici,trattore di legno,trattore di lavoro,trattore a benzina,trattore agricolo
+vehicles,trattore,trattore cingolato,trattore a ruote,trattore stradale,trattore di scuola,trattore a braccio,scavatore,trattore a cingoli,trattore di lavoro,trattore da lavoro,trattore a vapore,trattore a benzina
+vehicles,trattore,trattore snodato,trattore stradale,trattore semovente,,trattore telescopico,bulldozer,trattore per il trasporto,trattore di carico,trattore 4x4,trattore meccanico,trattore a vapore
+vehicles,trattore,trattore gommato,trattore a cingoli in gomma,trattore per mietitura,,trattore a batteria,trattore da vigneto,trattore per la costruzione,trattore di rifiuti,,trattore a due ruote,trattore meccanico
+vehicles,treno,treno regionale,locomotiva,treno a vapore,treno a vapore,treno a vapore,locomotiva,locomotiva,locomotiva,locomotiva,treno passeggeri,treno passeggeri
+vehicles,treno,treno ad alta velocità,regionale,treno ad alta velocità,frecciarossa,treno diesel,treno intercity,treno suburbano,tranvia,metro,treno a vapore,treno a vapore
+vehicles,treno,treno a vapore,pendolino,treno elettrico,treno ferroviario,treno elettrico,treno cisterna,treno regionale,treno regionale,carro,treno espresso,ferrovia
+vehicles,treno,treno merci,intercity,treno diesel,treno a gas,treno ad alta velocità,treno articolato,treno notturno,metro,tram,treno merci,treno elettrico
+vehicles,treno,frecciarossa,eurocity,treno merci,treno a diesel,treno regionale,treno container,treno merci,tram,autobus,treno ad alta velocità,treno merci
+plants,tulipano,tulipano rosso,tulipano darwin,tulipano gigante,tulipano bianco,tulipa clusiana,tulipano rosso,tulipano nero,tulipano rosso,fiore di tulipano,tulipano rosso,
+plants,tulipano,tulipano giallo,tulipano viridiflora,tulipano fiorente,tulipano di fiore,tulipa greigii,tulipano fiorito,tulipano rosso,tulipano comune,tulipano giallo,tulipane,
+plants,tulipano,tulipano bianco,tulipano kaufmanniana,tul,tulipano rosso,tulipa gesneriana,tulipano selvatico,tulipano giallo,tulipano bianco,tulipano rosso,tulipano bianco,
+plants,tulipano,tulipano rosa,tulipano fosteriana,tulipano singolo,tulipano viola,tulipa fosteriana,tulipano verde,tulipano multicolore,tulipano viola,tulipano bianco,tulipano bianco e rosso,
+plants,tulipano,tulipano blu,tulipano lily,tulipano doppio,tulipano giallo,tulipano greigii,tulipano viola,tulipano selvatico,tulipano giallo,tulipano rosa,tulipano viola,
+plants,ulivo,frantoio,ulivo da olio,ulivo domestico,frutto,ulmus minor,albero di ulivo,ulivo selvatico,olivo,pianta,olio extra vergine,albero
+plants,ulivo,ulivo leccino,ulivo ornamentale,ulivo comune,ulivo comune,quercus suber,oliveto,ulivo domestico,olio di olivo,ulivo con tronco,arboreo,olivo
+plants,ulivo,maurino,ulivo selvatico,ulivo di sicilia,ulivo nero,olea europaea,frantoio,ulivo centenario,olivastro,tronco,olivone,pianta
+plants,ulivo,pendolino,ulivo spinoso,ulivo di calabria,albero,ficus carica,olive,oliva,oliva verde,albero,olivo nero,raccolto
+foods,uovo,uovo di gallina,uovo di gallina,uovo di quaglia,uovo di gallina,uovo di gallina,uovo di gallina,uovo di gallina,uovo di pollo,uovo di pollo,uovo di gallina,uovo di gallina
+foods,uovo,uovo sodo,uovo di anatra,uovo di gallina,uovo di pavone,uovo di rana,uovo di struzzo,uovo di struzzo,uovo di uccello,uovo di uccello,uovo di oca,uovo di pollo
+foods,uovo,uovo di struzzo,uovo di oca,uovo di tacchino,uovo di tartaruga,uovo di tartaruga,uovo di oca,uovo di tartaruga,uovo di rettile,uovo di pesce,uovo uovo,uovo uccello
+foods,uovo,uovo di quaglia,uovo di quaglia,uovo di anatra,uovo di tacchino,uovo di rettile,uovo di quaglia,uovo di pesce,uovo di gallina,uovo di ostrica,uovo di emu,uovo di oca
+foods,uovo,uovo alla coque,uovo di struzzo,uovo di tartaruga,uovo di quaglia,uovo di coccodrillo,uovo di emu,uovo di coccodrillo,uovo di pesce,uovo di pasqua,uovo di pavone,uovo di pavone
+furnishings/fittings,vaso,vaso di ceramica,vaso di fiori,vaso da fiori,vaso da notte,vaso da fiori,vaso da birra,vaso da fiori,tazza,vase,bicchiere,vase
+furnishings/fittings,vaso,vaso di terracotta,vaso di rame,vaso da notte,vaso da fiori,vaso di terracotta,vaso da fiori,vaso di terracotta,coppa,vaso di vetro,tazza,jar
+furnishings/fittings,vaso,vaso da notte,vaso di cristallo,vaso da liquidi,bicchiere,vaso decorativo,vaso da cibo,vaso cinese,vase,vaso di ceramica,jar,pot
+furnishings/fittings,vaso,vaso di plastica,vaso di ceramica,bicchiere,vaso da acqua,vaso per fiori,vaso da vino,vaso di vetro,ciotola,vaso di porcellana,coppa,bowl
+furnishings/fittings,vaso,vaso per fiori,vaso di porcellana,vaso da vino,vaso da vino,vaso di vetro,tazza,vaso di cristallo,piatto,vaso di cristallo,boccalino,glass
+foods,verdura,zucchina,spinaci,spinaci,carote,lattuga,carota,broccoli,broccoli,broccoli,carota,cipolla
+foods,verdura,carota,asparago,melanzane,patate,piselli,carote,cavolo,cipolle,zucchero,cipolla,broccoli
+foods,verdura,spinaci,sedano,asparagi,melanzane,cavolfiore,pomodoro,cavolfiore,cetriolo,cipolla,broccoli,melanzana
+foods,verdura,peperone,broccoli,carote,pomodoro,peperone,spinaci,sedano,zucchero,pomodoro,arancia,cavolo
+foods,verdura,melanzana,rucola,fagioli,lattuga,bietola,radicchio,carota,spinaci,patata,bieta,cavolfiori
+hobbies,videogioco,videogioco di sport,avventura,fortnite,action,azione,adventure game,sparatutto,console,joystick,action,console
+hobbies,videogioco,videogioco di azione,sparatutto,fifa,arcade,platformer,action game,survival,playstation,giocatore,adventure,nintendo switch
+hobbies,videogioco,videogioco di simulazione,picchiaduro,league of legends,console,horror,platformer,avventura,console di gioco,gamepad,puzzle game,playstation
+hobbies,videogioco,videogioco sparatutto,azione,god of war,pc,rpg,first-person shooter,platform,monitor,console,casual,pc
+hobbies,videogioco,videogioco di ruolo,avventura grafica,gran turismo,simulazione,puzzle,platform game,strategia,joystick,controller,strategy,computer
+furnishings/fittings,vite,vite a testa tonda,vite a testa svasata,vite da parete,vite da tavola,vite a testa esagonale,vite di trasmissione,vite a testa esagonale,vite di legno,vite di plastica,uva,vite a spirale
+furnishings/fittings,vite,vite a stella,vite a testa piatta,vite a passo lungo,vite da vino,vite a testa svasata,vite a chiocciola,vite per legno,vite di vetro,vite di carta,uva bianca,vite a cuscino
+furnishings/fittings,vite,vite a testa cilindrica,vite a testa cilindrica,viti a testa quadrata,chianti,vite a testa bombata,vite di telaio,vite per metallo,vite di gomma,vite di fissaggio,uva rossa,vite a cappuccio
+furnishings/fittings,vite,vite a testa a croce,vite a testa esagonale,vite a testa quadrata,vite di plastica,vite a brugola,vite di legno,vite autofilettante,vite di plastica,vite semplice,moscato,
+furnishings/fittings,vite,vite a testa piatta,vite a testa a croce,vite a passo corto,vite di legno,vite autofilettanti,vite elicoidali,vite comune,vite di metallo,vite di legno,uva verde,

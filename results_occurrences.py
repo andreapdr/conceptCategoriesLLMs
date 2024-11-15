@@ -5,6 +5,15 @@ import pandas as pd
 
 from utils import load_datadict
 
+
+# def get_topn_df(data, n=5):
+#     topn_dfs = []
+#     for k, v in data.groupby("concept"):
+#         topn_dfs.append(v[:n])
+#     
+#     return pd.concat(topn_dfs, axis=0)
+
+
 def main(args):
     data_dict = load_datadict(args.temp)
 
@@ -16,7 +25,7 @@ def main(args):
 
     for concept in concepts:
         row_results = {}
-        exemplars_human = get_topn_exemplars(data_dict["human"], concept, args.sort, n=5, filter=False) # TODO filter=args.filter)
+        exemplars_human = get_topn_exemplars(data_dict["human"], concept, args.sort, n=args.topn, filter=False)
         for model in models:
             exemplars = get_topn_exemplars(data_dict[model], concept, args.sort, n=len(exemplars_human), filter=args.filter)
             row_results[model] = exemplars
@@ -31,7 +40,7 @@ def main(args):
             occurrence_df.loc[len(occurrence_df)] = row
 
     os.makedirs("results-occurrences", exist_ok=True)
-    occurrence_df_outname = f"df_occ_t{str(args.temp).replace('.', '')}.csv"
+    occurrence_df_outname = f"df_occ_t{str(args.temp).replace('.', '')}.n{args.topn}.csv"
     if args.filter:
         occurrence_df_outname = occurrence_df_outname.replace(".csv", ".filter.csv")
     occurrence_df.to_csv(f"results-occurrences/{occurrence_df_outname}", index=False)
@@ -43,7 +52,7 @@ def main(args):
 
     matches = matches[sorted_columns]
 
-    matches_df_outname = f"results_occ_t{str(args.temp).replace('.', '')}.csv"
+    matches_df_outname = f"results_occ_t{str(args.temp).replace('.', '')}.n{args.topn}.csv"
     if args.filter:
         matches_df_outname = matches_df_outname.replace(".csv", ".filter.csv")
     matches.to_csv(f"results-occurrences/{matches_df_outname}", index=False)
@@ -92,8 +101,7 @@ def get_topn_exemplars(data, concept, sort, filter, n=5):
     selected = data[data.concept == (concept.upper() if is_human else concept)].sort_values(by=sort, ascending=False)
 
     if filter:
-        selected = selected[selected["abs_freq"]] > 0
-        raise NotImplementedError()
+        selected = selected[selected["abs_freq"] > 0]
     
     selected = selected["exemplar_string" if is_human else "concept_exemplar"].tolist()
     selected = selected[:n]
@@ -114,5 +122,6 @@ if __name__ == "__main__":
     parser.add_argument("--temp", type=float, default=0.5)
     parser.add_argument("--filter", action="store_true")
     parser.add_argument("--sort", type=str, default="availability")
+    parser.add_argument("--topn", type=int, default=5)
     args = parser.parse_args()
     main(args)
