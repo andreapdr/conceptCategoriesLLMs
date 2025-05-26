@@ -52,7 +52,7 @@ def get_model(model_name="llava", device="cuda:0", padding_side="left"):
         processor = None
     elif model_name == "idefics2":
         processor = AutoProcessor.from_pretrained(IDEFICS2_ID, token=os.getenv("MY_HF_TOKEN"), padding_side=padding_side)
-        model = AutoModelForPreTraining.from_pretrained(IDEFICS2_ID, token=os.getenv("MY_HF_TOKEN"), torch_dtype=torch.bfloat16, device_map="auto")
+        model = AutoModelForPreTraining.from_pretrained(IDEFICS2_ID, token=os.getenv("MY_HF_TOKEN"), torch_dtype=torch.bfloat16, device_map="auto").to(device)
         tokenizer = processor.tokenizer
         tokenizer.chat_template = processor.chat_template
         tokenizer.eos_token = processor.end_of_utterance_token
@@ -69,7 +69,7 @@ def get_model(model_name="llava", device="cuda:0", padding_side="left"):
 
 
 def eval(args):
-    data = pd.read_excel("data/subset_human_exemplars.xlsx")
+    data = pd.read_csv("data/human_exemplars.andrea.csv")
     concepts = data.concept.unique()
 
     annotated_df_dict = {}
@@ -89,7 +89,8 @@ def eval(args):
                 annotated_df_dict[concept] = selected
 
             for i, row in selected.iterrows():
-                prompt = f"{row.exemplar.split('_')[-1].title()} è un tipo di {concept.lower()}"
+                # prompt = f"{row.exemplar.split('_')[-1].title()} è un tipo di {concept.lower()}"
+                prompt = f"{row.exemplar_string.title()} è un tipo di {concept.lower()}"
 
                 if model_name == "idefics2":
                     conv = [{"role": "user", "content": [{"type": "text", "text": prompt}]}]
@@ -109,7 +110,7 @@ def eval(args):
         torch.cuda.empty_cache()
     
     merged_df = pd.concat(annotated_df_dict.values())
-    merged_df.to_csv("prototipicality.small.csv")
+    merged_df.to_csv("prototipicality.small.andrea.csv")
                 
 
 

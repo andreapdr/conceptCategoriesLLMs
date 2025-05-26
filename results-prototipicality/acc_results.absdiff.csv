@@ -1,0 +1,188 @@
+concept,category,classif,abs_diff_avail,llama3.1,llama3.2,mistral,llava,idefics2,nemo,llama3.1-70b,mixtral
+abete,plants,few_exemplars,0.067029160128766,0,0,0,0,0,0,0,1
+aereo,vehicles,many_exemplars,0.29157818068674657,1,1,1,1,1,0,0,1
+agenda,stationery,medium_exemplars,0.3561161287340376,1,1,0,1,1,1,1,0
+appendiabiti,furnishings/fittings,few_exemplars,0.3286668068522154,0,0,0,0,1,0,0,1
+armadio,furniture,medium_exemplars,0.1769989980969917,1,1,0,0,1,1,1,0
+astuccio,stationery,medium_exemplars,0.09737872131042032,1,0,1,1,1,0,1,0
+attrezzo,hobbies,many_exemplars,0.4054327198097846,0,0,0,0,0,0,0,0
+autobus,vehicles,many_exemplars,0.3358831075368215,0,0,1,1,1,1,1,1
+automobile,vehicles,many_exemplars,0.2259650644349546,1,1,1,1,1,1,1,1
+bagno,housing buildings,medium_exemplars,0.22684677832796277,1,1,1,1,1,0,1,0
+balcone,housing buildings,medium_exemplars,0.26963567217354417,0,0,0,0,0,0,0,1
+basilico,plants,few_exemplars,0.1949062034415014,1,1,1,1,1,1,1,1
+bicchiere,kitchenware,many_exemplars,0.31937272362236113,1,1,1,1,1,1,1,1
+bicicletta,vehicles,medium_exemplars,0.3408037270486005,1,1,1,1,1,1,1,1
+bocca,body parts,medium_exemplars,0.2585216180585251,0,0,0,0,0,0,0,1
+braccio,body parts,medium_exemplars,0.25823370283305447,1,1,1,1,0,1,1,1
+cactus,plants,few_exemplars,0.2286273102225467,0,0,0,0,0,0,1,0
+calza,clothes,many_exemplars,0.26254310518769813,0,1,1,0,0,0,1,1
+camera,housing buildings,many_exemplars,0.6760855002736684,0,0,0,0,0,0,0,0
+camicia,clothes,many_exemplars,0.1790223784738896,0,0,1,1,1,1,1,1
+camion,vehicles,medium_exemplars,0.1075243008151322,0,0,0,0,0,0,1,0
+candelabro,furnishings/fittings,few_exemplars,0.169867639501986,1,1,1,1,0,1,1,0
+cane,animals,many_exemplars,0.3230733118043892,0,0,0,1,1,0,0,1
+canottiera,clothes,many_exemplars,0.14312860187615,0,1,1,1,1,0,0,0
+capello,body parts,many_exemplars,0.3942007322075656,0,1,0,0,0,1,1,0
+cappello,clothes,many_exemplars,0.2574862808629221,1,1,1,1,1,1,1,1
+cappotto,clothes,medium_exemplars,0.1432044232700183,1,1,1,1,1,1,1,1
+carne,foods,many_exemplars,0.35544626001905144,0,0,0,0,1,1,0,0
+carrozza,vehicles,few_exemplars,0.15302921556433752,1,0,0,0,0,0,0,1
+carte,hobbies,medium_exemplars,0.3582014382838798,1,1,1,1,1,1,1,1
+cassettiera,furniture,few_exemplars,0.1371306934256401,1,1,1,1,1,1,1,1
+cavallo,animals,many_exemplars,0.19337226744609248,1,1,1,1,1,1,1,1
+cd,hobbies,few_exemplars,0.2977174056661091,0,0,0,0,0,0,0,0
+centrotavola,furnishings/fittings,few_exemplars,0.5794372058399085,1,1,1,1,1,1,1,1
+cereale,foods,medium_exemplars,0.36050072573184727,1,0,1,1,1,1,1,0
+cervello,body parts,few_exemplars,0.3306286018761499,1,1,1,1,1,0,1,1
+chitarra,hobbies,medium_exemplars,0.6105618177110812,1,1,1,1,1,1,1,1
+ciclamino,plants,medium_exemplars,0.174014040412492,1,1,1,1,1,1,1,0
+ciliegio,plants,few_exemplars,0.04114489904309539,0,0,1,1,1,0,1,0
+cioccolato,foods,many_exemplars,0.4920441689648295,1,1,1,1,0,0,1,1
+colla,stationery,medium_exemplars,0.729032911136374,1,1,0,0,0,0,1,1
+collo,body parts,medium_exemplars,0.3227192852210985,1,0,1,1,1,1,0,0
+colonna,housing buildings,medium_exemplars,0.4679310100349854,1,1,1,1,1,1,1,1
+coltello,kitchenware,many_exemplars,0.26255712231909767,0,0,1,0,0,0,1,1
+comodino,furniture,medium_exemplars,0.2295287084717707,0,1,0,1,0,1,0,0
+computer,hobbies,few_exemplars,0.8706322179720426,1,1,0,0,0,1,1,1
+comò,furniture,few_exemplars,0.019291682517198205,0,0,1,0,1,0,1,1
+coniglio,animals,medium_exemplars,0.1889474536223097,1,0,0,0,0,1,1,1
+cornice,furnishings/fittings,medium_exemplars,0.4537745589356466,1,1,1,1,1,1,1,1
+credenza,furniture,few_exemplars,0.1643159708010246,0,1,0,0,0,1,1,0
+cruciverba,hobbies,medium_exemplars,0.17920806459362598,0,0,0,0,0,0,0,0
+cucchiaio,kitchenware,many_exemplars,0.21029082474773098,0,0,0,0,0,0,0,0
+cucina,housing buildings,many_exemplars,0.2659559957122766,1,1,1,1,1,1,1,0
+cuore,body parts,medium_exemplars,0.1364602019138092,0,0,0,0,0,0,0,1
+cuscino,furnishings/fittings,many_exemplars,0.24202633326081613,0,0,0,0,0,1,0,1
+delfino,animals,few_exemplars,0.1812338222673248,0,0,0,0,1,0,0,0
+divano,furniture,many_exemplars,0.3776826832792212,0,0,0,0,0,0,1,1
+edera,plants,few_exemplars,0.19065067768688637,0,1,1,1,0,1,1,1
+elefante,animals,few_exemplars,0.3618951901586811,0,1,0,0,0,0,0,0
+elicottero,vehicles,few_exemplars,0.1148755528913127,0,1,1,1,1,0,0,1
+evidenziatore,stationery,many_exemplars,0.1923118738969273,1,1,0,0,0,1,1,1
+felpa,clothes,medium_exemplars,0.6759640739967612,0,1,1,1,1,1,1,1
+ficus,plants,few_exemplars,0.0,1,1,1,1,1,1,1,1
+finestra,housing buildings,many_exemplars,0.13986692515429783,0,0,0,0,0,0,0,0
+fioriera,furnishings/fittings,medium_exemplars,0.20508452715021738,1,1,1,0,1,1,1,1
+foglio,stationery,many_exemplars,0.43491948046215606,1,1,1,1,1,1,1,0
+forbice,kitchenware,many_exemplars,0.4581291195038324,1,0,1,1,1,1,1,1
+forchetta,kitchenware,medium_exemplars,0.47661341114401323,0,0,1,0,0,1,0,0
+formaggio,foods,many_exemplars,0.32898577599614154,0,0,0,0,0,0,0,0
+fotografia,furnishings/fittings,many_exemplars,0.4032303830295056,1,1,1,1,1,1,1,1
+frutta,foods,many_exemplars,0.41426088901432323,1,1,1,1,1,1,1,1
+furgone,vehicles,few_exemplars,0.08832871219732379,1,1,1,1,1,1,1,1
+gallo,animals,few_exemplars,0.43906530287071377,1,0,1,1,1,1,0,1
+gamba,body parts,medium_exemplars,0.2414532460552169,1,1,1,1,0,0,1,1
+gatto,animals,many_exemplars,0.4547739256559254,1,1,0,0,1,1,1,1
+geranio,plants,medium_exemplars,0.16356159954778252,0,0,0,1,1,0,0,0
+giacca,clothes,many_exemplars,0.2509299542668071,0,0,0,0,0,0,0,0
+gilet,clothes,medium_exemplars,0.2117743518379377,1,1,0,0,0,1,1,1
+gioco da tavola,hobbies,many_exemplars,0.5079534559881279,1,0,1,0,1,1,0,1
+giornale,hobbies,medium_exemplars,0.4438425599322179,1,1,1,1,1,1,1,1
+giraffa,animals,few_exemplars,0.0318874849403496,0,0,1,1,1,0,0,1
+girasole,plants,few_exemplars,0.0,1,1,1,1,1,1,1,1
+giubotto,clothes,many_exemplars,0.1843521041641659,0,0,0,1,0,0,1,0
+gomma,stationery,few_exemplars,0.5064688151533648,1,1,1,1,1,0,1,1
+gonna,clothes,many_exemplars,0.5988519421042858,1,0,0,0,0,1,1,1
+graffetta,stationery,medium_exemplars,0.2699766185150249,1,1,0,0,1,1,1,0
+guanti,clothes,many_exemplars,0.184608801841827,0,0,0,0,0,0,1,0
+insalata,foods,many_exemplars,0.30385454764021014,1,1,1,1,1,1,1,1
+lampada,furnishings/fittings,many_exemplars,0.17077592707443812,0,0,0,0,0,0,0,0
+lampadario,furnishings/fittings,medium_exemplars,0.1436928912435644,0,1,1,1,1,1,1,1
+latte,foods,many_exemplars,0.4288533823950136,0,0,0,0,0,0,1,0
+legume,foods,many_exemplars,0.49208702384412667,1,1,1,1,1,1,1,1
+leone,animals,few_exemplars,0.3408062146874066,1,1,1,1,1,1,1,1
+letto,furniture,medium_exemplars,0.6807360273646128,1,1,1,1,1,1,1,1
+lettore,hobbies,many_exemplars,0.32445992954962843,0,0,0,0,0,0,0,0
+libreria,furniture,few_exemplars,0.0869881898232423,0,0,0,0,0,0,0,0
+libro,hobbies,many_exemplars,0.24894786660082302,1,1,0,0,0,0,1,0
+lucertola,animals,few_exemplars,0.13277324803006949,0,0,0,1,0,0,0,0
+maglia,clothes,many_exemplars,0.32419455732920394,1,1,0,0,0,0,1,1
+maiale,animals,few_exemplars,0.1555904513518012,1,1,1,1,1,0,1,1
+mano,body parts,few_exemplars,0.3126418524962671,1,0,1,1,1,0,1,1
+margherita,plants,medium_exemplars,0.125,1,1,0,0,0,1,1,0
+matita,stationery,medium_exemplars,0.31921744632656984,1,0,1,1,1,0,1,0
+mestolo,kitchenware,medium_exemplars,0.42521518066171343,1,0,1,1,1,1,1,1
+metro,furnishings/fittings,few_exemplars,0.256744221356209,0,1,1,1,1,1,1,1
+mimosa,plants,few_exemplars,0.2773309456995653,0,1,0,0,0,1,1,0
+motocicletta,vehicles,medium_exemplars,0.2561429063474989,0,0,1,1,1,0,0,0
+mucca,animals,medium_exemplars,0.1043760120253241,0,1,1,1,1,1,1,1
+muro,housing buildings,medium_exemplars,0.3790862941463298,1,1,0,0,0,1,1,0
+naso,body parts,many_exemplars,0.4552782675607294,0,0,1,1,1,1,1,0
+nave,vehicles,medium_exemplars,0.6730300178903005,0,0,0,1,0,0,0,0
+occhio,body parts,medium_exemplars,0.5163777434759045,1,1,1,0,1,1,1,1
+orchidea,plants,few_exemplars,0.2193273798474042,1,1,1,1,1,1,0,1
+orecchio,body parts,few_exemplars,0.1876484804937475,1,0,1,0,0,1,1,1
+orologio,furnishings/fittings,many_exemplars,0.6059246895384108,1,0,0,0,0,1,1,1
+orso,animals,medium_exemplars,0.6277641714293887,1,1,0,0,0,0,0,0
+padella,kitchenware,medium_exemplars,0.5724485414244319,1,1,0,0,0,1,1,1
+palla,hobbies,many_exemplars,0.4695282300364161,0,0,1,1,0,0,1,0
+pancia,body parts,medium_exemplars,0.5657440879013034,0,0,0,0,0,1,0,0
+pane,foods,many_exemplars,0.30468346554156717,1,1,1,1,1,1,1,1
+pantalone,clothes,many_exemplars,0.5019315780023317,1,1,0,0,0,0,1,0
+pasta,foods,many_exemplars,0.4649297467585082,1,1,1,1,1,1,1,1
+pastello,stationery,medium_exemplars,0.3568713981238502,1,1,0,0,0,1,1,1
+pavimento,housing buildings,many_exemplars,0.50543072718216,0,0,0,0,1,0,0,0
+penna,stationery,many_exemplars,0.5948223503963549,0,0,0,0,0,0,0,1
+pennello,hobbies,many_exemplars,0.10576661928231441,0,1,0,1,0,0,0,0
+pentola,kitchenware,many_exemplars,0.47288761839525517,1,0,1,0,0,1,1,1
+pesce,foods,many_exemplars,0.35441297515354303,0,1,1,1,1,1,1,0
+piatto,kitchenware,many_exemplars,0.655049067194142,0,0,0,1,0,0,0,0
+piede,body parts,medium_exemplars,0.2941238619967864,0,0,0,0,0,1,0,0
+pino,plants,few_exemplars,0.4255441656421083,1,1,0,0,0,1,1,1
+pizza,foods,many_exemplars,0.6610579590922142,1,1,1,1,1,1,1,1
+poltrona,furniture,medium_exemplars,0.2807168681376995,1,1,1,1,1,1,0,1
+porta,housing buildings,many_exemplars,0.4199587054556239,1,1,1,1,0,1,1,1
+portafotografia,furnishings/fittings,medium_exemplars,0.17945300583269788,0,0,0,0,0,0,0,0
+posacenere,furnishings/fittings,medium_exemplars,0.2026848165635565,1,1,1,1,1,1,1,1
+quaderno,stationery,many_exemplars,0.7672934509885805,1,0,1,1,1,0,0,1
+quadro,furnishings/fittings,medium_exemplars,0.12253694199591308,0,0,0,0,0,0,0,0
+quercia,plants,few_exemplars,0.1119720120905669,1,1,0,0,1,0,1,1
+racchetta,hobbies,few_exemplars,0.7994190481454649,0,1,1,1,1,1,1,1
+righello,stationery,medium_exemplars,0.24112378233634252,1,1,0,0,0,0,0,0
+ripostiglio,housing buildings,few_exemplars,0.1364602019138092,1,1,0,0,0,1,1,1
+riso,foods,medium_exemplars,0.48207494889692815,0,0,1,1,1,1,1,1
+rosa,plants,medium_exemplars,0.4127614908243464,0,1,0,1,1,1,1,1
+salice,plants,few_exemplars,0.632784466219533,0,1,0,0,0,1,1,0
+scala,housing buildings,medium_exemplars,0.5666472570763257,1,1,1,1,0,1,1,0
+scarpa,clothes,many_exemplars,0.5025495908151542,1,1,1,1,1,1,1,1
+schiena,body parts,few_exemplars,0.21781555407215528,1,1,0,0,0,1,1,1
+sciarpa,clothes,medium_exemplars,0.3360679674890864,1,1,1,1,1,0,1,1
+scimmia,animals,medium_exemplars,0.39937472458784423,1,0,1,0,0,1,1,1
+scolapasta,kitchenware,medium_exemplars,0.4256870467954463,0,1,0,1,0,0,0,0
+scolorina,stationery,medium_exemplars,0.33607578964381063,0,1,1,1,0,1,1,1
+scooter,vehicles,many_exemplars,0.3555212236906347,0,0,0,0,0,0,0,1
+scrivania,furniture,medium_exemplars,0.23703983439529347,0,1,1,1,1,1,1,0
+sedia,furniture,many_exemplars,0.5141040657827678,0,1,1,1,0,1,1,1
+serpente,animals,many_exemplars,0.4533404029398114,0,0,0,1,0,0,0,1
+slip,clothes,medium_exemplars,0.1520079413410665,1,1,1,1,1,1,1,1
+soffitto,housing buildings,medium_exemplars,0.19900907976082072,1,0,1,1,1,0,0,0
+soggiorno,housing buildings,few_exemplars,0.06250000000000001,0,0,0,0,0,1,1,1
+spalla,body parts,few_exemplars,0.2080455198622988,0,1,0,0,0,0,1,1
+specchio,furnishings/fittings,many_exemplars,0.3411667236523903,1,0,1,1,1,1,1,1
+spillatrice,stationery,few_exemplars,0.05401876103988179,1,1,0,0,1,1,1,0
+t-shirt,clothes,many_exemplars,0.28789730625827703,0,1,1,0,1,0,1,0
+taccuino,stationery,many_exemplars,0.1395498819264926,0,0,0,0,0,0,0,1
+tagliere,kitchenware,medium_exemplars,0.49494098921693197,0,1,1,0,0,1,0,1
+tappeto,furnishings/fittings,medium_exemplars,0.6502278653882074,0,1,0,1,1,1,1,1
+tavolo,furniture,many_exemplars,0.3372016572555887,0,0,0,0,0,0,0,0
+teglia,kitchenware,medium_exemplars,0.336569338203906,0,1,0,0,0,0,0,1
+televisione,hobbies,many_exemplars,0.3384181718035988,1,0,1,0,0,0,1,1
+temperino,stationery,medium_exemplars,0.2287033249991751,0,0,0,0,0,0,0,0
+tenda,furnishings/fittings,few_exemplars,0.3617767138060141,1,0,1,1,1,0,1,1
+terrazzo,housing buildings,few_exemplars,0.22475105278506283,1,1,0,0,0,0,0,1
+testa,body parts,medium_exemplars,0.1379699558961762,0,0,0,0,0,0,0,0
+tetto,housing buildings,few_exemplars,0.45751934615178286,1,1,0,1,0,1,1,1
+tigre,animals,few_exemplars,0.3984185193966111,0,0,1,1,0,0,1,0
+topo,animals,many_exemplars,0.2251356861941796,1,1,0,0,1,1,0,0
+traghetto,vehicles,medium_exemplars,0.1020771130474716,1,1,1,1,1,1,1,1
+tram,vehicles,few_exemplars,0.22905283591785308,1,1,1,1,1,1,1,1
+trattore,vehicles,few_exemplars,0.1381389869443988,0,0,0,0,0,0,0,0
+treno,vehicles,medium_exemplars,0.4116592276998625,0,0,0,0,0,0,0,1
+tulipano,plants,medium_exemplars,0.49711116070737815,1,1,0,1,1,1,1,0
+ulivo,plants,few_exemplars,0.1395448830544957,1,1,1,0,1,1,1,1
+uovo,foods,many_exemplars,0.3587623152379251,0,0,0,1,0,1,1,1
+vaso,furnishings/fittings,medium_exemplars,0.1906397168638182,1,1,1,1,1,1,1,1
+verdura,foods,many_exemplars,0.39780067124309143,0,0,0,1,1,0,0,0
+videogioco,hobbies,many_exemplars,0.1905607943183664,1,1,0,0,1,0,1,0
+vite,furnishings/fittings,medium_exemplars,0.20890874333824108,0,0,0,0,0,0,0,0

@@ -13,9 +13,9 @@ def load_datadict(temp=0.5, basedir="results-generation/italian/stats_wfreqs"):
     data_mistral =      pd.read_csv(os.path.join(basedir, f"mistral-it-textual-{_temp}_alliters.stats.csv"))
     data_nemo =         pd.read_csv(os.path.join(basedir, f"nemo-it-textual-{_temp}_alliters.stats.csv"))
     data_llava =        pd.read_csv(os.path.join(basedir, f"llava-it-textual-{_temp}_alliters.stats.csv"))
-    data_llava_img =    pd.read_csv(os.path.join(basedir, f"llava-it-visual-{_temp}_alliters.stats.csv"))
+    # data_llava_img =    pd.read_csv(os.path.join(basedir, f"llava-it-visual-{_temp}_alliters.stats.csv"))
     data_idefics2 =     pd.read_csv(os.path.join(basedir, f"idefics2-it-textual-{_temp}_alliters.stats.csv"))
-    data_idefics2_img = pd.read_csv(os.path.join(basedir, f"idefics2-it-visual-{_temp}_alliters.stats.csv"))
+    # data_idefics2_img = pd.read_csv(os.path.join(basedir, f"idefics2-it-visual-{_temp}_alliters.stats.csv"))
     
     data_dict = {
         "human": human_data,
@@ -26,9 +26,9 @@ def load_datadict(temp=0.5, basedir="results-generation/italian/stats_wfreqs"):
         "mistral-7b": data_mistral,
         "nemo-12b": data_nemo,
         "llava-v1.6-mistral-7b": data_llava,
-        "llava-v1.6-mistral-7b-img": data_llava_img,
+        # "llava-v1.6-mistral-7b-img": data_llava_img,
         "idefics2-8b": data_idefics2,
-        "idefics2-8b-img": data_idefics2_img,
+        # "idefics2-8b-img": data_idefics2_img,
         }
 
     return data_dict

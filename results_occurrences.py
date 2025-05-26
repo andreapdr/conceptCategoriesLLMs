@@ -6,14 +6,6 @@ import pandas as pd
 from utils import load_datadict
 
 
-# def get_topn_df(data, n=5):
-#     topn_dfs = []
-#     for k, v in data.groupby("concept"):
-#         topn_dfs.append(v[:n])
-#     
-#     return pd.concat(topn_dfs, axis=0)
-
-
 def main(args):
     data_dict = load_datadict(args.temp)
 
@@ -77,7 +69,6 @@ def compute_result_concept(data, concept, models):
     return match_df
 
 def compute_intersection(target, exemplar, concept):
-    # TODO check for substrings?
     exemplar = exemplar.fillna("")
 
     simple_match = exemplar.apply(lambda row: row.apply(lambda x: True if x in target.values else False), axis=1)

@@ -1,6 +1,0 @@
-{
-    "model_path": "stabilityai/stable-diffusion-xl-base-1.0",
-    "prompt_template": "A simple drawing of a <CONCEPT> without any background",
-    "input_file": "data/unibo-concepts-en.csv",
-    "device": "cuda:5"
-}

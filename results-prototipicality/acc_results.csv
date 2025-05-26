@@ -1,37 +1,188 @@
 concept,category,classif,llama3.1,llama3.2,mistral,llava,idefics2,nemo,llama3.1-70b,mixtral
-cane,animals,many_exemplars,0,1,0,1,1,0,0,1
-capello,body parts,many_exemplars,0,0,0,0,0,0,1,0
-scarpa,clothes,many_exemplars,1,0,1,1,1,1,1,1
-pasta,foods,many_exemplars,1,1,1,1,1,1,1,1
-cuscino,furnishings/fittings,many_exemplars,0,0,1,0,1,0,0,0
-tavolo,furniture,many_exemplars,0,0,0,0,0,0,0,0
-videogioco,hobbies,many_exemplars,1,1,0,0,1,1,1,1
-cucina,housing buildings,many_exemplars,1,1,1,1,1,1,1,0
-coltello,kitchenware,many_exemplars,0,1,1,1,1,1,0,1
-margherita,plants,many_exemplars,1,1,1,1,0,1,1,1
-foglio,stationery,many_exemplars,1,1,0,1,1,0,1,1
-automobile,vehicles,many_exemplars,1,1,0,1,1,1,1,1
-gallo,animals,few_exemplars,0,0,1,1,1,0,0,1
+abete,plants,few_exemplars,0,0,0,0,0,0,0,1
+aereo,vehicles,many_exemplars,1,1,1,1,1,0,0,1
+agenda,stationery,medium_exemplars,1,1,0,1,1,1,1,0
+appendiabiti,furnishings/fittings,few_exemplars,0,0,0,0,1,0,0,1
+armadio,furniture,medium_exemplars,1,1,0,0,1,1,1,0
+astuccio,stationery,medium_exemplars,1,0,1,1,1,0,1,0
+attrezzo,hobbies,many_exemplars,0,0,0,0,0,0,0,0
+autobus,vehicles,many_exemplars,0,0,1,1,1,1,1,1
+automobile,vehicles,many_exemplars,1,1,1,1,1,1,1,1
+bagno,housing buildings,medium_exemplars,1,1,1,1,1,0,1,0
+balcone,housing buildings,medium_exemplars,0,0,0,0,0,0,0,1
+basilico,plants,few_exemplars,1,1,1,1,1,1,1,1
+bicchiere,kitchenware,many_exemplars,1,1,1,1,1,1,1,1
+bicicletta,vehicles,medium_exemplars,1,1,1,1,1,1,1,1
+bocca,body parts,medium_exemplars,0,0,0,0,0,0,0,1
+braccio,body parts,medium_exemplars,1,1,1,1,0,1,1,1
+cactus,plants,few_exemplars,0,0,0,0,0,0,1,0
+calza,clothes,many_exemplars,0,1,1,0,0,0,1,1
+camera,housing buildings,many_exemplars,0,0,0,0,0,0,0,0
+camicia,clothes,many_exemplars,0,0,1,1,1,1,1,1
+camion,vehicles,medium_exemplars,0,0,0,0,0,0,1,0
+candelabro,furnishings/fittings,few_exemplars,1,1,1,1,0,1,1,0
+cane,animals,many_exemplars,0,0,0,1,1,0,0,1
+canottiera,clothes,many_exemplars,0,1,1,1,1,0,0,0
+capello,body parts,many_exemplars,0,1,0,0,0,1,1,0
+cappello,clothes,many_exemplars,1,1,1,1,1,1,1,1
+cappotto,clothes,medium_exemplars,1,1,1,1,1,1,1,1
+carne,foods,many_exemplars,0,0,0,0,1,1,0,0
+carrozza,vehicles,few_exemplars,1,0,0,0,0,0,0,1
+carte,hobbies,medium_exemplars,1,1,1,1,1,1,1,1
+cassettiera,furniture,few_exemplars,1,1,1,1,1,1,1,1
+cavallo,animals,many_exemplars,1,1,1,1,1,1,1,1
+cd,hobbies,few_exemplars,0,0,0,0,0,0,0,0
+centrotavola,furnishings/fittings,few_exemplars,1,1,1,1,1,1,1,1
+cereale,foods,medium_exemplars,1,0,1,1,1,1,1,0
 cervello,body parts,few_exemplars,1,1,1,1,1,0,1,1
-gilet,clothes,few_exemplars,1,1,1,0,1,1,1,1
-cereale,foods,few_exemplars,1,0,1,1,1,1,1,0
-metro,furnishings/fittings,few_exemplars,0,0,1,0,1,1,1,0
-comò,furniture,few_exemplars,0,0,1,0,0,0,0,0
-computer,hobbies,few_exemplars,0,1,1,1,1,1,1,0
-soggiorno,housing buildings,few_exemplars,0,0,0,0,0,0,0,0
-scolapasta,kitchenware,few_exemplars,0,1,0,0,0,0,0,0
+chitarra,hobbies,medium_exemplars,1,1,1,1,1,1,1,1
+ciclamino,plants,medium_exemplars,1,1,1,1,1,1,1,0
+ciliegio,plants,few_exemplars,0,0,1,1,1,0,1,0
+cioccolato,foods,many_exemplars,1,1,1,1,0,0,1,1
+colla,stationery,medium_exemplars,1,1,0,0,0,0,1,1
+collo,body parts,medium_exemplars,1,0,1,1,1,1,0,0
+colonna,housing buildings,medium_exemplars,1,1,1,1,1,1,1,1
+coltello,kitchenware,many_exemplars,0,0,1,0,0,0,1,1
+comodino,furniture,medium_exemplars,0,1,0,1,0,1,0,0
+computer,hobbies,few_exemplars,1,1,0,0,0,1,1,1
+comò,furniture,few_exemplars,0,0,1,0,1,0,1,1
+coniglio,animals,medium_exemplars,1,0,0,0,0,1,1,1
+cornice,furnishings/fittings,medium_exemplars,1,1,1,1,1,1,1,1
+credenza,furniture,few_exemplars,0,1,0,0,0,1,1,0
+cruciverba,hobbies,medium_exemplars,0,0,0,0,0,0,0,0
+cucchiaio,kitchenware,many_exemplars,0,0,0,0,0,0,0,0
+cucina,housing buildings,many_exemplars,1,1,1,1,1,1,1,0
+cuore,body parts,medium_exemplars,0,0,0,0,0,0,0,1
+cuscino,furnishings/fittings,many_exemplars,0,0,0,0,0,1,0,1
+delfino,animals,few_exemplars,0,0,0,0,1,0,0,0
+divano,furniture,many_exemplars,0,0,0,0,0,0,1,1
+edera,plants,few_exemplars,0,1,1,1,0,1,1,1
+elefante,animals,few_exemplars,0,1,0,0,0,0,0,0
+elicottero,vehicles,few_exemplars,0,1,1,1,1,0,0,1
+evidenziatore,stationery,many_exemplars,1,1,0,0,0,1,1,1
+felpa,clothes,medium_exemplars,0,1,1,1,1,1,1,1
+ficus,plants,few_exemplars,1,1,1,1,1,1,1,1
+finestra,housing buildings,many_exemplars,0,0,0,0,0,0,0,0
+fioriera,furnishings/fittings,medium_exemplars,1,1,1,0,1,1,1,1
+foglio,stationery,many_exemplars,1,1,1,1,1,1,1,0
+forbice,kitchenware,many_exemplars,1,0,1,1,1,1,1,1
+forchetta,kitchenware,medium_exemplars,0,0,1,0,0,1,0,0
+formaggio,foods,many_exemplars,0,0,0,0,0,0,0,0
+fotografia,furnishings/fittings,many_exemplars,1,1,1,1,1,1,1,1
+frutta,foods,many_exemplars,1,1,1,1,1,1,1,1
+furgone,vehicles,few_exemplars,1,1,1,1,1,1,1,1
+gallo,animals,few_exemplars,1,0,1,1,1,1,0,1
+gamba,body parts,medium_exemplars,1,1,1,1,0,0,1,1
+gatto,animals,many_exemplars,1,1,0,0,1,1,1,1
+geranio,plants,medium_exemplars,0,0,0,1,1,0,0,0
+giacca,clothes,many_exemplars,0,0,0,0,0,0,0,0
+gilet,clothes,medium_exemplars,1,1,0,0,0,1,1,1
+gioco da tavola,hobbies,many_exemplars,1,0,1,0,1,1,0,1
+giornale,hobbies,medium_exemplars,1,1,1,1,1,1,1,1
+giraffa,animals,few_exemplars,0,0,1,1,1,0,0,1
 girasole,plants,few_exemplars,1,1,1,1,1,1,1,1
-spillatrice,stationery,few_exemplars,1,0,0,0,0,1,1,1
-furgone,vehicles,few_exemplars,1,1,1,1,0,1,0,1
-orso,animals,medium_exemplars,0,1,0,0,0,0,1,0
-testa,body parts,medium_exemplars,1,0,0,0,0,0,0,0
-t-shirt,clothes,medium_exemplars,0,1,1,1,0,1,0,1
-insalata,foods,medium_exemplars,1,1,1,1,1,1,1,1
+giubotto,clothes,many_exemplars,0,0,0,1,0,0,1,0
+gomma,stationery,few_exemplars,1,1,1,1,1,0,1,1
+gonna,clothes,many_exemplars,1,0,0,0,0,1,1,1
+graffetta,stationery,medium_exemplars,1,1,0,0,1,1,1,0
+guanti,clothes,many_exemplars,0,0,0,0,0,0,1,0
+insalata,foods,many_exemplars,1,1,1,1,1,1,1,1
+lampada,furnishings/fittings,many_exemplars,0,0,0,0,0,0,0,0
+lampadario,furnishings/fittings,medium_exemplars,0,1,1,1,1,1,1,1
+latte,foods,many_exemplars,0,0,0,0,0,0,1,0
+legume,foods,many_exemplars,1,1,1,1,1,1,1,1
+leone,animals,few_exemplars,1,1,1,1,1,1,1,1
+letto,furniture,medium_exemplars,1,1,1,1,1,1,1,1
+lettore,hobbies,many_exemplars,0,0,0,0,0,0,0,0
+libreria,furniture,few_exemplars,0,0,0,0,0,0,0,0
+libro,hobbies,many_exemplars,1,1,0,0,0,0,1,0
+lucertola,animals,few_exemplars,0,0,0,1,0,0,0,0
+maglia,clothes,many_exemplars,1,1,0,0,0,0,1,1
+maiale,animals,few_exemplars,1,1,1,1,1,0,1,1
+mano,body parts,few_exemplars,1,0,1,1,1,0,1,1
+margherita,plants,medium_exemplars,1,1,0,0,0,1,1,0
+matita,stationery,medium_exemplars,1,0,1,1,1,0,1,0
+mestolo,kitchenware,medium_exemplars,1,0,1,1,1,1,1,1
+metro,furnishings/fittings,few_exemplars,0,1,1,1,1,1,1,1
+mimosa,plants,few_exemplars,0,1,0,0,0,1,1,0
+motocicletta,vehicles,medium_exemplars,0,0,1,1,1,0,0,0
+mucca,animals,medium_exemplars,0,1,1,1,1,1,1,1
+muro,housing buildings,medium_exemplars,1,1,0,0,0,1,1,0
+naso,body parts,many_exemplars,0,0,1,1,1,1,1,0
+nave,vehicles,medium_exemplars,0,0,0,1,0,0,0,0
+occhio,body parts,medium_exemplars,1,1,1,0,1,1,1,1
+orchidea,plants,few_exemplars,1,1,1,1,1,1,0,1
+orecchio,body parts,few_exemplars,1,0,1,0,0,1,1,1
+orologio,furnishings/fittings,many_exemplars,1,0,0,0,0,1,1,1
+orso,animals,medium_exemplars,1,1,0,0,0,0,0,0
+padella,kitchenware,medium_exemplars,1,1,0,0,0,1,1,1
+palla,hobbies,many_exemplars,0,0,1,1,0,0,1,0
+pancia,body parts,medium_exemplars,0,0,0,0,0,1,0,0
+pane,foods,many_exemplars,1,1,1,1,1,1,1,1
+pantalone,clothes,many_exemplars,1,1,0,0,0,0,1,0
+pasta,foods,many_exemplars,1,1,1,1,1,1,1,1
+pastello,stationery,medium_exemplars,1,1,0,0,0,1,1,1
+pavimento,housing buildings,many_exemplars,0,0,0,0,1,0,0,0
+penna,stationery,many_exemplars,0,0,0,0,0,0,0,1
+pennello,hobbies,many_exemplars,0,1,0,1,0,0,0,0
+pentola,kitchenware,many_exemplars,1,0,1,0,0,1,1,1
+pesce,foods,many_exemplars,0,1,1,1,1,1,1,0
+piatto,kitchenware,many_exemplars,0,0,0,1,0,0,0,0
+piede,body parts,medium_exemplars,0,0,0,0,0,1,0,0
+pino,plants,few_exemplars,1,1,0,0,0,1,1,1
+pizza,foods,many_exemplars,1,1,1,1,1,1,1,1
+poltrona,furniture,medium_exemplars,1,1,1,1,1,1,0,1
+porta,housing buildings,many_exemplars,1,1,1,1,0,1,1,1
+portafotografia,furnishings/fittings,medium_exemplars,0,0,0,0,0,0,0,0
+posacenere,furnishings/fittings,medium_exemplars,1,1,1,1,1,1,1,1
+quaderno,stationery,many_exemplars,1,0,1,1,1,0,0,1
 quadro,furnishings/fittings,medium_exemplars,0,0,0,0,0,0,0,0
-letto,furniture,medium_exemplars,1,1,1,1,1,1,0,1
-lettore,hobbies,medium_exemplars,1,1,0,0,0,0,0,0
-soffitto,housing buildings,medium_exemplars,1,1,1,1,1,1,1,1
-pentola,kitchenware,medium_exemplars,1,0,1,0,1,0,0,0
-abete,plants,medium_exemplars,0,0,0,0,0,0,0,0
-righello,stationery,medium_exemplars,1,0,0,0,0,1,0,0
-treno,vehicles,medium_exemplars,0,0,0,0,0,0,0,0
+quercia,plants,few_exemplars,1,1,0,0,1,0,1,1
+racchetta,hobbies,few_exemplars,0,1,1,1,1,1,1,1
+righello,stationery,medium_exemplars,1,1,0,0,0,0,0,0
+ripostiglio,housing buildings,few_exemplars,1,1,0,0,0,1,1,1
+riso,foods,medium_exemplars,0,0,1,1,1,1,1,1
+rosa,plants,medium_exemplars,0,1,0,1,1,1,1,1
+salice,plants,few_exemplars,0,1,0,0,0,1,1,0
+scala,housing buildings,medium_exemplars,1,1,1,1,0,1,1,0
+scarpa,clothes,many_exemplars,1,1,1,1,1,1,1,1
+schiena,body parts,few_exemplars,1,1,0,0,0,1,1,1
+sciarpa,clothes,medium_exemplars,1,1,1,1,1,0,1,1
+scimmia,animals,medium_exemplars,1,0,1,0,0,1,1,1
+scolapasta,kitchenware,medium_exemplars,0,1,0,1,0,0,0,0
+scolorina,stationery,medium_exemplars,0,1,1,1,0,1,1,1
+scooter,vehicles,many_exemplars,0,0,0,0,0,0,0,1
+scrivania,furniture,medium_exemplars,0,1,1,1,1,1,1,0
+sedia,furniture,many_exemplars,0,1,1,1,0,1,1,1
+serpente,animals,many_exemplars,0,0,0,1,0,0,0,1
+slip,clothes,medium_exemplars,1,1,1,1,1,1,1,1
+soffitto,housing buildings,medium_exemplars,1,0,1,1,1,0,0,0
+soggiorno,housing buildings,few_exemplars,0,0,0,0,0,1,1,1
+spalla,body parts,few_exemplars,0,1,0,0,0,0,1,1
+specchio,furnishings/fittings,many_exemplars,1,0,1,1,1,1,1,1
+spillatrice,stationery,few_exemplars,1,1,0,0,1,1,1,0
+t-shirt,clothes,many_exemplars,0,1,1,0,1,0,1,0
+taccuino,stationery,many_exemplars,0,0,0,0,0,0,0,1
+tagliere,kitchenware,medium_exemplars,0,1,1,0,0,1,0,1
+tappeto,furnishings/fittings,medium_exemplars,0,1,0,1,1,1,1,1
+tavolo,furniture,many_exemplars,0,0,0,0,0,0,0,0
+teglia,kitchenware,medium_exemplars,0,1,0,0,0,0,0,1
+televisione,hobbies,many_exemplars,1,0,1,0,0,0,1,1
+temperino,stationery,medium_exemplars,0,0,0,0,0,0,0,0
+tenda,furnishings/fittings,few_exemplars,1,0,1,1,1,0,1,1
+terrazzo,housing buildings,few_exemplars,1,1,0,0,0,0,0,1
+testa,body parts,medium_exemplars,0,0,0,0,0,0,0,0
+tetto,housing buildings,few_exemplars,1,1,0,1,0,1,1,1
+tigre,animals,few_exemplars,0,0,1,1,0,0,1,0
+topo,animals,many_exemplars,1,1,0,0,1,1,0,0
+traghetto,vehicles,medium_exemplars,1,1,1,1,1,1,1,1
+tram,vehicles,few_exemplars,1,1,1,1,1,1,1,1
+trattore,vehicles,few_exemplars,0,0,0,0,0,0,0,0
+treno,vehicles,medium_exemplars,0,0,0,0,0,0,0,1
+tulipano,plants,medium_exemplars,1,1,0,1,1,1,1,0
+ulivo,plants,few_exemplars,1,1,1,0,1,1,1,1
+uovo,foods,many_exemplars,0,0,0,1,0,1,1,1
+vaso,furnishings/fittings,medium_exemplars,1,1,1,1,1,1,1,1
+verdura,foods,many_exemplars,0,0,0,1,1,0,0,0
+videogioco,hobbies,many_exemplars,1,1,0,0,1,0,1,0
+vite,furnishings/fittings,medium_exemplars,0,0,0,0,0,0,0,0
